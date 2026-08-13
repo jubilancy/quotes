@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-13T20:44:58.036Z",
-  "totalQuotes": 238,
+  "generatedAt": "2026-08-13T20:52:08.696Z",
+  "totalQuotes": 256,
   "tags": [
     {
       "name": "abnormal",
@@ -408,6 +408,11 @@
       "count": 1
     },
     {
+      "name": "bourgeois",
+      "slug": "bourgeois",
+      "count": 3
+    },
+    {
       "name": "brainteaser",
       "slug": "brainteaser",
       "count": 1
@@ -490,7 +495,7 @@
     {
       "name": "change",
       "slug": "change",
-      "count": 1
+      "count": 2
     },
     {
       "name": "channeling",
@@ -568,6 +573,11 @@
       "count": 1
     },
     {
+      "name": "civilization",
+      "slug": "civilization",
+      "count": 1
+    },
+    {
       "name": "classical-mythology",
       "slug": "classical-mythology",
       "count": 1
@@ -588,6 +598,11 @@
       "count": 1
     },
     {
+      "name": "commerce",
+      "slug": "commerce",
+      "count": 1
+    },
+    {
       "name": "compassion",
       "slug": "compassion",
       "count": 1
@@ -605,7 +620,7 @@
     {
       "name": "connection",
       "slug": "connection",
-      "count": 1
+      "count": 2
     },
     {
       "name": "conscious",
@@ -635,6 +650,11 @@
     {
       "name": "contagious",
       "slug": "contagious",
+      "count": 1
+    },
+    {
+      "name": "control",
+      "slug": "control",
       "count": 1
     },
     {
@@ -675,7 +695,7 @@
     {
       "name": "courage",
       "slug": "courage",
-      "count": 5
+      "count": 6
     },
     {
       "name": "cover-design-sheila-graber",
@@ -690,7 +710,7 @@
     {
       "name": "creativity",
       "slug": "creativity",
-      "count": 1
+      "count": 2
     },
     {
       "name": "critic",
@@ -735,7 +755,7 @@
     {
       "name": "darkness",
       "slug": "darkness",
-      "count": 2
+      "count": 3
     },
     {
       "name": "daughter",
@@ -1433,6 +1453,11 @@
       "count": 2
     },
     {
+      "name": "greed",
+      "slug": "greed",
+      "count": 1
+    },
+    {
       "name": "green-knight",
       "slug": "green-knight",
       "count": 6
@@ -1460,7 +1485,7 @@
     {
       "name": "happiness",
       "slug": "happiness",
-      "count": 3
+      "count": 4
     },
     {
       "name": "harry-potter",
@@ -1508,6 +1533,11 @@
       "count": 1
     },
     {
+      "name": "honesty",
+      "slug": "honesty",
+      "count": 1
+    },
+    {
       "name": "hope",
       "slug": "hope",
       "count": 2
@@ -1538,6 +1568,11 @@
       "count": 1
     },
     {
+      "name": "humility",
+      "slug": "humility",
+      "count": 1
+    },
+    {
       "name": "humour",
       "slug": "humour",
       "count": 1
@@ -1560,7 +1595,7 @@
     {
       "name": "identity",
       "slug": "identity",
-      "count": 3
+      "count": 4
     },
     {
       "name": "ignorance",
@@ -1670,7 +1705,7 @@
     {
       "name": "integrity",
       "slug": "integrity",
-      "count": 1
+      "count": 2
     },
     {
       "name": "intimacy-with-god",
@@ -1680,6 +1715,11 @@
     {
       "name": "intuition",
       "slug": "intuition",
+      "count": 1
+    },
+    {
+      "name": "irony",
+      "slug": "irony",
       "count": 1
     },
     {
@@ -1710,6 +1750,11 @@
     {
       "name": "joy-harjo",
       "slug": "joy-harjo",
+      "count": 1
+    },
+    {
+      "name": "justice",
+      "slug": "justice",
       "count": 1
     },
     {
@@ -1745,7 +1790,7 @@
     {
       "name": "knowledge",
       "slug": "knowledge",
-      "count": 2
+      "count": 3
     },
     {
       "name": "language",
@@ -1760,7 +1805,7 @@
     {
       "name": "legacy",
       "slug": "legacy",
-      "count": 1
+      "count": 2
     },
     {
       "name": "lies",
@@ -1845,7 +1890,7 @@
     {
       "name": "love",
       "slug": "love",
-      "count": 14
+      "count": 16
     },
     {
       "name": "love-quotes",
@@ -1953,6 +1998,11 @@
       "count": 1
     },
     {
+      "name": "media",
+      "slug": "media",
+      "count": 1
+    },
+    {
       "name": "medicine",
       "slug": "medicine",
       "count": 1
@@ -1981,6 +2031,11 @@
       "name": "memories",
       "slug": "memories",
       "count": 2
+    },
+    {
+      "name": "memory",
+      "slug": "memory",
+      "count": 1
     },
     {
       "name": "metaphysical",
@@ -2013,9 +2068,14 @@
       "count": 1
     },
     {
+      "name": "modernity",
+      "slug": "modernity",
+      "count": 1
+    },
+    {
       "name": "money",
       "slug": "money",
-      "count": 1
+      "count": 3
     },
     {
       "name": "moon",
@@ -2183,9 +2243,19 @@
       "count": 1
     },
     {
+      "name": "oppression",
+      "slug": "oppression",
+      "count": 1
+    },
+    {
       "name": "oracle",
       "slug": "oracle",
       "count": 2
+    },
+    {
+      "name": "ordinary-life",
+      "slug": "ordinary-life",
+      "count": 1
     },
     {
       "name": "otherworldly",
@@ -2250,7 +2320,7 @@
     {
       "name": "philosophy",
       "slug": "philosophy",
-      "count": 6
+      "count": 7
     },
     {
       "name": "physics",
@@ -2295,7 +2365,7 @@
     {
       "name": "power",
       "slug": "power",
-      "count": 4
+      "count": 6
     },
     {
       "name": "prayer",
@@ -2316,6 +2386,11 @@
       "name": "prophetic",
       "slug": "prophetic",
       "count": 4
+    },
+    {
+      "name": "providence",
+      "slug": "providence",
+      "count": 1
     },
     {
       "name": "psychedelics",
@@ -2340,6 +2415,16 @@
     {
       "name": "purpose-of-living",
       "slug": "purpose-of-living",
+      "count": 1
+    },
+    {
+      "name": "quality",
+      "slug": "quality",
+      "count": 1
+    },
+    {
+      "name": "quantity",
+      "slug": "quantity",
       "count": 1
     },
     {
@@ -2375,12 +2460,12 @@
     {
       "name": "relationships",
       "slug": "relationships",
-      "count": 1
+      "count": 2
     },
     {
       "name": "religion",
       "slug": "religion",
-      "count": 3
+      "count": 4
     },
     {
       "name": "representation",
@@ -2400,7 +2485,7 @@
     {
       "name": "romance",
       "slug": "romance",
-      "count": 3
+      "count": 4
     },
     {
       "name": "romantic",
@@ -2410,7 +2495,7 @@
     {
       "name": "sacred",
       "slug": "sacred",
-      "count": 1
+      "count": 3
     },
     {
       "name": "sacred-language",
@@ -2458,6 +2543,11 @@
       "count": 1
     },
     {
+      "name": "security",
+      "slug": "security",
+      "count": 1
+    },
+    {
       "name": "seeker",
       "slug": "seeker",
       "count": 1
@@ -2480,6 +2570,16 @@
     {
       "name": "self-critical",
       "slug": "self-critical",
+      "count": 1
+    },
+    {
+      "name": "self-knowledge",
+      "slug": "self-knowledge",
+      "count": 1
+    },
+    {
+      "name": "self-love",
+      "slug": "self-love",
       "count": 1
     },
     {
@@ -2553,6 +2653,11 @@
       "count": 2
     },
     {
+      "name": "society",
+      "slug": "society",
+      "count": 5
+    },
+    {
       "name": "somatic-wisdom",
       "slug": "somatic-wisdom",
       "count": 1
@@ -2560,7 +2665,7 @@
     {
       "name": "soul",
       "slug": "soul",
-      "count": 4
+      "count": 5
     },
     {
       "name": "soul-quotes",
@@ -2720,7 +2825,7 @@
     {
       "name": "time",
       "slug": "time",
-      "count": 1
+      "count": 2
     },
     {
       "name": "tower",
@@ -2745,7 +2850,7 @@
     {
       "name": "truth",
       "slug": "truth",
-      "count": 2
+      "count": 3
     },
     {
       "name": "twin-flame",
@@ -2800,7 +2905,7 @@
     {
       "name": "wisdom",
       "slug": "wisdom",
-      "count": 6
+      "count": 7
     },
     {
       "name": "wisdom-quotes",
@@ -2840,7 +2945,7 @@
     {
       "name": "writing",
       "slug": "writing",
-      "count": 2
+      "count": 3
     },
     {
       "name": "ya",
@@ -2882,6 +2987,11 @@
     {
       "name": "A Vampire's Reckoning",
       "slug": "a-vampire-s-reckoning",
+      "count": 1
+    },
+    {
+      "name": "An Interview: Audre Lorde and Adrienne Rich / Sister Outsider",
+      "slug": "an-interview-audre-lorde-and-adrienne-rich-sister-outsider",
       "count": 1
     },
     {
@@ -2973,6 +3083,11 @@
       "name": "Evanescent",
       "slug": "evanescent",
       "count": 3
+    },
+    {
+      "name": "Eye to Eye: Black Women, Hatred and Anger / Sister Outsider",
+      "slug": "eye-to-eye-black-women-hatred-and-anger-sister-outsider",
+      "count": 2
     },
     {
       "name": "Fire and Gold",
@@ -3188,6 +3303,11 @@
       "name": "See the Little People...An Enchanting Adventure",
       "slug": "see-the-little-people-an-enchanting-adventure",
       "count": 13
+    },
+    {
+      "name": "Sexism: An American Disease in Blackface / Sister Outsider",
+      "slug": "sexism-an-american-disease-in-blackface-sister-outsider",
+      "count": 1
     },
     {
       "name": "She Had Some Horses",
@@ -3457,6 +3577,11 @@
       "count": 1
     },
     {
+      "name": "Audre Lorde",
+      "slug": "audre-lorde",
+      "count": 4
+    },
+    {
       "name": "Awdhesh Singh",
       "slug": "awdhesh-singh",
       "count": 1
@@ -3499,6 +3624,11 @@
     {
       "name": "Cecilia Llompart",
       "slug": "cecilia-llompart",
+      "count": 1
+    },
+    {
+      "name": "Charles Péguy",
+      "slug": "charles-p-guy",
       "count": 1
     },
     {
@@ -3607,6 +3737,16 @@
       "count": 1
     },
     {
+      "name": "Ernst Jünger",
+      "slug": "ernst-j-nger",
+      "count": 1
+    },
+    {
+      "name": "Ezra Pound",
+      "slug": "ezra-pound",
+      "count": 1
+    },
+    {
       "name": "F. Scott Fitzgerald",
       "slug": "f-scott-fitzgerald",
       "count": 1
@@ -3622,8 +3762,18 @@
       "count": 1
     },
     {
+      "name": "Friedrich Nietzsche",
+      "slug": "friedrich-nietzsche",
+      "count": 1
+    },
+    {
       "name": "George Orwell",
       "slug": "george-orwell",
+      "count": 1
+    },
+    {
+      "name": "George Washington",
+      "slug": "george-washington",
       "count": 1
     },
     {
@@ -3682,6 +3832,11 @@
       "count": 1
     },
     {
+      "name": "Isaac Newton",
+      "slug": "isaac-newton",
+      "count": 1
+    },
+    {
       "name": "J.K. Rowling",
       "slug": "j-k-rowling",
       "count": 1
@@ -3724,6 +3879,11 @@
     {
       "name": "John Lennon",
       "slug": "john-lennon",
+      "count": 1
+    },
+    {
+      "name": "Joseph de Maistre",
+      "slug": "joseph-de-maistre",
       "count": 1
     },
     {
@@ -3832,6 +3992,11 @@
       "count": 1
     },
     {
+      "name": "Nathaniel Hawthorne",
+      "slug": "nathaniel-hawthorne",
+      "count": 1
+    },
+    {
       "name": "Nelson Mandela",
       "slug": "nelson-mandela",
       "count": 1
@@ -3917,6 +4082,11 @@
       "count": 1
     },
     {
+      "name": "René Guénon",
+      "slug": "ren-gu-non",
+      "count": 1
+    },
+    {
       "name": "Rilke",
       "slug": "rilke",
       "count": 1
@@ -3982,6 +4152,11 @@
       "count": 1
     },
     {
+      "name": "Simone Weil",
+      "slug": "simone-weil",
+      "count": 1
+    },
+    {
       "name": "Socrates",
       "slug": "socrates",
       "count": 1
@@ -4042,6 +4217,11 @@
       "count": 1
     },
     {
+      "name": "Thomas Carlyle",
+      "slug": "thomas-carlyle",
+      "count": 1
+    },
+    {
       "name": "Tim Scott",
       "slug": "tim-scott",
       "count": 2
@@ -4059,7 +4239,7 @@
     {
       "name": "Unknown",
       "slug": "unknown",
-      "count": 2
+      "count": 4
     },
     {
       "name": "Usha Cosmico",
@@ -4104,6 +4284,11 @@
     {
       "name": "William Shakespeare",
       "slug": "william-shakespeare",
+      "count": 1
+    },
+    {
+      "name": "Yukio Mishima",
+      "slug": "yukio-mishima",
       "count": 1
     }
   ]

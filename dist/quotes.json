@@ -1,6 +1,222 @@
 [
   {
     "id": "q1",
+    "quote": "I have to learn to love myself before I can love you or accept your loving. You have to learn to love yourself before you can love me or accept my loving. Know we are worthy of touch before we can reach out for each other.",
+    "author": "Audre Lorde",
+    "authorSlug": "audre-lorde",
+    "tags": [
+      "love",
+      "self-love",
+      "connection"
+    ],
+    "source": "Eye to Eye: Black Women, Hatred and Anger / Sister Outsider"
+  },
+  {
+    "id": "q2",
+    "quote": "I can afford to look at myself directly, risk the pain of experiencing who I am not, and learn to savor the sweetness of who I am.",
+    "author": "Audre Lorde",
+    "authorSlug": "audre-lorde",
+    "tags": [
+      "self-knowledge",
+      "identity",
+      "courage"
+    ],
+    "source": "Eye to Eye: Black Women, Hatred and Anger / Sister Outsider"
+  },
+  {
+    "id": "q3",
+    "quote": "When I wrote something that finally had it, I would say it aloud and it would come alive, become real. It would start repeating itself and I'd know, that's struck, that's true. Like a bell. Something struck true. And there the words would be.",
+    "author": "Audre Lorde",
+    "authorSlug": "audre-lorde",
+    "tags": [
+      "writing",
+      "truth",
+      "creativity"
+    ],
+    "source": "An Interview: Audre Lorde and Adrienne Rich / Sister Outsider"
+  },
+  {
+    "id": "q4",
+    "quote": "Oppressors always expect the oppressed to extend to them the understanding so lacking in themselves.",
+    "author": "Audre Lorde",
+    "authorSlug": "audre-lorde",
+    "tags": [
+      "oppression",
+      "power",
+      "justice"
+    ],
+    "source": "Sexism: An American Disease in Blackface / Sister Outsider"
+  },
+  {
+    "id": "q5",
+    "quote": "No summer ever came back, and no two summers ever were alike. Times change, and people change.",
+    "author": "Nathaniel Hawthorne",
+    "authorSlug": "nathaniel-hawthorne",
+    "tags": [
+      "time",
+      "change",
+      "memory"
+    ],
+    "source": ""
+  },
+  {
+    "id": "q6",
+    "quote": "Listen to me. Listen. I could bend you with my finger and my thumb. A mere reed you feel in my hands. But whatever I do with this cage, I cannot get at you, and it is your soul that I want.",
+    "author": "Unknown",
+    "authorSlug": "unknown",
+    "tags": [
+      "soul",
+      "power",
+      "control"
+    ],
+    "source": ""
+  },
+  {
+    "id": "q7",
+    "quote": "we can fall in love. if you want, it can even be like something out of a horror movie.",
+    "author": "Unknown",
+    "authorSlug": "unknown",
+    "tags": [
+      "love",
+      "darkness",
+      "romance"
+    ],
+    "source": ""
+  },
+  {
+    "id": "q8",
+    "quote": "If I have seen further than others, it is by standing upon the shoulders of giants.",
+    "author": "Isaac Newton",
+    "authorSlug": "isaac-newton",
+    "tags": [
+      "knowledge",
+      "humility",
+      "legacy"
+    ],
+    "source": ""
+  },
+  {
+    "id": "q9",
+    "quote": "Ordinary bourgeois life held no force sufficiently compelling to drag one out into the chill drizzle without so much as an umbrella.",
+    "author": "Yukio Mishima",
+    "authorSlug": "yukio-mishima",
+    "tags": [
+      "bourgeois",
+      "ordinary-life",
+      "society"
+    ],
+    "source": ""
+  },
+  {
+    "id": "q10",
+    "quote": "The bourgeois is perhaps best characterized as one who places security among the highest values and conducts his life accordingly.",
+    "author": "Ernst Jünger",
+    "authorSlug": "ernst-j-nger",
+    "tags": [
+      "bourgeois",
+      "security",
+      "society"
+    ],
+    "source": ""
+  },
+  {
+    "id": "q11",
+    "quote": "Money destroys human roots wherever it is able to penetrate, by turning desire for gain into the sole motive.",
+    "author": "Simone Weil",
+    "authorSlug": "simone-weil",
+    "tags": [
+      "money",
+      "greed",
+      "society"
+    ],
+    "source": ""
+  },
+  {
+    "id": "q12",
+    "quote": "There is no people any more. Everybody is bourgeois. Because everybody reads his newspaper.",
+    "author": "Charles Péguy",
+    "authorSlug": "charles-p-guy",
+    "tags": [
+      "bourgeois",
+      "society",
+      "media"
+    ],
+    "source": ""
+  },
+  {
+    "id": "q13",
+    "quote": "The object is merely to produce as much as possible; quality matters little; it is quantity alone that is of importance.",
+    "author": "René Guénon",
+    "authorSlug": "ren-gu-non",
+    "tags": [
+      "quantity",
+      "quality",
+      "modernity"
+    ],
+    "source": ""
+  },
+  {
+    "id": "q14",
+    "quote": "The temple is holy because it is not for sale.",
+    "author": "Ezra Pound",
+    "authorSlug": "ezra-pound",
+    "tags": [
+      "sacred",
+      "commerce",
+      "integrity"
+    ],
+    "source": ""
+  },
+  {
+    "id": "q15",
+    "quote": "Cash-payment is not the sole nexus of man with man—how far from it!",
+    "author": "Thomas Carlyle",
+    "authorSlug": "thomas-carlyle",
+    "tags": [
+      "money",
+      "relationships",
+      "society"
+    ],
+    "source": ""
+  },
+  {
+    "id": "q16",
+    "quote": "Man does not aspire to happiness; only the Englishman does that.",
+    "author": "Friedrich Nietzsche",
+    "authorSlug": "friedrich-nietzsche",
+    "tags": [
+      "happiness",
+      "philosophy",
+      "irony"
+    ],
+    "source": ""
+  },
+  {
+    "id": "q17",
+    "quote": "Wherever an altar is found, there civilization exists.",
+    "author": "Joseph de Maistre",
+    "authorSlug": "joseph-de-maistre",
+    "tags": [
+      "civilization",
+      "sacred",
+      "religion"
+    ],
+    "source": ""
+  },
+  {
+    "id": "q18",
+    "quote": "LET US RAISE A STANDARD TO WHICH THE WISE AND THE HONEST CAN REPAIR / THE EVENT IS IN THE HAND OF GOD",
+    "author": "George Washington",
+    "authorSlug": "george-washington",
+    "tags": [
+      "honesty",
+      "wisdom",
+      "providence"
+    ],
+    "source": ""
+  },
+  {
+    "id": "q19",
     "quote": "Perhaps all women are part faerie, for what woman can deny her faerie blood when the portals to her own land are open; when the full moon sings its insistent song; when sorrow and passion and rage pulse through her body at moon times. This is why women are the chosen ones of Faerie, pat of the vibrant, fluid, emotional soul of the world…",
     "author": "Brian Froud",
     "authorSlug": "brian-froud",
@@ -11,7 +227,7 @@
     "source": "Brian Froud's World of Faerie"
   },
   {
-    "id": "q2",
+    "id": "q20",
     "quote": "Princess Linetta turned around and around, a circular dance that felt mystical and otherworldly in this secret of a place, a shrouded realm of silvery light.",
     "author": "Gina Marinello-Sweeney",
     "authorSlug": "gina-marinello-sweeney",
@@ -23,7 +239,7 @@
     "source": "Prince of Chandeliers"
   },
   {
-    "id": "q3",
+    "id": "q21",
     "quote": "Be aware! Bad things can happen and the bigger they are, the greater the test. You can learn from them or pity yourself and focus on the negative, which will never get you out of the lesson, remember you hold the key!",
     "author": "Chris DiSano Davenport",
     "authorSlug": "chris-disano-davenport",
@@ -38,7 +254,7 @@
     "source": ""
   },
   {
-    "id": "q5",
+    "id": "q23",
     "quote": "If you say something over and over and over again you may just start to believe it. If you truly do believe it, you can be sure you will receive it. Selkie Anne, The Little People Journey into the Mystic Sea",
     "author": "Chris DiSano Davenport",
     "authorSlug": "chris-disano-davenport",
@@ -53,7 +269,7 @@
     "source": "The Little People Journey into the Mystic Sea"
   },
   {
-    "id": "q6",
+    "id": "q24",
     "quote": "Whatever ‘I AM,’ you are! You are, I AM, not me you see, but you are ‘I AM’ is what will be!",
     "author": "Chris DiSano Davenport",
     "authorSlug": "chris-disano-davenport",
@@ -68,7 +284,7 @@
     "source": "See the Little People...An Enchanting Adventure"
   },
   {
-    "id": "q7",
+    "id": "q25",
     "quote": "Bad in good and good in bad, see the life you could have had? Your life is the keyhole, and you are the key, don’t look back, NOW choose to be happy!",
     "author": "Chris DiSano Davenport",
     "authorSlug": "chris-disano-davenport",
@@ -83,7 +299,7 @@
     "source": "See the Little People...An Enchanting Adventure"
   },
   {
-    "id": "q8",
+    "id": "q26",
     "quote": "When I am happy and when I really focus, I can! Whatever I dream of with my thoughts becomes a part of my world, my plan.",
     "author": "Chris DiSano Davenport",
     "authorSlug": "chris-disano-davenport",
@@ -98,7 +314,7 @@
     "source": "See the Little People...An Enchanting Adventure"
   },
   {
-    "id": "q9",
+    "id": "q27",
     "quote": "Grampa says the grass is not greener on the other side. All grass changes with the seasons, it grows, it browns, and it can die if you do not nurture it. You must accept the changes, yet the grass is as green as you make it right here and now! Going from one meadow to another does not change the season! Or the meadow! Deetkatu, See the Little People…An Enchanting Adventure",
     "author": "Chris DiSano Davenport",
     "authorSlug": "chris-disano-davenport",
@@ -113,7 +329,7 @@
     "source": ""
   },
   {
-    "id": "q10",
+    "id": "q28",
     "quote": "You mean to tell me that you have made a human friend? It could be dangerous and I must urge it to end! Deetkatu, where is your sense?",
     "author": "Chris DiSano Davenport",
     "authorSlug": "chris-disano-davenport",
@@ -128,7 +344,7 @@
     "source": "See the Little People...An Enchanting Adventure"
   },
   {
-    "id": "q11",
+    "id": "q29",
     "quote": "Being in our secret place brings much peace and the more we go there, the more it will increase. Now we let it all go by, have faith in what we see and it IS what will be.",
     "author": "Chris DiSano Davenport",
     "authorSlug": "chris-disano-davenport",
@@ -143,7 +359,7 @@
     "source": "See the Little People...An Enchanting Adventure"
   },
   {
-    "id": "q12",
+    "id": "q30",
     "quote": "Be mindful of the thoughts and emotions you put out, they will only project back to you like a boomerang, no doubt!",
     "author": "Chris DiSano Davenport",
     "authorSlug": "chris-disano-davenport",
@@ -158,7 +374,7 @@
     "source": "See the Little People...An Enchanting Adventure"
   },
   {
-    "id": "q13",
+    "id": "q31",
     "quote": "Grampa Foster always says that every single experience has something to teach us about ourselves. “So don’t expect to get too comfortable or you’ll never learn a thing!",
     "author": "Chris DiSano Davenport",
     "authorSlug": "chris-disano-davenport",
@@ -173,7 +389,7 @@
     "source": "The Little People Journey into the Mystic Sea"
   },
   {
-    "id": "q14",
+    "id": "q32",
     "quote": "The kingdom of nature has such a job, That can even make a goblin’s heart throb, It’s true, only a handful of people can see. They’re the breath and life of the planet to be, And all this effort is done for a reason, To build energy that creates a plentiful season! The Little People Journey into the Mystic Sea",
     "author": "Chris DiSano Davenport",
     "authorSlug": "chris-disano-davenport",
@@ -188,7 +404,7 @@
     "source": "The Little People Journey into the Mystic Sea"
   },
   {
-    "id": "q15",
+    "id": "q33",
     "quote": "Always look at the message, not the messenger!",
     "author": "Chris DiSano Davenport",
     "authorSlug": "chris-disano-davenport",
@@ -203,7 +419,7 @@
     "source": "The Little People Journey into the Mystic Sea"
   },
   {
-    "id": "q16",
+    "id": "q34",
     "quote": "LOVE is the answer to everything! Seriously! Everything! The Little People Journey into the Mystic Sea",
     "author": "Chris DiSano Davenport",
     "authorSlug": "chris-disano-davenport",
@@ -218,7 +434,7 @@
     "source": "The Little People Journey into the Mystic Sea"
   },
   {
-    "id": "q17",
+    "id": "q35",
     "quote": "It can appear that Ellarie has it hard to be seen and to be heard. Sometimes this is her way and maybe not the best, but it is a way she often uses, I have to confess. Her invisible poke or pinch is to help those believe, in more than just a ghostly story or what the eyes can perceive. The brighter your light shines will give a clue, to the goodness you attract that follows you.",
     "author": "Chris DiSano Davenport",
     "authorSlug": "chris-disano-davenport",
@@ -233,7 +449,7 @@
     "source": "The Little People Journey into the Mystic Sea"
   },
   {
-    "id": "q19",
+    "id": "q37",
     "quote": "With all control look for the hole, your mind gets weak, unless it’s truth you seek. Swirled and twirled into another world, into the smog, a doorway within the fog.",
     "author": "Chris DiSano Davenport",
     "authorSlug": "chris-disano-davenport",
@@ -248,7 +464,7 @@
     "source": "The Little People Journey into the Mystic Sea"
   },
   {
-    "id": "q20",
+    "id": "q38",
     "quote": "You might just be compelled to hear, that there is folklore about a boy so dear, a legend the fairies readily discern, of a good King’s rule upon his return. A boy, a boy is in front of me, I know not who this human could be. I will just become a part of this tree! Unless he cries a desperate plea, I shall then be allowed to reach out to thee.",
     "author": "Chris DiSano Davenport",
     "authorSlug": "chris-disano-davenport",
@@ -263,7 +479,7 @@
     "source": "See the Little People...An Enchanting Adventure"
   },
   {
-    "id": "q21",
+    "id": "q39",
     "quote": "My head says forget it, my heart says I’ll regret it, and what my stomach tells me, I should not ignore. Oh no, I gotta go, give me a leave, not your sleeve! I know this will cease, when I feel peace. So I will help a boy, come to Joy, a risk I shall take, it’s no mistake, my stomach tells me so.",
     "author": "Chris DiSano Davenport",
     "authorSlug": "chris-disano-davenport",
@@ -278,7 +494,7 @@
     "source": "See the Little People...An Enchanting Adventure"
   },
   {
-    "id": "q22",
+    "id": "q40",
     "quote": "When you truly believe in the desires of your heart, they show themselves to you, creating a world you wish to see. When you believe in the bad things of your world, they also become visible, weighing on your heart, which makes peace hard to find.",
     "author": "Chris DiSano Davenport",
     "authorSlug": "chris-disano-davenport",
@@ -293,7 +509,7 @@
     "source": "See the Little People...An Enchanting Adventure"
   },
   {
-    "id": "q24",
+    "id": "q42",
     "quote": "Our traditions teach us the past is not forgot, yet the past repeats the future believe it or not. If we dwell on the negative, we continue to make, an unhealthy life we must never forsake. Our fairy ring teaches us cause and effect, what we give to the world, returns to us direct!",
     "author": "Chris DiSano Davenport",
     "authorSlug": "chris-disano-davenport",
@@ -308,7 +524,7 @@
     "source": "See the Little People...An Enchanting Adventure"
   },
   {
-    "id": "q25",
+    "id": "q43",
     "quote": "Now Arthur, if humans could learn to gaze with their eyes or use their special sight, they would realize there is more to seeing than just what is in front of them!",
     "author": "Chris DiSano Davenport",
     "authorSlug": "chris-disano-davenport",
@@ -323,7 +539,7 @@
     "source": "See the Little People...An Enchanting Adventure"
   },
   {
-    "id": "q26",
+    "id": "q44",
     "quote": "When you are open and aware, it allows for all magical possibilities! We, here in the forest, can see all that goes on in our environment on the surface; but we have true awareness that sees beyond the shallow! This belief comes from the depths of wisdom that there is more than meets the eyes!",
     "author": "Chris DiSano Davenport",
     "authorSlug": "chris-disano-davenport",
@@ -338,7 +554,7 @@
     "source": "See the Little People...An Enchanting Adventure"
   },
   {
-    "id": "q27",
+    "id": "q45",
     "quote": "Pretty things can be denied when it is beauty that comes from a place inside. Your outer appearance may have its place but to walk in beauty is to walk in grace. So lift your confidence to gain inner merit, then walk in beauty and connect to your spirit. Embellish yourself with art for fun, it enhances, inspires and in beauty, YOU RUN!\" Maiara, The Little People Journey into the Mystic Sea",
     "author": "Chris DiSano Davenport",
     "authorSlug": "chris-disano-davenport",
@@ -353,7 +569,7 @@
     "source": "The Little People Journey into the Mystic Sea"
   },
   {
-    "id": "q28",
+    "id": "q46",
     "quote": "If you say something over and over and over again you may just start to believe it. If you truly do believe it, you can be sure you will receive it.\" Selkie Anne, The Little People Journey into the Mystic Sea",
     "author": "Chris DiSano Davenport",
     "authorSlug": "chris-disano-davenport",
@@ -368,7 +584,7 @@
     "source": "The Little People Journey into the Mystic Sea"
   },
   {
-    "id": "q29",
+    "id": "q47",
     "quote": "OHHHH don’t make me cry, I’m a big strong guy, I can make you laugh and I’d never tell a lie, See my muscles on my legs when I swim, I can do back spins with the force of my fins. SOOOOO don’t make me cry, I’m a big strong guy, I can make you laugh and I’d never tell lie. The muscles in my heart are tougher than my shell, To “love” makes me stronger than to lift a barbell.",
     "author": "Chris DiSano Davenport",
     "authorSlug": "chris-disano-davenport",
@@ -383,7 +599,7 @@
     "source": "The Little People Journey into the Mystic Sea"
   },
   {
-    "id": "q30",
+    "id": "q48",
     "quote": "Being in our secret place brings much peace and the more we go there, the more it will increase. Now we let it all go by, have faith in what we see and it IS what will be.",
     "author": "Chris DiSano Davenport",
     "authorSlug": "chris-disano-davenport",
@@ -398,7 +614,7 @@
     "source": "See the Little People...An Enchanting Adventure"
   },
   {
-    "id": "q31",
+    "id": "q49",
     "quote": "Do you not believe, Governess, where this power comes from, you seek? It is not from the “things” you keep. I trust the Creator to take care of me. Come what may, I will stay out of your way.",
     "author": "Chris DiSano Davenport",
     "authorSlug": "chris-disano-davenport",
@@ -413,7 +629,7 @@
     "source": "The Little People Journey into the Mystic Sea"
   },
   {
-    "id": "q32",
+    "id": "q50",
     "quote": "I guess we all know that more souls will advance.” When you learn that life can make you wise, it’s no surprise that the light within you will grow and will shine for those you come to know.",
     "author": "Chris DiSano Davenport",
     "authorSlug": "chris-disano-davenport",
@@ -428,7 +644,7 @@
     "source": "The Little People Journey into the Mystic Sea"
   },
   {
-    "id": "q33",
+    "id": "q51",
     "quote": "Might I take this moment to give thanks to our loving Creator for supplying us with all our needs for this day and always!",
     "author": "Chris DiSano Davenport",
     "authorSlug": "chris-disano-davenport",
@@ -443,7 +659,7 @@
     "source": "The Little People Journey into the Mystic Sea"
   },
   {
-    "id": "q34",
+    "id": "q52",
     "quote": "Honor is a balancing act and only the heart can strike that balance.",
     "author": "Stefan Emunds",
     "authorSlug": "stefan-emunds",
@@ -458,7 +674,7 @@
     "source": "Gawain and the Green Knight"
   },
   {
-    "id": "q35",
+    "id": "q53",
     "quote": "At least I’m the one leaving. It’s so much easier to leave than to be left.",
     "author": "Stefan Emunds",
     "authorSlug": "stefan-emunds",
@@ -473,7 +689,7 @@
     "source": "Gawain and the Green Knight"
   },
   {
-    "id": "q36",
+    "id": "q54",
     "quote": "The world is an ambitious business. It continuously expands and evolves. But people are lazy and God is far too lovely to do something about it.",
     "author": "Stefan Emunds",
     "authorSlug": "stefan-emunds",
@@ -488,7 +704,7 @@
     "source": "Gawain and the Green Knight"
   },
   {
-    "id": "q37",
+    "id": "q55",
     "quote": "Wake up! You’re a sacred soul and glory is yours for the taking.",
     "author": "Stefan Emunds",
     "authorSlug": "stefan-emunds",
@@ -503,7 +719,7 @@
     "source": "Gawain and the Green Knight"
   },
   {
-    "id": "q38",
+    "id": "q56",
     "quote": "The world eclipses and it’s just her and him. No it’s just her eyes and his soul. Her eyes expose and violate him, she turns him inside out. Then, her eyes drop him like a boring toy.",
     "author": "Stefan Emunds",
     "authorSlug": "stefan-emunds",
@@ -518,7 +734,7 @@
     "source": "Gawain and the Green Knight"
   },
   {
-    "id": "q39",
+    "id": "q57",
     "quote": "Waiting for one’s execution is worse than dying. To seek my beheading is glory. Who went to his execution willingly? Jesus did. Jesus even dragged his cross half way to Golgotha. I think he would have nailed himself to the cross if he had to.",
     "author": "Stefan Emunds",
     "authorSlug": "stefan-emunds",
@@ -533,7 +749,7 @@
     "source": "Gawain and the Green Knight"
   },
   {
-    "id": "q40",
+    "id": "q58",
     "quote": "Favorite Quotations. I speak my mind because it hurts to bite my tongue. The worth of a book is measured by what you carry away from it. It's not over till it's over. Imagination is everything. All life is an experiment. What the caterpillar calls the end of the world, the master calls the butterfly.",
     "author": "Pat Frayne",
     "authorSlug": "pat-frayne",
@@ -548,7 +764,7 @@
     "source": "Tales of Topaz the Conjure Cat: Part I Topaz and the Evil Wizard & Part II Topaz and the Plum-Gista Stone"
   },
   {
-    "id": "q41",
+    "id": "q59",
     "quote": "Everything seemed possible, when I looked through they eyes of a child. And every once in a while; I remember, I still have the chance to be that wild.",
     "author": "Nikki Rowe",
     "authorSlug": "nikki-rowe",
@@ -561,7 +777,7 @@
     "source": ""
   },
   {
-    "id": "q44",
+    "id": "q62",
     "quote": "Consider the coincidences that you do not see.\" - Fabian Snowstrom, A Vampire's Reckoning",
     "author": "V.M.K. Fewings",
     "authorSlug": "v-m-k-fewings",
@@ -572,7 +788,7 @@
     "source": "A Vampire's Reckoning"
   },
   {
-    "id": "q45",
+    "id": "q63",
     "quote": "Tis now the very witching time of night, When churchyards yawn, and hell itself breathes out Contagion to this world. Now could I drink hot blood And do such bitter business as the day Would quake to look on.",
     "author": "William Shakespeare",
     "authorSlug": "william-shakespeare",
@@ -587,7 +803,7 @@
     "source": "Hamlet"
   },
   {
-    "id": "q47",
+    "id": "q65",
     "quote": "The white fireball was his life force. White embers sprouted out of the life force as the life force whipped its smoky white flames in the air. Although the life force looked like fire, it didn’t feel like fire. It was as soft as a cloud, and it was as warm as a glove.",
     "author": "Casey Yun",
     "authorSlug": "casey-yun",
@@ -600,7 +816,7 @@
     "source": "A Life for a Life"
   },
   {
-    "id": "q48",
+    "id": "q66",
     "quote": "Magic is not a thing to be borrowed here. It simply is. Can you not feel it in the air, in the land?",
     "author": "Chelsea Abdullah",
     "authorSlug": "chelsea-abdullah",
@@ -613,7 +829,7 @@
     "source": "The Ashfire King"
   },
   {
-    "id": "q49",
+    "id": "q67",
     "quote": "All magic has its source, regardless of the life it takes on.",
     "author": "Chelsea Abdullah",
     "authorSlug": "chelsea-abdullah",
@@ -625,7 +841,7 @@
     "source": "The Ashfire King"
   },
   {
-    "id": "q50",
+    "id": "q68",
     "quote": "Eona - Fantasy of Hell",
     "author": "EonaCat (Jeroen Saey)",
     "authorSlug": "eonacat-jeroen-saey",
@@ -638,7 +854,7 @@
     "source": ""
   },
   {
-    "id": "q51",
+    "id": "q69",
     "quote": "Is this real? Or has this been happening inside my head?' ... 'Of course it is happening inside your head, Harry, but why on earth should that mean that it is not real?",
     "author": "JK Rowling",
     "authorSlug": "jk-rowling",
@@ -649,7 +865,7 @@
     "source": ""
   },
   {
-    "id": "q52",
+    "id": "q70",
     "quote": "The captain left with his back straight and his nose in the air. In his wake, Dagmar poked her head around the doorframe. “You never can tell with His Majesty, can you?",
     "author": "Kate Stradling",
     "authorSlug": "kate-stradling",
@@ -663,7 +879,7 @@
     "source": "The Legendary Inge"
   },
   {
-    "id": "q53",
+    "id": "q71",
     "quote": "Birds are magical. Their flight alone can arouse a clever thought.",
     "author": "Michael Bassey Johnson",
     "authorSlug": "michael-bassey-johnson",
@@ -678,7 +894,7 @@
     "source": "Song of a Nature Lover"
   },
   {
-    "id": "q54",
+    "id": "q72",
     "quote": "Suddenly the zephyr kicked up the leaves as well, and Sylvia saw something like a great, green angel arise in the spot where the mask had lain. Sylvia stood frozen to the spot watching as a face of living wood took shape from the mask-like object and rose over six feet with the leaves flowing over limbs.",
     "author": "Sharon Brubaker",
     "authorSlug": "sharon-brubaker",
@@ -693,7 +909,7 @@
     "source": "The Greening"
   },
   {
-    "id": "q55",
+    "id": "q73",
     "quote": "The boy with grazes on his cheeks was snoring softly. Stella watched him as he slept. She lifted her eyes to the firmament. The skies were changing color. Billy followed her gaze. Since childhood, he was her confidante, her trusted friend.",
     "author": "Suzy Davies",
     "authorSlug": "suzy-davies",
@@ -708,7 +924,7 @@
     "source": "The Girl in The Red Cape"
   },
   {
-    "id": "q57",
+    "id": "q75",
     "quote": "Sometimes the meaning beyond the talisman is greater than the talisman itself. A star has a hint of galaxies.",
     "author": "Talismanist Giebra",
     "authorSlug": "talismanist-giebra",
@@ -723,7 +939,7 @@
     "source": "Talismanist: Fragments of the Ancient Fire. Philosophy of Fragmentism Series."
   },
   {
-    "id": "q58",
+    "id": "q76",
     "quote": "Talismans can only be perceived but never fully translated into words.",
     "author": "Talismanist Giebra",
     "authorSlug": "talismanist-giebra",
@@ -738,7 +954,7 @@
     "source": "Talismanist: Fragments of the Ancient Fire. Philosophy of Fragmentism Series."
   },
   {
-    "id": "q59",
+    "id": "q77",
     "quote": "If you have the understanding to first notice the signs, continue with the courage to follow them.",
     "author": "Nikki Rowe",
     "authorSlug": "nikki-rowe",
@@ -753,7 +969,7 @@
     "source": ""
   },
   {
-    "id": "q61",
+    "id": "q79",
     "quote": "Mysticism and supernaturalism are the descendants of ignorance and fear.",
     "author": "Abhijit Naskar",
     "authorSlug": "abhijit-naskar",
@@ -768,7 +984,7 @@
     "source": "Principia Humanitas"
   },
   {
-    "id": "q62",
+    "id": "q80",
     "quote": "The pieces of the puzzle are visible, but not the grand design. Images flicker and dance like memories, hinting at events to come. They scatter the moment I reach for them only to re-form to taunt me. I who never truly possessed them, nor may I ever. They do tell me this: a time of great change approaches and it’s not enough to watch. We must act. We can’t count on others to do our work for us or all may be lost. - Oracle Lilian’s Diary, Winter of 3765",
     "author": "Mara Amberly",
     "authorSlug": "mara-amberly",
@@ -783,7 +999,7 @@
     "source": "Fire and Gold"
   },
   {
-    "id": "q63",
+    "id": "q81",
     "quote": "Every single phenomenon in the world, has a physical explanation underneath it. Finding the explanation depends on how far you are willing to go.",
     "author": "Abhijit Naskar",
     "authorSlug": "abhijit-naskar",
@@ -798,7 +1014,7 @@
     "source": "Principia Humanitas"
   },
   {
-    "id": "q64",
+    "id": "q82",
     "quote": "The Elven Way passes beyond the fields of the known into the forest of the unknown, illuminated by the glow of the elves.",
     "author": "The Silver Elves",
     "authorSlug": "the-silver-elves",
@@ -813,7 +1029,7 @@
     "source": "The Elven Way: The Magical Path of the Shining Ones"
   },
   {
-    "id": "q65",
+    "id": "q83",
     "quote": "Bedivere replied softly, 'There are more things under the heavens than we can ever imagine Sire.",
     "author": "Rosie Morgan",
     "authorSlug": "rosie-morgan",
@@ -823,7 +1039,7 @@
     "source": "The Golden Sword"
   },
   {
-    "id": "q66",
+    "id": "q84",
     "quote": "Every day may not be good, but there is something good in every day!",
     "author": "V. Duwane Ledbetter",
     "authorSlug": "v-duwane-ledbetter",
@@ -835,7 +1051,7 @@
     "source": ""
   },
   {
-    "id": "q67",
+    "id": "q85",
     "quote": "Many years ago, plunging was discovered when the moon was in two halves- it's all about dreams, you see",
     "author": "William O'Brien",
     "authorSlug": "william-o-brien",
@@ -850,7 +1066,7 @@
     "source": "Peter: A Darkened Fairytale"
   },
   {
-    "id": "q68",
+    "id": "q86",
     "quote": "Doubt is unacceptable and should not enter you; it is merely evil trying to divert you and increase the difficulty of your task",
     "author": "William O'Brien",
     "authorSlug": "william-o-brien",
@@ -865,7 +1081,7 @@
     "source": "Peter: A Darkened Fairytale"
   },
   {
-    "id": "q69",
+    "id": "q87",
     "quote": "My path will weave The way you say There is no doubt You'll create the way",
     "author": "William O'Brien",
     "authorSlug": "william-o-brien",
@@ -880,7 +1096,7 @@
     "source": "Peter: A Darkened Fairytale"
   },
   {
-    "id": "q70",
+    "id": "q88",
     "quote": "If a palmist grasp my palm, and look into it, without seeing a single line, what would he read?",
     "author": "Michael Bassey Johnson",
     "authorSlug": "michael-bassey-johnson",
@@ -895,7 +1111,7 @@
     "source": ""
   },
   {
-    "id": "q71",
+    "id": "q89",
     "quote": "Religion is nothing but institutionalized mysticism. The catch is, mysticism does not lend itself to institutionalization. The moment we attempt to organize mysticism, we destroy its essence. Religion, then, is mysticism in which the mystical has been killed. Or, at least diminished.",
     "author": "Tom Robbins",
     "authorSlug": "tom-robbins",
@@ -907,7 +1123,7 @@
     "source": "Skinny Legs and All"
   },
   {
-    "id": "q72",
+    "id": "q90",
     "quote": "Life and the Universe are beneficent. If we make friends with our experience and work with the flow of life rather than against it, we will find that our highest good is being supported on all levels, and that there is nothing to fear.",
     "author": "Katherine Parker",
     "authorSlug": "katherine-parker",
@@ -922,7 +1138,7 @@
     "source": "Resonance Alchemy: Awakening the Tree of Life"
   },
   {
-    "id": "q73",
+    "id": "q91",
     "quote": "It's all a series of serendipities with no beginnings and no ends. Such infinitesimal possibilities Through which love transcends.",
     "author": "Ana Claudia Antunes",
     "authorSlug": "ana-claudia-antunes",
@@ -937,7 +1153,7 @@
     "source": "The Tao of Physical and Spiritual"
   },
   {
-    "id": "q74",
+    "id": "q92",
     "quote": "You were the ocean and we were the land You lay down unflinching You lay down forgetting And you were the ocean and we were the land",
     "author": "Tamara Rendell",
     "authorSlug": "tamara-rendell",
@@ -952,7 +1168,7 @@
     "source": "Mystical Tides"
   },
   {
-    "id": "q76",
+    "id": "q94",
     "quote": "Deep Blue Mystic - A Haiku Mighty ocean's grace, True power lies in stillness, Destruction withheld.",
     "author": "Amogh Swamy",
     "authorSlug": "amogh-swamy",
@@ -967,7 +1183,7 @@
     "source": "On My Way To Infinity: A Seeker's Poetic Pilgrimage"
   },
   {
-    "id": "q77",
+    "id": "q95",
     "quote": "In death, we are born. The dead add their strength and counsel to the living.",
     "author": "Hopi Proverb",
     "authorSlug": "hopi-proverb",
@@ -978,7 +1194,7 @@
     "source": ""
   },
   {
-    "id": "q79",
+    "id": "q97",
     "quote": "That's why angels prefer to come here on faint ancient nights when the moon is at half-strength and the cats howl their hunger. The venom plaguing us seems miles away. [Unlikely Stories]",
     "author": "Scott C. Holstad",
     "authorSlug": "scott-c-holstad",
@@ -989,7 +1205,7 @@
     "source": ""
   },
   {
-    "id": "q80",
+    "id": "q98",
     "quote": "Music is not just sound — it is the ancient breath that heals, carrying the soul through unseen doors into the places it remembers to be whole again.",
     "author": "Phoenix Moon",
     "authorSlug": "phoenix-moon",
@@ -1004,7 +1220,7 @@
     "source": ""
   },
   {
-    "id": "q81",
+    "id": "q99",
     "quote": "The oracle’s mirror waiting for the earth to unveil her The wolf’s howl over snow The quiet place inside you – the vast knowing of the soul",
     "author": "Tamara Rendell",
     "authorSlug": "tamara-rendell",
@@ -1019,7 +1235,7 @@
     "source": "Mystical Tides"
   },
   {
-    "id": "q82",
+    "id": "q100",
     "quote": "The delicate totems – saints floating on their seas of incense and candlelight wounded bodies and silent faces",
     "author": "Tamara Rendell",
     "authorSlug": "tamara-rendell",
@@ -1034,7 +1250,7 @@
     "source": "Mystical Tides"
   },
   {
-    "id": "q83",
+    "id": "q101",
     "quote": "I began to envision myself differently, to experience The Feminine not as wounded, but as something beautiful, exuberant, wise and unspeakably valuable.",
     "author": "Sue Monk Kidd",
     "authorSlug": "sue-monk-kidd",
@@ -1047,7 +1263,7 @@
     "source": "The Dance of the Dissident Daughter: A Woman's Journey from Christian Tradition to the Sacred Feminine"
   },
   {
-    "id": "q84",
+    "id": "q102",
     "quote": "Love is the answer to every question.",
     "author": "God in Heaven",
     "authorSlug": "god-in-heaven",
@@ -1062,7 +1278,7 @@
     "source": ""
   },
   {
-    "id": "q85",
+    "id": "q103",
     "quote": "The ineffable nuances and numinous intricacies of the supernatural do not adhere to natural laws, nor to materialist superstitions. It will thus forever remain beyond the scope of Newtonian science and the narrow mind.",
     "author": "Anthon St. Maarten",
     "authorSlug": "anthon-st-maarten",
@@ -1077,7 +1293,7 @@
     "source": "The Sensible Psychic: A Leading-Edge Guide To True Psychic Perception"
   },
   {
-    "id": "q86",
+    "id": "q104",
     "quote": "The one who is out to seek has already found it.",
     "author": "Bikash Bhandari",
     "authorSlug": "bikash-bhandari",
@@ -1092,7 +1308,7 @@
     "source": ""
   },
   {
-    "id": "q87",
+    "id": "q105",
     "quote": "Khun Mae went to bed past midnight. After a few minutes, her mouth opened. Her hair was a dark cloud on the pillow. Up and up, she drifted above her bed, through the white mosquito nets, until she was as light as a sea bird. She drifted through the open flap of her window, into the balmy night air. Through the rainstorm, she flew, over the city of Bangkok and its blurry lights, until the stars themselves guided this bird on her journey into the mountains, and above Tham Luang cave.",
     "author": "Suzy Davies",
     "authorSlug": "suzy-davies",
@@ -1107,7 +1323,7 @@
     "source": ""
   },
   {
-    "id": "q89",
+    "id": "q107",
     "quote": "Beneath the gentle gaze of a god turned in stone holding the dreaming wish of safety in our arms",
     "author": "Tamara Rendell",
     "authorSlug": "tamara-rendell",
@@ -1122,7 +1338,7 @@
     "source": "Mystical Tides"
   },
   {
-    "id": "q90",
+    "id": "q108",
     "quote": "Drink in the heat of an ancient sun held in the cold fire of water rising from earth and rock Spilling over your cupped hands and drawn to lips and tongue Pouring water’s memory of the azure mist it fell from into the chalice of your flesh Turning your eyes skywards with desire for the freedom it was born of",
     "author": "Tamara Rendell",
     "authorSlug": "tamara-rendell",
@@ -1137,7 +1353,7 @@
     "source": "Mystical Tides"
   },
   {
-    "id": "q91",
+    "id": "q109",
     "quote": "After all, everything mystical and occult (hidden) is already gestating within our subconscious, just waiting for us to bring it to life, to reawaken it.",
     "author": "Lawren Leo",
     "authorSlug": "lawren-leo",
@@ -1152,7 +1368,7 @@
     "source": "Horse Magick: Spells and Rituals for Self-Empowerment, Protection, and Prosperity"
   },
   {
-    "id": "q92",
+    "id": "q110",
     "quote": "The Center of Center is but one. The Center is more interior than any Circumference.",
     "author": "Dionysius Andreas Freher",
     "authorSlug": "dionysius-andreas-freher",
@@ -1166,7 +1382,7 @@
     "source": "The paradoxical emblems of Dionysius Andreas Freher"
   },
   {
-    "id": "q93",
+    "id": "q111",
     "quote": "Mystic ways may not all travel but life's riddles we can unravel.",
     "author": "James Tunney",
     "authorSlug": "james-tunney",
@@ -1181,7 +1397,7 @@
     "source": "The Mystical Accord: Sutras to Suit our Times, Lines for Spiritual Evolution"
   },
   {
-    "id": "q94",
+    "id": "q112",
     "quote": "The Soul is the Eternal Dream dreaming of your Becoming",
     "author": "Stephanie Acello",
     "authorSlug": "stephanie-acello",
@@ -1195,7 +1411,7 @@
     "source": "Pour Me Another Cup: Mystical Writings to Illuminate Your Soul"
   },
   {
-    "id": "q95",
+    "id": "q113",
     "quote": "Power hounds the mystic that has unified the Divine. In this state one senses ascension like a dog on heat, full of potent lust.",
     "author": "Jason Cain",
     "authorSlug": "jason-cain",
@@ -1207,7 +1423,7 @@
     "source": "Autobiography of a Sorcerer: Book One"
   },
   {
-    "id": "q96",
+    "id": "q114",
     "quote": "Some mystical concepts are an alchemical experience.",
     "author": "Talismanist Giebra",
     "authorSlug": "talismanist-giebra",
@@ -1222,7 +1438,7 @@
     "source": "Talismanist: Fragments of the Ancient Fire. Philosophy of Fragmentism Series."
   },
   {
-    "id": "q97",
+    "id": "q115",
     "quote": "The art of a Talismanist is to let you experience the Mysterious.",
     "author": "Talismanist Giebra",
     "authorSlug": "talismanist-giebra",
@@ -1237,7 +1453,7 @@
     "source": "Talismanist: Fragments of the Ancient Fire. Philosophy of Fragmentism Series."
   },
   {
-    "id": "q98",
+    "id": "q116",
     "quote": "Life is an art of mystical combination.",
     "author": "Talismanist Giebra",
     "authorSlug": "talismanist-giebra",
@@ -1252,7 +1468,7 @@
     "source": "Talismanist: Fragments of the Ancient Fire. Philosophy of Fragmentism Series."
   },
   {
-    "id": "q99",
+    "id": "q117",
     "quote": "Love wants us to sample His goodness, with unlimited samplings.",
     "author": "Catherine Toon",
     "authorSlug": "catherine-toon",
@@ -1266,7 +1482,7 @@
     "source": "Marked by Love: Unveiling the Substance of Your True Identity"
   },
   {
-    "id": "q100",
+    "id": "q118",
     "quote": "Ego is like a mad elephant which is ridden by our blind heart and blind mind and which ultimately destroys our real selves",
     "author": "Kapil Kumar Bhaskar",
     "authorSlug": "kapil-kumar-bhaskar",
@@ -1281,7 +1497,7 @@
     "source": "Reminiscences Of A Seeker: Dark Face Of The White World"
   },
   {
-    "id": "q101",
+    "id": "q119",
     "quote": "We write, edit, and rewrite the story of our own life employing descriptive words, metaphors, and symbols. Our lives are full of symbols including those supplied by nature and religion, which touch upon the mystical and spiritual aspects of life. Symbols inspire enduring hope by formulating idealist expectations.",
     "author": "Kilroy J. Oldster",
     "authorSlug": "kilroy-j-oldster",
@@ -1296,7 +1512,7 @@
     "source": ""
   },
   {
-    "id": "q102",
+    "id": "q120",
     "quote": "…more than a half million books, all of them smelling like dust and ink, two terrible smells that blend mystically to make something beautiful. Powells is another church to me, a paperback sort of heaven.",
     "author": "Donald Miller",
     "authorSlug": "donald-miller",
@@ -1311,7 +1527,7 @@
     "source": "Blue Like Jazz: Nonreligious Thoughts on Christian Spirituality"
   },
   {
-    "id": "q103",
+    "id": "q121",
     "quote": "Blessed are those that know the path out of their carnal flesh, for they shall attain intuition.",
     "author": "Michael Bassey Johnson",
     "authorSlug": "michael-bassey-johnson",
@@ -1326,7 +1542,7 @@
     "source": ""
   },
   {
-    "id": "q104",
+    "id": "q122",
     "quote": "As we discard a limited mind and a life of limitation to step into the grandness of vastness, we realize infinity itself to be the Guru and all that we do as grace. As we traverse through consciousness that is the Guru, we become the Guru and each thought of ours is perfect in the now, as scriptures. Consciousness is the Guru, the wisdom.",
     "author": "Nandhi Tapasyogi",
     "authorSlug": "nandhi-tapasyogi",
@@ -1341,7 +1557,7 @@
     "source": "Mastery of Consciousness: Awaken the Inner Prophet: Liberate Yourself with Yogic Wisdom."
   },
   {
-    "id": "q105",
+    "id": "q123",
     "quote": "I, too, chose to go out...to the mountains' resort for a long weekend of Buddists' Om mantra sound...hunting the eternal wise words...have a time in silence to contemplate the profound concepts of universal creation and see what it does to my sense of identity...",
     "author": "Unknown",
     "authorSlug": "unknown",
@@ -1356,7 +1572,7 @@
     "source": ""
   },
   {
-    "id": "q106",
+    "id": "q124",
     "quote": "Listen with an open heart",
     "author": "William O'Brien",
     "authorSlug": "william-o-brien",
@@ -1371,7 +1587,7 @@
     "source": ""
   },
   {
-    "id": "q108",
+    "id": "q126",
     "quote": "The greatest book is one written by your pen, but not exactly from your mind.",
     "author": "Michael Bassey Johnson",
     "authorSlug": "michael-bassey-johnson",
@@ -1386,7 +1602,7 @@
     "source": ""
   },
   {
-    "id": "q109",
+    "id": "q127",
     "quote": "Life on earth can never be fully understood. Life and all it holds is too big for humans to understand. There is the possibility for more joy than they ever comprehend and there is the same possibility of pain and suffering. Humans have embraced pain and sorrow much more fully than they have embraced joy. This why the world suffers.",
     "author": "Jan Krause Greene",
     "authorSlug": "jan-krause-greene",
@@ -1399,7 +1615,7 @@
     "source": "I Call Myself Earth Girl"
   },
   {
-    "id": "q110",
+    "id": "q128",
     "quote": "The feeling cannot be described in words, it's mystical; I am changing. Perhaps the soul needed silence so that it can shout to hear the echo from the walls of my heart. It did heard something, Sufism!",
     "author": "Dr. S.U.A.H Syed",
     "authorSlug": "dr-s-u-a-h-syed",
@@ -1411,7 +1627,7 @@
     "source": ""
   },
   {
-    "id": "q111",
+    "id": "q129",
     "quote": "God was something I did not understand the way kids who went to church did. They said God was a man in the sky with white hair and a beard like Santa. This seemed strange to me. When I thought of God, I imagined only mist over the pond, a sliver of moon in a dark sky, scatterings of stars, birdsong.",
     "author": "Melissa Coleman",
     "authorSlug": "melissa-coleman",
@@ -1424,7 +1640,7 @@
     "source": "This Life Is in Your Hands: One Dream, Sixty Acres, and a Family Undone"
   },
   {
-    "id": "q112",
+    "id": "q130",
     "quote": "To standing in the bow wind with no charted course.\" Clay Mitchell, \"Half-Past Eternity\" book II \"Eterna\".",
     "author": "Clay Mitchell",
     "authorSlug": "clay-mitchell",
@@ -1435,7 +1651,7 @@
     "source": ""
   },
   {
-    "id": "q113",
+    "id": "q131",
     "quote": "Every great man is an idol, an oracle of inquiry. Don't aspire to know the former, but aspire to know the diety in his soul.",
     "author": "Michael Bassey Johnson",
     "authorSlug": "michael-bassey-johnson",
@@ -1450,7 +1666,7 @@
     "source": ""
   },
   {
-    "id": "q114",
+    "id": "q132",
     "quote": "If the sun rolled back like an eye, it would see the mind of God.",
     "author": "Cecilia Llompart",
     "authorSlug": "cecilia-llompart",
@@ -1463,7 +1679,7 @@
     "source": "The Wingless"
   },
   {
-    "id": "q115",
+    "id": "q133",
     "quote": "The words kept coming back to him, statement of a mystical truth and a palpable absurdity.",
     "author": "George Orwell",
     "authorSlug": "george-orwell",
@@ -1475,7 +1691,7 @@
     "source": "1984"
   },
   {
-    "id": "q116",
+    "id": "q134",
     "quote": "Jobs had begun to drop acid by then, and he turned Brennan on to it as well, in a wheat field just outside Sunnyvale. \"It was great,\" he recalled. \"I had been listening to a lot of Bach. All of a sudden the whole field was playing Bach. It was the most wonderful feeling of my life up to that point. I felt like the conductor of this symphony with Bach coming through the wheat.",
     "author": "Walter Isaacson",
     "authorSlug": "walter-isaacson",
@@ -1490,7 +1706,7 @@
     "source": "Steve Jobs"
   },
   {
-    "id": "q117",
+    "id": "q135",
     "quote": "The hands of blue time united into the mast of a sailboat. And I was captain on that deck of shadows, at the helm, I, too, a shadow resisting impermanence, asking: Is all or any of it real or am I writing myself into a mystery?",
     "author": "Maria-Cristina Necula",
     "authorSlug": "maria-cristina-necula",
@@ -1503,7 +1719,7 @@
     "source": "Evanescent"
   },
   {
-    "id": "q118",
+    "id": "q136",
     "quote": "For while the individual currents were volatile the totality of them were omniscient and the intrinsic flow knew only the way of destiny.",
     "author": "Casey Fisher",
     "authorSlug": "casey-fisher",
@@ -1518,7 +1734,7 @@
     "source": "The Subtle Cause"
   },
   {
-    "id": "q119",
+    "id": "q137",
     "quote": "The hands of blue time united the mast of a sailboat. And I was captain on that deck of shadows, at the helm, I, too, a shadow resisting impermanence, asking: Is all or any of it real or am I riding myself into a mystery?",
     "author": "Maria-Cristina Necula",
     "authorSlug": "maria-cristina-necula",
@@ -1530,7 +1746,7 @@
     "source": "Evanescent"
   },
   {
-    "id": "q120",
+    "id": "q138",
     "quote": "The hands of blue time united the mast of a sailboat. And I was captain on that deck of shadows, at the helm, I, too, a shadow resisting impermanence, asking: Is all or any of it real or am I writing myself into a mystery?",
     "author": "Maria-Cristina Necula",
     "authorSlug": "maria-cristina-necula",
@@ -1542,7 +1758,7 @@
     "source": "Evanescent"
   },
   {
-    "id": "q121",
+    "id": "q139",
     "quote": "There are moments when silence becomes a scripture, and the heart becomes its only prophet",
     "author": "Roy Joseph Nasrallah",
     "authorSlug": "roy-joseph-nasrallah",
@@ -1553,7 +1769,7 @@
     "source": "THE FIRST COLLAPSE: How the World Began to End"
   },
   {
-    "id": "q122",
+    "id": "q140",
     "quote": "Who doesn’t want to feel bliss? We all do. But if it’s for reasons other than to experience heightened awareness, then we will continue to desperately desire bliss to fill a deep, gaping hole in our souls.",
     "author": "Ora Nadrich",
     "authorSlug": "ora-nadrich",
@@ -1567,7 +1783,7 @@
     "source": "Mindfulness and Mysticism: Connecting Present Moment Awareness with Higher States of Consciousness"
   },
   {
-    "id": "q123",
+    "id": "q141",
     "quote": "What was exorcised was the Machine not the Ghost.",
     "author": "Noam Chomsky",
     "authorSlug": "noam-chomsky",
@@ -1581,7 +1797,7 @@
     "source": ""
   },
   {
-    "id": "q125",
+    "id": "q143",
     "quote": "The ferry left on time…. The splash of the waters and the rumble of the engine kept such a steady drumbeat that these sounds accentuated the silence around me. Maybe in Crete, Rhea, Mother Earth, would define my destiny but I insisted it wasn’t going to be what my parents were like. I watched the stars drift by until I dozed off.",
     "author": "Tim Scott",
     "authorSlug": "tim-scott",
@@ -1596,7 +1812,7 @@
     "source": "Driving Toward Destiny"
   },
   {
-    "id": "q127",
+    "id": "q145",
     "quote": "Beautiful women can be like dynamite,” (I said to Paul.)… “Now, now. There’s nothing wrong with dynamite if it’s treated right,",
     "author": "Tim Scott",
     "authorSlug": "tim-scott",
@@ -1611,7 +1827,7 @@
     "source": "Driving Toward Destiny"
   },
   {
-    "id": "q128",
+    "id": "q146",
     "quote": "But along with the feeling of ineffability, the conviction that some profound objective truth has been disclosed to you is a hallmark of the mystical experience, regardless of whether it has been occasioned by a drug, meditation, fasting, flagellation, or sensory deprivation. William James gave a name to this conviction: the noetic quality. People feel they have been let in on a deep secret of the universe, and they cannot be shaken from that conviction.",
     "author": "Michael Pollan",
     "authorSlug": "michael-pollan",
@@ -1623,7 +1839,7 @@
     "source": "How to Change Your Mind: The New Science of Psychedelics"
   },
   {
-    "id": "q129",
+    "id": "q147",
     "quote": "By repeatedly losing worthy battles with the self, I gain a sense of faithful mysticism that a person’s realizes whenever his or her paltry earthly reality fails to match up their quixotic notions.",
     "author": "Kilroy J. Oldster",
     "authorSlug": "kilroy-j-oldster",
@@ -1638,7 +1854,7 @@
     "source": "Dead Toad Scrolls"
   },
   {
-    "id": "q130",
+    "id": "q148",
     "quote": "We know very well how to operate the machines on which our futures depend yet we rarely know how they operate—our knowledge of the internal workings of the machines is almost mystical.",
     "author": "Donald stabile",
     "authorSlug": "donald-stabile",
@@ -1650,7 +1866,7 @@
     "source": "Prophets of Order"
   },
   {
-    "id": "q131",
+    "id": "q149",
     "quote": "Yet the machines we encounter remain symbols of a vast human confusion and uneasiness that often skulks through the dim corridors of our thoughts about our life conditions. We know very well how to operate the machines on which our futures depend yet we rarely know how they operate—our knowledge of the internal workings of the machines is almost mystical.",
     "author": "Donald stabile",
     "authorSlug": "donald-stabile",
@@ -1662,7 +1878,7 @@
     "source": "Prophets of Order"
   },
   {
-    "id": "q132",
+    "id": "q150",
     "quote": "Our ‘learned instinct’ is also called ‘consciousness’, ‘voice of conscience’, ‘inner voice’ or the ‘voice of the soul’ or simply ‘common sense’. Our conscience is thus not a mystical entity, but something which is developed due to the environment of our upbringing.",
     "author": "Awdhesh Singh",
     "authorSlug": "awdhesh-singh",
@@ -1675,7 +1891,7 @@
     "source": "Myths are Real, Reality is a Myth"
   },
   {
-    "id": "q133",
+    "id": "q151",
     "quote": "The plain vanilla reality is all too boring for us, and we invent the mystical to entertain us.",
     "author": "Rajesh`",
     "authorSlug": "rajesh",
@@ -1685,7 +1901,7 @@
     "source": "Random Cosmos"
   },
   {
-    "id": "q134",
+    "id": "q152",
     "quote": "Jack's voice was heavy with the tingling awe he sometimes felt when a part of a story he’d thrown in on a whim later proved important in an unexpected way. At times like those he honestly wondered if the thing he called inspiration wasn’t something else, something alive, speaking through his pen.",
     "author": "Vincent H. O'Neil",
     "authorSlug": "vincent-h-o-neil",
@@ -1700,7 +1916,7 @@
     "source": "Death Troupe"
   },
   {
-    "id": "q135",
+    "id": "q153",
     "quote": "The gravitational pull of the mystical is stronger than that of gravity.",
     "author": "Rajesh`",
     "authorSlug": "rajesh",
@@ -1710,7 +1926,7 @@
     "source": ""
   },
   {
-    "id": "q136",
+    "id": "q154",
     "quote": "There are, indeed, things that cannot be put into words. They make themselves manifest. They are what is mystical.",
     "author": "Ludwig Wittgenstein",
     "authorSlug": "ludwig-wittgenstein",
@@ -1721,7 +1937,7 @@
     "source": "Tractatus Logico-Philosophicus"
   },
   {
-    "id": "q137",
+    "id": "q155",
     "quote": "6.4321 The facts all contribute only to setting the problem, not to its solution. 6.44 It is not how things are in the world that is mystical, but that it exists. 6.45 To view the world sub specie aeterni is to view it as a whole - a limited whole. Feeling the world as a limited whole - it is this that is mystical.",
     "author": "Ludwig Wittgenstein",
     "authorSlug": "ludwig-wittgenstein",
@@ -1734,7 +1950,7 @@
     "source": "Tractatus Logico-Philosophicus"
   },
   {
-    "id": "q138",
+    "id": "q156",
     "quote": "It is now how things are in the world that is mystical, but that it (the world) exists at all.....",
     "author": "Ludwig Wittgenstein",
     "authorSlug": "ludwig-wittgenstein",
@@ -1745,7 +1961,7 @@
     "source": ""
   },
   {
-    "id": "q139",
+    "id": "q157",
     "quote": "Keep in mind my friend, if an answer is not rational, then it is not an answer, but a delusion.",
     "author": "Abhijit Naskar",
     "authorSlug": "abhijit-naskar",
@@ -1760,7 +1976,7 @@
     "source": "Human Making is Our Mission: A Treatise on Parenting"
   },
   {
-    "id": "q140",
+    "id": "q158",
     "quote": "Psychics, astrology, tarot cards - all these mystical non-sense are signs of a weak mind. Whenever such garbage starts grabbing hold of you, seek the help of a physician or therapist.",
     "author": "Abhijit Naskar",
     "authorSlug": "abhijit-naskar",
@@ -1775,7 +1991,7 @@
     "source": ""
   },
   {
-    "id": "q142",
+    "id": "q160",
     "quote": "Leave some mystery to the world and they will remember you forever.",
     "author": "Amit Kalantri",
     "authorSlug": "amit-kalantri",
@@ -1790,7 +2006,7 @@
     "source": ""
   },
   {
-    "id": "q143",
+    "id": "q161",
     "quote": "Water runs if you try to grasp it, but pours onto an open hand.",
     "author": "The Silver Elves",
     "authorSlug": "the-silver-elves",
@@ -1805,7 +2021,7 @@
     "source": "The Elven Way: The Magical Path of the Shining Ones"
   },
   {
-    "id": "q144",
+    "id": "q162",
     "quote": "Some people don't want to take time to differentiate between what is mystical and the truth; and what is cultural and biblical. Don't be lazy!",
     "author": "Assegid Habtewold",
     "authorSlug": "assegid-habtewold",
@@ -1817,7 +2033,7 @@
     "source": ""
   },
   {
-    "id": "q145",
+    "id": "q163",
     "quote": "This is no ordinary gallery; a stellar infinity impeccably well-organized to harbor spontaneity.",
     "author": "Laurie Perez",
     "authorSlug": "laurie-perez",
@@ -1829,7 +2045,7 @@
     "source": "The Look of Amie Martine"
   },
   {
-    "id": "q147",
+    "id": "q165",
     "quote": "I am the witch of my mystical world.",
     "author": "Usha Cosmico",
     "authorSlug": "usha-cosmico",
@@ -1843,7 +2059,7 @@
     "source": ""
   },
   {
-    "id": "q148",
+    "id": "q166",
     "quote": "Darkness can inspire light, and light can inspire darkness, its just a difference of distant of these two contrasting forces.",
     "author": "Michael Bassey Johnson",
     "authorSlug": "michael-bassey-johnson",
@@ -1858,7 +2074,7 @@
     "source": ""
   },
   {
-    "id": "q150",
+    "id": "q168",
     "quote": "It wasn't exactly love at first sight, but it was deeper than that. A sense of belonging to a place I never knew I wanted but somehow always needed. It was a home that carried a heartbeat.",
     "author": "Nikki Rowe",
     "authorSlug": "nikki-rowe",
@@ -1873,7 +2089,7 @@
     "source": ""
   },
   {
-    "id": "q151",
+    "id": "q169",
     "quote": "Like the moon shining bright Up high with all its grace, I can only show you at night And hide half of my face.",
     "author": "Ana Claudia Antunes",
     "authorSlug": "ana-claudia-antunes",
@@ -1888,7 +2104,7 @@
     "source": "Pierrot & Columbine"
   },
   {
-    "id": "q152",
+    "id": "q170",
     "quote": "As in most fairy tales, there's a prince and a princess, dragons and some magic, and the feeling it gives you that anything is possible if we could stay this way forever.",
     "author": "Crystal Woods",
     "authorSlug": "crystal-woods",
@@ -1903,7 +2119,7 @@
     "source": "Write like no one is reading"
   },
   {
-    "id": "q153",
+    "id": "q171",
     "quote": "I now wear the memory of nothingness a piece of white sail wrapped like second skin.",
     "author": "Helene Cardona",
     "authorSlug": "helene-cardona",
@@ -1918,7 +2134,7 @@
     "source": "Life in Suspension: La Vie Suspendue"
   },
   {
-    "id": "q154",
+    "id": "q172",
     "quote": "Doost\", Ahmed voiced. \"Doost\",he repeated softly,shutting his eyes. The word felt like a caress. \"what does it mean?\" 'It means \"The Friend\",\"The One I Love\",\"the One I Long For\".",
     "author": "Muriel Maufroy",
     "authorSlug": "muriel-maufroy",
@@ -1933,7 +2149,7 @@
     "source": "Rumi's Daughter"
   },
   {
-    "id": "q155",
+    "id": "q173",
     "quote": "I become ocean, mercury, silver shimmers, fairy tales, fascinated.",
     "author": "Helene Cardona",
     "authorSlug": "helene-cardona",
@@ -1948,7 +2164,7 @@
     "source": "Life in Suspension: La Vie Suspendue"
   },
   {
-    "id": "q156",
+    "id": "q174",
     "quote": "Galaxies swirl within your eyes, And I, I find myself mesmerized, By the stardust clinging to your lips, And the mystical thrill of your fingertips.",
     "author": "Frances Woodard",
     "authorSlug": "frances-woodard",
@@ -1963,7 +2179,7 @@
     "source": "Strings of Fate"
   },
   {
-    "id": "q157",
+    "id": "q175",
     "quote": "Love is the quiet place where the soul finally stops searching… because it knows it has arrived.\" — Deo Volente",
     "author": "DEO VOLENTE",
     "authorSlug": "deo-volente",
@@ -1978,7 +2194,7 @@
     "source": "THE PULSE OF THE UNISOUL VOLUME-I"
   },
   {
-    "id": "q158",
+    "id": "q176",
     "quote": "When your light touches my shadow, my silence begins to bloom.",
     "author": "DEO VOLENTE",
     "authorSlug": "deo-volente",
@@ -1991,7 +2207,7 @@
     "source": "THE PULSE OF THE UNISOUL VOLUME-I"
   },
   {
-    "id": "q159",
+    "id": "q177",
     "quote": "Sometimes she thought Murphy’s Law applied to her and her alone.",
     "author": "Diane L. Kowalyshyn",
     "authorSlug": "diane-l-kowalyshyn",
@@ -2006,7 +2222,7 @@
     "source": "Stage Fright"
   },
   {
-    "id": "q160",
+    "id": "q178",
     "quote": "What can I get you? A glass of water? A gun to shoot me with?",
     "author": "Diane L. Kowalyshyn",
     "authorSlug": "diane-l-kowalyshyn",
@@ -2021,7 +2237,7 @@
     "source": "Stage Fright"
   },
   {
-    "id": "q161",
+    "id": "q179",
     "quote": "The road to recovery had been riddled with potholes.",
     "author": "Diane L. Kowalyshyn",
     "authorSlug": "diane-l-kowalyshyn",
@@ -2036,7 +2252,7 @@
     "source": "Stage Fright"
   },
   {
-    "id": "q162",
+    "id": "q180",
     "quote": "When her bottom lip quivered, the ice around his heart instantly melted.",
     "author": "Diane L. Kowalyshyn",
     "authorSlug": "diane-l-kowalyshyn",
@@ -2051,7 +2267,7 @@
     "source": "Stage Fright"
   },
   {
-    "id": "q163",
+    "id": "q181",
     "quote": "She had this spark in her chocolate eyes as she spoke about it. She had something mystical about her voice perhaps, or maybe the way she spoke.",
     "author": "Ipsita Upasana",
     "authorSlug": "ipsita-upasana",
@@ -2065,7 +2281,7 @@
     "source": "Inexplicable Distances"
   },
   {
-    "id": "q164",
+    "id": "q182",
     "quote": "In darkness, love can sleep too deep, but it can never die In light, love can blind its sight, but it can never lie",
     "author": "Tavisha Sh",
     "authorSlug": "tavisha-sh",
@@ -2079,7 +2295,7 @@
     "source": "What line?"
   },
   {
-    "id": "q165",
+    "id": "q183",
     "quote": "We lived a moment without wishes.",
     "author": "Pratik Mishra",
     "authorSlug": "pratik-mishra",
@@ -2094,7 +2310,7 @@
     "source": "A Thousand Places"
   },
   {
-    "id": "q166",
+    "id": "q184",
     "quote": "We think we meet someone with our eyes When we actually meet them with our soul",
     "author": "Mimi Novic",
     "authorSlug": "mimi-novic",
@@ -2109,7 +2325,7 @@
     "source": "Your Light Is The Key"
   },
   {
-    "id": "q167",
+    "id": "q185",
     "quote": "But I’d never be one to blame the sun for setting me on fire if I was the one insistent on moving too close And I’d be a fool just like you if I thought it could dim itself to match the lust you maimed right into love",
     "author": "Tavisha Sh",
     "authorSlug": "tavisha-sh",
@@ -2122,7 +2338,7 @@
     "source": "I tell myself, it's the enticing lull of the moon and her shadow"
   },
   {
-    "id": "q168",
+    "id": "q186",
     "quote": "Love is a Person Who wants to be known.",
     "author": "Catherine Toon",
     "authorSlug": "catherine-toon",
@@ -2136,7 +2352,7 @@
     "source": "Marked by Love: Unveiling the Substance of Your True Identity"
   },
   {
-    "id": "q169",
+    "id": "q187",
     "quote": "Love is naked and unashamed and infinitely assessable to the world He gave Himself up for.",
     "author": "Catherine Toon",
     "authorSlug": "catherine-toon",
@@ -2151,7 +2367,7 @@
     "source": "Marked by Love: Unveiling the Substance of Your True Identity"
   },
   {
-    "id": "q170",
+    "id": "q188",
     "quote": "God doesn't start out tasting like tutti-frutti and end up tasting like stinky socks...Love is good and love tastes like good.",
     "author": "Catherine Toon",
     "authorSlug": "catherine-toon",
@@ -2165,7 +2381,7 @@
     "source": "Marked by Love: Unveiling the Substance of Your True Identity"
   },
   {
-    "id": "q171",
+    "id": "q189",
     "quote": "You listen to the silence drawn on the ashes of ancient sacrifices.",
     "author": "Helene Cardona",
     "authorSlug": "helene-cardona",
@@ -2180,7 +2396,7 @@
     "source": "Life in Suspension: La Vie Suspendue"
   },
   {
-    "id": "q172",
+    "id": "q190",
     "quote": "We packed whole lives into bundles in search of what chooses us, what wants to come back to the surface, what needs to be said. We had so many dreams we didn’t know what to make of them.",
     "author": "Helene Cardona",
     "authorSlug": "helene-cardona",
@@ -2195,7 +2411,7 @@
     "source": "Life in Suspension: La Vie Suspendue"
   },
   {
-    "id": "q173",
+    "id": "q191",
     "quote": "On the wall of time to come a window appears. I open it, let angels in.",
     "author": "Helene Cardona",
     "authorSlug": "helene-cardona",
@@ -2210,7 +2426,7 @@
     "source": "Life in Suspension: La Vie Suspendue"
   },
   {
-    "id": "q174",
+    "id": "q192",
     "quote": "I hear my mother’s voice echo you’re all the sunlight that’s ever been in my life.",
     "author": "Helene Cardona",
     "authorSlug": "helene-cardona",
@@ -2225,7 +2441,7 @@
     "source": "Life in Suspension: La Vie Suspendue"
   },
   {
-    "id": "q175",
+    "id": "q193",
     "quote": "you are here. the moontides are here. and that’s all that matters.",
     "author": "Sanober Khan",
     "authorSlug": "sanober-khan",
@@ -2240,7 +2456,7 @@
     "source": ""
   },
   {
-    "id": "q176",
+    "id": "q194",
     "quote": "We must avoid possession,\" he said. \"But, oh, let me kiss you.",
     "author": "Anaïs Nin",
     "authorSlug": "ana-s-nin",
@@ -2255,7 +2471,7 @@
     "source": ""
   },
   {
-    "id": "q177",
+    "id": "q195",
     "quote": "Sometimes, we expect life to work a certain way and when it doesn’t we blame others or see it as a sign, rather than face the pain of the choices we should or shouldn’t have made. Real healing won’t begin until we stop saying, “God prevented this or that.",
     "author": "Shannon L. Alder",
     "authorSlug": "shannon-l-alder",
@@ -2270,7 +2486,7 @@
     "source": ""
   },
   {
-    "id": "q178",
+    "id": "q196",
     "quote": "Twin flame love is raw, real and rare ~ it comes when we least expect, can't understand nor have the patience to accept it, than its gone & the true test of fate starts to play. A bond built amongst the stars can't be tampered by an earthly experience, trust the distance, twin flames always meet again.",
     "author": "Nikki Rowe",
     "authorSlug": "nikki-rowe",
@@ -2285,7 +2501,7 @@
     "source": ""
   },
   {
-    "id": "q179",
+    "id": "q197",
     "quote": "A mystical symphony permeates my senses and a holy lullaby embraces me.",
     "author": "Earthschool Harmony",
     "authorSlug": "earthschool-harmony",
@@ -2300,7 +2516,7 @@
     "source": "Back To Grace: Spiritual Poetry & Reflections"
   },
   {
-    "id": "q180",
+    "id": "q198",
     "quote": "This continuos loop of Love Divine, like an Angel, sublime yet blind.",
     "author": "Ansul Noor",
     "authorSlug": "ansul-noor",
@@ -2314,7 +2530,7 @@
     "source": ""
   },
   {
-    "id": "q181",
+    "id": "q199",
     "quote": "Love is the substance with which God created the omniverse.",
     "author": "Stefan Emunds",
     "authorSlug": "stefan-emunds",
@@ -2329,7 +2545,7 @@
     "source": ""
   },
   {
-    "id": "q182",
+    "id": "q200",
     "quote": "I will not just love you till death.I will love you for eternity,this life and the next.",
     "author": "Duha Zanjabil",
     "authorSlug": "duha-zanjabil",
@@ -2344,7 +2560,7 @@
     "source": ""
   },
   {
-    "id": "q183",
+    "id": "q201",
     "quote": "Here, Earth-born, over the lilt of the water, Lisping its music and bearing a burden of light, Bosoming day as a laughing and radiant daughter… Here we may whisper unheard, unafraid of the night. Walking alone…was it splendor, or what, we were bound with? Deep in the time when summer lets down her hair? Shadows we loved and the patterns they covered the ground with Tapestries, mystical, faint in the breathless air.",
     "author": "F. Scott Fitzgerald",
     "authorSlug": "f-scott-fitzgerald",
@@ -2359,7 +2575,7 @@
     "source": "This Side of Paradise"
   },
   {
-    "id": "q184",
+    "id": "q202",
     "quote": "The fantasized kiss was stolen time from the dreams…",
     "author": "Shannon A. Thompson",
     "authorSlug": "shannon-a-thompson",
@@ -2374,7 +2590,7 @@
     "source": "Seconds Before Sunrise"
   },
   {
-    "id": "q185",
+    "id": "q203",
     "quote": "Life is so outrageous I could not have imagined it, made all the sweeter because it cannot last. It is all about today. Today is the best day ever because tomorrow might not happen.",
     "author": "Hendri Coetzee",
     "authorSlug": "hendri-coetzee",
@@ -2389,7 +2605,7 @@
     "source": "Living the Best Day Ever"
   },
   {
-    "id": "q186",
+    "id": "q204",
     "quote": "Love, be mystical as the flickering blue flame of night as the fully-awoken moon beneath cobwebs of passing clouds amidst chanting high-tides fuzzy, as my blanket big enough to illuminate a hundred thousand billion galaxies and just small enough to fit into my embrace.",
     "author": "Sanober Khan",
     "authorSlug": "sanober-khan",
@@ -2404,7 +2620,7 @@
     "source": "Turquoise Silence"
   },
   {
-    "id": "q187",
+    "id": "q205",
     "quote": "WINTER'S GHOST: Autumn moon incautious in the dark river Winter’s ghost walks with a covered face and silver bones wait in all animals to be bone cloth upon her shoulder wait for her happiness in that they are silver",
     "author": "Tamara Rendell",
     "authorSlug": "tamara-rendell",
@@ -2419,7 +2635,7 @@
     "source": "Mystical Tides"
   },
   {
-    "id": "q188",
+    "id": "q206",
     "quote": "Dreams are like the old stories where wolves are seekers always running, and women carry fire in their bare hands and light the dark paths before them. Old stories hold that the birds will fly all the miles of the world to tell your secrets to the rising moon, and men will walk over oceans of ice to find one truth.",
     "author": "Tamara Rendell",
     "authorSlug": "tamara-rendell",
@@ -2434,7 +2650,7 @@
     "source": "Mystical Tides"
   },
   {
-    "id": "q189",
+    "id": "q207",
     "quote": "Marco could not have known about the mystical effect of a full moon on cats and books left on their own in the library. Not until he saw the lines breathe, the words unveiled.",
     "author": "Rahma Krambo",
     "authorSlug": "rahma-krambo",
@@ -2448,7 +2664,7 @@
     "source": "Guardian Cats and the Lost Books of Alexandria"
   },
   {
-    "id": "q190",
+    "id": "q208",
     "quote": "In the silence between worlds, echoes the power of the Universe, where destiny whispers and paths converge",
     "author": "Hellevi E. Woodman",
     "authorSlug": "hellevi-e-woodman",
@@ -2459,7 +2675,7 @@
     "source": "Voice of The Portals I: The First Gateway"
   },
   {
-    "id": "q191",
+    "id": "q209",
     "quote": "In the wisdom of Celtic shamans, a profound truth resonates; nothing is ever truly lost but transforms, perpetuating the eternal circle of life. As water rises as vapor, it falls as rain. From flames of destruction, new growth emerges. Each essence intricately woven in an endless dance of reincarnation, where shape-shifting and transmutation are natural states of existence.",
     "author": "R.M. Alwyn",
     "authorSlug": "r-m-alwyn",
@@ -2470,7 +2686,7 @@
     "source": "Raindrops of the Gods"
   },
   {
-    "id": "q192",
+    "id": "q210",
     "quote": "There is electric light in the water, There is a scorching fire in stones Nature is such a mystic, That water can burn and stone can jewel your bones",
     "author": "Ritu Negi",
     "authorSlug": "ritu-negi",
@@ -2485,7 +2701,7 @@
     "source": "Ethereal"
   },
   {
-    "id": "q194",
+    "id": "q212",
     "quote": "Body of Earth, body of woman call unto the stars Carry – as the river which carries the touch of the forest – carry Earth unto sky Enliven within my body of woman union with Earth, union with sky I am daughter of stars a clear river of light My soul, it is flowing unto body of woman, body of Earth woven with light",
     "author": "Tamara Rendell",
     "authorSlug": "tamara-rendell",
@@ -2500,7 +2716,7 @@
     "source": "Lahana: A Saga of the Savage Innocence and Power of Ancient Druidism"
   },
   {
-    "id": "q195",
+    "id": "q213",
     "quote": "I have grown tired of the articulate utterances of men and things. The mystical in art, the mystical in life, the mystical in nature, this is what I am looking for. It is absolutely necessary for me to find it somewhere.",
     "author": "Oscar Wilde",
     "authorSlug": "oscar-wilde",
@@ -2513,7 +2729,7 @@
     "source": "De Profundis"
   },
   {
-    "id": "q197",
+    "id": "q215",
     "quote": "The breath of our soul dancing into the dust of the Earth and shaping it with our soul’s artistry We are moving poetry",
     "author": "Tamara Rendell",
     "authorSlug": "tamara-rendell",
@@ -2528,7 +2744,7 @@
     "source": "Mystical Tides"
   },
   {
-    "id": "q198",
+    "id": "q216",
     "quote": "To most people down there, they seem like everything. Clouds. They seem mystical and very important. As if they carry out God’s will.",
     "author": "A.D. Aliwat",
     "authorSlug": "a-d-aliwat",
@@ -2540,7 +2756,7 @@
     "source": "In Limbo"
   },
   {
-    "id": "q199",
+    "id": "q217",
     "quote": "As on many mornings in Marin, there is this sly strip of fog - water in it's most mystical incarnation - slithering over, around, and through the hills, making everything look ancient and unsolved.",
     "author": "Jaimal Yogis",
     "authorSlug": "jaimal-yogis",
@@ -2553,7 +2769,7 @@
     "source": "Saltwater Buddha: A Surfer's Quest to Find Zen on the Sea"
   },
   {
-    "id": "q200",
+    "id": "q218",
     "quote": "There's something mystical in the air and in my heart. The weather is showing my emotions.",
     "author": "Shabnam Sinha",
     "authorSlug": "shabnam-sinha",
@@ -2565,7 +2781,7 @@
     "source": ""
   },
   {
-    "id": "q201",
+    "id": "q219",
     "quote": "Think, think … fog and storm … transported into a mystical land …” “I doubt that,",
     "author": "Ness Kingsley",
     "authorSlug": "ness-kingsley",
@@ -2576,7 +2792,7 @@
     "source": "Our Accidental Adventure"
   },
   {
-    "id": "q203",
+    "id": "q221",
     "quote": "Remember the sky ablaze at its farewell. Remember that even the falling sun is still a star. For sometimes the most mystical beauty is not found in what remains, but in what is brave enough to disappear.",
     "author": "Dark Night Beacon",
     "authorSlug": "dark-night-beacon",
@@ -2589,7 +2805,7 @@
     "source": "Beacon of the Dark Night: Shining Hope Through the Shadows"
   },
   {
-    "id": "q204",
+    "id": "q222",
     "quote": "He stumbled uncertainly after her. The encircling torch beams were drooping now slightly as if they were abdicating to this strange, quiet girl who alone in this Universe of dark confusion seemed to know what she was doing.",
     "author": "Douglas Adams",
     "authorSlug": "douglas-adams",
@@ -2600,7 +2816,7 @@
     "source": ""
   },
   {
-    "id": "q205",
+    "id": "q223",
     "quote": "Each night, your dreams come to inspire you to bring out the magic in your mind.",
     "author": "Michael Bassey Johnson",
     "authorSlug": "michael-bassey-johnson",
@@ -2615,7 +2831,7 @@
     "source": "The Oneironaut’s Diary"
   },
   {
-    "id": "q206",
+    "id": "q224",
     "quote": "lose ego, ride Light",
     "author": "Sean Coons",
     "authorSlug": "sean-coons",
@@ -2628,7 +2844,7 @@
     "source": "Body: or, How Hope Confronts Her Shadow and Calls the Flutter Girl to Flight"
   },
   {
-    "id": "q207",
+    "id": "q225",
     "quote": "My looking ripens things and they come towards me, to meet and be met.",
     "author": "Rilke",
     "authorSlug": "rilke",
@@ -2638,7 +2854,7 @@
     "source": ""
   },
   {
-    "id": "q208",
+    "id": "q226",
     "quote": "Life is a mystical and tragic thing. It is a journey often full of fear, when it ought to be full of hope. It's fascinating to look back on your life and feel as though most of it was a precursor to the rest of it; to what was always supposed to be.",
     "author": "L.K. Hill",
     "authorSlug": "l-k-hill",
@@ -2652,7 +2868,7 @@
     "source": "Citadels of Fire"
   },
   {
-    "id": "q209",
+    "id": "q227",
     "quote": "Look for her not in the valleys below, nor in the temple rooms. For she has gone, gone into the high passes, far beyond this dying moon.",
     "author": "Rebecca Carson",
     "authorSlug": "rebecca-carson",
@@ -2663,7 +2879,7 @@
     "source": "Mysterious Vortex"
   },
   {
-    "id": "q210",
+    "id": "q228",
     "quote": "Go deeper after your feelings created by your awareness and go into your heart beyond this simple word.",
     "author": "Raz Mihal",
     "authorSlug": "raz-mihal",
@@ -2678,7 +2894,7 @@
     "source": "Just Love Her"
   },
   {
-    "id": "q211",
+    "id": "q229",
     "quote": "Eternals I hear your call gladly, Dictate swift winged words, & fear not To unfold your dark visions of torment.",
     "author": "William Blake",
     "authorSlug": "william-blake",
@@ -2690,7 +2906,7 @@
     "source": "The Book of Urizen"
   },
   {
-    "id": "q212",
+    "id": "q230",
     "quote": "My heart is taken by you and these mornings since I am a horse running towards a cracked sky where there are countless dawns breaking simultaneously. There are two moons on the horizon and for you I have broken loose.",
     "author": "Joy Harjo",
     "authorSlug": "joy-harjo",
@@ -2705,7 +2921,7 @@
     "source": "She Had Some Horses"
   },
   {
-    "id": "q213",
+    "id": "q231",
     "quote": "I carry on in this island whipped by typhoons Chained to the sea as the waves Crash against the dam, and I proclaim you. I scream, until hoarse, your beloved name. —José Manuel Cardona, from Birnam Wood (Salmon Poetry, 2018), translated by Hélène Cardona",
     "author": "Unknown",
     "authorSlug": "unknown",
@@ -2720,7 +2936,7 @@
     "source": ""
   },
   {
-    "id": "q214",
+    "id": "q232",
     "quote": "There is something mystically sad and beautiful about how i will never see you again but meet you again and again in poetry.",
     "author": "Sanober Khan",
     "authorSlug": "sanober-khan",
@@ -2735,7 +2951,7 @@
     "source": "A Thousand Flamingos"
   },
   {
-    "id": "q215",
+    "id": "q233",
     "quote": "poetry. i am not writing it. (make way for me please) it is my skin. dripping with light.",
     "author": "Sanober Khan",
     "authorSlug": "sanober-khan",
@@ -2750,7 +2966,7 @@
     "source": ""
   },
   {
-    "id": "q216",
+    "id": "q234",
     "quote": "Fear has always been a very important whistleblower. Our emotion and our history can provoke fear that may arrest us at any time or at any place. Above and beyond, fear might be contagious and its scent, sometimes sensual, sometimes mystical or animal, can exude the musty and arcane smell of destiny. (\"One could still feel the smell of fear\" )",
     "author": "Erik Pevernagie",
     "authorSlug": "erik-pevernagie",
@@ -2765,7 +2981,7 @@
     "source": ""
   },
   {
-    "id": "q217",
+    "id": "q235",
     "quote": "I am that is, my sword shall wield for me.",
     "author": "Brian Jacques",
     "authorSlug": "brian-jacques",
@@ -2773,7 +2989,7 @@
     "source": "Redwall"
   },
   {
-    "id": "q218",
+    "id": "q236",
     "quote": "The mystical is not how the world is, but that it is.",
     "author": "Ludwig Wittgenstein",
     "authorSlug": "ludwig-wittgenstein",
@@ -2783,7 +2999,7 @@
     "source": ""
   },
   {
-    "id": "q219",
+    "id": "q237",
     "quote": "Duende I can't remember her name. It's not as though I've been in bed with that many women. The truth is I can't even remember her face. I kind of know how strong her thighs were, and her beauty. But what I won't forget is the way she tore open the barbecued chicken with her hands, and wiped the grease on her breasts.",
     "author": "Jack Gilbert",
     "authorSlug": "jack-gilbert",
@@ -2794,7 +3010,7 @@
     "source": ""
   },
   {
-    "id": "q221",
+    "id": "q239",
     "quote": "Your mind is going in every direction when you answer a question. It returns to you with an answer after you send it off to search the archives of your mind",
     "author": "Gwenevere Rivest",
     "authorSlug": "gwenevere-rivest",
@@ -2804,7 +3020,7 @@
     "source": ""
   },
   {
-    "id": "q222",
+    "id": "q240",
     "quote": "While mystical channeling might feel transcendent, Reich saw it as bypassing the body's real needs. This leaves energy pent-up and leading to chronic anxiety or dissociation.",
     "author": "Laurence Galian",
     "authorSlug": "laurence-galian",
@@ -2819,7 +3035,7 @@
     "source": "Crossing the Forbidden Highway: The Untold Story of Orgone, Body Therapy, and Suppressed Emotion"
   },
   {
-    "id": "q223",
+    "id": "q241",
     "quote": "We keep things to ourselves. The most profound things we keep the most to ourselves. We nurse jolts. Saying nothing. For loners, discussing the mystical deflates it like air escaping a balloon.",
     "author": "Anneli Rufus",
     "authorSlug": "anneli-rufus",
@@ -2830,7 +3046,7 @@
     "source": "Party of One: The Loner's Manifesto"
   },
   {
-    "id": "q224",
+    "id": "q242",
     "quote": "We write about what we know, what we love, and we then build a dream scenario about those facts. When I lived in northern Arizona I was living a dream existence, except it wasn't perfect. So I retold the story, but made it more exciting, and much closer to perfect.",
     "author": "D.L. Blanchard",
     "authorSlug": "d-l-blanchard",
@@ -2845,7 +3061,7 @@
     "source": "Blue Moon Bench"
   },
   {
-    "id": "q226",
+    "id": "q244",
     "quote": "Hard roads and wide will run through Raintree County. You will hunt it on the map, and it won't be there.",
     "author": "Ross Lockridge Jr.",
     "authorSlug": "ross-lockridge-jr",
@@ -2853,7 +3069,7 @@
     "source": "Raintree County"
   },
   {
-    "id": "q228",
+    "id": "q246",
     "quote": "For Raintree County is not the country of the perishable fact. It is the country of the enduring fiction. The clock in the Court House Tower on page five of the \"Raintree County Atlas\" is always fixed at nine o'clock, and it is summer and the days are long.",
     "author": "Ross Lockridge Jr.",
     "authorSlug": "ross-lockridge-jr",
@@ -2861,7 +3077,7 @@
     "source": "Raintree County"
   },
   {
-    "id": "q229",
+    "id": "q247",
     "quote": "The mystical experience is doubly valuable; it is valuable because it gives the experiencer a better understanding of himself and the world and because it may help him to lead a less self-centered and more creative life.",
     "author": "Aldous Huxley",
     "authorSlug": "aldous-huxley",
@@ -2869,7 +3085,7 @@
     "source": ""
   },
   {
-    "id": "q230",
+    "id": "q248",
     "quote": "As he spoke these words, a giant wave, just like the one in Katsushika Hokusai’s, “The Great Wave off Kanagawa,” rippled in below the lofty ledge. Chaiya saw a thousand images in a second. “Brothers!” he shouted. “Brothers! Brothers! Brothers!…” His voice echoed and vibrated through their hearts. They were all wide awake. “The presence in the cave will swallow us up,",
     "author": "Suzy Davies",
     "authorSlug": "suzy-davies",
@@ -2884,7 +3100,7 @@
     "source": "The Cave"
   },
   {
-    "id": "q231",
+    "id": "q249",
     "quote": "What is it when your former life becomes your dreams? The things you took for granted are now in that mystical realm where you can only see them with your eyes closed, ephemeral and distant.",
     "author": "Nicole Adelle Flamer",
     "authorSlug": "nicole-adelle-flamer",
@@ -2897,7 +3113,7 @@
     "source": "The Moor's Golden Helmet"
   },
   {
-    "id": "q232",
+    "id": "q250",
     "quote": "The only way to do great work is to love what you do.",
     "author": "Steve Jobs",
     "authorSlug": "steve-jobs",
@@ -2909,7 +3125,7 @@
     "source": "Stanford commencement speech, 2005"
   },
   {
-    "id": "q233",
+    "id": "q251",
     "quote": "In the middle of difficulty lies opportunity.",
     "author": "Albert Einstein",
     "authorSlug": "albert-einstein",
@@ -2921,7 +3137,7 @@
     "source": ""
   },
   {
-    "id": "q234",
+    "id": "q252",
     "quote": "It is our choices that show what we truly are, far more than our abilities.",
     "author": "J.K. Rowling",
     "authorSlug": "j-k-rowling",
@@ -2933,7 +3149,7 @@
     "source": "Harry Potter and the Chamber of Secrets"
   },
   {
-    "id": "q235",
+    "id": "q253",
     "quote": "The unexamined life is not worth living.",
     "author": "Socrates",
     "authorSlug": "socrates",
@@ -2945,7 +3161,7 @@
     "source": "Plato's Apology"
   },
   {
-    "id": "q236",
+    "id": "q254",
     "quote": "Simplicity is the ultimate sophistication.",
     "author": "Leonardo da Vinci",
     "authorSlug": "leonardo-da-vinci",
@@ -2957,7 +3173,7 @@
     "source": ""
   },
   {
-    "id": "q237",
+    "id": "q255",
     "quote": "You must be the change you wish to see in the world.",
     "author": "Mahatma Gandhi",
     "authorSlug": "mahatma-gandhi",
@@ -2969,7 +3185,7 @@
     "source": ""
   },
   {
-    "id": "q238",
+    "id": "q256",
     "quote": "I think, therefore I am.",
     "author": "René Descartes",
     "authorSlug": "ren-descartes",
@@ -2981,7 +3197,7 @@
     "source": "Discourse on the Method"
   },
   {
-    "id": "q239",
+    "id": "q257",
     "quote": "Not all those who wander are lost.",
     "author": "J.R.R. Tolkien",
     "authorSlug": "j-r-r-tolkien",
@@ -2993,7 +3209,7 @@
     "source": "The Fellowship of the Ring"
   },
   {
-    "id": "q240",
+    "id": "q258",
     "quote": "The only impossible journey is the one you never begin.",
     "author": "Tony Robbins",
     "authorSlug": "tony-robbins",
@@ -3005,7 +3221,7 @@
     "source": ""
   },
   {
-    "id": "q241",
+    "id": "q259",
     "quote": "Whatever you are, be a good one.",
     "author": "Abraham Lincoln",
     "authorSlug": "abraham-lincoln",
@@ -3017,7 +3233,7 @@
     "source": ""
   },
   {
-    "id": "q242",
+    "id": "q260",
     "quote": "The future belongs to those who believe in the beauty of their dreams.",
     "author": "Eleanor Roosevelt",
     "authorSlug": "eleanor-roosevelt",
@@ -3029,7 +3245,7 @@
     "source": ""
   },
   {
-    "id": "q243",
+    "id": "q261",
     "quote": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
     "author": "Ralph Waldo Emerson",
     "authorSlug": "ralph-waldo-emerson",
@@ -3041,7 +3257,7 @@
     "source": ""
   },
   {
-    "id": "q244",
+    "id": "q262",
     "quote": "It always seems impossible until it's done.",
     "author": "Nelson Mandela",
     "authorSlug": "nelson-mandela",
@@ -3053,7 +3269,7 @@
     "source": ""
   },
   {
-    "id": "q245",
+    "id": "q263",
     "quote": "Life is what happens when you're busy making other plans.",
     "author": "John Lennon",
     "authorSlug": "john-lennon",
@@ -3065,7 +3281,7 @@
     "source": "Beautiful Boy (Darling Boy)"
   },
   {
-    "id": "q246",
+    "id": "q264",
     "quote": "The purpose of our lives is to be happy.",
     "author": "Dalai Lama",
     "authorSlug": "dalai-lama",
@@ -3077,7 +3293,7 @@
     "source": ""
   },
   {
-    "id": "q247",
+    "id": "q265",
     "quote": "Get busy living or get busy dying.",
     "author": "Stephen King",
     "authorSlug": "stephen-king",
@@ -3089,7 +3305,7 @@
     "source": "The Shawshank Redemption"
   },
   {
-    "id": "q248",
+    "id": "q266",
     "quote": "You only live once, but if you do it right, once is enough.",
     "author": "Mae West",
     "authorSlug": "mae-west",
@@ -3101,7 +3317,7 @@
     "source": ""
   },
   {
-    "id": "q249",
+    "id": "q267",
     "quote": "Many of life's failures are people who did not realize how close they were to success when they gave up.",
     "author": "Thomas A. Edison",
     "authorSlug": "thomas-a-edison",
@@ -3113,7 +3329,7 @@
     "source": ""
   },
   {
-    "id": "q250",
+    "id": "q268",
     "quote": "If you want to live a happy life, tie it to a goal, not to people or things.",
     "author": "Albert Einstein",
     "authorSlug": "albert-einstein",
@@ -3125,7 +3341,7 @@
     "source": ""
   },
   {
-    "id": "q251",
+    "id": "q269",
     "quote": "Never let the fear of striking out keep you from playing the game.",
     "author": "Babe Ruth",
     "authorSlug": "babe-ruth",
@@ -3137,7 +3353,7 @@
     "source": ""
   },
   {
-    "id": "q252",
+    "id": "q270",
     "quote": "Money and success don't change people; they merely amplify what is already there.",
     "author": "Will Smith",
     "authorSlug": "will-smith",
@@ -3149,7 +3365,7 @@
     "source": ""
   },
   {
-    "id": "q253",
+    "id": "q271",
     "quote": "Your time is limited, so don't waste it living someone else's life.",
     "author": "Steve Jobs",
     "authorSlug": "steve-jobs",
@@ -3161,7 +3377,7 @@
     "source": "Stanford commencement speech, 2005"
   },
   {
-    "id": "q254",
+    "id": "q272",
     "quote": "Not how long, but how well you have lived is the main thing.",
     "author": "Seneca",
     "authorSlug": "seneca",
@@ -3173,7 +3389,7 @@
     "source": "Letters from a Stoic"
   },
   {
-    "id": "q255",
+    "id": "q273",
     "quote": "If life were predictable it would cease to be life, and be without flavor.",
     "author": "Eleanor Roosevelt",
     "authorSlug": "eleanor-roosevelt",
@@ -3185,7 +3401,7 @@
     "source": ""
   },
   {
-    "id": "q256",
+    "id": "q274",
     "quote": "The whole secret of a successful life is to find out what is one's destiny to do, and then do it.",
     "author": "Henry Ford",
     "authorSlug": "henry-ford",
@@ -3197,7 +3413,7 @@
     "source": ""
   },
   {
-    "id": "q257",
+    "id": "q275",
     "quote": "In order to write about life first you must live it.",
     "author": "Ernest Hemingway",
     "authorSlug": "ernest-hemingway",
@@ -3209,7 +3425,7 @@
     "source": ""
   },
   {
-    "id": "q258",
+    "id": "q276",
     "quote": "The big lesson in life, baby, is never be scared of anyone or anything.",
     "author": "Frank Sinatra",
     "authorSlug": "frank-sinatra",
@@ -3221,7 +3437,7 @@
     "source": ""
   },
   {
-    "id": "q259",
+    "id": "q277",
     "quote": "Life is what we make it, always has been, always will be.",
     "author": "Grandma Moses",
     "authorSlug": "grandma-moses",
@@ -3233,7 +3449,7 @@
     "source": ""
   },
   {
-    "id": "q260",
+    "id": "q278",
     "quote": "The unreal is more powerful than the real, because nothing is as perfect as you can imagine it.",
     "author": "Chuck Palahniuk",
     "authorSlug": "chuck-palahniuk",
@@ -3245,7 +3461,7 @@
     "source": "Diary"
   },
   {
-    "id": "q261",
+    "id": "q279",
     "quote": "Life is either a daring adventure or nothing at all.",
     "author": "Helen Keller",
     "authorSlug": "helen-keller",
