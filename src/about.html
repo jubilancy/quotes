@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>About — Quotes</title>
+<meta name="description" content="How this quote site works and how it's updated.">
+
+<script>
+  (function () {
+    var saved = localStorage.getItem("quotes-theme");
+    if (saved === "light" || saved === "dark") {
+      document.documentElement.setAttribute("data-theme", saved);
+    }
+  })();
+</script>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/sakura.css/css/sakura.css" media="screen">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Victor+Mono:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header class="site-header">
+  <p class="site-title"><a href="index.html">Quotes</a></p>
+  <nav class="site-nav" aria-label="Primary">
+    <a href="index.html">Browse</a>
+    <a href="tags.html">Tags</a>
+    <a href="sources.html">Sources</a>
+    <a href="authors.html">Authors</a>
+    <a href="about.html" aria-current="page">About</a>
+    <a href="about.html#more">More</a>
+    <button class="theme-toggle" id="theme-toggle" type="button" aria-label="Toggle light and dark mode">◐ Theme</button>
+  </nav>
+</header>
+
+<main>
+  <h1>About</h1>
+  <p>
+    This site is a small, static collection of quotes. There's no database and no server —
+    everything you see is generated ahead of time from a single CSV file and served as
+    plain HTML, CSS, and JSON.
+  </p>
+
+  <h2>How it works</h2>
+  <p>
+    Quotes live in <code>data/quotes.csv</code>, with a column each for the quote text,
+    author, comma-separated tags, and source. A small Node.js script
+    (<code>scripts/generate.js</code>) reads that file and produces:
+  </p>
+  <ul>
+    <li><code>quotes.json</code> — every quote as structured data</li>
+    <li><code>meta.json</code> — tags, sources, and authors, each with counts</li>
+  </ul>
+  <p>
+    The browse page loads <code>quotes.json</code> in the browser and filters it entirely
+    client-side — no page reloads, no backend calls.
+  </p>
+
+  <h2>How it's updated</h2>
+  <p>
+    A GitHub Actions workflow runs the generator script on every push to <code>main</code>,
+    commits the regenerated output, and deploys it to GitHub Pages. Add a row to the CSV,
+    push, and the live site updates itself within a couple of minutes.
+  </p>
+
+  <h2 id="more">More</h2>
+  <p>
+    Curious about a specific quote's context, or think one's misattributed? The
+    <a href="sources.html">Sources</a> page lists everything cited in the collection, and
+    each quote card on the <a href="index.html">Browse</a> page shows its source directly
+    when one is on file. For anything else, the project's source is on
+    <a href="https://github.com/">GitHub</a> — open an issue or a pull request with a
+    correction or addition to the CSV.
+  </p>
+</main>
+
+<footer class="site-footer">
+  <p>Generated automatically from <code>data/quotes.csv</code>. See above for how it works.</p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,362 @@
+[
+  {
+    "id": "q1",
+    "quote": "The only way to do great work is to love what you do.",
+    "author": "Steve Jobs",
+    "authorSlug": "steve-jobs",
+    "tags": [
+      "work",
+      "inspiration",
+      "career"
+    ],
+    "source": "Stanford commencement speech, 2005"
+  },
+  {
+    "id": "q2",
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "authorSlug": "albert-einstein",
+    "tags": [
+      "adversity",
+      "opportunity",
+      "wisdom"
+    ],
+    "source": ""
+  },
+  {
+    "id": "q3",
+    "quote": "It is our choices that show what we truly are, far more than our abilities.",
+    "author": "J.K. Rowling",
+    "authorSlug": "j-k-rowling",
+    "tags": [
+      "choices",
+      "identity",
+      "character"
+    ],
+    "source": "Harry Potter and the Chamber of Secrets"
+  },
+  {
+    "id": "q4",
+    "quote": "The unexamined life is not worth living.",
+    "author": "Socrates",
+    "authorSlug": "socrates",
+    "tags": [
+      "philosophy",
+      "life",
+      "wisdom"
+    ],
+    "source": "Plato's Apology"
+  },
+  {
+    "id": "q5",
+    "quote": "Simplicity is the ultimate sophistication.",
+    "author": "Leonardo da Vinci",
+    "authorSlug": "leonardo-da-vinci",
+    "tags": [
+      "simplicity",
+      "design",
+      "wisdom"
+    ],
+    "source": ""
+  },
+  {
+    "id": "q6",
+    "quote": "You must be the change you wish to see in the world.",
+    "author": "Mahatma Gandhi",
+    "authorSlug": "mahatma-gandhi",
+    "tags": [
+      "change",
+      "activism",
+      "inspiration"
+    ],
+    "source": ""
+  },
+  {
+    "id": "q7",
+    "quote": "I think, therefore I am.",
+    "author": "René Descartes",
+    "authorSlug": "ren-descartes",
+    "tags": [
+      "philosophy",
+      "existence",
+      "identity"
+    ],
+    "source": "Discourse on the Method"
+  },
+  {
+    "id": "q8",
+    "quote": "Not all those who wander are lost.",
+    "author": "J.R.R. Tolkien",
+    "authorSlug": "j-r-r-tolkien",
+    "tags": [
+      "wandering",
+      "life",
+      "adventure"
+    ],
+    "source": "The Fellowship of the Ring"
+  },
+  {
+    "id": "q9",
+    "quote": "The only impossible journey is the one you never begin.",
+    "author": "Tony Robbins",
+    "authorSlug": "tony-robbins",
+    "tags": [
+      "motivation",
+      "journey",
+      "beginnings"
+    ],
+    "source": ""
+  },
+  {
+    "id": "q10",
+    "quote": "Whatever you are, be a good one.",
+    "author": "Abraham Lincoln",
+    "authorSlug": "abraham-lincoln",
+    "tags": [
+      "character",
+      "excellence",
+      "integrity"
+    ],
+    "source": ""
+  },
+  {
+    "id": "q11",
+    "quote": "The future belongs to those who believe in the beauty of their dreams.",
+    "author": "Eleanor Roosevelt",
+    "authorSlug": "eleanor-roosevelt",
+    "tags": [
+      "dreams",
+      "future",
+      "belief"
+    ],
+    "source": ""
+  },
+  {
+    "id": "q12",
+    "quote": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
+    "author": "Ralph Waldo Emerson",
+    "authorSlug": "ralph-waldo-emerson",
+    "tags": [
+      "individuality",
+      "courage",
+      "legacy"
+    ],
+    "source": ""
+  },
+  {
+    "id": "q13",
+    "quote": "It always seems impossible until it's done.",
+    "author": "Nelson Mandela",
+    "authorSlug": "nelson-mandela",
+    "tags": [
+      "perseverance",
+      "achievement",
+      "motivation"
+    ],
+    "source": ""
+  },
+  {
+    "id": "q14",
+    "quote": "Life is what happens when you're busy making other plans.",
+    "author": "John Lennon",
+    "authorSlug": "john-lennon",
+    "tags": [
+      "life",
+      "plans",
+      "presence"
+    ],
+    "source": "Beautiful Boy (Darling Boy)"
+  },
+  {
+    "id": "q15",
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "authorSlug": "dalai-lama",
+    "tags": [
+      "happiness",
+      "purpose",
+      "life"
+    ],
+    "source": ""
+  },
+  {
+    "id": "q16",
+    "quote": "Get busy living or get busy dying.",
+    "author": "Stephen King",
+    "authorSlug": "stephen-king",
+    "tags": [
+      "life",
+      "death",
+      "motivation"
+    ],
+    "source": "The Shawshank Redemption"
+  },
+  {
+    "id": "q17",
+    "quote": "You only live once, but if you do it right, once is enough.",
+    "author": "Mae West",
+    "authorSlug": "mae-west",
+    "tags": [
+      "life",
+      "living",
+      "wisdom"
+    ],
+    "source": ""
+  },
+  {
+    "id": "q18",
+    "quote": "Many of life's failures are people who did not realize how close they were to success when they gave up.",
+    "author": "Thomas A. Edison",
+    "authorSlug": "thomas-a-edison",
+    "tags": [
+      "perseverance",
+      "failure",
+      "success"
+    ],
+    "source": ""
+  },
+  {
+    "id": "q19",
+    "quote": "If you want to live a happy life, tie it to a goal, not to people or things.",
+    "author": "Albert Einstein",
+    "authorSlug": "albert-einstein",
+    "tags": [
+      "happiness",
+      "goals",
+      "life"
+    ],
+    "source": ""
+  },
+  {
+    "id": "q20",
+    "quote": "Never let the fear of striking out keep you from playing the game.",
+    "author": "Babe Ruth",
+    "authorSlug": "babe-ruth",
+    "tags": [
+      "fear",
+      "courage",
+      "risk"
+    ],
+    "source": ""
+  },
+  {
+    "id": "q21",
+    "quote": "Money and success don't change people; they merely amplify what is already there.",
+    "author": "Will Smith",
+    "authorSlug": "will-smith",
+    "tags": [
+      "success",
+      "money",
+      "character"
+    ],
+    "source": ""
+  },
+  {
+    "id": "q22",
+    "quote": "Your time is limited, so don't waste it living someone else's life.",
+    "author": "Steve Jobs",
+    "authorSlug": "steve-jobs",
+    "tags": [
+      "time",
+      "authenticity",
+      "life"
+    ],
+    "source": "Stanford commencement speech, 2005"
+  },
+  {
+    "id": "q23",
+    "quote": "Not how long, but how well you have lived is the main thing.",
+    "author": "Seneca",
+    "authorSlug": "seneca",
+    "tags": [
+      "life",
+      "wisdom",
+      "death"
+    ],
+    "source": "Letters from a Stoic"
+  },
+  {
+    "id": "q24",
+    "quote": "If life were predictable it would cease to be life, and be without flavor.",
+    "author": "Eleanor Roosevelt",
+    "authorSlug": "eleanor-roosevelt",
+    "tags": [
+      "life",
+      "unpredictability",
+      "wisdom"
+    ],
+    "source": ""
+  },
+  {
+    "id": "q25",
+    "quote": "The whole secret of a successful life is to find out what is one's destiny to do, and then do it.",
+    "author": "Henry Ford",
+    "authorSlug": "henry-ford",
+    "tags": [
+      "destiny",
+      "purpose",
+      "work"
+    ],
+    "source": ""
+  },
+  {
+    "id": "q26",
+    "quote": "In order to write about life first you must live it.",
+    "author": "Ernest Hemingway",
+    "authorSlug": "ernest-hemingway",
+    "tags": [
+      "writing",
+      "life",
+      "experience"
+    ],
+    "source": ""
+  },
+  {
+    "id": "q27",
+    "quote": "The big lesson in life, baby, is never be scared of anyone or anything.",
+    "author": "Frank Sinatra",
+    "authorSlug": "frank-sinatra",
+    "tags": [
+      "fear",
+      "courage",
+      "life"
+    ],
+    "source": ""
+  },
+  {
+    "id": "q28",
+    "quote": "Life is what we make it, always has been, always will be.",
+    "author": "Grandma Moses",
+    "authorSlug": "grandma-moses",
+    "tags": [
+      "life",
+      "agency",
+      "choice"
+    ],
+    "source": ""
+  },
+  {
+    "id": "q29",
+    "quote": "The unreal is more powerful than the real, because nothing is as perfect as you can imagine it.",
+    "author": "Chuck Palahniuk",
+    "authorSlug": "chuck-palahniuk",
+    "tags": [
+      "imagination",
+      "reality",
+      "fiction"
+    ],
+    "source": "Diary"
+  },
+  {
+    "id": "q30",
+    "quote": "Life is either a daring adventure or nothing at all.",
+    "author": "Helen Keller",
+    "authorSlug": "helen-keller",
+    "tags": [
+      "adventure",
+      "courage",
+      "life"
+    ],
+    "source": ""
+  }
+]

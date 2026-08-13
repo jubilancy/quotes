@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Quotes</title>
+<meta name="description" content="A small collection of quotes, filterable by tag and sorted A–Z.">
+
+<!-- Theme must be set before paint to avoid flash -->
+<script>
+  (function () {
+    var saved = localStorage.getItem("quotes-theme");
+    if (saved === "light" || saved === "dark") {
+      document.documentElement.setAttribute("data-theme", saved);
+    }
+  })();
+</script>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/sakura.css/css/sakura.css" media="screen">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Victor+Mono:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header class="site-header">
+  <p class="site-title"><a href="index.html">Quotes</a></p>
+  <nav class="site-nav" aria-label="Primary">
+    <a href="index.html" aria-current="page">Browse</a>
+    <a href="tags.html">Tags</a>
+    <a href="sources.html">Sources</a>
+    <a href="authors.html">Authors</a>
+    <a href="about.html">About</a>
+    <a href="about.html#more">More</a>
+    <button class="theme-toggle" id="theme-toggle" type="button" aria-label="Toggle light and dark mode">◐ Theme</button>
+  </nav>
+</header>
+
+<main>
+  <p class="page-lede">Filter by tag, sort A–Z, and narrow by author — filters combine together.</p>
+
+  <div class="filter-bar">
+    <div class="filter-row" id="tag-filter-row">
+      <span class="filter-label">Tags</span>
+      <!-- tag chips injected by app.js -->
+    </div>
+
+    <div class="filter-row">
+      <span class="filter-label">Sort</span>
+      <select class="sort-select" id="sort-select">
+        <option value="none">Default order</option>
+        <option value="author-asc">Author A → Z</option>
+        <option value="author-desc">Author Z → A</option>
+        <option value="quote-asc">Quote text A → Z</option>
+        <option value="quote-desc">Quote text Z → A</option>
+      </select>
+
+      <span class="filter-label">Author</span>
+      <select class="author-select" id="author-select">
+        <option value="">All authors</option>
+        <!-- authors injected by app.js -->
+      </select>
+
+      <button class="clear-filters" id="clear-filters" type="button">Clear filters</button>
+    </div>
+
+    <p class="results-count" id="results-count" role="status" aria-live="polite"></p>
+  </div>
+
+  <div class="quote-list" id="quote-list">
+    <!-- quote cards injected by app.js -->
+  </div>
+</main>
+
+<footer class="site-footer">
+  <p>Generated automatically from <code>data/quotes.csv</code>. See <a href="about.html">About</a> for how it works.</p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

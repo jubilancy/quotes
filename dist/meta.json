@@ -1,0 +1,460 @@
+{
+  "generatedAt": "2026-08-13T20:25:56.813Z",
+  "totalQuotes": 30,
+  "tags": [
+    {
+      "name": "achievement",
+      "slug": "achievement",
+      "count": 1
+    },
+    {
+      "name": "activism",
+      "slug": "activism",
+      "count": 1
+    },
+    {
+      "name": "adventure",
+      "slug": "adventure",
+      "count": 2
+    },
+    {
+      "name": "adversity",
+      "slug": "adversity",
+      "count": 1
+    },
+    {
+      "name": "agency",
+      "slug": "agency",
+      "count": 1
+    },
+    {
+      "name": "authenticity",
+      "slug": "authenticity",
+      "count": 1
+    },
+    {
+      "name": "beginnings",
+      "slug": "beginnings",
+      "count": 1
+    },
+    {
+      "name": "belief",
+      "slug": "belief",
+      "count": 1
+    },
+    {
+      "name": "career",
+      "slug": "career",
+      "count": 1
+    },
+    {
+      "name": "change",
+      "slug": "change",
+      "count": 1
+    },
+    {
+      "name": "character",
+      "slug": "character",
+      "count": 3
+    },
+    {
+      "name": "choice",
+      "slug": "choice",
+      "count": 1
+    },
+    {
+      "name": "choices",
+      "slug": "choices",
+      "count": 1
+    },
+    {
+      "name": "courage",
+      "slug": "courage",
+      "count": 4
+    },
+    {
+      "name": "death",
+      "slug": "death",
+      "count": 2
+    },
+    {
+      "name": "design",
+      "slug": "design",
+      "count": 1
+    },
+    {
+      "name": "destiny",
+      "slug": "destiny",
+      "count": 1
+    },
+    {
+      "name": "dreams",
+      "slug": "dreams",
+      "count": 1
+    },
+    {
+      "name": "excellence",
+      "slug": "excellence",
+      "count": 1
+    },
+    {
+      "name": "existence",
+      "slug": "existence",
+      "count": 1
+    },
+    {
+      "name": "experience",
+      "slug": "experience",
+      "count": 1
+    },
+    {
+      "name": "failure",
+      "slug": "failure",
+      "count": 1
+    },
+    {
+      "name": "fear",
+      "slug": "fear",
+      "count": 2
+    },
+    {
+      "name": "fiction",
+      "slug": "fiction",
+      "count": 1
+    },
+    {
+      "name": "future",
+      "slug": "future",
+      "count": 1
+    },
+    {
+      "name": "goals",
+      "slug": "goals",
+      "count": 1
+    },
+    {
+      "name": "happiness",
+      "slug": "happiness",
+      "count": 2
+    },
+    {
+      "name": "identity",
+      "slug": "identity",
+      "count": 2
+    },
+    {
+      "name": "imagination",
+      "slug": "imagination",
+      "count": 1
+    },
+    {
+      "name": "individuality",
+      "slug": "individuality",
+      "count": 1
+    },
+    {
+      "name": "inspiration",
+      "slug": "inspiration",
+      "count": 2
+    },
+    {
+      "name": "integrity",
+      "slug": "integrity",
+      "count": 1
+    },
+    {
+      "name": "journey",
+      "slug": "journey",
+      "count": 1
+    },
+    {
+      "name": "legacy",
+      "slug": "legacy",
+      "count": 1
+    },
+    {
+      "name": "life",
+      "slug": "life",
+      "count": 14
+    },
+    {
+      "name": "living",
+      "slug": "living",
+      "count": 1
+    },
+    {
+      "name": "money",
+      "slug": "money",
+      "count": 1
+    },
+    {
+      "name": "motivation",
+      "slug": "motivation",
+      "count": 3
+    },
+    {
+      "name": "opportunity",
+      "slug": "opportunity",
+      "count": 1
+    },
+    {
+      "name": "perseverance",
+      "slug": "perseverance",
+      "count": 2
+    },
+    {
+      "name": "philosophy",
+      "slug": "philosophy",
+      "count": 2
+    },
+    {
+      "name": "plans",
+      "slug": "plans",
+      "count": 1
+    },
+    {
+      "name": "presence",
+      "slug": "presence",
+      "count": 1
+    },
+    {
+      "name": "purpose",
+      "slug": "purpose",
+      "count": 2
+    },
+    {
+      "name": "reality",
+      "slug": "reality",
+      "count": 1
+    },
+    {
+      "name": "risk",
+      "slug": "risk",
+      "count": 1
+    },
+    {
+      "name": "simplicity",
+      "slug": "simplicity",
+      "count": 1
+    },
+    {
+      "name": "success",
+      "slug": "success",
+      "count": 2
+    },
+    {
+      "name": "time",
+      "slug": "time",
+      "count": 1
+    },
+    {
+      "name": "unpredictability",
+      "slug": "unpredictability",
+      "count": 1
+    },
+    {
+      "name": "wandering",
+      "slug": "wandering",
+      "count": 1
+    },
+    {
+      "name": "wisdom",
+      "slug": "wisdom",
+      "count": 6
+    },
+    {
+      "name": "work",
+      "slug": "work",
+      "count": 2
+    },
+    {
+      "name": "writing",
+      "slug": "writing",
+      "count": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "Beautiful Boy (Darling Boy)",
+      "slug": "beautiful-boy-darling-boy",
+      "count": 1
+    },
+    {
+      "name": "Diary",
+      "slug": "diary",
+      "count": 1
+    },
+    {
+      "name": "Discourse on the Method",
+      "slug": "discourse-on-the-method",
+      "count": 1
+    },
+    {
+      "name": "Harry Potter and the Chamber of Secrets",
+      "slug": "harry-potter-and-the-chamber-of-secrets",
+      "count": 1
+    },
+    {
+      "name": "Letters from a Stoic",
+      "slug": "letters-from-a-stoic",
+      "count": 1
+    },
+    {
+      "name": "Plato's Apology",
+      "slug": "plato-s-apology",
+      "count": 1
+    },
+    {
+      "name": "Stanford commencement speech, 2005",
+      "slug": "stanford-commencement-speech-2005",
+      "count": 2
+    },
+    {
+      "name": "The Fellowship of the Ring",
+      "slug": "the-fellowship-of-the-ring",
+      "count": 1
+    },
+    {
+      "name": "The Shawshank Redemption",
+      "slug": "the-shawshank-redemption",
+      "count": 1
+    }
+  ],
+  "authors": [
+    {
+      "name": "Abraham Lincoln",
+      "slug": "abraham-lincoln",
+      "count": 1
+    },
+    {
+      "name": "Albert Einstein",
+      "slug": "albert-einstein",
+      "count": 2
+    },
+    {
+      "name": "Babe Ruth",
+      "slug": "babe-ruth",
+      "count": 1
+    },
+    {
+      "name": "Chuck Palahniuk",
+      "slug": "chuck-palahniuk",
+      "count": 1
+    },
+    {
+      "name": "Dalai Lama",
+      "slug": "dalai-lama",
+      "count": 1
+    },
+    {
+      "name": "Eleanor Roosevelt",
+      "slug": "eleanor-roosevelt",
+      "count": 2
+    },
+    {
+      "name": "Ernest Hemingway",
+      "slug": "ernest-hemingway",
+      "count": 1
+    },
+    {
+      "name": "Frank Sinatra",
+      "slug": "frank-sinatra",
+      "count": 1
+    },
+    {
+      "name": "Grandma Moses",
+      "slug": "grandma-moses",
+      "count": 1
+    },
+    {
+      "name": "Helen Keller",
+      "slug": "helen-keller",
+      "count": 1
+    },
+    {
+      "name": "Henry Ford",
+      "slug": "henry-ford",
+      "count": 1
+    },
+    {
+      "name": "J.K. Rowling",
+      "slug": "j-k-rowling",
+      "count": 1
+    },
+    {
+      "name": "J.R.R. Tolkien",
+      "slug": "j-r-r-tolkien",
+      "count": 1
+    },
+    {
+      "name": "John Lennon",
+      "slug": "john-lennon",
+      "count": 1
+    },
+    {
+      "name": "Leonardo da Vinci",
+      "slug": "leonardo-da-vinci",
+      "count": 1
+    },
+    {
+      "name": "Mae West",
+      "slug": "mae-west",
+      "count": 1
+    },
+    {
+      "name": "Mahatma Gandhi",
+      "slug": "mahatma-gandhi",
+      "count": 1
+    },
+    {
+      "name": "Nelson Mandela",
+      "slug": "nelson-mandela",
+      "count": 1
+    },
+    {
+      "name": "Ralph Waldo Emerson",
+      "slug": "ralph-waldo-emerson",
+      "count": 1
+    },
+    {
+      "name": "René Descartes",
+      "slug": "ren-descartes",
+      "count": 1
+    },
+    {
+      "name": "Seneca",
+      "slug": "seneca",
+      "count": 1
+    },
+    {
+      "name": "Socrates",
+      "slug": "socrates",
+      "count": 1
+    },
+    {
+      "name": "Stephen King",
+      "slug": "stephen-king",
+      "count": 1
+    },
+    {
+      "name": "Steve Jobs",
+      "slug": "steve-jobs",
+      "count": 2
+    },
+    {
+      "name": "Thomas A. Edison",
+      "slug": "thomas-a-edison",
+      "count": 1
+    },
+    {
+      "name": "Tony Robbins",
+      "slug": "tony-robbins",
+      "count": 1
+    },
+    {
+      "name": "Will Smith",
+      "slug": "will-smith",
+      "count": 1
+    }
+  ]
+}

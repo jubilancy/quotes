@@ -1,0 +1,14 @@
+{
+  "name": "quotes-site",
+  "version": "1.0.0",
+  "description": "A static quote website generated from a CSV file.",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "generate": "node scripts/generate.js",
+    "build": "node scripts/generate.js"
+  },
+  "dependencies": {
+    "papaparse": "^5.4.1"
+  }
+}

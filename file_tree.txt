@@ -1,0 +1,29 @@
+/Users/eliana/Desktop/quotes-site
+|-- README.md
+|-- data
+|   `-- quotes.csv
+|-- dist
+|   |-- about.html
+|   |-- app.js
+|   |-- authors.html
+|   |-- index.html
+|   |-- meta.json
+|   |-- quotes.json
+|   |-- sources.html
+|   |-- styles.css
+|   `-- tags.html
+|-- file_tree.txt
+|-- package-lock.json
+|-- package.json
+|-- scripts
+|   `-- generate.js
+`-- src
+    |-- about.html
+    |-- app.js
+    |-- authors.html
+    |-- index.html
+    |-- sources.html
+    |-- styles.css
+    `-- tags.html
+
+5 directories, 22 files
