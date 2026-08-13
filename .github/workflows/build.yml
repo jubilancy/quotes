@@ -31,6 +31,9 @@ jobs:
           node-version: "20"
           cache: "npm"
 
+      - name: Configure Pages
+        uses: actions/configure-pages@v4
+
       - name: Install dependencies
         run: npm install
 
@@ -46,6 +49,7 @@ jobs:
             echo "No changes to dist/, skipping commit."
           else
             git commit -m "chore: regenerate site from quotes.csv [skip ci]"
+            git pull --rebase origin main
             git push
           fi
 
