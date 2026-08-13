@@ -1,11 +1,46 @@
 {
-  "generatedAt": "2026-08-13T20:36:30.512Z",
-  "totalQuotes": 30,
+  "generatedAt": "2026-08-13T20:44:58.036Z",
+  "totalQuotes": 238,
   "tags": [
+    {
+      "name": "abnormal",
+      "slug": "abnormal",
+      "count": 2
+    },
+    {
+      "name": "absurdity",
+      "slug": "absurdity",
+      "count": 1
+    },
+    {
+      "name": "acceptance",
+      "slug": "acceptance",
+      "count": 1
+    },
+    {
+      "name": "accountability",
+      "slug": "accountability",
+      "count": 1
+    },
+    {
+      "name": "achieve-your-dreams",
+      "slug": "achieve-your-dreams",
+      "count": 1
+    },
     {
       "name": "achievement",
       "slug": "achievement",
       "count": 1
+    },
+    {
+      "name": "acid",
+      "slug": "acid",
+      "count": 1
+    },
+    {
+      "name": "action",
+      "slug": "action",
+      "count": 2
     },
     {
       "name": "activism",
@@ -13,9 +48,34 @@
       "count": 1
     },
     {
+      "name": "adultfiction",
+      "slug": "adultfiction",
+      "count": 1
+    },
+    {
+      "name": "advancement",
+      "slug": "advancement",
+      "count": 1
+    },
+    {
       "name": "adventure",
       "slug": "adventure",
-      "count": 2
+      "count": 4
+    },
+    {
+      "name": "adventure-fiction",
+      "slug": "adventure-fiction",
+      "count": 1
+    },
+    {
+      "name": "adventure-travel",
+      "slug": "adventure-travel",
+      "count": 1
+    },
+    {
+      "name": "adversary",
+      "slug": "adversary",
+      "count": 6
     },
     {
       "name": "adversity",
@@ -28,8 +88,243 @@
       "count": 1
     },
     {
+      "name": "air",
+      "slug": "air",
+      "count": 1
+    },
+    {
+      "name": "alchemical",
+      "slug": "alchemical",
+      "count": 1
+    },
+    {
+      "name": "alchemist",
+      "slug": "alchemist",
+      "count": 1
+    },
+    {
+      "name": "alchemy",
+      "slug": "alchemy",
+      "count": 1
+    },
+    {
+      "name": "alien",
+      "slug": "alien",
+      "count": 1
+    },
+    {
+      "name": "amateur-sleuth",
+      "slug": "amateur-sleuth",
+      "count": 1
+    },
+    {
+      "name": "ambiguities",
+      "slug": "ambiguities",
+      "count": 1
+    },
+    {
+      "name": "ambiguous-ending",
+      "slug": "ambiguous-ending",
+      "count": 1
+    },
+    {
+      "name": "amit-kalantri",
+      "slug": "amit-kalantri",
+      "count": 1
+    },
+    {
+      "name": "amit-kalantri-quotes",
+      "slug": "amit-kalantri-quotes",
+      "count": 1
+    },
+    {
+      "name": "amit-kalantri-writer",
+      "slug": "amit-kalantri-writer",
+      "count": 1
+    },
+    {
+      "name": "amorous",
+      "slug": "amorous",
+      "count": 1
+    },
+    {
+      "name": "an-intellectual-concepts",
+      "slug": "an-intellectual-concepts",
+      "count": 1
+    },
+    {
+      "name": "ancient",
+      "slug": "ancient",
+      "count": 1
+    },
+    {
+      "name": "angel",
+      "slug": "angel",
+      "count": 1
+    },
+    {
+      "name": "angels",
+      "slug": "angels",
+      "count": 1
+    },
+    {
+      "name": "animal",
+      "slug": "animal",
+      "count": 1
+    },
+    {
+      "name": "animals",
+      "slug": "animals",
+      "count": 1
+    },
+    {
+      "name": "apart",
+      "slug": "apart",
+      "count": 1
+    },
+    {
+      "name": "arcane",
+      "slug": "arcane",
+      "count": 1
+    },
+    {
+      "name": "arizona",
+      "slug": "arizona",
+      "count": 1
+    },
+    {
+      "name": "arrest",
+      "slug": "arrest",
+      "count": 1
+    },
+    {
+      "name": "art",
+      "slug": "art",
+      "count": 1
+    },
+    {
+      "name": "artist",
+      "slug": "artist",
+      "count": 1
+    },
+    {
+      "name": "artistic",
+      "slug": "artistic",
+      "count": 1
+    },
+    {
+      "name": "artistry",
+      "slug": "artistry",
+      "count": 1
+    },
+    {
+      "name": "ascetic",
+      "slug": "ascetic",
+      "count": 1
+    },
+    {
+      "name": "aspire",
+      "slug": "aspire",
+      "count": 1
+    },
+    {
+      "name": "aspiring",
+      "slug": "aspiring",
+      "count": 1
+    },
+    {
+      "name": "astral",
+      "slug": "astral",
+      "count": 2
+    },
+    {
+      "name": "astral-projection",
+      "slug": "astral-projection",
+      "count": 1
+    },
+    {
+      "name": "atheism",
+      "slug": "atheism",
+      "count": 1
+    },
+    {
+      "name": "aura",
+      "slug": "aura",
+      "count": 1
+    },
+    {
       "name": "authenticity",
       "slug": "authenticity",
+      "count": 1
+    },
+    {
+      "name": "authors",
+      "slug": "authors",
+      "count": 2
+    },
+    {
+      "name": "autobiography",
+      "slug": "autobiography",
+      "count": 1
+    },
+    {
+      "name": "autumn",
+      "slug": "autumn",
+      "count": 1
+    },
+    {
+      "name": "awaken",
+      "slug": "awaken",
+      "count": 2
+    },
+    {
+      "name": "awakening",
+      "slug": "awakening",
+      "count": 2
+    },
+    {
+      "name": "awareness",
+      "slug": "awareness",
+      "count": 3
+    },
+    {
+      "name": "back-to-grace",
+      "slug": "back-to-grace",
+      "count": 1
+    },
+    {
+      "name": "bats",
+      "slug": "bats",
+      "count": 1
+    },
+    {
+      "name": "battles",
+      "slug": "battles",
+      "count": 1
+    },
+    {
+      "name": "battles-of-life",
+      "slug": "battles-of-life",
+      "count": 1
+    },
+    {
+      "name": "be-brave",
+      "slug": "be-brave",
+      "count": 1
+    },
+    {
+      "name": "beautiful",
+      "slug": "beautiful",
+      "count": 3
+    },
+    {
+      "name": "beauty",
+      "slug": "beauty",
+      "count": 1
+    },
+    {
+      "name": "bedtime",
+      "slug": "bedtime",
       "count": 1
     },
     {
@@ -43,8 +338,153 @@
       "count": 1
     },
     {
+      "name": "betrayal",
+      "slug": "betrayal",
+      "count": 1
+    },
+    {
+      "name": "biblical",
+      "slug": "biblical",
+      "count": 1
+    },
+    {
+      "name": "bilocation",
+      "slug": "bilocation",
+      "count": 1
+    },
+    {
+      "name": "bird",
+      "slug": "bird",
+      "count": 1
+    },
+    {
+      "name": "birds",
+      "slug": "birds",
+      "count": 1
+    },
+    {
+      "name": "birdwatching",
+      "slug": "birdwatching",
+      "count": 1
+    },
+    {
+      "name": "blaming",
+      "slug": "blaming",
+      "count": 1
+    },
+    {
+      "name": "bliss",
+      "slug": "bliss",
+      "count": 1
+    },
+    {
+      "name": "blood",
+      "slug": "blood",
+      "count": 1
+    },
+    {
+      "name": "bone",
+      "slug": "bone",
+      "count": 1
+    },
+    {
+      "name": "book",
+      "slug": "book",
+      "count": 3
+    },
+    {
+      "name": "book-lovers",
+      "slug": "book-lovers",
+      "count": 1
+    },
+    {
+      "name": "book-quote",
+      "slug": "book-quote",
+      "count": 1
+    },
+    {
+      "name": "books",
+      "slug": "books",
+      "count": 1
+    },
+    {
+      "name": "brainteaser",
+      "slug": "brainteaser",
+      "count": 1
+    },
+    {
+      "name": "brainy-quotes",
+      "slug": "brainy-quotes",
+      "count": 3
+    },
+    {
+      "name": "brave-heart",
+      "slug": "brave-heart",
+      "count": 1
+    },
+    {
+      "name": "bravery",
+      "slug": "bravery",
+      "count": 1
+    },
+    {
+      "name": "break-throughs",
+      "slug": "break-throughs",
+      "count": 1
+    },
+    {
+      "name": "breath",
+      "slug": "breath",
+      "count": 1
+    },
+    {
+      "name": "buddha",
+      "slug": "buddha",
+      "count": 1
+    },
+    {
+      "name": "buddhist",
+      "slug": "buddhist",
+      "count": 3
+    },
+    {
+      "name": "bypassing",
+      "slug": "bypassing",
+      "count": 1
+    },
+    {
+      "name": "camelot",
+      "slug": "camelot",
+      "count": 5
+    },
+    {
       "name": "career",
       "slug": "career",
+      "count": 2
+    },
+    {
+      "name": "carl-jung",
+      "slug": "carl-jung",
+      "count": 1
+    },
+    {
+      "name": "castle",
+      "slug": "castle",
+      "count": 2
+    },
+    {
+      "name": "catholic",
+      "slug": "catholic",
+      "count": 1
+    },
+    {
+      "name": "cats",
+      "slug": "cats",
+      "count": 2
+    },
+    {
+      "name": "chakra",
+      "slug": "chakra",
       "count": 1
     },
     {
@@ -53,9 +493,44 @@
       "count": 1
     },
     {
+      "name": "channeling",
+      "slug": "channeling",
+      "count": 1
+    },
+    {
+      "name": "chanting",
+      "slug": "chanting",
+      "count": 1
+    },
+    {
       "name": "character",
       "slug": "character",
       "count": 3
+    },
+    {
+      "name": "cheating-in-relationships",
+      "slug": "cheating-in-relationships",
+      "count": 1
+    },
+    {
+      "name": "children-s-novel",
+      "slug": "children-s-novel",
+      "count": 1
+    },
+    {
+      "name": "childrens-book-quotes",
+      "slug": "childrens-book-quotes",
+      "count": 28
+    },
+    {
+      "name": "chivalry",
+      "slug": "chivalry",
+      "count": 6
+    },
+    {
+      "name": "chocolate",
+      "slug": "chocolate",
+      "count": 1
     },
     {
       "name": "choice",
@@ -68,14 +543,264 @@
       "count": 1
     },
     {
+      "name": "christian",
+      "slug": "christian",
+      "count": 1
+    },
+    {
+      "name": "christianity",
+      "slug": "christianity",
+      "count": 1
+    },
+    {
+      "name": "christianity-buddhism",
+      "slug": "christianity-buddhism",
+      "count": 1
+    },
+    {
+      "name": "chronic-anxiety",
+      "slug": "chronic-anxiety",
+      "count": 1
+    },
+    {
+      "name": "circles-within-circles",
+      "slug": "circles-within-circles",
+      "count": 1
+    },
+    {
+      "name": "classical-mythology",
+      "slug": "classical-mythology",
+      "count": 1
+    },
+    {
+      "name": "cleverness",
+      "slug": "cleverness",
+      "count": 1
+    },
+    {
+      "name": "clouds",
+      "slug": "clouds",
+      "count": 2
+    },
+    {
+      "name": "coincidence",
+      "slug": "coincidence",
+      "count": 1
+    },
+    {
+      "name": "compassion",
+      "slug": "compassion",
+      "count": 1
+    },
+    {
+      "name": "complete",
+      "slug": "complete",
+      "count": 1
+    },
+    {
+      "name": "confusion",
+      "slug": "confusion",
+      "count": 1
+    },
+    {
+      "name": "connection",
+      "slug": "connection",
+      "count": 1
+    },
+    {
+      "name": "conscious",
+      "slug": "conscious",
+      "count": 1
+    },
+    {
+      "name": "consciousness",
+      "slug": "consciousness",
+      "count": 5
+    },
+    {
+      "name": "consciousness-mind-brain",
+      "slug": "consciousness-mind-brain",
+      "count": 1
+    },
+    {
+      "name": "consciousness-quote",
+      "slug": "consciousness-quote",
+      "count": 1
+    },
+    {
+      "name": "consciousness-quotes",
+      "slug": "consciousness-quotes",
+      "count": 1
+    },
+    {
+      "name": "contagious",
+      "slug": "contagious",
+      "count": 1
+    },
+    {
+      "name": "cosmic",
+      "slug": "cosmic",
+      "count": 5
+    },
+    {
+      "name": "cosmic-consciousness",
+      "slug": "cosmic-consciousness",
+      "count": 1
+    },
+    {
+      "name": "cosmic-force",
+      "slug": "cosmic-force",
+      "count": 1
+    },
+    {
+      "name": "cosmic-forces",
+      "slug": "cosmic-forces",
+      "count": 1
+    },
+    {
+      "name": "cosmology",
+      "slug": "cosmology",
+      "count": 1
+    },
+    {
+      "name": "cosmos",
+      "slug": "cosmos",
+      "count": 1
+    },
+    {
+      "name": "couple",
+      "slug": "couple",
+      "count": 1
+    },
+    {
       "name": "courage",
       "slug": "courage",
+      "count": 5
+    },
+    {
+      "name": "cover-design-sheila-graber",
+      "slug": "cover-design-sheila-graber",
+      "count": 1
+    },
+    {
+      "name": "creative-process",
+      "slug": "creative-process",
+      "count": 1
+    },
+    {
+      "name": "creativity",
+      "slug": "creativity",
+      "count": 1
+    },
+    {
+      "name": "critic",
+      "slug": "critic",
+      "count": 1
+    },
+    {
+      "name": "crystals",
+      "slug": "crystals",
+      "count": 2
+    },
+    {
+      "name": "ction",
+      "slug": "ction",
+      "count": 1
+    },
+    {
+      "name": "cultural",
+      "slug": "cultural",
+      "count": 1
+    },
+    {
+      "name": "cycles",
+      "slug": "cycles",
+      "count": 1
+    },
+    {
+      "name": "dancing",
+      "slug": "dancing",
+      "count": 1
+    },
+    {
+      "name": "danger",
+      "slug": "danger",
       "count": 4
+    },
+    {
+      "name": "dark",
+      "slug": "dark",
+      "count": 4
+    },
+    {
+      "name": "darkness",
+      "slug": "darkness",
+      "count": 2
+    },
+    {
+      "name": "daughter",
+      "slug": "daughter",
+      "count": 1
+    },
+    {
+      "name": "daughters",
+      "slug": "daughters",
+      "count": 1
     },
     {
       "name": "death",
       "slug": "death",
-      "count": 2
+      "count": 5
+    },
+    {
+      "name": "decipher",
+      "slug": "decipher",
+      "count": 1
+    },
+    {
+      "name": "deep",
+      "slug": "deep",
+      "count": 1
+    },
+    {
+      "name": "deep-love",
+      "slug": "deep-love",
+      "count": 1
+    },
+    {
+      "name": "deep-thoughts",
+      "slug": "deep-thoughts",
+      "count": 3
+    },
+    {
+      "name": "delusions",
+      "slug": "delusions",
+      "count": 1
+    },
+    {
+      "name": "demon",
+      "slug": "demon",
+      "count": 1
+    },
+    {
+      "name": "depth",
+      "slug": "depth",
+      "count": 1
+    },
+    {
+      "name": "descartes",
+      "slug": "descartes",
+      "count": 1
+    },
+    {
+      "name": "description",
+      "slug": "description",
+      "count": 1
+    },
+    {
+      "name": "desert",
+      "slug": "desert",
+      "count": 1
     },
     {
       "name": "design",
@@ -83,14 +808,294 @@
       "count": 1
     },
     {
+      "name": "desire",
+      "slug": "desire",
+      "count": 1
+    },
+    {
       "name": "destiny",
       "slug": "destiny",
+      "count": 3
+    },
+    {
+      "name": "destiny-quotes",
+      "slug": "destiny-quotes",
+      "count": 2
+    },
+    {
+      "name": "devotional-poetry",
+      "slug": "devotional-poetry",
+      "count": 1
+    },
+    {
+      "name": "diety",
+      "slug": "diety",
+      "count": 1
+    },
+    {
+      "name": "discovery",
+      "slug": "discovery",
+      "count": 1
+    },
+    {
+      "name": "divided",
+      "slug": "divided",
+      "count": 1
+    },
+    {
+      "name": "divine-feminine",
+      "slug": "divine-feminine",
+      "count": 1
+    },
+    {
+      "name": "divine-humor",
+      "slug": "divine-humor",
+      "count": 1
+    },
+    {
+      "name": "divine-love",
+      "slug": "divine-love",
+      "count": 1
+    },
+    {
+      "name": "divine-timing",
+      "slug": "divine-timing",
+      "count": 1
+    },
+    {
+      "name": "divinefeminine",
+      "slug": "divinefeminine",
+      "count": 1
+    },
+    {
+      "name": "dost",
+      "slug": "dost",
+      "count": 1
+    },
+    {
+      "name": "dragons",
+      "slug": "dragons",
+      "count": 1
+    },
+    {
+      "name": "drama",
+      "slug": "drama",
+      "count": 3
+    },
+    {
+      "name": "dream",
+      "slug": "dream",
+      "count": 2
+    },
+    {
+      "name": "dreamer",
+      "slug": "dreamer",
       "count": 1
     },
     {
       "name": "dreams",
       "slug": "dreams",
+      "count": 6
+    },
+    {
+      "name": "dreams-inspirational",
+      "slug": "dreams-inspirational",
       "count": 1
+    },
+    {
+      "name": "dumbledore-s-wit",
+      "slug": "dumbledore-s-wit",
+      "count": 1
+    },
+    {
+      "name": "earth",
+      "slug": "earth",
+      "count": 5
+    },
+    {
+      "name": "earth-and-sky",
+      "slug": "earth-and-sky",
+      "count": 1
+    },
+    {
+      "name": "earth-mother",
+      "slug": "earth-mother",
+      "count": 1
+    },
+    {
+      "name": "earthschool-harmony",
+      "slug": "earthschool-harmony",
+      "count": 1
+    },
+    {
+      "name": "education",
+      "slug": "education",
+      "count": 1
+    },
+    {
+      "name": "ego",
+      "slug": "ego",
+      "count": 2
+    },
+    {
+      "name": "elemental-kingdom",
+      "slug": "elemental-kingdom",
+      "count": 28
+    },
+    {
+      "name": "elven",
+      "slug": "elven",
+      "count": 1
+    },
+    {
+      "name": "elven-way",
+      "slug": "elven-way",
+      "count": 1
+    },
+    {
+      "name": "elves",
+      "slug": "elves",
+      "count": 2
+    },
+    {
+      "name": "embrace",
+      "slug": "embrace",
+      "count": 2
+    },
+    {
+      "name": "emotion",
+      "slug": "emotion",
+      "count": 1
+    },
+    {
+      "name": "emotions",
+      "slug": "emotions",
+      "count": 1
+    },
+    {
+      "name": "empathy",
+      "slug": "empathy",
+      "count": 1
+    },
+    {
+      "name": "empowerment",
+      "slug": "empowerment",
+      "count": 1
+    },
+    {
+      "name": "emptiness",
+      "slug": "emptiness",
+      "count": 1
+    },
+    {
+      "name": "enchantment",
+      "slug": "enchantment",
+      "count": 4
+    },
+    {
+      "name": "encourageing",
+      "slug": "encourageing",
+      "count": 1
+    },
+    {
+      "name": "endings",
+      "slug": "endings",
+      "count": 1
+    },
+    {
+      "name": "energy",
+      "slug": "energy",
+      "count": 1
+    },
+    {
+      "name": "enlightened-awareness",
+      "slug": "enlightened-awareness",
+      "count": 1
+    },
+    {
+      "name": "enlightenment",
+      "slug": "enlightenment",
+      "count": 1
+    },
+    {
+      "name": "enquiry",
+      "slug": "enquiry",
+      "count": 1
+    },
+    {
+      "name": "environment",
+      "slug": "environment",
+      "count": 1
+    },
+    {
+      "name": "environmentalism",
+      "slug": "environmentalism",
+      "count": 1
+    },
+    {
+      "name": "eonacat",
+      "slug": "eonacat",
+      "count": 1
+    },
+    {
+      "name": "ephemeral",
+      "slug": "ephemeral",
+      "count": 1
+    },
+    {
+      "name": "esoteric",
+      "slug": "esoteric",
+      "count": 1
+    },
+    {
+      "name": "essay-writing",
+      "slug": "essay-writing",
+      "count": 1
+    },
+    {
+      "name": "eternal",
+      "slug": "eternal",
+      "count": 2
+    },
+    {
+      "name": "eternal-life",
+      "slug": "eternal-life",
+      "count": 1
+    },
+    {
+      "name": "eternal-love",
+      "slug": "eternal-love",
+      "count": 1
+    },
+    {
+      "name": "eternals",
+      "slug": "eternals",
+      "count": 1
+    },
+    {
+      "name": "eternity",
+      "slug": "eternity",
+      "count": 2
+    },
+    {
+      "name": "euphoric",
+      "slug": "euphoric",
+      "count": 1
+    },
+    {
+      "name": "events",
+      "slug": "events",
+      "count": 1
+    },
+    {
+      "name": "every-great-soul",
+      "slug": "every-great-soul",
+      "count": 1
+    },
+    {
+      "name": "excalibur",
+      "slug": "excalibur",
+      "count": 5
     },
     {
       "name": "excellence",
@@ -98,14 +1103,54 @@
       "count": 1
     },
     {
+      "name": "exciting",
+      "slug": "exciting",
+      "count": 1
+    },
+    {
       "name": "existence",
       "slug": "existence",
+      "count": 2
+    },
+    {
+      "name": "expectation",
+      "slug": "expectation",
+      "count": 1
+    },
+    {
+      "name": "expectations",
+      "slug": "expectations",
+      "count": 2
+    },
+    {
+      "name": "expectations-quotes",
+      "slug": "expectations-quotes",
       "count": 1
     },
     {
       "name": "experience",
       "slug": "experience",
+      "count": 4
+    },
+    {
+      "name": "expression",
+      "slug": "expression",
       "count": 1
+    },
+    {
+      "name": "exude",
+      "slug": "exude",
+      "count": 1
+    },
+    {
+      "name": "eyes",
+      "slug": "eyes",
+      "count": 1
+    },
+    {
+      "name": "faerie",
+      "slug": "faerie",
+      "count": 29
     },
     {
       "name": "failure",
@@ -113,38 +1158,448 @@
       "count": 1
     },
     {
+      "name": "fairy-tale",
+      "slug": "fairy-tale",
+      "count": 1
+    },
+    {
+      "name": "fairy-tales",
+      "slug": "fairy-tales",
+      "count": 29
+    },
+    {
+      "name": "fairytale",
+      "slug": "fairytale",
+      "count": 3
+    },
+    {
+      "name": "fairytale-retelling",
+      "slug": "fairytale-retelling",
+      "count": 1
+    },
+    {
+      "name": "faith",
+      "slug": "faith",
+      "count": 1
+    },
+    {
+      "name": "falling-in-love",
+      "slug": "falling-in-love",
+      "count": 1
+    },
+    {
+      "name": "fame",
+      "slug": "fame",
+      "count": 1
+    },
+    {
+      "name": "family",
+      "slug": "family",
+      "count": 2
+    },
+    {
+      "name": "fantasies",
+      "slug": "fantasies",
+      "count": 1
+    },
+    {
+      "name": "fantasy",
+      "slug": "fantasy",
+      "count": 5
+    },
+    {
+      "name": "fantasy-fiction",
+      "slug": "fantasy-fiction",
+      "count": 1
+    },
+    {
+      "name": "farewells",
+      "slug": "farewells",
+      "count": 1
+    },
+    {
+      "name": "fate",
+      "slug": "fate",
+      "count": 1
+    },
+    {
+      "name": "fate-quote",
+      "slug": "fate-quote",
+      "count": 1
+    },
+    {
+      "name": "father",
+      "slug": "father",
+      "count": 1
+    },
+    {
+      "name": "fatherhood",
+      "slug": "fatherhood",
+      "count": 1
+    },
+    {
+      "name": "fathers",
+      "slug": "fathers",
+      "count": 1
+    },
+    {
       "name": "fear",
       "slug": "fear",
-      "count": 2
+      "count": 4
+    },
+    {
+      "name": "fearless",
+      "slug": "fearless",
+      "count": 1
+    },
+    {
+      "name": "feeling-of-home",
+      "slug": "feeling-of-home",
+      "count": 1
+    },
+    {
+      "name": "feelings",
+      "slug": "feelings",
+      "count": 1
+    },
+    {
+      "name": "feelings-of-love",
+      "slug": "feelings-of-love",
+      "count": 1
+    },
+    {
+      "name": "feminism",
+      "slug": "feminism",
+      "count": 1
     },
     {
       "name": "fiction",
       "slug": "fiction",
+      "count": 4
+    },
+    {
+      "name": "fiction-novel",
+      "slug": "fiction-novel",
+      "count": 1
+    },
+    {
+      "name": "finding-happinesss",
+      "slug": "finding-happinesss",
+      "count": 2
+    },
+    {
+      "name": "fire",
+      "slug": "fire",
+      "count": 1
+    },
+    {
+      "name": "flame",
+      "slug": "flame",
+      "count": 1
+    },
+    {
+      "name": "flying",
+      "slug": "flying",
+      "count": 1
+    },
+    {
+      "name": "fog",
+      "slug": "fog",
+      "count": 1
+    },
+    {
+      "name": "forest",
+      "slug": "forest",
+      "count": 3
+    },
+    {
+      "name": "forever",
+      "slug": "forever",
+      "count": 2
+    },
+    {
+      "name": "fortuitous",
+      "slug": "fortuitous",
+      "count": 1
+    },
+    {
+      "name": "free-thinker",
+      "slug": "free-thinker",
+      "count": 1
+    },
+    {
+      "name": "free-thinking",
+      "slug": "free-thinking",
+      "count": 1
+    },
+    {
+      "name": "free-thinking-quotes",
+      "slug": "free-thinking-quotes",
+      "count": 1
+    },
+    {
+      "name": "freedom",
+      "slug": "freedom",
       "count": 1
     },
     {
       "name": "future",
       "slug": "future",
+      "count": 3
+    },
+    {
+      "name": "gaia",
+      "slug": "gaia",
+      "count": 1
+    },
+    {
+      "name": "galaxies",
+      "slug": "galaxies",
+      "count": 2
+    },
+    {
+      "name": "galaxy",
+      "slug": "galaxy",
+      "count": 1
+    },
+    {
+      "name": "gawain",
+      "slug": "gawain",
+      "count": 6
+    },
+    {
+      "name": "genius",
+      "slug": "genius",
+      "count": 1
+    },
+    {
+      "name": "ghosts",
+      "slug": "ghosts",
       "count": 1
     },
     {
       "name": "goals",
       "slug": "goals",
+      "count": 2
+    },
+    {
+      "name": "god",
+      "slug": "god",
+      "count": 5
+    },
+    {
+      "name": "god-is-love",
+      "slug": "god-is-love",
+      "count": 3
+    },
+    {
+      "name": "god-s-will",
+      "slug": "god-s-will",
+      "count": 1
+    },
+    {
+      "name": "goddess",
+      "slug": "goddess",
+      "count": 4
+    },
+    {
+      "name": "gods",
+      "slug": "gods",
+      "count": 1
+    },
+    {
+      "name": "goodbye",
+      "slug": "goodbye",
+      "count": 1
+    },
+    {
+      "name": "goodness",
+      "slug": "goodness",
+      "count": 1
+    },
+    {
+      "name": "goodness-of-god",
+      "slug": "goodness-of-god",
+      "count": 1
+    },
+    {
+      "name": "grave",
+      "slug": "grave",
+      "count": 1
+    },
+    {
+      "name": "gravity",
+      "slug": "gravity",
+      "count": 2
+    },
+    {
+      "name": "green-knight",
+      "slug": "green-knight",
+      "count": 6
+    },
+    {
+      "name": "green-man",
+      "slug": "green-man",
+      "count": 1
+    },
+    {
+      "name": "guts",
+      "slug": "guts",
+      "count": 1
+    },
+    {
+      "name": "haiku",
+      "slug": "haiku",
+      "count": 2
+    },
+    {
+      "name": "hamlet",
+      "slug": "hamlet",
       "count": 1
     },
     {
       "name": "happiness",
       "slug": "happiness",
+      "count": 3
+    },
+    {
+      "name": "harry-potter",
+      "slug": "harry-potter",
+      "count": 1
+    },
+    {
+      "name": "healing",
+      "slug": "healing",
       "count": 2
+    },
+    {
+      "name": "healing-insights",
+      "slug": "healing-insights",
+      "count": 1
+    },
+    {
+      "name": "heart",
+      "slug": "heart",
+      "count": 2
+    },
+    {
+      "name": "heartbreak",
+      "slug": "heartbreak",
+      "count": 1
+    },
+    {
+      "name": "heartbroken",
+      "slug": "heartbroken",
+      "count": 1
+    },
+    {
+      "name": "hell",
+      "slug": "hell",
+      "count": 1
+    },
+    {
+      "name": "high-tide",
+      "slug": "high-tide",
+      "count": 1
+    },
+    {
+      "name": "home",
+      "slug": "home",
+      "count": 1
+    },
+    {
+      "name": "hope",
+      "slug": "hope",
+      "count": 2
+    },
+    {
+      "name": "hopi",
+      "slug": "hopi",
+      "count": 1
+    },
+    {
+      "name": "horror",
+      "slug": "horror",
+      "count": 1
+    },
+    {
+      "name": "horse",
+      "slug": "horse",
+      "count": 1
+    },
+    {
+      "name": "horse-magick",
+      "slug": "horse-magick",
+      "count": 1
+    },
+    {
+      "name": "humanity",
+      "slug": "humanity",
+      "count": 1
+    },
+    {
+      "name": "humour",
+      "slug": "humour",
+      "count": 1
+    },
+    {
+      "name": "hymn-to-goodness-and-beauty",
+      "slug": "hymn-to-goodness-and-beauty",
+      "count": 6
+    },
+    {
+      "name": "ibiza",
+      "slug": "ibiza",
+      "count": 1
+    },
+    {
+      "name": "ideas",
+      "slug": "ideas",
+      "count": 1
     },
     {
       "name": "identity",
       "slug": "identity",
-      "count": 2
+      "count": 3
+    },
+    {
+      "name": "ignorance",
+      "slug": "ignorance",
+      "count": 1
+    },
+    {
+      "name": "illumination",
+      "slug": "illumination",
+      "count": 1
+    },
+    {
+      "name": "illustrator",
+      "slug": "illustrator",
+      "count": 1
+    },
+    {
+      "name": "imagery",
+      "slug": "imagery",
+      "count": 1
     },
     {
       "name": "imagination",
       "slug": "imagination",
+      "count": 1
+    },
+    {
+      "name": "imaginations",
+      "slug": "imaginations",
+      "count": 1
+    },
+    {
+      "name": "incarnation",
+      "slug": "incarnation",
+      "count": 2
+    },
+    {
+      "name": "indian-authors",
+      "slug": "indian-authors",
       "count": 1
     },
     {
@@ -153,9 +1608,64 @@
       "count": 1
     },
     {
+      "name": "ineffable",
+      "slug": "ineffable",
+      "count": 1
+    },
+    {
+      "name": "inner-child",
+      "slug": "inner-child",
+      "count": 1
+    },
+    {
+      "name": "inner-journey",
+      "slug": "inner-journey",
+      "count": 2
+    },
+    {
+      "name": "inner-listening",
+      "slug": "inner-listening",
+      "count": 1
+    },
+    {
       "name": "inspiration",
       "slug": "inspiration",
-      "count": 2
+      "count": 3
+    },
+    {
+      "name": "inspirational",
+      "slug": "inspirational",
+      "count": 56
+    },
+    {
+      "name": "inspirational-fiction",
+      "slug": "inspirational-fiction",
+      "count": 1
+    },
+    {
+      "name": "inspirational-poetry",
+      "slug": "inspirational-poetry",
+      "count": 1
+    },
+    {
+      "name": "inspirational-quotations",
+      "slug": "inspirational-quotations",
+      "count": 1
+    },
+    {
+      "name": "inspirational-quotes",
+      "slug": "inspirational-quotes",
+      "count": 30
+    },
+    {
+      "name": "instinct",
+      "slug": "instinct",
+      "count": 1
+    },
+    {
+      "name": "institution",
+      "slug": "institution",
+      "count": 1
     },
     {
       "name": "integrity",
@@ -163,8 +1673,88 @@
       "count": 1
     },
     {
+      "name": "intimacy-with-god",
+      "slug": "intimacy-with-god",
+      "count": 2
+    },
+    {
+      "name": "intuition",
+      "slug": "intuition",
+      "count": 1
+    },
+    {
+      "name": "jazz",
+      "slug": "jazz",
+      "count": 1
+    },
+    {
+      "name": "jeroen",
+      "slug": "jeroen",
+      "count": 1
+    },
+    {
+      "name": "jordan-peterson",
+      "slug": "jordan-peterson",
+      "count": 1
+    },
+    {
       "name": "journey",
       "slug": "journey",
+      "count": 2
+    },
+    {
+      "name": "journeys",
+      "slug": "journeys",
+      "count": 1
+    },
+    {
+      "name": "joy-harjo",
+      "slug": "joy-harjo",
+      "count": 1
+    },
+    {
+      "name": "king-arthur",
+      "slug": "king-arthur",
+      "count": 1
+    },
+    {
+      "name": "kings",
+      "slug": "kings",
+      "count": 1
+    },
+    {
+      "name": "kiss",
+      "slug": "kiss",
+      "count": 1
+    },
+    {
+      "name": "kissing",
+      "slug": "kissing",
+      "count": 1
+    },
+    {
+      "name": "knowing",
+      "slug": "knowing",
+      "count": 1
+    },
+    {
+      "name": "knowing-god",
+      "slug": "knowing-god",
+      "count": 1
+    },
+    {
+      "name": "knowledge",
+      "slug": "knowledge",
+      "count": 2
+    },
+    {
+      "name": "language",
+      "slug": "language",
+      "count": 2
+    },
+    {
+      "name": "leaves",
+      "slug": "leaves",
       "count": 1
     },
     {
@@ -173,13 +1763,253 @@
       "count": 1
     },
     {
+      "name": "lies",
+      "slug": "lies",
+      "count": 1
+    },
+    {
       "name": "life",
       "slug": "life",
-      "count": 14
+      "count": 22
+    },
+    {
+      "name": "life-lessons",
+      "slug": "life-lessons",
+      "count": 1
+    },
+    {
+      "name": "life-quotes",
+      "slug": "life-quotes",
+      "count": 1
+    },
+    {
+      "name": "light",
+      "slug": "light",
+      "count": 1
+    },
+    {
+      "name": "light-and-darkness",
+      "slug": "light-and-darkness",
+      "count": 1
+    },
+    {
+      "name": "light-and-shadow",
+      "slug": "light-and-shadow",
+      "count": 1
+    },
+    {
+      "name": "liminal",
+      "slug": "liminal",
+      "count": 6
+    },
+    {
+      "name": "limit",
+      "slug": "limit",
+      "count": 1
+    },
+    {
+      "name": "lines",
+      "slug": "lines",
+      "count": 1
+    },
+    {
+      "name": "literary-fiction",
+      "slug": "literary-fiction",
+      "count": 3
+    },
+    {
+      "name": "live-your-dreams",
+      "slug": "live-your-dreams",
+      "count": 1
     },
     {
       "name": "living",
       "slug": "living",
+      "count": 3
+    },
+    {
+      "name": "loner",
+      "slug": "loner",
+      "count": 1
+    },
+    {
+      "name": "loners",
+      "slug": "loners",
+      "count": 1
+    },
+    {
+      "name": "longing",
+      "slug": "longing",
+      "count": 1
+    },
+    {
+      "name": "love",
+      "slug": "love",
+      "count": 14
+    },
+    {
+      "name": "love-quotes",
+      "slug": "love-quotes",
+      "count": 1
+    },
+    {
+      "name": "love-song",
+      "slug": "love-song",
+      "count": 6
+    },
+    {
+      "name": "love-story",
+      "slug": "love-story",
+      "count": 4
+    },
+    {
+      "name": "lsd",
+      "slug": "lsd",
+      "count": 1
+    },
+    {
+      "name": "lucid-dreaming",
+      "slug": "lucid-dreaming",
+      "count": 1
+    },
+    {
+      "name": "lucid-dreams",
+      "slug": "lucid-dreams",
+      "count": 1
+    },
+    {
+      "name": "luminous",
+      "slug": "luminous",
+      "count": 6
+    },
+    {
+      "name": "lush",
+      "slug": "lush",
+      "count": 1
+    },
+    {
+      "name": "lust",
+      "slug": "lust",
+      "count": 1
+    },
+    {
+      "name": "lyrical",
+      "slug": "lyrical",
+      "count": 1
+    },
+    {
+      "name": "magic",
+      "slug": "magic",
+      "count": 15
+    },
+    {
+      "name": "magical",
+      "slug": "magical",
+      "count": 11
+    },
+    {
+      "name": "magick",
+      "slug": "magick",
+      "count": 2
+    },
+    {
+      "name": "magick-studies",
+      "slug": "magick-studies",
+      "count": 1
+    },
+    {
+      "name": "majestic",
+      "slug": "majestic",
+      "count": 1
+    },
+    {
+      "name": "mantra",
+      "slug": "mantra",
+      "count": 1
+    },
+    {
+      "name": "mask",
+      "slug": "mask",
+      "count": 1
+    },
+    {
+      "name": "masterful",
+      "slug": "masterful",
+      "count": 1
+    },
+    {
+      "name": "materialist-science",
+      "slug": "materialist-science",
+      "count": 1
+    },
+    {
+      "name": "meaning",
+      "slug": "meaning",
+      "count": 1
+    },
+    {
+      "name": "meaning-of-life",
+      "slug": "meaning-of-life",
+      "count": 1
+    },
+    {
+      "name": "medicine",
+      "slug": "medicine",
+      "count": 1
+    },
+    {
+      "name": "medieval",
+      "slug": "medieval",
+      "count": 1
+    },
+    {
+      "name": "meditation",
+      "slug": "meditation",
+      "count": 2
+    },
+    {
+      "name": "meditation-quotes",
+      "slug": "meditation-quotes",
+      "count": 1
+    },
+    {
+      "name": "memoir",
+      "slug": "memoir",
+      "count": 1
+    },
+    {
+      "name": "memories",
+      "slug": "memories",
+      "count": 2
+    },
+    {
+      "name": "metaphysical",
+      "slug": "metaphysical",
+      "count": 2
+    },
+    {
+      "name": "metaphysical-quotes",
+      "slug": "metaphysical-quotes",
+      "count": 1
+    },
+    {
+      "name": "mind",
+      "slug": "mind",
+      "count": 3
+    },
+    {
+      "name": "mind-body-spirit",
+      "slug": "mind-body-spirit",
+      "count": 1
+    },
+    {
+      "name": "mindfulness",
+      "slug": "mindfulness",
+      "count": 1
+    },
+    {
+      "name": "mirror",
+      "slug": "mirror",
       "count": 1
     },
     {
@@ -188,13 +2018,218 @@
       "count": 1
     },
     {
+      "name": "moon",
+      "slug": "moon",
+      "count": 3
+    },
+    {
+      "name": "moonlight",
+      "slug": "moonlight",
+      "count": 1
+    },
+    {
+      "name": "mother-earth",
+      "slug": "mother-earth",
+      "count": 1
+    },
+    {
       "name": "motivation",
       "slug": "motivation",
       "count": 3
     },
     {
+      "name": "motivational",
+      "slug": "motivational",
+      "count": 1
+    },
+    {
+      "name": "murder-mystery",
+      "slug": "murder-mystery",
+      "count": 1
+    },
+    {
+      "name": "music",
+      "slug": "music",
+      "count": 2
+    },
+    {
+      "name": "mysterious",
+      "slug": "mysterious",
+      "count": 3
+    },
+    {
+      "name": "mystery",
+      "slug": "mystery",
+      "count": 2
+    },
+    {
+      "name": "mystic",
+      "slug": "mystic",
+      "count": 3
+    },
+    {
+      "name": "mystical-encounter",
+      "slug": "mystical-encounter",
+      "count": 1
+    },
+    {
+      "name": "mystical-experience",
+      "slug": "mystical-experience",
+      "count": 1
+    },
+    {
+      "name": "mystical-union",
+      "slug": "mystical-union",
+      "count": 1
+    },
+    {
+      "name": "mysticism",
+      "slug": "mysticism",
+      "count": 12
+    },
+    {
+      "name": "mythical",
+      "slug": "mythical",
+      "count": 1
+    },
+    {
+      "name": "naked-and-unashamed",
+      "slug": "naked-and-unashamed",
+      "count": 1
+    },
+    {
+      "name": "natural",
+      "slug": "natural",
+      "count": 1
+    },
+    {
+      "name": "natural-laws",
+      "slug": "natural-laws",
+      "count": 1
+    },
+    {
+      "name": "nature",
+      "slug": "nature",
+      "count": 8
+    },
+    {
+      "name": "nature-quotes",
+      "slug": "nature-quotes",
+      "count": 1
+    },
+    {
+      "name": "natures-beauty",
+      "slug": "natures-beauty",
+      "count": 1
+    },
+    {
+      "name": "needs",
+      "slug": "needs",
+      "count": 1
+    },
+    {
+      "name": "new-release",
+      "slug": "new-release",
+      "count": 1
+    },
+    {
+      "name": "newton",
+      "slug": "newton",
+      "count": 1
+    },
+    {
+      "name": "newtonian-science",
+      "slug": "newtonian-science",
+      "count": 1
+    },
+    {
+      "name": "noamchomsky",
+      "slug": "noamchomsky",
+      "count": 1
+    },
+    {
+      "name": "noetic-quality",
+      "slug": "noetic-quality",
+      "count": 1
+    },
+    {
+      "name": "occult",
+      "slug": "occult",
+      "count": 2
+    },
+    {
+      "name": "ocean",
+      "slug": "ocean",
+      "count": 1
+    },
+    {
+      "name": "ocean-poems",
+      "slug": "ocean-poems",
+      "count": 1
+    },
+    {
+      "name": "ocean-poetry",
+      "slug": "ocean-poetry",
+      "count": 1
+    },
+    {
+      "name": "ocean-quotes",
+      "slug": "ocean-quotes",
+      "count": 1
+    },
+    {
       "name": "opportunity",
       "slug": "opportunity",
+      "count": 1
+    },
+    {
+      "name": "oracle",
+      "slug": "oracle",
+      "count": 2
+    },
+    {
+      "name": "otherworldly",
+      "slug": "otherworldly",
+      "count": 1
+    },
+    {
+      "name": "pagan",
+      "slug": "pagan",
+      "count": 1
+    },
+    {
+      "name": "pain",
+      "slug": "pain",
+      "count": 1
+    },
+    {
+      "name": "paranormal",
+      "slug": "paranormal",
+      "count": 4
+    },
+    {
+      "name": "paranormal-phenomena",
+      "slug": "paranormal-phenomena",
+      "count": 1
+    },
+    {
+      "name": "passion",
+      "slug": "passion",
+      "count": 1
+    },
+    {
+      "name": "patterns",
+      "slug": "patterns",
+      "count": 1
+    },
+    {
+      "name": "peace",
+      "slug": "peace",
+      "count": 1
+    },
+    {
+      "name": "pent-up-energy",
+      "slug": "pent-up-energy",
       "count": 1
     },
     {
@@ -203,13 +2238,68 @@
       "count": 2
     },
     {
+      "name": "personal",
+      "slug": "personal",
+      "count": 1
+    },
+    {
+      "name": "philosophical",
+      "slug": "philosophical",
+      "count": 2
+    },
+    {
       "name": "philosophy",
       "slug": "philosophy",
-      "count": 2
+      "count": 6
+    },
+    {
+      "name": "physics",
+      "slug": "physics",
+      "count": 1
     },
     {
       "name": "plans",
       "slug": "plans",
+      "count": 1
+    },
+    {
+      "name": "poem",
+      "slug": "poem",
+      "count": 4
+    },
+    {
+      "name": "poems",
+      "slug": "poems",
+      "count": 1
+    },
+    {
+      "name": "poetic",
+      "slug": "poetic",
+      "count": 1
+    },
+    {
+      "name": "poetic-lines",
+      "slug": "poetic-lines",
+      "count": 1
+    },
+    {
+      "name": "poetry",
+      "slug": "poetry",
+      "count": 13
+    },
+    {
+      "name": "poetry-quotes",
+      "slug": "poetry-quotes",
+      "count": 2
+    },
+    {
+      "name": "power",
+      "slug": "power",
+      "count": 4
+    },
+    {
+      "name": "prayer",
+      "slug": "prayer",
       "count": 1
     },
     {
@@ -218,13 +2308,88 @@
       "count": 1
     },
     {
+      "name": "price",
+      "slug": "price",
+      "count": 1
+    },
+    {
+      "name": "prophetic",
+      "slug": "prophetic",
+      "count": 4
+    },
+    {
+      "name": "psychedelics",
+      "slug": "psychedelics",
+      "count": 1
+    },
+    {
+      "name": "psychological",
+      "slug": "psychological",
+      "count": 1
+    },
+    {
       "name": "purpose",
       "slug": "purpose",
       "count": 2
     },
     {
+      "name": "purpose-of-life",
+      "slug": "purpose-of-life",
+      "count": 2
+    },
+    {
+      "name": "purpose-of-living",
+      "slug": "purpose-of-living",
+      "count": 1
+    },
+    {
+      "name": "quotes-of-the-day",
+      "slug": "quotes-of-the-day",
+      "count": 1
+    },
+    {
+      "name": "quotes-on-life",
+      "slug": "quotes-on-life",
+      "count": 1
+    },
+    {
+      "name": "quotes-to-live-by",
+      "slug": "quotes-to-live-by",
+      "count": 2
+    },
+    {
+      "name": "rational-thinking",
+      "slug": "rational-thinking",
+      "count": 1
+    },
+    {
+      "name": "reading",
+      "slug": "reading",
+      "count": 1
+    },
+    {
       "name": "reality",
       "slug": "reality",
+      "count": 2
+    },
+    {
+      "name": "relationships",
+      "slug": "relationships",
+      "count": 1
+    },
+    {
+      "name": "religion",
+      "slug": "religion",
+      "count": 3
+    },
+    {
+      "name": "representation",
+      "slug": "representation",
+      "count": 1
+    },
+    {
+      "name": "responsibility",
+      "slug": "responsibility",
       "count": 1
     },
     {
@@ -233,8 +2398,233 @@
       "count": 1
     },
     {
+      "name": "romance",
+      "slug": "romance",
+      "count": 3
+    },
+    {
+      "name": "romantic",
+      "slug": "romantic",
+      "count": 1
+    },
+    {
+      "name": "sacred",
+      "slug": "sacred",
+      "count": 1
+    },
+    {
+      "name": "sacred-language",
+      "slug": "sacred-language",
+      "count": 1
+    },
+    {
+      "name": "sacred-love",
+      "slug": "sacred-love",
+      "count": 1
+    },
+    {
+      "name": "sacred-teachings",
+      "slug": "sacred-teachings",
+      "count": 1
+    },
+    {
+      "name": "saey",
+      "slug": "saey",
+      "count": 1
+    },
+    {
+      "name": "saints",
+      "slug": "saints",
+      "count": 1
+    },
+    {
+      "name": "science",
+      "slug": "science",
+      "count": 2
+    },
+    {
+      "name": "sea",
+      "slug": "sea",
+      "count": 1
+    },
+    {
+      "name": "secret",
+      "slug": "secret",
+      "count": 1
+    },
+    {
+      "name": "secrets",
+      "slug": "secrets",
+      "count": 1
+    },
+    {
+      "name": "seeker",
+      "slug": "seeker",
+      "count": 1
+    },
+    {
+      "name": "seeking-truth",
+      "slug": "seeking-truth",
+      "count": 1
+    },
+    {
+      "name": "seer",
+      "slug": "seer",
+      "count": 2
+    },
+    {
+      "name": "self-critic",
+      "slug": "self-critic",
+      "count": 1
+    },
+    {
+      "name": "self-critical",
+      "slug": "self-critical",
+      "count": 1
+    },
+    {
+      "name": "sense",
+      "slug": "sense",
+      "count": 1
+    },
+    {
+      "name": "sex",
+      "slug": "sex",
+      "count": 1
+    },
+    {
+      "name": "shadows",
+      "slug": "shadows",
+      "count": 1
+    },
+    {
+      "name": "sheila-graber-art",
+      "slug": "sheila-graber-art",
+      "count": 1
+    },
+    {
+      "name": "shipwreck",
+      "slug": "shipwreck",
+      "count": 1
+    },
+    {
+      "name": "sight",
+      "slug": "sight",
+      "count": 1
+    },
+    {
+      "name": "silence",
+      "slug": "silence",
+      "count": 2
+    },
+    {
+      "name": "silvery",
+      "slug": "silvery",
+      "count": 1
+    },
+    {
       "name": "simplicity",
       "slug": "simplicity",
+      "count": 1
+    },
+    {
+      "name": "sled-ride",
+      "slug": "sled-ride",
+      "count": 1
+    },
+    {
+      "name": "smashwords",
+      "slug": "smashwords",
+      "count": 1
+    },
+    {
+      "name": "smell",
+      "slug": "smell",
+      "count": 1
+    },
+    {
+      "name": "snow",
+      "slug": "snow",
+      "count": 1
+    },
+    {
+      "name": "socialism",
+      "slug": "socialism",
+      "count": 2
+    },
+    {
+      "name": "somatic-wisdom",
+      "slug": "somatic-wisdom",
+      "count": 1
+    },
+    {
+      "name": "soul",
+      "slug": "soul",
+      "count": 4
+    },
+    {
+      "name": "soul-quotes",
+      "slug": "soul-quotes",
+      "count": 1
+    },
+    {
+      "name": "soulmate",
+      "slug": "soulmate",
+      "count": 1
+    },
+    {
+      "name": "soulmates",
+      "slug": "soulmates",
+      "count": 2
+    },
+    {
+      "name": "spanish-poetry",
+      "slug": "spanish-poetry",
+      "count": 1
+    },
+    {
+      "name": "spiritual",
+      "slug": "spiritual",
+      "count": 7
+    },
+    {
+      "name": "spiritual-poetry",
+      "slug": "spiritual-poetry",
+      "count": 2
+    },
+    {
+      "name": "spiritual-quotes",
+      "slug": "spiritual-quotes",
+      "count": 2
+    },
+    {
+      "name": "spirituality",
+      "slug": "spirituality",
+      "count": 6
+    },
+    {
+      "name": "star",
+      "slug": "star",
+      "count": 1
+    },
+    {
+      "name": "stardust",
+      "slug": "stardust",
+      "count": 1
+    },
+    {
+      "name": "steve-jobs",
+      "slug": "steve-jobs",
+      "count": 1
+    },
+    {
+      "name": "strings-of-fate",
+      "slug": "strings-of-fate",
+      "count": 1
+    },
+    {
+      "name": "sublime-love",
+      "slug": "sublime-love",
       "count": 1
     },
     {
@@ -243,8 +2633,133 @@
       "count": 2
     },
     {
+      "name": "sufi",
+      "slug": "sufi",
+      "count": 1
+    },
+    {
+      "name": "sufism",
+      "slug": "sufism",
+      "count": 1
+    },
+    {
+      "name": "summer",
+      "slug": "summer",
+      "count": 1
+    },
+    {
+      "name": "sun",
+      "slug": "sun",
+      "count": 1
+    },
+    {
+      "name": "superheroes",
+      "slug": "superheroes",
+      "count": 1
+    },
+    {
+      "name": "supernatural",
+      "slug": "supernatural",
+      "count": 1
+    },
+    {
+      "name": "supreme-love",
+      "slug": "supreme-love",
+      "count": 1
+    },
+    {
+      "name": "surrounding",
+      "slug": "surrounding",
+      "count": 1
+    },
+    {
+      "name": "sutras",
+      "slug": "sutras",
+      "count": 1
+    },
+    {
+      "name": "talisman",
+      "slug": "talisman",
+      "count": 1
+    },
+    {
+      "name": "technocracy",
+      "slug": "technocracy",
+      "count": 2
+    },
+    {
+      "name": "technology",
+      "slug": "technology",
+      "count": 2
+    },
+    {
+      "name": "the-cave",
+      "slug": "the-cave",
+      "count": 1
+    },
+    {
+      "name": "the-girl-in-the-red-cape",
+      "slug": "the-girl-in-the-red-cape",
+      "count": 1
+    },
+    {
+      "name": "the-paranormal-investigator",
+      "slug": "the-paranormal-investigator",
+      "count": 1
+    },
+    {
+      "name": "the-world",
+      "slug": "the-world",
+      "count": 1
+    },
+    {
+      "name": "thriller",
+      "slug": "thriller",
+      "count": 1
+    },
+    {
       "name": "time",
       "slug": "time",
+      "count": 1
+    },
+    {
+      "name": "tower",
+      "slug": "tower",
+      "count": 1
+    },
+    {
+      "name": "tragedy",
+      "slug": "tragedy",
+      "count": 1
+    },
+    {
+      "name": "tragedy-of-life",
+      "slug": "tragedy-of-life",
+      "count": 1
+    },
+    {
+      "name": "transcendent",
+      "slug": "transcendent",
+      "count": 1
+    },
+    {
+      "name": "truth",
+      "slug": "truth",
+      "count": 2
+    },
+    {
+      "name": "twin-flame",
+      "slug": "twin-flame",
+      "count": 1
+    },
+    {
+      "name": "unity",
+      "slug": "unity",
+      "count": 1
+    },
+    {
+      "name": "universe",
+      "slug": "universe",
       "count": 1
     },
     {
@@ -253,8 +2768,33 @@
       "count": 1
     },
     {
+      "name": "unsolved",
+      "slug": "unsolved",
+      "count": 1
+    },
+    {
+      "name": "vampires",
+      "slug": "vampires",
+      "count": 1
+    },
+    {
+      "name": "visionary",
+      "slug": "visionary",
+      "count": 6
+    },
+    {
+      "name": "walter-isaacson",
+      "slug": "walter-isaacson",
+      "count": 1
+    },
+    {
       "name": "wandering",
       "slug": "wandering",
+      "count": 1
+    },
+    {
+      "name": "weather",
+      "slug": "weather",
       "count": 1
     },
     {
@@ -263,20 +2803,150 @@
       "count": 6
     },
     {
+      "name": "wisdom-quotes",
+      "slug": "wisdom-quotes",
+      "count": 1
+    },
+    {
+      "name": "witch",
+      "slug": "witch",
+      "count": 1
+    },
+    {
+      "name": "witches",
+      "slug": "witches",
+      "count": 1
+    },
+    {
+      "name": "women",
+      "slug": "women",
+      "count": 2
+    },
+    {
+      "name": "words",
+      "slug": "words",
+      "count": 1
+    },
+    {
       "name": "work",
       "slug": "work",
       "count": 2
     },
     {
+      "name": "world",
+      "slug": "world",
+      "count": 2
+    },
+    {
       "name": "writing",
       "slug": "writing",
+      "count": 2
+    },
+    {
+      "name": "ya",
+      "slug": "ya",
+      "count": 1
+    },
+    {
+      "name": "ya-fantasy",
+      "slug": "ya-fantasy",
+      "count": 1
+    },
+    {
+      "name": "yogi",
+      "slug": "yogi",
       "count": 1
     }
   ],
   "sources": [
     {
+      "name": "1984",
+      "slug": "1984",
+      "count": 1
+    },
+    {
+      "name": "A Life for a Life",
+      "slug": "a-life-for-a-life",
+      "count": 1
+    },
+    {
+      "name": "A Thousand Flamingos",
+      "slug": "a-thousand-flamingos",
+      "count": 1
+    },
+    {
+      "name": "A Thousand Places",
+      "slug": "a-thousand-places",
+      "count": 1
+    },
+    {
+      "name": "A Vampire's Reckoning",
+      "slug": "a-vampire-s-reckoning",
+      "count": 1
+    },
+    {
+      "name": "Autobiography of a Sorcerer: Book One",
+      "slug": "autobiography-of-a-sorcerer-book-one",
+      "count": 1
+    },
+    {
+      "name": "Back To Grace: Spiritual Poetry & Reflections",
+      "slug": "back-to-grace-spiritual-poetry-reflections",
+      "count": 1
+    },
+    {
+      "name": "Beacon of the Dark Night: Shining Hope Through the Shadows",
+      "slug": "beacon-of-the-dark-night-shining-hope-through-the-shadows",
+      "count": 1
+    },
+    {
       "name": "Beautiful Boy (Darling Boy)",
       "slug": "beautiful-boy-darling-boy",
+      "count": 1
+    },
+    {
+      "name": "Blue Like Jazz: Nonreligious Thoughts on Christian Spirituality",
+      "slug": "blue-like-jazz-nonreligious-thoughts-on-christian-spirituality",
+      "count": 1
+    },
+    {
+      "name": "Blue Moon Bench",
+      "slug": "blue-moon-bench",
+      "count": 1
+    },
+    {
+      "name": "Body: or, How Hope Confronts Her Shadow and Calls the Flutter Girl to Flight",
+      "slug": "body-or-how-hope-confronts-her-shadow-and-calls-the-flutter-girl-to-flight",
+      "count": 1
+    },
+    {
+      "name": "Brian Froud's World of Faerie",
+      "slug": "brian-froud-s-world-of-faerie",
+      "count": 1
+    },
+    {
+      "name": "Citadels of Fire",
+      "slug": "citadels-of-fire",
+      "count": 1
+    },
+    {
+      "name": "Crossing the Forbidden Highway: The Untold Story of Orgone, Body Therapy, and Suppressed Emotion",
+      "slug": "crossing-the-forbidden-highway-the-untold-story-of-orgone-body-therapy-and-suppressed-emotion",
+      "count": 1
+    },
+    {
+      "name": "De Profundis",
+      "slug": "de-profundis",
+      "count": 1
+    },
+    {
+      "name": "Dead Toad Scrolls",
+      "slug": "dead-toad-scrolls",
+      "count": 1
+    },
+    {
+      "name": "Death Troupe",
+      "slug": "death-troupe",
       "count": 1
     },
     {
@@ -290,8 +2960,88 @@
       "count": 1
     },
     {
+      "name": "Driving Toward Destiny",
+      "slug": "driving-toward-destiny",
+      "count": 2
+    },
+    {
+      "name": "Ethereal",
+      "slug": "ethereal",
+      "count": 1
+    },
+    {
+      "name": "Evanescent",
+      "slug": "evanescent",
+      "count": 3
+    },
+    {
+      "name": "Fire and Gold",
+      "slug": "fire-and-gold",
+      "count": 1
+    },
+    {
+      "name": "Gawain and the Green Knight",
+      "slug": "gawain-and-the-green-knight",
+      "count": 6
+    },
+    {
+      "name": "Guardian Cats and the Lost Books of Alexandria",
+      "slug": "guardian-cats-and-the-lost-books-of-alexandria",
+      "count": 1
+    },
+    {
+      "name": "Hamlet",
+      "slug": "hamlet",
+      "count": 1
+    },
+    {
       "name": "Harry Potter and the Chamber of Secrets",
       "slug": "harry-potter-and-the-chamber-of-secrets",
+      "count": 1
+    },
+    {
+      "name": "Horse Magick: Spells and Rituals for Self-Empowerment, Protection, and Prosperity",
+      "slug": "horse-magick-spells-and-rituals-for-self-empowerment-protection-and-prosperity",
+      "count": 1
+    },
+    {
+      "name": "How to Change Your Mind: The New Science of Psychedelics",
+      "slug": "how-to-change-your-mind-the-new-science-of-psychedelics",
+      "count": 1
+    },
+    {
+      "name": "Human Making is Our Mission: A Treatise on Parenting",
+      "slug": "human-making-is-our-mission-a-treatise-on-parenting",
+      "count": 1
+    },
+    {
+      "name": "I Call Myself Earth Girl",
+      "slug": "i-call-myself-earth-girl",
+      "count": 1
+    },
+    {
+      "name": "I tell myself, it's the enticing lull of the moon and her shadow",
+      "slug": "i-tell-myself-it-s-the-enticing-lull-of-the-moon-and-her-shadow",
+      "count": 1
+    },
+    {
+      "name": "In Limbo",
+      "slug": "in-limbo",
+      "count": 1
+    },
+    {
+      "name": "Inexplicable Distances",
+      "slug": "inexplicable-distances",
+      "count": 1
+    },
+    {
+      "name": "Just Love Her",
+      "slug": "just-love-her",
+      "count": 1
+    },
+    {
+      "name": "Lahana: A Saga of the Savage Innocence and Power of Ancient Druidism",
+      "slug": "lahana-a-saga-of-the-savage-innocence-and-power-of-ancient-druidism",
       "count": 1
     },
     {
@@ -300,13 +3050,213 @@
       "count": 1
     },
     {
+      "name": "Life in Suspension: La Vie Suspendue",
+      "slug": "life-in-suspension-la-vie-suspendue",
+      "count": 6
+    },
+    {
+      "name": "Living the Best Day Ever",
+      "slug": "living-the-best-day-ever",
+      "count": 1
+    },
+    {
+      "name": "Marked by Love: Unveiling the Substance of Your True Identity",
+      "slug": "marked-by-love-unveiling-the-substance-of-your-true-identity",
+      "count": 4
+    },
+    {
+      "name": "Mastery of Consciousness: Awaken the Inner Prophet: Liberate Yourself with Yogic Wisdom.",
+      "slug": "mastery-of-consciousness-awaken-the-inner-prophet-liberate-yourself-with-yogic-wisdom",
+      "count": 1
+    },
+    {
+      "name": "Mindfulness and Mysticism: Connecting Present Moment Awareness with Higher States of Consciousness",
+      "slug": "mindfulness-and-mysticism-connecting-present-moment-awareness-with-higher-states-of-consciousness",
+      "count": 1
+    },
+    {
+      "name": "Mysterious Vortex",
+      "slug": "mysterious-vortex",
+      "count": 1
+    },
+    {
+      "name": "Mystical Tides",
+      "slug": "mystical-tides",
+      "count": 8
+    },
+    {
+      "name": "Myths are Real, Reality is a Myth",
+      "slug": "myths-are-real-reality-is-a-myth",
+      "count": 1
+    },
+    {
+      "name": "On My Way To Infinity: A Seeker's Poetic Pilgrimage",
+      "slug": "on-my-way-to-infinity-a-seeker-s-poetic-pilgrimage",
+      "count": 1
+    },
+    {
+      "name": "Our Accidental Adventure",
+      "slug": "our-accidental-adventure",
+      "count": 1
+    },
+    {
+      "name": "Party of One: The Loner's Manifesto",
+      "slug": "party-of-one-the-loner-s-manifesto",
+      "count": 1
+    },
+    {
+      "name": "Peter: A Darkened Fairytale",
+      "slug": "peter-a-darkened-fairytale",
+      "count": 3
+    },
+    {
+      "name": "Pierrot & Columbine",
+      "slug": "pierrot-columbine",
+      "count": 1
+    },
+    {
       "name": "Plato's Apology",
       "slug": "plato-s-apology",
       "count": 1
     },
     {
+      "name": "Pour Me Another Cup: Mystical Writings to Illuminate Your Soul",
+      "slug": "pour-me-another-cup-mystical-writings-to-illuminate-your-soul",
+      "count": 1
+    },
+    {
+      "name": "Prince of Chandeliers",
+      "slug": "prince-of-chandeliers",
+      "count": 1
+    },
+    {
+      "name": "Principia Humanitas",
+      "slug": "principia-humanitas",
+      "count": 2
+    },
+    {
+      "name": "Prophets of Order",
+      "slug": "prophets-of-order",
+      "count": 2
+    },
+    {
+      "name": "Raindrops of the Gods",
+      "slug": "raindrops-of-the-gods",
+      "count": 1
+    },
+    {
+      "name": "Raintree County",
+      "slug": "raintree-county",
+      "count": 2
+    },
+    {
+      "name": "Random Cosmos",
+      "slug": "random-cosmos",
+      "count": 1
+    },
+    {
+      "name": "Redwall",
+      "slug": "redwall",
+      "count": 1
+    },
+    {
+      "name": "Reminiscences Of A Seeker: Dark Face Of The White World",
+      "slug": "reminiscences-of-a-seeker-dark-face-of-the-white-world",
+      "count": 1
+    },
+    {
+      "name": "Resonance Alchemy: Awakening the Tree of Life",
+      "slug": "resonance-alchemy-awakening-the-tree-of-life",
+      "count": 1
+    },
+    {
+      "name": "Rumi's Daughter",
+      "slug": "rumi-s-daughter",
+      "count": 1
+    },
+    {
+      "name": "Saltwater Buddha: A Surfer's Quest to Find Zen on the Sea",
+      "slug": "saltwater-buddha-a-surfer-s-quest-to-find-zen-on-the-sea",
+      "count": 1
+    },
+    {
+      "name": "Seconds Before Sunrise",
+      "slug": "seconds-before-sunrise",
+      "count": 1
+    },
+    {
+      "name": "See the Little People...An Enchanting Adventure",
+      "slug": "see-the-little-people-an-enchanting-adventure",
+      "count": 13
+    },
+    {
+      "name": "She Had Some Horses",
+      "slug": "she-had-some-horses",
+      "count": 1
+    },
+    {
+      "name": "Skinny Legs and All",
+      "slug": "skinny-legs-and-all",
+      "count": 1
+    },
+    {
+      "name": "Song of a Nature Lover",
+      "slug": "song-of-a-nature-lover",
+      "count": 1
+    },
+    {
+      "name": "Stage Fright",
+      "slug": "stage-fright",
+      "count": 4
+    },
+    {
       "name": "Stanford commencement speech, 2005",
       "slug": "stanford-commencement-speech-2005",
+      "count": 2
+    },
+    {
+      "name": "Steve Jobs",
+      "slug": "steve-jobs",
+      "count": 1
+    },
+    {
+      "name": "Strings of Fate",
+      "slug": "strings-of-fate",
+      "count": 1
+    },
+    {
+      "name": "Tales of Topaz the Conjure Cat: Part I Topaz and the Evil Wizard & Part II Topaz and the Plum-Gista Stone",
+      "slug": "tales-of-topaz-the-conjure-cat-part-i-topaz-and-the-evil-wizard-part-ii-topaz-and-the-plum-gista-stone",
+      "count": 1
+    },
+    {
+      "name": "Talismanist: Fragments of the Ancient Fire. Philosophy of Fragmentism Series.",
+      "slug": "talismanist-fragments-of-the-ancient-fire-philosophy-of-fragmentism-series",
+      "count": 5
+    },
+    {
+      "name": "The Ashfire King",
+      "slug": "the-ashfire-king",
+      "count": 2
+    },
+    {
+      "name": "The Book of Urizen",
+      "slug": "the-book-of-urizen",
+      "count": 1
+    },
+    {
+      "name": "The Cave",
+      "slug": "the-cave",
+      "count": 1
+    },
+    {
+      "name": "The Dance of the Dissident Daughter: A Woman's Journey from Christian Tradition to the Sacred Feminine",
+      "slug": "the-dance-of-the-dissident-daughter-a-woman-s-journey-from-christian-tradition-to-the-sacred-feminine",
+      "count": 1
+    },
+    {
+      "name": "The Elven Way: The Magical Path of the Shining Ones",
+      "slug": "the-elven-way-the-magical-path-of-the-shining-ones",
       "count": 2
     },
     {
@@ -315,12 +3265,142 @@
       "count": 1
     },
     {
+      "name": "THE FIRST COLLAPSE: How the World Began to End",
+      "slug": "the-first-collapse-how-the-world-began-to-end",
+      "count": 1
+    },
+    {
+      "name": "The Girl in The Red Cape",
+      "slug": "the-girl-in-the-red-cape",
+      "count": 1
+    },
+    {
+      "name": "The Golden Sword",
+      "slug": "the-golden-sword",
+      "count": 1
+    },
+    {
+      "name": "The Greening",
+      "slug": "the-greening",
+      "count": 1
+    },
+    {
+      "name": "The Legendary Inge",
+      "slug": "the-legendary-inge",
+      "count": 1
+    },
+    {
+      "name": "The Little People Journey into the Mystic Sea",
+      "slug": "the-little-people-journey-into-the-mystic-sea",
+      "count": 13
+    },
+    {
+      "name": "The Look of Amie Martine",
+      "slug": "the-look-of-amie-martine",
+      "count": 1
+    },
+    {
+      "name": "The Moor's Golden Helmet",
+      "slug": "the-moor-s-golden-helmet",
+      "count": 1
+    },
+    {
+      "name": "The Mystical Accord: Sutras to Suit our Times, Lines for Spiritual Evolution",
+      "slug": "the-mystical-accord-sutras-to-suit-our-times-lines-for-spiritual-evolution",
+      "count": 1
+    },
+    {
+      "name": "The Oneironaut’s Diary",
+      "slug": "the-oneironaut-s-diary",
+      "count": 1
+    },
+    {
+      "name": "The paradoxical emblems of Dionysius Andreas Freher",
+      "slug": "the-paradoxical-emblems-of-dionysius-andreas-freher",
+      "count": 1
+    },
+    {
+      "name": "THE PULSE OF THE UNISOUL VOLUME-I",
+      "slug": "the-pulse-of-the-unisoul-volume-i",
+      "count": 2
+    },
+    {
+      "name": "The Sensible Psychic: A Leading-Edge Guide To True Psychic Perception",
+      "slug": "the-sensible-psychic-a-leading-edge-guide-to-true-psychic-perception",
+      "count": 1
+    },
+    {
       "name": "The Shawshank Redemption",
       "slug": "the-shawshank-redemption",
+      "count": 1
+    },
+    {
+      "name": "The Subtle Cause",
+      "slug": "the-subtle-cause",
+      "count": 1
+    },
+    {
+      "name": "The Tao of Physical and Spiritual",
+      "slug": "the-tao-of-physical-and-spiritual",
+      "count": 1
+    },
+    {
+      "name": "The Wingless",
+      "slug": "the-wingless",
+      "count": 1
+    },
+    {
+      "name": "This Life Is in Your Hands: One Dream, Sixty Acres, and a Family Undone",
+      "slug": "this-life-is-in-your-hands-one-dream-sixty-acres-and-a-family-undone",
+      "count": 1
+    },
+    {
+      "name": "This Side of Paradise",
+      "slug": "this-side-of-paradise",
+      "count": 1
+    },
+    {
+      "name": "Tractatus Logico-Philosophicus",
+      "slug": "tractatus-logico-philosophicus",
+      "count": 2
+    },
+    {
+      "name": "Turquoise Silence",
+      "slug": "turquoise-silence",
+      "count": 1
+    },
+    {
+      "name": "Voice of The Portals I: The First Gateway",
+      "slug": "voice-of-the-portals-i-the-first-gateway",
+      "count": 1
+    },
+    {
+      "name": "What line?",
+      "slug": "what-line",
+      "count": 1
+    },
+    {
+      "name": "Write like no one is reading",
+      "slug": "write-like-no-one-is-reading",
+      "count": 1
+    },
+    {
+      "name": "Your Light Is The Key",
+      "slug": "your-light-is-the-key",
       "count": 1
     }
   ],
   "authors": [
+    {
+      "name": "A.D. Aliwat",
+      "slug": "a-d-aliwat",
+      "count": 1
+    },
+    {
+      "name": "Abhijit Naskar",
+      "slug": "abhijit-naskar",
+      "count": 4
+    },
     {
       "name": "Abraham Lincoln",
       "slug": "abraham-lincoln",
@@ -332,13 +3412,123 @@
       "count": 2
     },
     {
+      "name": "Aldous Huxley",
+      "slug": "aldous-huxley",
+      "count": 1
+    },
+    {
+      "name": "Amit Kalantri",
+      "slug": "amit-kalantri",
+      "count": 1
+    },
+    {
+      "name": "Amogh Swamy",
+      "slug": "amogh-swamy",
+      "count": 1
+    },
+    {
+      "name": "Ana Claudia Antunes",
+      "slug": "ana-claudia-antunes",
+      "count": 2
+    },
+    {
+      "name": "Anaïs Nin",
+      "slug": "ana-s-nin",
+      "count": 1
+    },
+    {
+      "name": "Anneli Rufus",
+      "slug": "anneli-rufus",
+      "count": 1
+    },
+    {
+      "name": "Ansul Noor",
+      "slug": "ansul-noor",
+      "count": 1
+    },
+    {
+      "name": "Anthon St. Maarten",
+      "slug": "anthon-st-maarten",
+      "count": 1
+    },
+    {
+      "name": "Assegid Habtewold",
+      "slug": "assegid-habtewold",
+      "count": 1
+    },
+    {
+      "name": "Awdhesh Singh",
+      "slug": "awdhesh-singh",
+      "count": 1
+    },
+    {
       "name": "Babe Ruth",
       "slug": "babe-ruth",
       "count": 1
     },
     {
+      "name": "Bikash Bhandari",
+      "slug": "bikash-bhandari",
+      "count": 1
+    },
+    {
+      "name": "Brian Froud",
+      "slug": "brian-froud",
+      "count": 1
+    },
+    {
+      "name": "Brian Jacques",
+      "slug": "brian-jacques",
+      "count": 1
+    },
+    {
+      "name": "Casey Fisher",
+      "slug": "casey-fisher",
+      "count": 1
+    },
+    {
+      "name": "Casey Yun",
+      "slug": "casey-yun",
+      "count": 1
+    },
+    {
+      "name": "Catherine Toon",
+      "slug": "catherine-toon",
+      "count": 4
+    },
+    {
+      "name": "Cecilia Llompart",
+      "slug": "cecilia-llompart",
+      "count": 1
+    },
+    {
+      "name": "Chelsea Abdullah",
+      "slug": "chelsea-abdullah",
+      "count": 2
+    },
+    {
+      "name": "Chris DiSano Davenport",
+      "slug": "chris-disano-davenport",
+      "count": 28
+    },
+    {
       "name": "Chuck Palahniuk",
       "slug": "chuck-palahniuk",
+      "count": 1
+    },
+    {
+      "name": "Clay Mitchell",
+      "slug": "clay-mitchell",
+      "count": 1
+    },
+    {
+      "name": "Crystal Woods",
+      "slug": "crystal-woods",
+      "count": 1
+    },
+    {
+      "name": "D.L. Blanchard",
+      "slug": "d-l-blanchard",
       "count": 1
     },
     {
@@ -347,13 +3537,83 @@
       "count": 1
     },
     {
+      "name": "Dark Night Beacon",
+      "slug": "dark-night-beacon",
+      "count": 1
+    },
+    {
+      "name": "DEO VOLENTE",
+      "slug": "deo-volente",
+      "count": 2
+    },
+    {
+      "name": "Diane L. Kowalyshyn",
+      "slug": "diane-l-kowalyshyn",
+      "count": 4
+    },
+    {
+      "name": "Dionysius Andreas Freher",
+      "slug": "dionysius-andreas-freher",
+      "count": 1
+    },
+    {
+      "name": "Donald Miller",
+      "slug": "donald-miller",
+      "count": 1
+    },
+    {
+      "name": "Donald stabile",
+      "slug": "donald-stabile",
+      "count": 2
+    },
+    {
+      "name": "Douglas Adams",
+      "slug": "douglas-adams",
+      "count": 1
+    },
+    {
+      "name": "Dr. S.U.A.H Syed",
+      "slug": "dr-s-u-a-h-syed",
+      "count": 1
+    },
+    {
+      "name": "Duha Zanjabil",
+      "slug": "duha-zanjabil",
+      "count": 1
+    },
+    {
+      "name": "Earthschool Harmony",
+      "slug": "earthschool-harmony",
+      "count": 1
+    },
+    {
       "name": "Eleanor Roosevelt",
       "slug": "eleanor-roosevelt",
       "count": 2
     },
     {
+      "name": "EonaCat (Jeroen Saey)",
+      "slug": "eonacat-jeroen-saey",
+      "count": 1
+    },
+    {
+      "name": "Erik Pevernagie",
+      "slug": "erik-pevernagie",
+      "count": 1
+    },
+    {
       "name": "Ernest Hemingway",
       "slug": "ernest-hemingway",
+      "count": 1
+    },
+    {
+      "name": "F. Scott Fitzgerald",
+      "slug": "f-scott-fitzgerald",
+      "count": 1
+    },
+    {
+      "name": "Frances Woodard",
+      "slug": "frances-woodard",
       "count": 1
     },
     {
@@ -362,8 +3622,28 @@
       "count": 1
     },
     {
+      "name": "George Orwell",
+      "slug": "george-orwell",
+      "count": 1
+    },
+    {
+      "name": "Gina Marinello-Sweeney",
+      "slug": "gina-marinello-sweeney",
+      "count": 1
+    },
+    {
+      "name": "God in Heaven",
+      "slug": "god-in-heaven",
+      "count": 1
+    },
+    {
       "name": "Grandma Moses",
       "slug": "grandma-moses",
+      "count": 1
+    },
+    {
+      "name": "Gwenevere Rivest",
+      "slug": "gwenevere-rivest",
       "count": 1
     },
     {
@@ -372,8 +3652,33 @@
       "count": 1
     },
     {
+      "name": "Helene Cardona",
+      "slug": "helene-cardona",
+      "count": 6
+    },
+    {
+      "name": "Hellevi E. Woodman",
+      "slug": "hellevi-e-woodman",
+      "count": 1
+    },
+    {
+      "name": "Hendri Coetzee",
+      "slug": "hendri-coetzee",
+      "count": 1
+    },
+    {
       "name": "Henry Ford",
       "slug": "henry-ford",
+      "count": 1
+    },
+    {
+      "name": "Hopi Proverb",
+      "slug": "hopi-proverb",
+      "count": 1
+    },
+    {
+      "name": "Ipsita Upasana",
+      "slug": "ipsita-upasana",
       "count": 1
     },
     {
@@ -387,14 +3692,94 @@
       "count": 1
     },
     {
+      "name": "Jack Gilbert",
+      "slug": "jack-gilbert",
+      "count": 1
+    },
+    {
+      "name": "Jaimal Yogis",
+      "slug": "jaimal-yogis",
+      "count": 1
+    },
+    {
+      "name": "James Tunney",
+      "slug": "james-tunney",
+      "count": 1
+    },
+    {
+      "name": "Jan Krause Greene",
+      "slug": "jan-krause-greene",
+      "count": 1
+    },
+    {
+      "name": "Jason Cain",
+      "slug": "jason-cain",
+      "count": 1
+    },
+    {
+      "name": "JK Rowling",
+      "slug": "jk-rowling",
+      "count": 1
+    },
+    {
       "name": "John Lennon",
       "slug": "john-lennon",
+      "count": 1
+    },
+    {
+      "name": "Joy Harjo",
+      "slug": "joy-harjo",
+      "count": 1
+    },
+    {
+      "name": "Kapil Kumar Bhaskar",
+      "slug": "kapil-kumar-bhaskar",
+      "count": 1
+    },
+    {
+      "name": "Kate Stradling",
+      "slug": "kate-stradling",
+      "count": 1
+    },
+    {
+      "name": "Katherine Parker",
+      "slug": "katherine-parker",
+      "count": 1
+    },
+    {
+      "name": "Kilroy J. Oldster",
+      "slug": "kilroy-j-oldster",
+      "count": 2
+    },
+    {
+      "name": "L.K. Hill",
+      "slug": "l-k-hill",
+      "count": 1
+    },
+    {
+      "name": "Laurence Galian",
+      "slug": "laurence-galian",
+      "count": 1
+    },
+    {
+      "name": "Laurie Perez",
+      "slug": "laurie-perez",
+      "count": 1
+    },
+    {
+      "name": "Lawren Leo",
+      "slug": "lawren-leo",
       "count": 1
     },
     {
       "name": "Leonardo da Vinci",
       "slug": "leonardo-da-vinci",
       "count": 1
+    },
+    {
+      "name": "Ludwig Wittgenstein",
+      "slug": "ludwig-wittgenstein",
+      "count": 4
     },
     {
       "name": "Mae West",
@@ -407,13 +3792,123 @@
       "count": 1
     },
     {
+      "name": "Mara Amberly",
+      "slug": "mara-amberly",
+      "count": 1
+    },
+    {
+      "name": "Maria-Cristina Necula",
+      "slug": "maria-cristina-necula",
+      "count": 3
+    },
+    {
+      "name": "Melissa Coleman",
+      "slug": "melissa-coleman",
+      "count": 1
+    },
+    {
+      "name": "Michael Bassey Johnson",
+      "slug": "michael-bassey-johnson",
+      "count": 7
+    },
+    {
+      "name": "Michael Pollan",
+      "slug": "michael-pollan",
+      "count": 1
+    },
+    {
+      "name": "Mimi Novic",
+      "slug": "mimi-novic",
+      "count": 1
+    },
+    {
+      "name": "Muriel Maufroy",
+      "slug": "muriel-maufroy",
+      "count": 1
+    },
+    {
+      "name": "Nandhi Tapasyogi",
+      "slug": "nandhi-tapasyogi",
+      "count": 1
+    },
+    {
       "name": "Nelson Mandela",
       "slug": "nelson-mandela",
       "count": 1
     },
     {
+      "name": "Ness Kingsley",
+      "slug": "ness-kingsley",
+      "count": 1
+    },
+    {
+      "name": "Nicole Adelle Flamer",
+      "slug": "nicole-adelle-flamer",
+      "count": 1
+    },
+    {
+      "name": "Nikki Rowe",
+      "slug": "nikki-rowe",
+      "count": 4
+    },
+    {
+      "name": "Noam Chomsky",
+      "slug": "noam-chomsky",
+      "count": 1
+    },
+    {
+      "name": "Ora Nadrich",
+      "slug": "ora-nadrich",
+      "count": 1
+    },
+    {
+      "name": "Oscar Wilde",
+      "slug": "oscar-wilde",
+      "count": 1
+    },
+    {
+      "name": "Pat Frayne",
+      "slug": "pat-frayne",
+      "count": 1
+    },
+    {
+      "name": "Phoenix Moon",
+      "slug": "phoenix-moon",
+      "count": 1
+    },
+    {
+      "name": "Pratik Mishra",
+      "slug": "pratik-mishra",
+      "count": 1
+    },
+    {
+      "name": "R.M. Alwyn",
+      "slug": "r-m-alwyn",
+      "count": 1
+    },
+    {
+      "name": "Rahma Krambo",
+      "slug": "rahma-krambo",
+      "count": 1
+    },
+    {
+      "name": "Rajesh`",
+      "slug": "rajesh",
+      "count": 2
+    },
+    {
       "name": "Ralph Waldo Emerson",
       "slug": "ralph-waldo-emerson",
+      "count": 1
+    },
+    {
+      "name": "Raz Mihal",
+      "slug": "raz-mihal",
+      "count": 1
+    },
+    {
+      "name": "Rebecca Carson",
+      "slug": "rebecca-carson",
       "count": 1
     },
     {
@@ -422,13 +3917,83 @@
       "count": 1
     },
     {
+      "name": "Rilke",
+      "slug": "rilke",
+      "count": 1
+    },
+    {
+      "name": "Ritu Negi",
+      "slug": "ritu-negi",
+      "count": 1
+    },
+    {
+      "name": "Rosie Morgan",
+      "slug": "rosie-morgan",
+      "count": 1
+    },
+    {
+      "name": "Ross Lockridge Jr.",
+      "slug": "ross-lockridge-jr",
+      "count": 2
+    },
+    {
+      "name": "Roy Joseph Nasrallah",
+      "slug": "roy-joseph-nasrallah",
+      "count": 1
+    },
+    {
+      "name": "Sanober Khan",
+      "slug": "sanober-khan",
+      "count": 4
+    },
+    {
+      "name": "Scott C. Holstad",
+      "slug": "scott-c-holstad",
+      "count": 1
+    },
+    {
+      "name": "Sean Coons",
+      "slug": "sean-coons",
+      "count": 1
+    },
+    {
       "name": "Seneca",
       "slug": "seneca",
       "count": 1
     },
     {
+      "name": "Shabnam Sinha",
+      "slug": "shabnam-sinha",
+      "count": 1
+    },
+    {
+      "name": "Shannon A. Thompson",
+      "slug": "shannon-a-thompson",
+      "count": 1
+    },
+    {
+      "name": "Shannon L. Alder",
+      "slug": "shannon-l-alder",
+      "count": 1
+    },
+    {
+      "name": "Sharon Brubaker",
+      "slug": "sharon-brubaker",
+      "count": 1
+    },
+    {
       "name": "Socrates",
       "slug": "socrates",
+      "count": 1
+    },
+    {
+      "name": "Stefan Emunds",
+      "slug": "stefan-emunds",
+      "count": 7
+    },
+    {
+      "name": "Stephanie Acello",
+      "slug": "stephanie-acello",
       "count": 1
     },
     {
@@ -442,8 +4007,48 @@
       "count": 2
     },
     {
+      "name": "Sue Monk Kidd",
+      "slug": "sue-monk-kidd",
+      "count": 1
+    },
+    {
+      "name": "Suzy Davies",
+      "slug": "suzy-davies",
+      "count": 3
+    },
+    {
+      "name": "Talismanist Giebra",
+      "slug": "talismanist-giebra",
+      "count": 5
+    },
+    {
+      "name": "Tamara Rendell",
+      "slug": "tamara-rendell",
+      "count": 9
+    },
+    {
+      "name": "Tavisha Sh",
+      "slug": "tavisha-sh",
+      "count": 2
+    },
+    {
+      "name": "The Silver Elves",
+      "slug": "the-silver-elves",
+      "count": 2
+    },
+    {
       "name": "Thomas A. Edison",
       "slug": "thomas-a-edison",
+      "count": 1
+    },
+    {
+      "name": "Tim Scott",
+      "slug": "tim-scott",
+      "count": 2
+    },
+    {
+      "name": "Tom Robbins",
+      "slug": "tom-robbins",
       "count": 1
     },
     {
@@ -452,8 +4057,53 @@
       "count": 1
     },
     {
+      "name": "Unknown",
+      "slug": "unknown",
+      "count": 2
+    },
+    {
+      "name": "Usha Cosmico",
+      "slug": "usha-cosmico",
+      "count": 1
+    },
+    {
+      "name": "V. Duwane Ledbetter",
+      "slug": "v-duwane-ledbetter",
+      "count": 1
+    },
+    {
+      "name": "V.M.K. Fewings",
+      "slug": "v-m-k-fewings",
+      "count": 1
+    },
+    {
+      "name": "Vincent H. O'Neil",
+      "slug": "vincent-h-o-neil",
+      "count": 1
+    },
+    {
+      "name": "Walter Isaacson",
+      "slug": "walter-isaacson",
+      "count": 1
+    },
+    {
       "name": "Will Smith",
       "slug": "will-smith",
+      "count": 1
+    },
+    {
+      "name": "William Blake",
+      "slug": "william-blake",
+      "count": 1
+    },
+    {
+      "name": "William O'Brien",
+      "slug": "william-o-brien",
+      "count": 4
+    },
+    {
+      "name": "William Shakespeare",
+      "slug": "william-shakespeare",
       "count": 1
     }
   ]
