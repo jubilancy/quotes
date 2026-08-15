@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-13T20:52:08.696Z",
-  "totalQuotes": 256,
+  "generatedAt": "2026-08-15T17:20:38.405Z",
+  "totalQuotes": 3748,
   "tags": [
     {
       "name": "abnormal",
@@ -105,6 +105,11 @@
     {
       "name": "alchemy",
       "slug": "alchemy",
+      "count": 1
+    },
+    {
+      "name": "Alice Walker",
+      "slug": "alice-walker",
       "count": 1
     },
     {
@@ -1293,6 +1298,11 @@
       "count": 1
     },
     {
+      "name": "Fernando Pessoa",
+      "slug": "fernando-pessoa",
+      "count": 1
+    },
+    {
       "name": "fiction",
       "slug": "fiction",
       "count": 4
@@ -1368,6 +1378,11 @@
       "count": 3
     },
     {
+      "name": "Fyodor Dostoevsky",
+      "slug": "fyodor-dostoevsky",
+      "count": 3
+    },
+    {
       "name": "gaia",
       "slug": "gaia",
       "count": 1
@@ -1386,6 +1401,11 @@
       "name": "gawain",
       "slug": "gawain",
       "count": 6
+    },
+    {
+      "name": "general",
+      "slug": "general",
+      "count": 3338
     },
     {
       "name": "genius",
@@ -1973,6 +1993,11 @@
       "count": 1
     },
     {
+      "name": "Mary Oliver",
+      "slug": "mary-oliver",
+      "count": 1
+    },
+    {
       "name": "mask",
       "slug": "mask",
       "count": 1
@@ -1980,6 +2005,11 @@
     {
       "name": "masterful",
       "slug": "masterful",
+      "count": 1
+    },
+    {
+      "name": "Mat Auryn",
+      "slug": "mat-auryn",
       "count": 1
     },
     {
@@ -2443,6 +2473,11 @@
       "count": 2
     },
     {
+      "name": "Rainer Maria Rilke",
+      "slug": "rainer-maria-rilke",
+      "count": 1
+    },
+    {
       "name": "rational-thinking",
       "slug": "rational-thinking",
       "count": 1
@@ -2598,6 +2633,11 @@
       "count": 1
     },
     {
+      "name": "Shakespeare Insults",
+      "slug": "shakespeare-insults",
+      "count": 55
+    },
+    {
       "name": "sheila-graber-art",
       "slug": "sheila-graber-art",
       "count": 1
@@ -2718,6 +2758,11 @@
       "count": 1
     },
     {
+      "name": "starwars",
+      "slug": "starwars",
+      "count": 90
+    },
+    {
       "name": "steve-jobs",
       "slug": "steve-jobs",
       "count": 1
@@ -2780,6 +2825,11 @@
     {
       "name": "sutras",
       "slug": "sutras",
+      "count": 1
+    },
+    {
+      "name": "tag",
+      "slug": "tag",
       "count": 1
     },
     {
@@ -2975,6 +3025,16 @@
       "count": 1
     },
     {
+      "name": "A Midsummer Night's Dream (Act 2, Scene 1)",
+      "slug": "a-midsummer-night-s-dream-act-2-scene-1",
+      "count": 1
+    },
+    {
+      "name": "A New Hope",
+      "slug": "a-new-hope",
+      "count": 28
+    },
+    {
       "name": "A Thousand Flamingos",
       "slug": "a-thousand-flamingos",
       "count": 1
@@ -2990,9 +3050,49 @@
       "count": 1
     },
     {
+      "name": "All's Well That Ends Well (Act 1, Scene 1)",
+      "slug": "all-s-well-that-ends-well-act-1-scene-1",
+      "count": 1
+    },
+    {
+      "name": "All's Well That Ends Well (Act 2, Scene 3)",
+      "slug": "all-s-well-that-ends-well-act-2-scene-3",
+      "count": 1
+    },
+    {
+      "name": "All's Well That Ends Well (Act 3, Scene 6)",
+      "slug": "all-s-well-that-ends-well-act-3-scene-6",
+      "count": 1
+    },
+    {
+      "name": "All's Well That Ends Well (Act 5, Scene 3)",
+      "slug": "all-s-well-that-ends-well-act-5-scene-3",
+      "count": 1
+    },
+    {
       "name": "An Interview: Audre Lorde and Adrienne Rich / Sister Outsider",
       "slug": "an-interview-audre-lorde-and-adrienne-rich-sister-outsider",
       "count": 1
+    },
+    {
+      "name": "As You Like It (Act 2, Scene 1)",
+      "slug": "as-you-like-it-act-2-scene-1",
+      "count": 1
+    },
+    {
+      "name": "As You Like It (Act 2, Scene 7)",
+      "slug": "as-you-like-it-act-2-scene-7",
+      "count": 1
+    },
+    {
+      "name": "As You Like It (Act 3, Scene 5)",
+      "slug": "as-you-like-it-act-3-scene-5",
+      "count": 1
+    },
+    {
+      "name": "Attack of the Clones",
+      "slug": "attack-of-the-clones",
+      "count": 2
     },
     {
       "name": "Autobiography of a Sorcerer: Book One",
@@ -3040,8 +3140,18 @@
       "count": 1
     },
     {
+      "name": "Coriolanus (Act 2, Scene 1)",
+      "slug": "coriolanus-act-2-scene-1",
+      "count": 1
+    },
+    {
       "name": "Crossing the Forbidden Highway: The Untold Story of Orgone, Body Therapy, and Suppressed Emotion",
       "slug": "crossing-the-forbidden-highway-the-untold-story-of-orgone-body-therapy-and-suppressed-emotion",
+      "count": 1
+    },
+    {
+      "name": "Cymbeline (Act 3, Scene 4)",
+      "slug": "cymbeline-act-3-scene-4",
       "count": 1
     },
     {
@@ -3095,6 +3205,26 @@
       "count": 1
     },
     {
+      "name": "From Letters to a Young Poet",
+      "slug": "from-letters-to-a-young-poet",
+      "count": 1
+    },
+    {
+      "name": "From The Book of Disquiet",
+      "slug": "from-the-book-of-disquiet",
+      "count": 1
+    },
+    {
+      "name": "From The Gardener in A Thousand Mornings",
+      "slug": "from-the-gardener-in-a-thousand-mornings",
+      "count": 1
+    },
+    {
+      "name": "From The Temple of My Familiar",
+      "slug": "from-the-temple-of-my-familiar",
+      "count": 1
+    },
+    {
       "name": "Gawain and the Green Knight",
       "slug": "gawain-and-the-green-knight",
       "count": 6
@@ -3110,8 +3240,68 @@
       "count": 1
     },
     {
+      "name": "Hamlet (Act 2, Scene 2)",
+      "slug": "hamlet-act-2-scene-2",
+      "count": 1
+    },
+    {
+      "name": "Hamlet (Act 3, Scene 1)",
+      "slug": "hamlet-act-3-scene-1",
+      "count": 1
+    },
+    {
       "name": "Harry Potter and the Chamber of Secrets",
       "slug": "harry-potter-and-the-chamber-of-secrets",
+      "count": 1
+    },
+    {
+      "name": "Henry IV Part 1 (Act 2, Scene 2)",
+      "slug": "henry-iv-part-1-act-2-scene-2",
+      "count": 1
+    },
+    {
+      "name": "Henry IV Part 1 (Act 2, Scene 4 )",
+      "slug": "henry-iv-part-1-act-2-scene-4",
+      "count": 1
+    },
+    {
+      "name": "Henry IV Part 1 (Act 2, Scene 4)",
+      "slug": "henry-iv-part-1-act-2-scene-4",
+      "count": 5
+    },
+    {
+      "name": "Henry IV Part 1 (Act 3, Scene 3)",
+      "slug": "henry-iv-part-1-act-3-scene-3",
+      "count": 1
+    },
+    {
+      "name": "Henry IV Part 2 (Act 1, Scene 2)",
+      "slug": "henry-iv-part-2-act-1-scene-2",
+      "count": 1
+    },
+    {
+      "name": "Henry IV Part 2 (Act 2, Scene 1)",
+      "slug": "henry-iv-part-2-act-2-scene-1",
+      "count": 1
+    },
+    {
+      "name": "Henry IV Part 2 (Act 2, Scene 4)",
+      "slug": "henry-iv-part-2-act-2-scene-4",
+      "count": 1
+    },
+    {
+      "name": "Henry IV Part II (Act 2, Scene 4)",
+      "slug": "henry-iv-part-ii-act-2-scene-4",
+      "count": 2
+    },
+    {
+      "name": "Henry V (Act 4, Scene 4)",
+      "slug": "henry-v-act-4-scene-4",
+      "count": 1
+    },
+    {
+      "name": "Henry V (Act 5, Scene 2)",
+      "slug": "henry-v-act-5-scene-2",
       "count": 1
     },
     {
@@ -3155,6 +3345,16 @@
       "count": 1
     },
     {
+      "name": "King Lear (Act 2, Scene 2 )",
+      "slug": "king-lear-act-2-scene-2",
+      "count": 1
+    },
+    {
+      "name": "King Lear (Act 2, Scene 2)",
+      "slug": "king-lear-act-2-scene-2",
+      "count": 1
+    },
+    {
       "name": "Lahana: A Saga of the Savage Innocence and Power of Ancient Druidism",
       "slug": "lahana-a-saga-of-the-savage-innocence-and-power-of-ancient-druidism",
       "count": 1
@@ -3175,6 +3375,16 @@
       "count": 1
     },
     {
+      "name": "Macbeth (Act 1, Scene 3)",
+      "slug": "macbeth-act-1-scene-3",
+      "count": 1
+    },
+    {
+      "name": "Macbeth (Act 5, Scene 3)",
+      "slug": "macbeth-act-5-scene-3",
+      "count": 2
+    },
+    {
       "name": "Marked by Love: Unveiling the Substance of Your True Identity",
       "slug": "marked-by-love-unveiling-the-substance-of-your-true-identity",
       "count": 4
@@ -3185,8 +3395,23 @@
       "count": 1
     },
     {
+      "name": "Measure For Measure (Act 3, Scene 1)",
+      "slug": "measure-for-measure-act-3-scene-1",
+      "count": 1
+    },
+    {
+      "name": "Measure For Measure (Act 5, Scene 1)",
+      "slug": "measure-for-measure-act-5-scene-1",
+      "count": 1
+    },
+    {
       "name": "Mindfulness and Mysticism: Connecting Present Moment Awareness with Higher States of Consciousness",
       "slug": "mindfulness-and-mysticism-connecting-present-moment-awareness-with-higher-states-of-consciousness",
+      "count": 1
+    },
+    {
+      "name": "Much Ado About Nothing (Act 5, Scene 4)",
+      "slug": "much-ado-about-nothing-act-5-scene-4",
       "count": 1
     },
     {
@@ -3207,6 +3432,11 @@
     {
       "name": "On My Way To Infinity: A Seeker's Poetic Pilgrimage",
       "slug": "on-my-way-to-infinity-a-seeker-s-poetic-pilgrimage",
+      "count": 1
+    },
+    {
+      "name": "Othello (Act 4, Scene 2)",
+      "slug": "othello-act-4-scene-2",
       "count": 1
     },
     {
@@ -3255,6 +3485,11 @@
       "count": 2
     },
     {
+      "name": "Psychic Witch: A Metaphysical Guide to Meditation, Magick & Manifestation",
+      "slug": "psychic-witch-a-metaphysical-guide-to-meditation-magick-manifestation",
+      "count": 1
+    },
+    {
       "name": "Raindrops of the Gods",
       "slug": "raindrops-of-the-gods",
       "count": 1
@@ -3282,6 +3517,31 @@
     {
       "name": "Resonance Alchemy: Awakening the Tree of Life",
       "slug": "resonance-alchemy-awakening-the-tree-of-life",
+      "count": 1
+    },
+    {
+      "name": "Return of the Jedi",
+      "slug": "return-of-the-jedi",
+      "count": 16
+    },
+    {
+      "name": "Revenge of the Sith",
+      "slug": "revenge-of-the-sith",
+      "count": 6
+    },
+    {
+      "name": "Richard III (Act 1, Scene 2)",
+      "slug": "richard-iii-act-1-scene-2",
+      "count": 3
+    },
+    {
+      "name": "Richard III (Act 1, Scene 3 )",
+      "slug": "richard-iii-act-1-scene-3",
+      "count": 1
+    },
+    {
+      "name": "Richard III (Act 1, Scene 3)",
+      "slug": "richard-iii-act-1-scene-3",
       "count": 1
     },
     {
@@ -3325,6 +3585,11 @@
       "count": 1
     },
     {
+      "name": "source",
+      "slug": "source",
+      "count": 1
+    },
+    {
       "name": "Stage Fright",
       "slug": "stage-fright",
       "count": 4
@@ -3365,8 +3630,23 @@
       "count": 1
     },
     {
+      "name": "The Brothers Karamazov",
+      "slug": "the-brothers-karamazov",
+      "count": 3
+    },
+    {
       "name": "The Cave",
       "slug": "the-cave",
+      "count": 1
+    },
+    {
+      "name": "The Comedy of Errors (Act 3, Scene 2)",
+      "slug": "the-comedy-of-errors-act-3-scene-2",
+      "count": 1
+    },
+    {
+      "name": "The Comedy of Errors (Act 5, Scene 4)",
+      "slug": "the-comedy-of-errors-act-5-scene-4",
       "count": 1
     },
     {
@@ -3380,6 +3660,11 @@
       "count": 2
     },
     {
+      "name": "The Empire Strikes Back",
+      "slug": "the-empire-strikes-back",
+      "count": 29
+    },
+    {
       "name": "The Fellowship of the Ring",
       "slug": "the-fellowship-of-the-ring",
       "count": 1
@@ -3387,6 +3672,11 @@
     {
       "name": "THE FIRST COLLAPSE: How the World Began to End",
       "slug": "the-first-collapse-how-the-world-began-to-end",
+      "count": 1
+    },
+    {
+      "name": "The Force Awakens",
+      "slug": "the-force-awakens",
       "count": 1
     },
     {
@@ -3420,6 +3710,11 @@
       "count": 1
     },
     {
+      "name": "The Merry Wives of Windsor (Act 3, Scene 5)",
+      "slug": "the-merry-wives-of-windsor-act-3-scene-5",
+      "count": 1
+    },
+    {
       "name": "The Moor's Golden Helmet",
       "slug": "the-moor-s-golden-helmet",
       "count": 1
@@ -3438,6 +3733,11 @@
       "name": "The paradoxical emblems of Dionysius Andreas Freher",
       "slug": "the-paradoxical-emblems-of-dionysius-andreas-freher",
       "count": 1
+    },
+    {
+      "name": "The Phantom Menace",
+      "slug": "the-phantom-menace",
+      "count": 7
     },
     {
       "name": "THE PULSE OF THE UNISOUL VOLUME-I",
@@ -3460,13 +3760,38 @@
       "count": 1
     },
     {
+      "name": "The Taming of the Shrew (Act 4, Scene 1)",
+      "slug": "the-taming-of-the-shrew-act-4-scene-1",
+      "count": 1
+    },
+    {
+      "name": "The Taming Of The Shrew (Act 5, Scene 2)",
+      "slug": "the-taming-of-the-shrew-act-5-scene-2",
+      "count": 1
+    },
+    {
       "name": "The Tao of Physical and Spiritual",
       "slug": "the-tao-of-physical-and-spiritual",
       "count": 1
     },
     {
+      "name": "The Tempest (Act 2, Scene 2)",
+      "slug": "the-tempest-act-2-scene-2",
+      "count": 1
+    },
+    {
+      "name": "The Two Gentlemen of Verona (Act 4, Scene 2)",
+      "slug": "the-two-gentlemen-of-verona-act-4-scene-2",
+      "count": 1
+    },
+    {
       "name": "The Wingless",
       "slug": "the-wingless",
+      "count": 1
+    },
+    {
+      "name": "The Winter's Tale (Act 2, Scene 1)",
+      "slug": "the-winter-s-tale-act-2-scene-1",
       "count": 1
     },
     {
@@ -3480,9 +3805,29 @@
       "count": 1
     },
     {
+      "name": "Timon of Athens (Act 4, Scene 3)",
+      "slug": "timon-of-athens-act-4-scene-3",
+      "count": 3
+    },
+    {
+      "name": "Titus Andronicus (Act 4, Scene 2)",
+      "slug": "titus-andronicus-act-4-scene-2",
+      "count": 1
+    },
+    {
+      "name": "Titus Andronicus (Act 4, Scene 3)",
+      "slug": "titus-andronicus-act-4-scene-3",
+      "count": 1
+    },
+    {
       "name": "Tractatus Logico-Philosophicus",
       "slug": "tractatus-logico-philosophicus",
       "count": 2
+    },
+    {
+      "name": "Troilus and Cressida (Act 2, Scene 1)",
+      "slug": "troilus-and-cressida-act-2-scene-1",
+      "count": 1
     },
     {
       "name": "Turquoise Silence",
@@ -3512,8 +3857,28 @@
   ],
   "authors": [
     {
+      "name": "A. A. Milne,",
+      "slug": "a-a-milne",
+      "count": 1
+    },
+    {
+      "name": "A.A. Milne",
+      "slug": "a-a-milne",
+      "count": 7
+    },
+    {
+      "name": "A.A. Milne,",
+      "slug": "a-a-milne",
+      "count": 5
+    },
+    {
       "name": "A.D. Aliwat",
       "slug": "a-d-aliwat",
+      "count": 1
+    },
+    {
+      "name": "A.J. Cronin",
+      "slug": "a-j-cronin",
       "count": 1
     },
     {
@@ -3522,18 +3887,188 @@
       "count": 4
     },
     {
+      "name": "Abigail Van Buren",
+      "slug": "abigail-van-buren",
+      "count": 1
+    },
+    {
       "name": "Abraham Lincoln",
       "slug": "abraham-lincoln",
+      "count": 10
+    },
+    {
+      "name": "Admiral Ackbar",
+      "slug": "admiral-ackbar",
+      "count": 1
+    },
+    {
+      "name": "Admiral Piett",
+      "slug": "admiral-piett",
+      "count": 1
+    },
+    {
+      "name": "Adolf Hitler",
+      "slug": "adolf-hitler",
+      "count": 1
+    },
+    {
+      "name": "Adrienne Rich",
+      "slug": "adrienne-rich",
+      "count": 1
+    },
+    {
+      "name": "Agatha Christie",
+      "slug": "agatha-christie",
+      "count": 1
+    },
+    {
+      "name": "Agatha Christie,",
+      "slug": "agatha-christie",
+      "count": 3
+    },
+    {
+      "name": "Alan Alda",
+      "slug": "alan-alda",
+      "count": 1
+    },
+    {
+      "name": "Alan Bennett,",
+      "slug": "alan-bennett",
+      "count": 2
+    },
+    {
+      "name": "Alan Moore",
+      "slug": "alan-moore",
+      "count": 1
+    },
+    {
+      "name": "Alan Moore,",
+      "slug": "alan-moore",
+      "count": 2
+    },
+    {
+      "name": "Alan Watts",
+      "slug": "alan-watts",
+      "count": 1
+    },
+    {
+      "name": "Albert Camus",
+      "slug": "albert-camus",
+      "count": 13
+    },
+    {
+      "name": "Albert Camus,",
+      "slug": "albert-camus",
+      "count": 5
+    },
+    {
+      "name": "Albert Dietrich,",
+      "slug": "albert-dietrich",
       "count": 1
     },
     {
       "name": "Albert Einstein",
       "slug": "albert-einstein",
+      "count": 83
+    },
+    {
+      "name": "Albert Einstein,",
+      "slug": "albert-einstein",
+      "count": 1
+    },
+    {
+      "name": "Albert Schweitzer",
+      "slug": "albert-schweitzer",
       "count": 2
     },
     {
       "name": "Aldous Huxley",
       "slug": "aldous-huxley",
+      "count": 3
+    },
+    {
+      "name": "Aldous Huxley,",
+      "slug": "aldous-huxley",
+      "count": 4
+    },
+    {
+      "name": "Alex Haley",
+      "slug": "alex-haley",
+      "count": 1
+    },
+    {
+      "name": "Alexander Pope",
+      "slug": "alexander-pope",
+      "count": 1
+    },
+    {
+      "name": "Alexander Pope,",
+      "slug": "alexander-pope",
+      "count": 2
+    },
+    {
+      "name": "Alexandre Dumas",
+      "slug": "alexandre-dumas",
+      "count": 1
+    },
+    {
+      "name": "Alexandre Dumas fils",
+      "slug": "alexandre-dumas-fils",
+      "count": 4
+    },
+    {
+      "name": "Alexandre Dumas-fils",
+      "slug": "alexandre-dumas-fils",
+      "count": 1
+    },
+    {
+      "name": "Alexandre Dumas,",
+      "slug": "alexandre-dumas",
+      "count": 2
+    },
+    {
+      "name": "Alfred Lord Tennyson",
+      "slug": "alfred-lord-tennyson",
+      "count": 1
+    },
+    {
+      "name": "Alfred Lord Tennyson,",
+      "slug": "alfred-lord-tennyson",
+      "count": 1
+    },
+    {
+      "name": "Alfred Tennyson",
+      "slug": "alfred-tennyson",
+      "count": 5
+    },
+    {
+      "name": "Alice Hoffman",
+      "slug": "alice-hoffman",
+      "count": 1
+    },
+    {
+      "name": "Alice Walker",
+      "slug": "alice-walker",
+      "count": 3
+    },
+    {
+      "name": "Allen Ginsberg",
+      "slug": "allen-ginsberg",
+      "count": 1
+    },
+    {
+      "name": "Allen Saunders",
+      "slug": "allen-saunders",
+      "count": 5
+    },
+    {
+      "name": "Ally Condie,",
+      "slug": "ally-condie",
+      "count": 1
+    },
+    {
+      "name": "Alyson Noel,",
+      "slug": "alyson-noel",
       "count": 1
     },
     {
@@ -3547,19 +4082,149 @@
       "count": 1
     },
     {
+      "name": "Amy Bloom",
+      "slug": "amy-bloom",
+      "count": 1
+    },
+    {
+      "name": "Amy Tan,",
+      "slug": "amy-tan",
+      "count": 1
+    },
+    {
       "name": "Ana Claudia Antunes",
       "slug": "ana-claudia-antunes",
       "count": 2
     },
     {
+      "name": "Anais Nin",
+      "slug": "anais-nin",
+      "count": 13
+    },
+    {
       "name": "Anaïs Nin",
       "slug": "ana-s-nin",
+      "count": 3
+    },
+    {
+      "name": "Anais Nin,",
+      "slug": "anais-nin",
+      "count": 1
+    },
+    {
+      "name": "Anaïs Nin,",
+      "slug": "ana-s-nin",
+      "count": 3
+    },
+    {
+      "name": "Anakin Skywalker",
+      "slug": "anakin-skywalker",
+      "count": 2
+    },
+    {
+      "name": "Andre Aciman,",
+      "slug": "andre-aciman",
+      "count": 1
+    },
+    {
+      "name": "André Gide",
+      "slug": "andr-gide",
+      "count": 4
+    },
+    {
+      "name": "Andre Gide,",
+      "slug": "andre-gide",
+      "count": 1
+    },
+    {
+      "name": "Andrew Boyd,",
+      "slug": "andrew-boyd",
+      "count": 1
+    },
+    {
+      "name": "Andy Warhol,",
+      "slug": "andy-warhol",
+      "count": 1
+    },
+    {
+      "name": "Anita Desai",
+      "slug": "anita-desai",
+      "count": 1
+    },
+    {
+      "name": "Anna Quindlen",
+      "slug": "anna-quindlen",
+      "count": 1
+    },
+    {
+      "name": "Anna Quindlen,",
+      "slug": "anna-quindlen",
+      "count": 1
+    },
+    {
+      "name": "Anne Bronte",
+      "slug": "anne-bronte",
+      "count": 1
+    },
+    {
+      "name": "Anne Frank",
+      "slug": "anne-frank",
+      "count": 3
+    },
+    {
+      "name": "Anne Frank,",
+      "slug": "anne-frank",
+      "count": 5
+    },
+    {
+      "name": "Anne Lamott",
+      "slug": "anne-lamott",
+      "count": 2
+    },
+    {
+      "name": "Anne Rice",
+      "slug": "anne-rice",
+      "count": 1
+    },
+    {
+      "name": "Anne Rice,",
+      "slug": "anne-rice",
+      "count": 2
+    },
+    {
+      "name": "Anne Sexton",
+      "slug": "anne-sexton",
+      "count": 1
+    },
+    {
+      "name": "Anne Sexton,",
+      "slug": "anne-sexton",
+      "count": 1
+    },
+    {
+      "name": "Anne Tyler",
+      "slug": "anne-tyler",
       "count": 1
     },
     {
       "name": "Anneli Rufus",
       "slug": "anneli-rufus",
       "count": 1
+    },
+    {
+      "name": "Annie Dillard,",
+      "slug": "annie-dillard",
+      "count": 1
+    },
+    {
+      "name": "Annie Proulx",
+      "slug": "annie-proulx",
+      "count": 2
+    },
+    {
+      "name": "Anonymous,",
+      "slug": "anonymous",
+      "count": 3
     },
     {
       "name": "Ansul Noor",
@@ -3572,8 +4237,98 @@
       "count": 1
     },
     {
+      "name": "Anthony Doerr,",
+      "slug": "anthony-doerr",
+      "count": 1
+    },
+    {
+      "name": "Anthony G. Oettinger",
+      "slug": "anthony-g-oettinger",
+      "count": 1
+    },
+    {
+      "name": "Anthony Powell",
+      "slug": "anthony-powell",
+      "count": 1
+    },
+    {
+      "name": "Antoine de Saint-Exupéry",
+      "slug": "antoine-de-saint-exup-ry",
+      "count": 1
+    },
+    {
+      "name": "Antoine de Saint-Exupéry,",
+      "slug": "antoine-de-saint-exup-ry",
+      "count": 9
+    },
+    {
+      "name": "Anton Chekhov",
+      "slug": "anton-chekhov",
+      "count": 1
+    },
+    {
+      "name": "Aristotle",
+      "slug": "aristotle",
+      "count": 5
+    },
+    {
+      "name": "Arrigo Boito",
+      "slug": "arrigo-boito",
+      "count": 1
+    },
+    {
+      "name": "Art Spiegelman,",
+      "slug": "art-spiegelman",
+      "count": 1
+    },
+    {
+      "name": "Arthur C. Clarke",
+      "slug": "arthur-c-clarke",
+      "count": 2
+    },
+    {
+      "name": "Arthur Conan Doyle",
+      "slug": "arthur-conan-doyle",
+      "count": 1
+    },
+    {
+      "name": "Arthur Conan Doyle,",
+      "slug": "arthur-conan-doyle",
+      "count": 2
+    },
+    {
+      "name": "Arthur G. Lewis,",
+      "slug": "arthur-g-lewis",
+      "count": 1
+    },
+    {
+      "name": "Arthur Schopenhauer",
+      "slug": "arthur-schopenhauer",
+      "count": 2
+    },
+    {
+      "name": "Arthur William Edgar O'Shaughnessy,",
+      "slug": "arthur-william-edgar-o-shaughnessy",
+      "count": 1
+    },
+    {
+      "name": "Arundhati Roy,",
+      "slug": "arundhati-roy",
+      "count": 1
+    },
+    {
+      "name": "Ashleigh Brilliant",
+      "slug": "ashleigh-brilliant",
+      "count": 1
+    },
+    {
       "name": "Assegid Habtewold",
       "slug": "assegid-habtewold",
+      "count": 1
+    },
+    {
+      "name": "Astrid Lindgren",
+      "slug": "astrid-lindgren",
       "count": 1
     },
     {
@@ -3582,9 +4337,44 @@
       "count": 4
     },
     {
+      "name": "Audre Lorde,",
+      "slug": "audre-lorde",
+      "count": 1
+    },
+    {
+      "name": "Audrey Hepburn",
+      "slug": "audrey-hepburn",
+      "count": 6
+    },
+    {
+      "name": "Audrey Niffenegger,",
+      "slug": "audrey-niffenegger",
+      "count": 1
+    },
+    {
+      "name": "Aung San Suu Kyi",
+      "slug": "aung-san-suu-kyi",
+      "count": 1
+    },
+    {
+      "name": "Author",
+      "slug": "author",
+      "count": 1
+    },
+    {
       "name": "Awdhesh Singh",
       "slug": "awdhesh-singh",
       "count": 1
+    },
+    {
+      "name": "Ayn Rand",
+      "slug": "ayn-rand",
+      "count": 5
+    },
+    {
+      "name": "Ayn Rand,",
+      "slug": "ayn-rand",
+      "count": 5
     },
     {
       "name": "Babe Ruth",
@@ -3592,8 +4382,183 @@
       "count": 1
     },
     {
+      "name": "Barack Obama",
+      "slug": "barack-obama",
+      "count": 2
+    },
+    {
+      "name": "Barbara Kingsolver,",
+      "slug": "barbara-kingsolver",
+      "count": 3
+    },
+    {
+      "name": "Barbara W. Tuchman",
+      "slug": "barbara-w-tuchman",
+      "count": 1
+    },
+    {
+      "name": "Beatrix Potter",
+      "slug": "beatrix-potter",
+      "count": 1
+    },
+    {
+      "name": "Becca Fitzpatrick,",
+      "slug": "becca-fitzpatrick",
+      "count": 6
+    },
+    {
+      "name": "Bei Dao",
+      "slug": "bei-dao",
+      "count": 1
+    },
+    {
+      "name": "Ben Okri",
+      "slug": "ben-okri",
+      "count": 2
+    },
+    {
+      "name": "Benjamin Alire Sáenz,",
+      "slug": "benjamin-alire-s-enz",
+      "count": 2
+    },
+    {
+      "name": "Benjamin Disraeli",
+      "slug": "benjamin-disraeli",
+      "count": 1
+    },
+    {
+      "name": "Benjamin Franklin",
+      "slug": "benjamin-franklin",
+      "count": 2
+    },
+    {
+      "name": "Benjamin Franklin Wade",
+      "slug": "benjamin-franklin-wade",
+      "count": 1
+    },
+    {
+      "name": "Benjamin Franklin,",
+      "slug": "benjamin-franklin",
+      "count": 2
+    },
+    {
+      "name": "Benjamin Spock",
+      "slug": "benjamin-spock",
+      "count": 1
+    },
+    {
+      "name": "Bernard M. Baruch",
+      "slug": "bernard-m-baruch",
+      "count": 1
+    },
+    {
+      "name": "Bertrand Russell",
+      "slug": "bertrand-russell",
+      "count": 2
+    },
+    {
+      "name": "Bertrand Russell,",
+      "slug": "bertrand-russell",
+      "count": 1
+    },
+    {
+      "name": "Bessie Anderson Stanley,",
+      "slug": "bessie-anderson-stanley",
+      "count": 1
+    },
+    {
+      "name": "Bette Davis",
+      "slug": "bette-davis",
+      "count": 1
+    },
+    {
+      "name": "Bette Midler",
+      "slug": "bette-midler",
+      "count": 2
+    },
+    {
+      "name": "Betty Smith,",
+      "slug": "betty-smith",
+      "count": 2
+    },
+    {
       "name": "Bikash Bhandari",
       "slug": "bikash-bhandari",
+      "count": 1
+    },
+    {
+      "name": "Bill Cosby",
+      "slug": "bill-cosby",
+      "count": 1
+    },
+    {
+      "name": "Bill Keane",
+      "slug": "bill-keane",
+      "count": 1
+    },
+    {
+      "name": "Bill Nye",
+      "slug": "bill-nye",
+      "count": 1
+    },
+    {
+      "name": "Bill Watterson",
+      "slug": "bill-watterson",
+      "count": 4
+    },
+    {
+      "name": "Bill Watterson,",
+      "slug": "bill-watterson",
+      "count": 1
+    },
+    {
+      "name": "Blaise Pascal",
+      "slug": "blaise-pascal",
+      "count": 1
+    },
+    {
+      "name": "Bob Dylan",
+      "slug": "bob-dylan",
+      "count": 1
+    },
+    {
+      "name": "Bob Marley",
+      "slug": "bob-marley",
+      "count": 24
+    },
+    {
+      "name": "Bob Marley,",
+      "slug": "bob-marley",
+      "count": 1
+    },
+    {
+      "name": "Bob Moorehead,",
+      "slug": "bob-moorehead",
+      "count": 1
+    },
+    {
+      "name": "Boba Fett",
+      "slug": "boba-fett",
+      "count": 1
+    },
+    {
+      "name": "Boris Pasternak",
+      "slug": "boris-pasternak",
+      "count": 1
+    },
+    {
+      "name": "Bram Stoker,",
+      "slug": "bram-stoker",
+      "count": 1
+    },
+    {
+      "name": "Brandon Sanderson,",
+      "slug": "brandon-sanderson",
+      "count": 2
+    },
+    {
+      "name": "Brian Andreas,",
+      "slug": "brian-andreas",
       "count": 1
     },
     {
@@ -3607,6 +4572,126 @@
       "count": 1
     },
     {
+      "name": "Brian Jacques,",
+      "slug": "brian-jacques",
+      "count": 1
+    },
+    {
+      "name": "Brian Selznick,",
+      "slug": "brian-selznick",
+      "count": 1
+    },
+    {
+      "name": "Brigham Young",
+      "slug": "brigham-young",
+      "count": 1
+    },
+    {
+      "name": "Bruce Lee",
+      "slug": "bruce-lee",
+      "count": 1
+    },
+    {
+      "name": "Buddha Siddhartha Guatama Shakyamuni",
+      "slug": "buddha-siddhartha-guatama-shakyamuni",
+      "count": 1
+    },
+    {
+      "name": "C-3PO",
+      "slug": "c-3po",
+      "count": 2
+    },
+    {
+      "name": "C. JoyBell C.",
+      "slug": "c-joybell-c",
+      "count": 11
+    },
+    {
+      "name": "C. S. Lewis",
+      "slug": "c-s-lewis",
+      "count": 3
+    },
+    {
+      "name": "C.E.M. Joad",
+      "slug": "c-e-m-joad",
+      "count": 1
+    },
+    {
+      "name": "C.G. Jung",
+      "slug": "c-g-jung",
+      "count": 2
+    },
+    {
+      "name": "C.S. Lewis",
+      "slug": "c-s-lewis",
+      "count": 39
+    },
+    {
+      "name": "C.S. Lewis,",
+      "slug": "c-s-lewis",
+      "count": 11
+    },
+    {
+      "name": "Caitlyn Siehl,",
+      "slug": "caitlyn-siehl",
+      "count": 1
+    },
+    {
+      "name": "Candace Bushnell,",
+      "slug": "candace-bushnell",
+      "count": 2
+    },
+    {
+      "name": "Carl Gustav Jung",
+      "slug": "carl-gustav-jung",
+      "count": 3
+    },
+    {
+      "name": "Carl Sagan",
+      "slug": "carl-sagan",
+      "count": 1
+    },
+    {
+      "name": "Carl Sagan,",
+      "slug": "carl-sagan",
+      "count": 4
+    },
+    {
+      "name": "Carl Sandburg",
+      "slug": "carl-sandburg",
+      "count": 1
+    },
+    {
+      "name": "Carlos Castaneda",
+      "slug": "carlos-castaneda",
+      "count": 1
+    },
+    {
+      "name": "Carlos Ruiz Zafon,",
+      "slug": "carlos-ruiz-zafon",
+      "count": 1
+    },
+    {
+      "name": "Carlos Ruiz Zafón,",
+      "slug": "carlos-ruiz-zaf-n",
+      "count": 3
+    },
+    {
+      "name": "Carol Shields,",
+      "slug": "carol-shields",
+      "count": 1
+    },
+    {
+      "name": "Caroline Gordon",
+      "slug": "caroline-gordon",
+      "count": 1
+    },
+    {
+      "name": "Carter Crocker",
+      "slug": "carter-crocker",
+      "count": 2
+    },
+    {
       "name": "Casey Fisher",
       "slug": "casey-fisher",
       "count": 1
@@ -3617,9 +4702,24 @@
       "count": 1
     },
     {
+      "name": "Cassandra Clare",
+      "slug": "cassandra-clare",
+      "count": 5
+    },
+    {
+      "name": "Cassandra Clare,",
+      "slug": "cassandra-clare",
+      "count": 92
+    },
+    {
       "name": "Catherine Toon",
       "slug": "catherine-toon",
       "count": 4
+    },
+    {
+      "name": "Cathy Guiswite",
+      "slug": "cathy-guiswite",
+      "count": 1
     },
     {
       "name": "Cecilia Llompart",
@@ -3627,9 +4727,114 @@
       "count": 1
     },
     {
+      "name": "Chad Sugg,",
+      "slug": "chad-sugg",
+      "count": 1
+    },
+    {
+      "name": "character_name",
+      "slug": "character-name",
+      "count": 1
+    },
+    {
+      "name": "Charlaine Harris",
+      "slug": "charlaine-harris",
+      "count": 1
+    },
+    {
+      "name": "Charles Baudelaire",
+      "slug": "charles-baudelaire",
+      "count": 1
+    },
+    {
+      "name": "Charles Baudelaire,",
+      "slug": "charles-baudelaire",
+      "count": 1
+    },
+    {
+      "name": "charles bukowski",
+      "slug": "charles-bukowski",
+      "count": 1
+    },
+    {
+      "name": "Charles bukowski",
+      "slug": "charles-bukowski",
+      "count": 1
+    },
+    {
+      "name": "Charles Bukowski",
+      "slug": "charles-bukowski",
+      "count": 24
+    },
+    {
+      "name": "Charles Bukowski,",
+      "slug": "charles-bukowski",
+      "count": 12
+    },
+    {
+      "name": "Charles Darwin,",
+      "slug": "charles-darwin",
+      "count": 2
+    },
+    {
+      "name": "Charles Dickens",
+      "slug": "charles-dickens",
+      "count": 3
+    },
+    {
+      "name": "Charles Dickens,",
+      "slug": "charles-dickens",
+      "count": 7
+    },
+    {
+      "name": "Charles J. Sykes,",
+      "slug": "charles-j-sykes",
+      "count": 1
+    },
+    {
+      "name": "Charles Lamb",
+      "slug": "charles-lamb",
+      "count": 1
+    },
+    {
+      "name": "Charles Lamb,",
+      "slug": "charles-lamb",
+      "count": 1
+    },
+    {
+      "name": "Charles M. Schulz",
+      "slug": "charles-m-schulz",
+      "count": 9
+    },
+    {
       "name": "Charles Péguy",
       "slug": "charles-p-guy",
       "count": 1
+    },
+    {
+      "name": "Charles W. Eliot",
+      "slug": "charles-w-eliot",
+      "count": 1
+    },
+    {
+      "name": "Charlotte Brontë",
+      "slug": "charlotte-bront",
+      "count": 1
+    },
+    {
+      "name": "Charlotte Brontë ,",
+      "slug": "charlotte-bront",
+      "count": 1
+    },
+    {
+      "name": "Charlotte Bronte,",
+      "slug": "charlotte-bronte",
+      "count": 2
+    },
+    {
+      "name": "Charlotte Brontë,",
+      "slug": "charlotte-bront",
+      "count": 8
     },
     {
       "name": "Chelsea Abdullah",
@@ -3637,13 +4842,88 @@
       "count": 2
     },
     {
+      "name": "Cheris Kramarae",
+      "slug": "cheris-kramarae",
+      "count": 1
+    },
+    {
+      "name": "Chico Xavier",
+      "slug": "chico-xavier",
+      "count": 1
+    },
+    {
+      "name": "Chinua Achebe",
+      "slug": "chinua-achebe",
+      "count": 1
+    },
+    {
       "name": "Chris DiSano Davenport",
       "slug": "chris-disano-davenport",
       "count": 28
     },
     {
+      "name": "Chris Rock",
+      "slug": "chris-rock",
+      "count": 1
+    },
+    {
+      "name": "Christian D. Larson,",
+      "slug": "christian-d-larson",
+      "count": 1
+    },
+    {
+      "name": "Christopher Hitchens",
+      "slug": "christopher-hitchens",
+      "count": 1
+    },
+    {
+      "name": "Christopher Hitchens,",
+      "slug": "christopher-hitchens",
+      "count": 1
+    },
+    {
+      "name": "Christopher Moore,",
+      "slug": "christopher-moore",
+      "count": 1
+    },
+    {
+      "name": "Christopher Morley,",
+      "slug": "christopher-morley",
+      "count": 1
+    },
+    {
+      "name": "Christopher Paolini",
+      "slug": "christopher-paolini",
+      "count": 2
+    },
+    {
+      "name": "Christopher Paolini,",
+      "slug": "christopher-paolini",
+      "count": 2
+    },
+    {
+      "name": "Chuck Klosterman,",
+      "slug": "chuck-klosterman",
+      "count": 1
+    },
+    {
       "name": "Chuck Palahniuk",
       "slug": "chuck-palahniuk",
+      "count": 1
+    },
+    {
+      "name": "Chuck Palahniuk,",
+      "slug": "chuck-palahniuk",
+      "count": 20
+    },
+    {
+      "name": "Cicero",
+      "slug": "cicero",
+      "count": 1
+    },
+    {
+      "name": "Clare Boothe Luce",
+      "slug": "clare-boothe-luce",
       "count": 1
     },
     {
@@ -3652,9 +4932,89 @@
       "count": 1
     },
     {
+      "name": "Clive Barker,",
+      "slug": "clive-barker",
+      "count": 1
+    },
+    {
+      "name": "Coco Chanel",
+      "slug": "coco-chanel",
+      "count": 4
+    },
+    {
+      "name": "Coco Chanel,",
+      "slug": "coco-chanel",
+      "count": 1
+    },
+    {
+      "name": "Colette",
+      "slug": "colette",
+      "count": 1
+    },
+    {
+      "name": "Colleen Hoover,",
+      "slug": "colleen-hoover",
+      "count": 6
+    },
+    {
+      "name": "Conan O'Brien",
+      "slug": "conan-o-brien",
+      "count": 1
+    },
+    {
+      "name": "Confucious",
+      "slug": "confucious",
+      "count": 2
+    },
+    {
+      "name": "Confucius",
+      "slug": "confucius",
+      "count": 4
+    },
+    {
+      "name": "Confucius,",
+      "slug": "confucius",
+      "count": 1
+    },
+    {
+      "name": "Cormac McCarthy,",
+      "slug": "cormac-mccarthy",
+      "count": 3
+    },
+    {
+      "name": "Cornelia Funke,",
+      "slug": "cornelia-funke",
+      "count": 3
+    },
+    {
+      "name": "Corrie ten Boom",
+      "slug": "corrie-ten-boom",
+      "count": 1
+    },
+    {
+      "name": "Corrie Ten Boom,",
+      "slug": "corrie-ten-boom",
+      "count": 1
+    },
+    {
+      "name": "Count Dooku",
+      "slug": "count-dooku",
+      "count": 1
+    },
+    {
       "name": "Crystal Woods",
       "slug": "crystal-woods",
       "count": 1
+    },
+    {
+      "name": "Cynthia Ozick",
+      "slug": "cynthia-ozick",
+      "count": 1
+    },
+    {
+      "name": "D.H. Lawrence,",
+      "slug": "d-h-lawrence",
+      "count": 2
     },
     {
       "name": "D.L. Blanchard",
@@ -3667,14 +5027,164 @@
       "count": 1
     },
     {
+      "name": "Dalai Lama XIV",
+      "slug": "dalai-lama-xiv",
+      "count": 5
+    },
+    {
+      "name": "Dale Carnegie,",
+      "slug": "dale-carnegie",
+      "count": 1
+    },
+    {
+      "name": "Dan Brown,",
+      "slug": "dan-brown",
+      "count": 4
+    },
+    {
+      "name": "Daniel Defoe,",
+      "slug": "daniel-defoe",
+      "count": 1
+    },
+    {
+      "name": "Daniel J. Boorstin",
+      "slug": "daniel-j-boorstin",
+      "count": 1
+    },
+    {
+      "name": "Daniel Keyes,",
+      "slug": "daniel-keyes",
+      "count": 1
+    },
+    {
+      "name": "Daniel Pennac",
+      "slug": "daniel-pennac",
+      "count": 1
+    },
+    {
+      "name": "Danielle Steel,",
+      "slug": "danielle-steel",
+      "count": 1
+    },
+    {
+      "name": "Dante Alighieri",
+      "slug": "dante-alighieri",
+      "count": 1
+    },
+    {
+      "name": "Dante Alighieri,",
+      "slug": "dante-alighieri",
+      "count": 1
+    },
+    {
+      "name": "Daphne du Maurier",
+      "slug": "daphne-du-maurier",
+      "count": 2
+    },
+    {
+      "name": "Daphne Rae,",
+      "slug": "daphne-rae",
+      "count": 1
+    },
+    {
       "name": "Dark Night Beacon",
       "slug": "dark-night-beacon",
+      "count": 1
+    },
+    {
+      "name": "Darth Vader",
+      "slug": "darth-vader",
+      "count": 10
+    },
+    {
+      "name": "Dave Eggers",
+      "slug": "dave-eggers",
+      "count": 1
+    },
+    {
+      "name": "Dave Matthews Band",
+      "slug": "dave-matthews-band",
+      "count": 1
+    },
+    {
+      "name": "David Byrne",
+      "slug": "david-byrne",
+      "count": 1
+    },
+    {
+      "name": "David Foster Wallace",
+      "slug": "david-foster-wallace",
+      "count": 1
+    },
+    {
+      "name": "David Foster Wallace,",
+      "slug": "david-foster-wallace",
+      "count": 3
+    },
+    {
+      "name": "David Henry Hwang,",
+      "slug": "david-henry-hwang",
+      "count": 1
+    },
+    {
+      "name": "David Levithan,",
+      "slug": "david-levithan",
+      "count": 3
+    },
+    {
+      "name": "David Mitchell,",
+      "slug": "david-mitchell",
+      "count": 3
+    },
+    {
+      "name": "David Nicholls,",
+      "slug": "david-nicholls",
+      "count": 1
+    },
+    {
+      "name": "David Sedaris,",
+      "slug": "david-sedaris",
+      "count": 1
+    },
+    {
+      "name": "Dean Koontz,",
+      "slug": "dean-koontz",
+      "count": 1
+    },
+    {
+      "name": "Deborah Reber,",
+      "slug": "deborah-reber",
+      "count": 1
+    },
+    {
+      "name": "Deepak Chopra",
+      "slug": "deepak-chopra",
       "count": 1
     },
     {
       "name": "DEO VOLENTE",
       "slug": "deo-volente",
       "count": 2
+    },
+    {
+      "name": "Desiderius Erasmus Roterodamus",
+      "slug": "desiderius-erasmus-roterodamus",
+      "count": 1
+    },
+    {
+      "name": "Desmond Tutu",
+      "slug": "desmond-tutu",
+      "count": 1
+    },
+    {
+      "name": "Diana Gabaldon,",
+      "slug": "diana-gabaldon",
+      "count": 1
+    },
+    {
+      "name": "Diane Duane,",
+      "slug": "diane-duane",
+      "count": 1
     },
     {
       "name": "Diane L. Kowalyshyn",
@@ -3687,7 +5197,27 @@
       "count": 1
     },
     {
+      "name": "Dodie Smith,",
+      "slug": "dodie-smith",
+      "count": 1
+    },
+    {
+      "name": "Don Miguel Ruiz",
+      "slug": "don-miguel-ruiz",
+      "count": 1
+    },
+    {
+      "name": "Donald E. Westlake,",
+      "slug": "donald-e-westlake",
+      "count": 1
+    },
+    {
       "name": "Donald Miller",
+      "slug": "donald-miller",
+      "count": 1
+    },
+    {
+      "name": "Donald Miller,",
       "slug": "donald-miller",
       "count": 1
     },
@@ -3697,9 +5227,44 @@
       "count": 2
     },
     {
+      "name": "Donna Tartt,",
+      "slug": "donna-tartt",
+      "count": 3
+    },
+    {
+      "name": "Doris Lessing",
+      "slug": "doris-lessing",
+      "count": 1
+    },
+    {
+      "name": "Doris Lessing,",
+      "slug": "doris-lessing",
+      "count": 2
+    },
+    {
+      "name": "Dorothy Parker",
+      "slug": "dorothy-parker",
+      "count": 2
+    },
+    {
       "name": "Douglas Adams",
       "slug": "douglas-adams",
+      "count": 6
+    },
+    {
+      "name": "douglas adams,",
+      "slug": "douglas-adams",
       "count": 1
+    },
+    {
+      "name": "Douglas Adams,",
+      "slug": "douglas-adams",
+      "count": 17
+    },
+    {
+      "name": "Douglas Coupland,",
+      "slug": "douglas-coupland",
+      "count": 2
     },
     {
       "name": "Dr. S.U.A.H Syed",
@@ -3707,8 +5272,78 @@
       "count": 1
     },
     {
+      "name": "Dr. Seuss",
+      "slug": "dr-seuss",
+      "count": 41
+    },
+    {
+      "name": "Dr. Seuss,",
+      "slug": "dr-seuss",
+      "count": 10
+    },
+    {
       "name": "Duha Zanjabil",
       "slug": "duha-zanjabil",
+      "count": 1
+    },
+    {
+      "name": "Dylan Thomas,",
+      "slug": "dylan-thomas",
+      "count": 1
+    },
+    {
+      "name": "E. E. Cummings",
+      "slug": "e-e-cummings",
+      "count": 1
+    },
+    {
+      "name": "E.A. Bucchianeri,",
+      "slug": "e-a-bucchianeri",
+      "count": 1
+    },
+    {
+      "name": "E.B. White",
+      "slug": "e-b-white",
+      "count": 1
+    },
+    {
+      "name": "E.B. White,",
+      "slug": "e-b-white",
+      "count": 1
+    },
+    {
+      "name": "e.e. cummings",
+      "slug": "e-e-cummings",
+      "count": 1
+    },
+    {
+      "name": "E.E. Cummings",
+      "slug": "e-e-cummings",
+      "count": 9
+    },
+    {
+      "name": "e.e. cummings,",
+      "slug": "e-e-cummings",
+      "count": 1
+    },
+    {
+      "name": "E.L. Doctorow",
+      "slug": "e-l-doctorow",
+      "count": 1
+    },
+    {
+      "name": "E.L. James,",
+      "slug": "e-l-james",
+      "count": 3
+    },
+    {
+      "name": "E.M. Forster,",
+      "slug": "e-m-forster",
+      "count": 1
+    },
+    {
+      "name": "E.Y. Harburg",
+      "slug": "e-y-harburg",
       "count": 1
     },
     {
@@ -3717,13 +5352,183 @@
       "count": 1
     },
     {
+      "name": "Eckhart Tolle",
+      "slug": "eckhart-tolle",
+      "count": 1
+    },
+    {
+      "name": "Edgar Allan Poe",
+      "slug": "edgar-allan-poe",
+      "count": 8
+    },
+    {
+      "name": "Edgar Allan Poe,",
+      "slug": "edgar-allan-poe",
+      "count": 3
+    },
+    {
+      "name": "Edgar Allen Poe",
+      "slug": "edgar-allen-poe",
+      "count": 1
+    },
+    {
+      "name": "Edith Wharton",
+      "slug": "edith-wharton",
+      "count": 1
+    },
+    {
+      "name": "Edmund Burke",
+      "slug": "edmund-burke",
+      "count": 1
+    },
+    {
+      "name": "Edna St. Vincent Millay",
+      "slug": "edna-st-vincent-millay",
+      "count": 3
+    },
+    {
+      "name": "Edward Abbey",
+      "slug": "edward-abbey",
+      "count": 2
+    },
+    {
+      "name": "Edward Albee",
+      "slug": "edward-albee",
+      "count": 1
+    },
+    {
+      "name": "Edward Gorey",
+      "slug": "edward-gorey",
+      "count": 2
+    },
+    {
+      "name": "Edward J. Stieglitz",
+      "slug": "edward-j-stieglitz",
+      "count": 1
+    },
+    {
+      "name": "Elbert Hubbard",
+      "slug": "elbert-hubbard",
+      "count": 2
+    },
+    {
+      "name": "Eleanor Hodgman Porter",
+      "slug": "eleanor-hodgman-porter",
+      "count": 1
+    },
+    {
       "name": "Eleanor Roosevelt",
       "slug": "eleanor-roosevelt",
+      "count": 17
+    },
+    {
+      "name": "Eleanor Roosevelt,",
+      "slug": "eleanor-roosevelt",
+      "count": 1
+    },
+    {
+      "name": "Elie Wiesel",
+      "slug": "elie-wiesel",
+      "count": 7
+    },
+    {
+      "name": "Elisabeth Kübler-Ross",
+      "slug": "elisabeth-k-bler-ross",
+      "count": 1
+    },
+    {
+      "name": "Elizabeth Barrett Browning",
+      "slug": "elizabeth-barrett-browning",
       "count": 2
+    },
+    {
+      "name": "Elizabeth Gilbert,",
+      "slug": "elizabeth-gilbert",
+      "count": 9
+    },
+    {
+      "name": "Elizabeth Peters",
+      "slug": "elizabeth-peters",
+      "count": 1
+    },
+    {
+      "name": "Elizabeth Wurtzel,",
+      "slug": "elizabeth-wurtzel",
+      "count": 1
+    },
+    {
+      "name": "Ellen Bass",
+      "slug": "ellen-bass",
+      "count": 1
+    },
+    {
+      "name": "Ellen DeGeneres",
+      "slug": "ellen-degeneres",
+      "count": 1
+    },
+    {
+      "name": "Ellen DeGeneres,",
+      "slug": "ellen-degeneres",
+      "count": 1
+    },
+    {
+      "name": "Émile Zola",
+      "slug": "mile-zola",
+      "count": 1
+    },
+    {
+      "name": "Emilie Autumn,",
+      "slug": "emilie-autumn",
+      "count": 1
+    },
+    {
+      "name": "Emily Brontë,",
+      "slug": "emily-bront",
+      "count": 4
+    },
+    {
+      "name": "Emily Dickinson",
+      "slug": "emily-dickinson",
+      "count": 5
+    },
+    {
+      "name": "Emily Jane Brontë ,",
+      "slug": "emily-jane-bront",
+      "count": 1
+    },
+    {
+      "name": "Emma Donoghue,",
+      "slug": "emma-donoghue",
+      "count": 1
+    },
+    {
+      "name": "Emperor Palpatine",
+      "slug": "emperor-palpatine",
+      "count": 4
+    },
+    {
+      "name": "Eoin Colfer,",
+      "slug": "eoin-colfer",
+      "count": 1
     },
     {
       "name": "EonaCat (Jeroen Saey)",
       "slug": "eonacat-jeroen-saey",
+      "count": 1
+    },
+    {
+      "name": "Epicurus",
+      "slug": "epicurus",
+      "count": 1
+    },
+    {
+      "name": "Eric Roth,",
+      "slug": "eric-roth",
+      "count": 1
+    },
+    {
+      "name": "Erica Jong",
+      "slug": "erica-jong",
       "count": 1
     },
     {
@@ -3732,13 +5537,48 @@
       "count": 1
     },
     {
+      "name": "Erin Morgenstern,",
+      "slug": "erin-morgenstern",
+      "count": 2
+    },
+    {
+      "name": "Erma Bombeck,",
+      "slug": "erma-bombeck",
+      "count": 1
+    },
+    {
       "name": "Ernest Hemingway",
       "slug": "ernest-hemingway",
-      "count": 1
+      "count": 19
+    },
+    {
+      "name": "Ernest Hemingway,",
+      "slug": "ernest-hemingway",
+      "count": 5
     },
     {
       "name": "Ernst Jünger",
       "slug": "ernst-j-nger",
+      "count": 1
+    },
+    {
+      "name": "Eugene Field",
+      "slug": "eugene-field",
+      "count": 1
+    },
+    {
+      "name": "Euripides,",
+      "slug": "euripides",
+      "count": 1
+    },
+    {
+      "name": "Evans G. Valens,",
+      "slug": "evans-g-valens",
+      "count": 1
+    },
+    {
+      "name": "Evelyn Waugh,",
+      "slug": "evelyn-waugh",
       "count": 1
     },
     {
@@ -3749,6 +5589,51 @@
     {
       "name": "F. Scott Fitzgerald",
       "slug": "f-scott-fitzgerald",
+      "count": 6
+    },
+    {
+      "name": "F. Scott Fitzgerald,",
+      "slug": "f-scott-fitzgerald",
+      "count": 14
+    },
+    {
+      "name": "Fannie Flagg,",
+      "slug": "fannie-flagg",
+      "count": 2
+    },
+    {
+      "name": "Federico García Lorca,",
+      "slug": "federico-garc-a-lorca",
+      "count": 1
+    },
+    {
+      "name": "Fernando Pessoa",
+      "slug": "fernando-pessoa",
+      "count": 2
+    },
+    {
+      "name": "Fernando Pessoa,",
+      "slug": "fernando-pessoa",
+      "count": 1
+    },
+    {
+      "name": "Fitzgerald F. Scott,",
+      "slug": "fitzgerald-f-scott",
+      "count": 1
+    },
+    {
+      "name": "Flannery O'Connor",
+      "slug": "flannery-o-connor",
+      "count": 2
+    },
+    {
+      "name": "Fran Lebowitz,",
+      "slug": "fran-lebowitz",
+      "count": 1
+    },
+    {
+      "name": "Frances Hodgson Burnett,",
+      "slug": "frances-hodgson-burnett",
       "count": 1
     },
     {
@@ -3757,23 +5642,283 @@
       "count": 1
     },
     {
+      "name": "François de La Rochefoucauld",
+      "slug": "fran-ois-de-la-rochefoucauld",
+      "count": 1
+    },
+    {
+      "name": "Francois Duc de la Rochefoucauld,",
+      "slug": "francois-duc-de-la-rochefoucauld",
+      "count": 1
+    },
+    {
+      "name": "Francois Mauriac",
+      "slug": "francois-mauriac",
+      "count": 1
+    },
+    {
+      "name": "François Rabelais",
+      "slug": "fran-ois-rabelais",
+      "count": 1
+    },
+    {
+      "name": "Frank Herbert",
+      "slug": "frank-herbert",
+      "count": 1
+    },
+    {
+      "name": "Frank Herbert,",
+      "slug": "frank-herbert",
+      "count": 2
+    },
+    {
+      "name": "Frank McCourt,",
+      "slug": "frank-mccourt",
+      "count": 1
+    },
+    {
       "name": "Frank Sinatra",
       "slug": "frank-sinatra",
       "count": 1
     },
     {
+      "name": "Frank Zappa",
+      "slug": "frank-zappa",
+      "count": 4
+    },
+    {
+      "name": "Franz Kafka",
+      "slug": "franz-kafka",
+      "count": 8
+    },
+    {
+      "name": "Franz Kafka,",
+      "slug": "franz-kafka",
+      "count": 1
+    },
+    {
+      "name": "Fred Rogers",
+      "slug": "fred-rogers",
+      "count": 1
+    },
+    {
+      "name": "Frederick Douglass",
+      "slug": "frederick-douglass",
+      "count": 1
+    },
+    {
+      "name": "Frederick Lewis Donaldson",
+      "slug": "frederick-lewis-donaldson",
+      "count": 1
+    },
+    {
+      "name": "Frida Kahlo",
+      "slug": "frida-kahlo",
+      "count": 1
+    },
+    {
       "name": "Friedrich Nietzsche",
       "slug": "friedrich-nietzsche",
+      "count": 28
+    },
+    {
+      "name": "Friedrich Nietzsche,",
+      "slug": "friedrich-nietzsche",
+      "count": 2
+    },
+    {
+      "name": "Friedrich Wilhelm Nietzsche",
+      "slug": "friedrich-wilhelm-nietzsche",
+      "count": 2
+    },
+    {
+      "name": "Fyodor Dostoevsky",
+      "slug": "fyodor-dostoevsky",
+      "count": 4
+    },
+    {
+      "name": "Fyodor Dostoevsky,",
+      "slug": "fyodor-dostoevsky",
+      "count": 7
+    },
+    {
+      "name": "Fyodor Dostoyevsky",
+      "slug": "fyodor-dostoyevsky",
+      "count": 1
+    },
+    {
+      "name": "Fyodor Dostoyevsky,",
+      "slug": "fyodor-dostoyevsky",
+      "count": 4
+    },
+    {
+      "name": "G.K. Chesterton",
+      "slug": "g-k-chesterton",
+      "count": 3
+    },
+    {
+      "name": "G.K. Chesterton,",
+      "slug": "g-k-chesterton",
+      "count": 1
+    },
+    {
+      "name": "Gabriel Garcia Marquez",
+      "slug": "gabriel-garcia-marquez",
+      "count": 1
+    },
+    {
+      "name": "Gabriel García Márquez",
+      "slug": "gabriel-garc-a-m-rquez",
+      "count": 2
+    },
+    {
+      "name": "Gabriel García Márquez,",
+      "slug": "gabriel-garc-a-m-rquez",
+      "count": 2
+    },
+    {
+      "name": "Gail Carson Levine",
+      "slug": "gail-carson-levine",
+      "count": 1
+    },
+    {
+      "name": "Galway Kinnell",
+      "slug": "galway-kinnell",
+      "count": 1
+    },
+    {
+      "name": "Gandhi",
+      "slug": "gandhi",
+      "count": 1
+    },
+    {
+      "name": "Garrison Keillor",
+      "slug": "garrison-keillor",
+      "count": 5
+    },
+    {
+      "name": "Gary Paulsen,",
+      "slug": "gary-paulsen",
+      "count": 1
+    },
+    {
+      "name": "Gayle Forman,",
+      "slug": "gayle-forman",
+      "count": 3
+    },
+    {
+      "name": "Georg Wilhelm Friedrich Hegel",
+      "slug": "georg-wilhelm-friedrich-hegel",
+      "count": 1
+    },
+    {
+      "name": "George Bernard Shaw",
+      "slug": "george-bernard-shaw",
+      "count": 10
+    },
+    {
+      "name": "George Bernard Shaw,",
+      "slug": "george-bernard-shaw",
+      "count": 2
+    },
+    {
+      "name": "George Burns",
+      "slug": "george-burns",
+      "count": 1
+    },
+    {
+      "name": "George Carlin",
+      "slug": "george-carlin",
+      "count": 13
+    },
+    {
+      "name": "George Carlin,",
+      "slug": "george-carlin",
+      "count": 1
+    },
+    {
+      "name": "George Eliot",
+      "slug": "george-eliot",
+      "count": 6
+    },
+    {
+      "name": "George Gordon Byron",
+      "slug": "george-gordon-byron",
+      "count": 1
+    },
+    {
+      "name": "George Harrison",
+      "slug": "george-harrison",
       "count": 1
     },
     {
       "name": "George Orwell",
       "slug": "george-orwell",
+      "count": 4
+    },
+    {
+      "name": "George Orwell,",
+      "slug": "george-orwell",
+      "count": 10
+    },
+    {
+      "name": "George R. R. Martin",
+      "slug": "george-r-r-martin",
+      "count": 1
+    },
+    {
+      "name": "George R.R. Martin",
+      "slug": "george-r-r-martin",
+      "count": 9
+    },
+    {
+      "name": "George R.R. Martin,",
+      "slug": "george-r-r-martin",
+      "count": 15
+    },
+    {
+      "name": "George S. Patton",
+      "slug": "george-s-patton",
+      "count": 1
+    },
+    {
+      "name": "George V. Higgins,",
+      "slug": "george-v-higgins",
       "count": 1
     },
     {
       "name": "George Washington",
       "slug": "george-washington",
+      "count": 2
+    },
+    {
+      "name": "Geraldine Brooks,",
+      "slug": "geraldine-brooks",
+      "count": 1
+    },
+    {
+      "name": "Gertrude Stein",
+      "slug": "gertrude-stein",
+      "count": 2
+    },
+    {
+      "name": "Gilda Radner",
+      "slug": "gilda-radner",
+      "count": 2
+    },
+    {
+      "name": "Gilles Deleuze,",
+      "slug": "gilles-deleuze",
+      "count": 1
+    },
+    {
+      "name": "Gillian Anderson",
+      "slug": "gillian-anderson",
+      "count": 1
+    },
+    {
+      "name": "Gillian Flynn,",
+      "slug": "gillian-flynn",
       "count": 1
     },
     {
@@ -3782,8 +5927,38 @@
       "count": 1
     },
     {
+      "name": "Glen Cook,",
+      "slug": "glen-cook",
+      "count": 1
+    },
+    {
       "name": "God in Heaven",
       "slug": "god-in-heaven",
+      "count": 1
+    },
+    {
+      "name": "Gold Five",
+      "slug": "gold-five",
+      "count": 1
+    },
+    {
+      "name": "Golda Meir",
+      "slug": "golda-meir",
+      "count": 1
+    },
+    {
+      "name": "Gordon A. Eadie",
+      "slug": "gordon-a-eadie",
+      "count": 1
+    },
+    {
+      "name": "Gordon B. Hinckley",
+      "slug": "gordon-b-hinckley",
+      "count": 2
+    },
+    {
+      "name": "Gore Vidal",
+      "slug": "gore-vidal",
       "count": 1
     },
     {
@@ -3792,12 +5967,152 @@
       "count": 1
     },
     {
+      "name": "Greg Behrendt",
+      "slug": "greg-behrendt",
+      "count": 1
+    },
+    {
+      "name": "Gregory Maguire,",
+      "slug": "gregory-maguire",
+      "count": 1
+    },
+    {
+      "name": "Groucho Marx",
+      "slug": "groucho-marx",
+      "count": 6
+    },
+    {
+      "name": "Groucho Marx,",
+      "slug": "groucho-marx",
+      "count": 1
+    },
+    {
+      "name": "Gustave Flaubert",
+      "slug": "gustave-flaubert",
+      "count": 2
+    },
+    {
+      "name": "Guy de Maupassant",
+      "slug": "guy-de-maupassant",
+      "count": 2
+    },
+    {
       "name": "Gwenevere Rivest",
       "slug": "gwenevere-rivest",
       "count": 1
     },
     {
+      "name": "H. Jackson Brown Jr.",
+      "slug": "h-jackson-brown-jr",
+      "count": 1
+    },
+    {
+      "name": "H. Jackson Brown Jr.,",
+      "slug": "h-jackson-brown-jr",
+      "count": 1
+    },
+    {
+      "name": "H. P. Lovecraft",
+      "slug": "h-p-lovecraft",
+      "count": 1
+    },
+    {
+      "name": "H.G. Wells",
+      "slug": "h-g-wells",
+      "count": 1
+    },
+    {
+      "name": "H.L. Mencken",
+      "slug": "h-l-mencken",
+      "count": 1
+    },
+    {
+      "name": "H.N. Turteltaub,",
+      "slug": "h-n-turteltaub",
+      "count": 1
+    },
+    {
+      "name": "Hafiz",
+      "slug": "hafiz",
+      "count": 1
+    },
+    {
+      "name": "Hal Borland",
+      "slug": "hal-borland",
+      "count": 1
+    },
+    {
+      "name": "Han Solo",
+      "slug": "han-solo",
+      "count": 17
+    },
+    {
+      "name": "Hanya Yanagihara,",
+      "slug": "hanya-yanagihara",
+      "count": 3
+    },
+    {
+      "name": "Harlan Ellison",
+      "slug": "harlan-ellison",
+      "count": 1
+    },
+    {
+      "name": "Harper Lee",
+      "slug": "harper-lee",
+      "count": 4
+    },
+    {
+      "name": "Harper Lee,",
+      "slug": "harper-lee",
+      "count": 11
+    },
+    {
+      "name": "Haruki Marukami",
+      "slug": "haruki-marukami",
+      "count": 1
+    },
+    {
+      "name": "haruki murakami",
+      "slug": "haruki-murakami",
+      "count": 1
+    },
+    {
+      "name": "Haruki Murakami",
+      "slug": "haruki-murakami",
+      "count": 5
+    },
+    {
+      "name": "haruki murakami,",
+      "slug": "haruki-murakami",
+      "count": 1
+    },
+    {
+      "name": "Haruki Murakami,",
+      "slug": "haruki-murakami",
+      "count": 20
+    },
+    {
+      "name": "Harvey Fierstein",
+      "slug": "harvey-fierstein",
+      "count": 1
+    },
+    {
+      "name": "Hayley Williams",
+      "slug": "hayley-williams",
+      "count": 1
+    },
+    {
+      "name": "Heinrich Heine",
+      "slug": "heinrich-heine",
+      "count": 1
+    },
+    {
       "name": "Helen Keller",
+      "slug": "helen-keller",
+      "count": 8
+    },
+    {
+      "name": "Helen Keller,",
       "slug": "helen-keller",
       "count": 1
     },
@@ -3812,13 +6127,128 @@
       "count": 1
     },
     {
+      "name": "Hemingway, Ernest",
+      "slug": "hemingway-ernest",
+      "count": 1
+    },
+    {
       "name": "Hendri Coetzee",
       "slug": "hendri-coetzee",
       "count": 1
     },
     {
+      "name": "Henri Nouwen,",
+      "slug": "henri-nouwen",
+      "count": 1
+    },
+    {
+      "name": "Henry David Thoreau",
+      "slug": "henry-david-thoreau",
+      "count": 3
+    },
+    {
+      "name": "Henry David Thoreau,",
+      "slug": "henry-david-thoreau",
+      "count": 3
+    },
+    {
       "name": "Henry Ford",
       "slug": "henry-ford",
+      "count": 2
+    },
+    {
+      "name": "Henry James",
+      "slug": "henry-james",
+      "count": 2
+    },
+    {
+      "name": "Henry Miller",
+      "slug": "henry-miller",
+      "count": 1
+    },
+    {
+      "name": "Henry Miller,",
+      "slug": "henry-miller",
+      "count": 1
+    },
+    {
+      "name": "Henry Rollins,",
+      "slug": "henry-rollins",
+      "count": 1
+    },
+    {
+      "name": "Henry Thomas Buckle",
+      "slug": "henry-thomas-buckle",
+      "count": 1
+    },
+    {
+      "name": "Henry van Dyke,",
+      "slug": "henry-van-dyke",
+      "count": 1
+    },
+    {
+      "name": "Henry Wadsworth Longfellow",
+      "slug": "henry-wadsworth-longfellow",
+      "count": 2
+    },
+    {
+      "name": "Henry Ward Beecherr",
+      "slug": "henry-ward-beecherr",
+      "count": 1
+    },
+    {
+      "name": "Herbert Bayard Swope",
+      "slug": "herbert-bayard-swope",
+      "count": 1
+    },
+    {
+      "name": "Herbert Hoover",
+      "slug": "herbert-hoover",
+      "count": 1
+    },
+    {
+      "name": "Herman Hesse",
+      "slug": "herman-hesse",
+      "count": 1
+    },
+    {
+      "name": "Herman Hesse,",
+      "slug": "herman-hesse",
+      "count": 1
+    },
+    {
+      "name": "Herman Melville",
+      "slug": "herman-melville",
+      "count": 1
+    },
+    {
+      "name": "Herman Melville,",
+      "slug": "herman-melville",
+      "count": 1
+    },
+    {
+      "name": "Hermann Hesse,",
+      "slug": "hermann-hesse",
+      "count": 1
+    },
+    {
+      "name": "Holly Black,",
+      "slug": "holly-black",
+      "count": 3
+    },
+    {
+      "name": "Honore de Balzac",
+      "slug": "honore-de-balzac",
+      "count": 1
+    },
+    {
+      "name": "Honoré de Balzac",
+      "slug": "honor-de-balzac",
+      "count": 1
+    },
+    {
+      "name": "Honoré de Balzac,",
+      "slug": "honor-de-balzac",
       "count": 1
     },
     {
@@ -3827,8 +6257,58 @@
       "count": 1
     },
     {
+      "name": "Horace Mann",
+      "slug": "horace-mann",
+      "count": 1
+    },
+    {
+      "name": "Hunter S. Thompson",
+      "slug": "hunter-s-thompson",
+      "count": 2
+    },
+    {
+      "name": "Hunter S. Thompson,",
+      "slug": "hunter-s-thompson",
+      "count": 3
+    },
+    {
+      "name": "Ian Fleming",
+      "slug": "ian-fleming",
+      "count": 1
+    },
+    {
+      "name": "Ian Fleming,",
+      "slug": "ian-fleming",
+      "count": 1
+    },
+    {
       "name": "Ipsita Upasana",
       "slug": "ipsita-upasana",
+      "count": 1
+    },
+    {
+      "name": "Ira Glass",
+      "slug": "ira-glass",
+      "count": 1
+    },
+    {
+      "name": "Irina Dunn",
+      "slug": "irina-dunn",
+      "count": 1
+    },
+    {
+      "name": "Irwin Shaw",
+      "slug": "irwin-shaw",
+      "count": 1
+    },
+    {
+      "name": "Isaac Asimov",
+      "slug": "isaac-asimov",
+      "count": 3
+    },
+    {
+      "name": "Isaac Asimov,",
+      "slug": "isaac-asimov",
       "count": 1
     },
     {
@@ -3837,18 +6317,108 @@
       "count": 1
     },
     {
+      "name": "Isabel Allende",
+      "slug": "isabel-allende",
+      "count": 1
+    },
+    {
+      "name": "Italo Calvino,",
+      "slug": "italo-calvino",
+      "count": 1
+    },
+    {
+      "name": "Ivan Turgenev",
+      "slug": "ivan-turgenev",
+      "count": 1
+    },
+    {
+      "name": "J. D. Salinger",
+      "slug": "j-d-salinger",
+      "count": 1
+    },
+    {
+      "name": "J. K. Rowling,",
+      "slug": "j-k-rowling",
+      "count": 4
+    },
+    {
+      "name": "J.D. Salinger",
+      "slug": "j-d-salinger",
+      "count": 5
+    },
+    {
+      "name": "J.D. Salinger,",
+      "slug": "j-d-salinger",
+      "count": 8
+    },
+    {
       "name": "J.K. Rowling",
+      "slug": "j-k-rowling",
+      "count": 42
+    },
+    {
+      "name": "J.K. Rowling ,",
       "slug": "j-k-rowling",
       "count": 1
     },
     {
+      "name": "J.K. rowling,",
+      "slug": "j-k-rowling",
+      "count": 1
+    },
+    {
+      "name": "J.K. Rowling,",
+      "slug": "j-k-rowling",
+      "count": 71
+    },
+    {
+      "name": "J.M. Barrie",
+      "slug": "j-m-barrie",
+      "count": 4
+    },
+    {
+      "name": "J.M. Barrie,",
+      "slug": "j-m-barrie",
+      "count": 6
+    },
+    {
+      "name": "J.R. Ward,",
+      "slug": "j-r-ward",
+      "count": 2
+    },
+    {
       "name": "J.R.R. Tolkien",
       "slug": "j-r-r-tolkien",
-      "count": 1
+      "count": 12
+    },
+    {
+      "name": "J.R.R. Tolkien,",
+      "slug": "j-r-r-tolkien",
+      "count": 18
     },
     {
       "name": "Jack Gilbert",
       "slug": "jack-gilbert",
+      "count": 1
+    },
+    {
+      "name": "Jack Kerouac",
+      "slug": "jack-kerouac",
+      "count": 3
+    },
+    {
+      "name": "Jack Kerouac,",
+      "slug": "jack-kerouac",
+      "count": 5
+    },
+    {
+      "name": "Jack Kornfield,",
+      "slug": "jack-kornfield",
+      "count": 1
+    },
+    {
+      "name": "Jack London",
+      "slug": "jack-london",
       "count": 1
     },
     {
@@ -3857,13 +6427,88 @@
       "count": 1
     },
     {
+      "name": "Jalal Ad-Din Rumi",
+      "slug": "jalal-ad-din-rumi",
+      "count": 1
+    },
+    {
+      "name": "James A. Baldwin",
+      "slug": "james-a-baldwin",
+      "count": 1
+    },
+    {
+      "name": "James Baldwin",
+      "slug": "james-baldwin",
+      "count": 8
+    },
+    {
+      "name": "James Baldwin,",
+      "slug": "james-baldwin",
+      "count": 1
+    },
+    {
+      "name": "James Burke",
+      "slug": "james-burke",
+      "count": 1
+    },
+    {
+      "name": "James Joyce",
+      "slug": "james-joyce",
+      "count": 1
+    },
+    {
+      "name": "James Patterson,",
+      "slug": "james-patterson",
+      "count": 1
+    },
+    {
       "name": "James Tunney",
       "slug": "james-tunney",
       "count": 1
     },
     {
+      "name": "Jamie McGuire,",
+      "slug": "jamie-mcguire",
+      "count": 3
+    },
+    {
       "name": "Jan Krause Greene",
       "slug": "jan-krause-greene",
+      "count": 1
+    },
+    {
+      "name": "Jandy Nelson,",
+      "slug": "jandy-nelson",
+      "count": 1
+    },
+    {
+      "name": "Jane Austen",
+      "slug": "jane-austen",
+      "count": 22
+    },
+    {
+      "name": "Jane Austen,",
+      "slug": "jane-austen",
+      "count": 21
+    },
+    {
+      "name": "Jane Goodall",
+      "slug": "jane-goodall",
+      "count": 1
+    },
+    {
+      "name": "Jane Smiley,",
+      "slug": "jane-smiley",
+      "count": 1
+    },
+    {
+      "name": "Jane Yolen,",
+      "slug": "jane-yolen",
+      "count": 1
+    },
+    {
+      "name": "Janet Fitch,",
+      "slug": "janet-fitch",
       "count": 1
     },
     {
@@ -3872,14 +6517,349 @@
       "count": 1
     },
     {
+      "name": "Jasper Fforde,",
+      "slug": "jasper-fforde",
+      "count": 1
+    },
+    {
+      "name": "Jay Asher,",
+      "slug": "jay-asher",
+      "count": 4
+    },
+    {
+      "name": "Jay McInerney,",
+      "slug": "jay-mcinerney",
+      "count": 1
+    },
+    {
+      "name": "Jean de La Fontaine",
+      "slug": "jean-de-la-fontaine",
+      "count": 1
+    },
+    {
+      "name": "Jean de La Fontaine,",
+      "slug": "jean-de-la-fontaine",
+      "count": 1
+    },
+    {
+      "name": "Jean-Paul Sartre",
+      "slug": "jean-paul-sartre",
+      "count": 2
+    },
+    {
+      "name": "Jeanette Winterson",
+      "slug": "jeanette-winterson",
+      "count": 1
+    },
+    {
+      "name": "Jeanette Winterson,",
+      "slug": "jeanette-winterson",
+      "count": 1
+    },
+    {
+      "name": "Jeaniene Frost,",
+      "slug": "jeaniene-frost",
+      "count": 1
+    },
+    {
+      "name": "Jeffrey Eugenides,",
+      "slug": "jeffrey-eugenides",
+      "count": 1
+    },
+    {
+      "name": "Jennifer Egan,",
+      "slug": "jennifer-egan",
+      "count": 1
+    },
+    {
+      "name": "Jennifer L. Armentrout,",
+      "slug": "jennifer-l-armentrout",
+      "count": 1
+    },
+    {
+      "name": "Jennifer Niven,",
+      "slug": "jennifer-niven",
+      "count": 3
+    },
+    {
+      "name": "Jerome K. Jerome",
+      "slug": "jerome-k-jerome",
+      "count": 1
+    },
+    {
+      "name": "Jerry Seinfeld",
+      "slug": "jerry-seinfeld",
+      "count": 1
+    },
+    {
+      "name": "Jess C. Scott,",
+      "slug": "jess-c-scott",
+      "count": 1
+    },
+    {
+      "name": "Jhumpa Lahiri,",
+      "slug": "jhumpa-lahiri",
+      "count": 1
+    },
+    {
+      "name": "Jim Butcher",
+      "slug": "jim-butcher",
+      "count": 1
+    },
+    {
+      "name": "Jim Henson",
+      "slug": "jim-henson",
+      "count": 5
+    },
+    {
+      "name": "Jim Morrison",
+      "slug": "jim-morrison",
+      "count": 2
+    },
+    {
+      "name": "Jim MORRISON",
+      "slug": "jim-morrison",
+      "count": 1
+    },
+    {
+      "name": "Jimi Hendrix",
+      "slug": "jimi-hendrix",
+      "count": 6
+    },
+    {
+      "name": "Jimi Hendrix,",
+      "slug": "jimi-hendrix",
+      "count": 1
+    },
+    {
       "name": "JK Rowling",
       "slug": "jk-rowling",
       "count": 1
     },
     {
+      "name": "JK Rowling,",
+      "slug": "jk-rowling",
+      "count": 1
+    },
+    {
+      "name": "Jo Walton,",
+      "slug": "jo-walton",
+      "count": 1
+    },
+    {
+      "name": "Joan Crawford",
+      "slug": "joan-crawford",
+      "count": 1
+    },
+    {
+      "name": "Joan Powers,",
+      "slug": "joan-powers",
+      "count": 1
+    },
+    {
+      "name": "Jodi Picoult",
+      "slug": "jodi-picoult",
+      "count": 1
+    },
+    {
+      "name": "Jodi Picoult,",
+      "slug": "jodi-picoult",
+      "count": 5
+    },
+    {
+      "name": "Joe Klaas,",
+      "slug": "joe-klaas",
+      "count": 1
+    },
+    {
+      "name": "Joel Osteen,",
+      "slug": "joel-osteen",
+      "count": 1
+    },
+    {
+      "name": "Johann Wolfgang von Goethe",
+      "slug": "johann-wolfgang-von-goethe",
+      "count": 2
+    },
+    {
+      "name": "Johann Wolfgang von Goethe,",
+      "slug": "johann-wolfgang-von-goethe",
+      "count": 1
+    },
+    {
+      "name": "John A. Shedd",
+      "slug": "john-a-shedd",
+      "count": 1
+    },
+    {
+      "name": "John Banville,",
+      "slug": "john-banville",
+      "count": 1
+    },
+    {
+      "name": "John Boyne",
+      "slug": "john-boyne",
+      "count": 1
+    },
+    {
+      "name": "John Cheever",
+      "slug": "john-cheever",
+      "count": 1
+    },
+    {
+      "name": "John F. Kennedy",
+      "slug": "john-f-kennedy",
+      "count": 1
+    },
+    {
+      "name": "John Green",
+      "slug": "john-green",
+      "count": 4
+    },
+    {
+      "name": "John Green,",
+      "slug": "john-green",
+      "count": 70
+    },
+    {
+      "name": "John Greenleaf Whittier",
+      "slug": "john-greenleaf-whittier",
+      "count": 1
+    },
+    {
+      "name": "John Grisham,",
+      "slug": "john-grisham",
+      "count": 1
+    },
+    {
+      "name": "John Guare,",
+      "slug": "john-guare",
+      "count": 1
+    },
+    {
+      "name": "John Irving,",
+      "slug": "john-irving",
+      "count": 1
+    },
+    {
+      "name": "John Keats,",
+      "slug": "john-keats",
+      "count": 2
+    },
+    {
       "name": "John Lennon",
       "slug": "john-lennon",
+      "count": 16
+    },
+    {
+      "name": "John Locke",
+      "slug": "john-locke",
       "count": 1
+    },
+    {
+      "name": "John Milton,",
+      "slug": "john-milton",
+      "count": 1
+    },
+    {
+      "name": "John Muir",
+      "slug": "john-muir",
+      "count": 3
+    },
+    {
+      "name": "John Steinbeck,",
+      "slug": "john-steinbeck",
+      "count": 7
+    },
+    {
+      "name": "John Updike,",
+      "slug": "john-updike",
+      "count": 1
+    },
+    {
+      "name": "John W. Campbell Jr.",
+      "slug": "john-w-campbell-jr",
+      "count": 1
+    },
+    {
+      "name": "John Waters",
+      "slug": "john-waters",
+      "count": 1
+    },
+    {
+      "name": "Johnny Cash",
+      "slug": "johnny-cash",
+      "count": 1
+    },
+    {
+      "name": "Johnny Depp",
+      "slug": "johnny-depp",
+      "count": 1
+    },
+    {
+      "name": "Jojo Moyes,",
+      "slug": "jojo-moyes",
+      "count": 2
+    },
+    {
+      "name": "Jon Katz",
+      "slug": "jon-katz",
+      "count": 1
+    },
+    {
+      "name": "Jon Krakauer,",
+      "slug": "jon-krakauer",
+      "count": 3
+    },
+    {
+      "name": "Jonathan Kellerman",
+      "slug": "jonathan-kellerman",
+      "count": 1
+    },
+    {
+      "name": "jonathan safran foer",
+      "slug": "jonathan-safran-foer",
+      "count": 1
+    },
+    {
+      "name": "Jonathan Safran Foer",
+      "slug": "jonathan-safran-foer",
+      "count": 2
+    },
+    {
+      "name": "Jonathan Safran Foer,",
+      "slug": "jonathan-safran-foer",
+      "count": 9
+    },
+    {
+      "name": "Jonathan Swift",
+      "slug": "jonathan-swift",
+      "count": 1
+    },
+    {
+      "name": "Jorge Luis Borges",
+      "slug": "jorge-luis-borges",
+      "count": 7
+    },
+    {
+      "name": "José N. Harris,",
+      "slug": "jos-n-harris",
+      "count": 1
+    },
+    {
+      "name": "Joseph Brodsky",
+      "slug": "joseph-brodsky",
+      "count": 1
+    },
+    {
+      "name": "Joseph Campbell",
+      "slug": "joseph-campbell",
+      "count": 2
+    },
+    {
+      "name": "Joseph Conrad,",
+      "slug": "joseph-conrad",
+      "count": 3
     },
     {
       "name": "Joseph de Maistre",
@@ -3887,8 +6867,78 @@
       "count": 1
     },
     {
+      "name": "Joseph Heller,",
+      "slug": "joseph-heller",
+      "count": 2
+    },
+    {
+      "name": "Joshua Slocum,",
+      "slug": "joshua-slocum",
+      "count": 1
+    },
+    {
+      "name": "Joss Whedon",
+      "slug": "joss-whedon",
+      "count": 2
+    },
+    {
       "name": "Joy Harjo",
       "slug": "joy-harjo",
+      "count": 1
+    },
+    {
+      "name": "Joyce Carol Oates",
+      "slug": "joyce-carol-oates",
+      "count": 1
+    },
+    {
+      "name": "Joyce Carol Oates,",
+      "slug": "joyce-carol-oates",
+      "count": 1
+    },
+    {
+      "name": "Jude Deveraux,",
+      "slug": "jude-deveraux",
+      "count": 1
+    },
+    {
+      "name": "Judith McNaught,",
+      "slug": "judith-mcnaught",
+      "count": 1
+    },
+    {
+      "name": "Judy Garland",
+      "slug": "judy-garland",
+      "count": 1
+    },
+    {
+      "name": "Julian Barnes,",
+      "slug": "julian-barnes",
+      "count": 2
+    },
+    {
+      "name": "Julie Kagawa,",
+      "slug": "julie-kagawa",
+      "count": 1
+    },
+    {
+      "name": "Julio Cortázar",
+      "slug": "julio-cort-zar",
+      "count": 1
+    },
+    {
+      "name": "Kahlil Gibran",
+      "slug": "kahlil-gibran",
+      "count": 4
+    },
+    {
+      "name": "Kahlil Gibran,",
+      "slug": "kahlil-gibran",
+      "count": 1
+    },
+    {
+      "name": "Kalu Ndukwe Kalu",
+      "slug": "kalu-ndukwe-kalu",
       "count": 1
     },
     {
@@ -3897,9 +6947,49 @@
       "count": 1
     },
     {
+      "name": "Karen Blixen",
+      "slug": "karen-blixen",
+      "count": 1
+    },
+    {
+      "name": "Karen Marie Moning,",
+      "slug": "karen-marie-moning",
+      "count": 2
+    },
+    {
+      "name": "Kate Chopin,",
+      "slug": "kate-chopin",
+      "count": 1
+    },
+    {
+      "name": "Kate DiCamillo,",
+      "slug": "kate-dicamillo",
+      "count": 1
+    },
+    {
       "name": "Kate Stradling",
       "slug": "kate-stradling",
       "count": 1
+    },
+    {
+      "name": "Katharine Graham",
+      "slug": "katharine-graham",
+      "count": 1
+    },
+    {
+      "name": "Katharine Hepburn",
+      "slug": "katharine-hepburn",
+      "count": 1
+    },
+    {
+      "name": "Katherine Anne Porter",
+      "slug": "katherine-anne-porter",
+      "count": 1
+    },
+    {
+      "name": "Katherine Mansfield",
+      "slug": "katherine-mansfield",
+      "count": 2
     },
     {
       "name": "Katherine Parker",
@@ -3907,9 +6997,114 @@
       "count": 1
     },
     {
+      "name": "Kathryn Stockett,",
+      "slug": "kathryn-stockett",
+      "count": 1
+    },
+    {
+      "name": "Katie McGarry,",
+      "slug": "katie-mcgarry",
+      "count": 2
+    },
+    {
+      "name": "Kazuo Ishiguro",
+      "slug": "kazuo-ishiguro",
+      "count": 1
+    },
+    {
+      "name": "Kazuo Ishiguro,",
+      "slug": "kazuo-ishiguro",
+      "count": 1
+    },
+    {
+      "name": "Ken Kesey,",
+      "slug": "ken-kesey",
+      "count": 1
+    },
+    {
+      "name": "Keri Hulme,",
+      "slug": "keri-hulme",
+      "count": 1
+    },
+    {
+      "name": "Khaled Hosseini",
+      "slug": "khaled-hosseini",
+      "count": 5
+    },
+    {
+      "name": "Khaled Hosseini,",
+      "slug": "khaled-hosseini",
+      "count": 7
+    },
+    {
+      "name": "Khalil Gibran",
+      "slug": "khalil-gibran",
+      "count": 1
+    },
+    {
+      "name": "Khalil Gibran,",
+      "slug": "khalil-gibran",
+      "count": 1
+    },
+    {
+      "name": "Kiera Cass,",
+      "slug": "kiera-cass",
+      "count": 3
+    },
+    {
       "name": "Kilroy J. Oldster",
       "slug": "kilroy-j-oldster",
       "count": 2
+    },
+    {
+      "name": "Kinky Friedman",
+      "slug": "kinky-friedman",
+      "count": 1
+    },
+    {
+      "name": "Kristin Cashore,",
+      "slug": "kristin-cashore",
+      "count": 1
+    },
+    {
+      "name": "Kurt Cobain",
+      "slug": "kurt-cobain",
+      "count": 1
+    },
+    {
+      "name": "kurt vonnegut",
+      "slug": "kurt-vonnegut",
+      "count": 1
+    },
+    {
+      "name": "Kurt Vonnegut",
+      "slug": "kurt-vonnegut",
+      "count": 3
+    },
+    {
+      "name": "Kurt Vonnegut Jr.,",
+      "slug": "kurt-vonnegut-jr",
+      "count": 1
+    },
+    {
+      "name": "Kurt Vonnegut,",
+      "slug": "kurt-vonnegut",
+      "count": 13
+    },
+    {
+      "name": "L. Frank Baum",
+      "slug": "l-frank-baum",
+      "count": 1
+    },
+    {
+      "name": "L. Frank Baum,",
+      "slug": "l-frank-baum",
+      "count": 2
+    },
+    {
+      "name": "L. M. Montgomery,",
+      "slug": "l-m-montgomery",
+      "count": 1
     },
     {
       "name": "L.K. Hill",
@@ -3917,9 +7112,104 @@
       "count": 1
     },
     {
+      "name": "L.M. Montgomery",
+      "slug": "l-m-montgomery",
+      "count": 1
+    },
+    {
+      "name": "L.M. Montgomery,",
+      "slug": "l-m-montgomery",
+      "count": 2
+    },
+    {
+      "name": "Lady Gaga",
+      "slug": "lady-gaga",
+      "count": 2
+    },
+    {
+      "name": "Laini Taylor,",
+      "slug": "laini-taylor",
+      "count": 3
+    },
+    {
+      "name": "Lance Armstrong Sally Jenkins,",
+      "slug": "lance-armstrong-sally-jenkins",
+      "count": 1
+    },
+    {
+      "name": "Lando Calrissian",
+      "slug": "lando-calrissian",
+      "count": 2
+    },
+    {
+      "name": "Langston Hughes",
+      "slug": "langston-hughes",
+      "count": 2
+    },
+    {
+      "name": "Langston Hughes,",
+      "slug": "langston-hughes",
+      "count": 1
+    },
+    {
+      "name": "Lao Tsu,",
+      "slug": "lao-tsu",
+      "count": 1
+    },
+    {
+      "name": "Lao Tzu",
+      "slug": "lao-tzu",
+      "count": 4
+    },
+    {
+      "name": "Lao Tzu,",
+      "slug": "lao-tzu",
+      "count": 3
+    },
+    {
+      "name": "Laura Ingalls Wilder",
+      "slug": "laura-ingalls-wilder",
+      "count": 1
+    },
+    {
+      "name": "Laurel Thatcher Ulrich,",
+      "slug": "laurel-thatcher-ulrich",
+      "count": 1
+    },
+    {
+      "name": "Laurell K. Hamilton,",
+      "slug": "laurell-k-hamilton",
+      "count": 2
+    },
+    {
+      "name": "Lauren Conrad",
+      "slug": "lauren-conrad",
+      "count": 1
+    },
+    {
+      "name": "Lauren Kate,",
+      "slug": "lauren-kate",
+      "count": 1
+    },
+    {
+      "name": "Lauren Oliver,",
+      "slug": "lauren-oliver",
+      "count": 7
+    },
+    {
       "name": "Laurence Galian",
       "slug": "laurence-galian",
       "count": 1
+    },
+    {
+      "name": "Laurence J. Peter",
+      "slug": "laurence-j-peter",
+      "count": 1
+    },
+    {
+      "name": "Laurie Halse Anderson,",
+      "slug": "laurie-halse-anderson",
+      "count": 4
     },
     {
       "name": "Laurie Perez",
@@ -3932,8 +7222,173 @@
       "count": 1
     },
     {
+      "name": "Lawrence Ferlinghetti",
+      "slug": "lawrence-ferlinghetti",
+      "count": 1
+    },
+    {
+      "name": "Leia Organa",
+      "slug": "leia-organa",
+      "count": 6
+    },
+    {
+      "name": "Leigh Bardugo,",
+      "slug": "leigh-bardugo",
+      "count": 20
+    },
+    {
+      "name": "Lemony Snicket",
+      "slug": "lemony-snicket",
+      "count": 6
+    },
+    {
+      "name": "Lemony Snicket,",
+      "slug": "lemony-snicket",
+      "count": 15
+    },
+    {
+      "name": "Leo Tolstoy",
+      "slug": "leo-tolstoy",
+      "count": 2
+    },
+    {
+      "name": "Leo Tolstoy ,",
+      "slug": "leo-tolstoy",
+      "count": 1
+    },
+    {
+      "name": "Leo Tolstoy,",
+      "slug": "leo-tolstoy",
+      "count": 8
+    },
+    {
+      "name": "Leonard Cohen,",
+      "slug": "leonard-cohen",
+      "count": 1
+    },
+    {
       "name": "Leonardo da Vinci",
       "slug": "leonardo-da-vinci",
+      "count": 4
+    },
+    {
+      "name": "Lev Grossman,",
+      "slug": "lev-grossman",
+      "count": 1
+    },
+    {
+      "name": "Lewis Caroll,",
+      "slug": "lewis-caroll",
+      "count": 1
+    },
+    {
+      "name": "Lewis Carroll",
+      "slug": "lewis-carroll",
+      "count": 2
+    },
+    {
+      "name": "Lewis Carroll ,",
+      "slug": "lewis-carroll",
+      "count": 1
+    },
+    {
+      "name": "Lewis Carroll,",
+      "slug": "lewis-carroll",
+      "count": 8
+    },
+    {
+      "name": "Lilith Saintcrow,",
+      "slug": "lilith-saintcrow",
+      "count": 1
+    },
+    {
+      "name": "Lillian Hellman",
+      "slug": "lillian-hellman",
+      "count": 1
+    },
+    {
+      "name": "Linda Grayson",
+      "slug": "linda-grayson",
+      "count": 1
+    },
+    {
+      "name": "Lisa Kleypas,",
+      "slug": "lisa-kleypas",
+      "count": 1
+    },
+    {
+      "name": "Lisa Schroeder",
+      "slug": "lisa-schroeder",
+      "count": 1
+    },
+    {
+      "name": "Lloyd Alexander",
+      "slug": "lloyd-alexander",
+      "count": 1
+    },
+    {
+      "name": "Logan Pearsall Smith",
+      "slug": "logan-pearsall-smith",
+      "count": 1
+    },
+    {
+      "name": "Lois Lowry,",
+      "slug": "lois-lowry",
+      "count": 2
+    },
+    {
+      "name": "Lois McMaster Bujold,",
+      "slug": "lois-mcmaster-bujold",
+      "count": 1
+    },
+    {
+      "name": "Lord Byron",
+      "slug": "lord-byron",
+      "count": 1
+    },
+    {
+      "name": "Lorraine Hansberry",
+      "slug": "lorraine-hansberry",
+      "count": 1
+    },
+    {
+      "name": "Lou Holtz",
+      "slug": "lou-holtz",
+      "count": 1
+    },
+    {
+      "name": "Louis L'Amour",
+      "slug": "louis-l-amour",
+      "count": 1
+    },
+    {
+      "name": "Louis L'Amour,",
+      "slug": "louis-l-amour",
+      "count": 1
+    },
+    {
+      "name": "Louisa May Alcott,",
+      "slug": "louisa-may-alcott",
+      "count": 3
+    },
+    {
+      "name": "Louise Erdrich,",
+      "slug": "louise-erdrich",
+      "count": 1
+    },
+    {
+      "name": "Lucius Annaeus Seneca",
+      "slug": "lucius-annaeus-seneca",
+      "count": 1
+    },
+    {
+      "name": "Lucy Maud Montgomery,",
+      "slug": "lucy-maud-montgomery",
+      "count": 1
+    },
+    {
+      "name": "Ludwig van Beethoven",
+      "slug": "ludwig-van-beethoven",
       "count": 1
     },
     {
@@ -3942,12 +7397,37 @@
       "count": 4
     },
     {
-      "name": "Mae West",
-      "slug": "mae-west",
+      "name": "Luke Skywalker",
+      "slug": "luke-skywalker",
+      "count": 9
+    },
+    {
+      "name": "Madeleine L'Engle",
+      "slug": "madeleine-l-engle",
+      "count": 6
+    },
+    {
+      "name": "Madeline Miller,",
+      "slug": "madeline-miller",
+      "count": 9
+    },
+    {
+      "name": "Madonna",
+      "slug": "madonna",
       "count": 1
     },
     {
+      "name": "Mae West",
+      "slug": "mae-west",
+      "count": 9
+    },
+    {
       "name": "Mahatma Gandhi",
+      "slug": "mahatma-gandhi",
+      "count": 22
+    },
+    {
+      "name": "Mahatma Gandhi,",
       "slug": "mahatma-gandhi",
       "count": 1
     },
@@ -3957,13 +7437,263 @@
       "count": 1
     },
     {
+      "name": "Marcel Proust",
+      "slug": "marcel-proust",
+      "count": 2
+    },
+    {
+      "name": "Marcus Aurelius ,",
+      "slug": "marcus-aurelius",
+      "count": 1
+    },
+    {
+      "name": "Marcus Aurelius,",
+      "slug": "marcus-aurelius",
+      "count": 5
+    },
+    {
+      "name": "Marcus Tullius Cicero",
+      "slug": "marcus-tullius-cicero",
+      "count": 1
+    },
+    {
+      "name": "Margaret Atwood",
+      "slug": "margaret-atwood",
+      "count": 4
+    },
+    {
+      "name": "Margaret Atwood,",
+      "slug": "margaret-atwood",
+      "count": 3
+    },
+    {
+      "name": "Margaret Fuller",
+      "slug": "margaret-fuller",
+      "count": 1
+    },
+    {
+      "name": "Margaret Lee Runbeck",
+      "slug": "margaret-lee-runbeck",
+      "count": 1
+    },
+    {
+      "name": "Margaret Mead",
+      "slug": "margaret-mead",
+      "count": 3
+    },
+    {
+      "name": "Margaret Mitchell",
+      "slug": "margaret-mitchell",
+      "count": 2
+    },
+    {
+      "name": "Margaret Mitchell,",
+      "slug": "margaret-mitchell",
+      "count": 1
+    },
+    {
+      "name": "Margaret Thatcher",
+      "slug": "margaret-thatcher",
+      "count": 1
+    },
+    {
+      "name": "Margaret Walker",
+      "slug": "margaret-walker",
+      "count": 1
+    },
+    {
+      "name": "Marguerite Duras",
+      "slug": "marguerite-duras",
+      "count": 1
+    },
+    {
       "name": "Maria-Cristina Necula",
       "slug": "maria-cristina-necula",
       "count": 3
     },
     {
+      "name": "Marianne Williamson,",
+      "slug": "marianne-williamson",
+      "count": 1
+    },
+    {
+      "name": "Marie Curie",
+      "slug": "marie-curie",
+      "count": 1
+    },
+    {
+      "name": "Marie Lu,",
+      "slug": "marie-lu",
+      "count": 1
+    },
+    {
+      "name": "Marilyn Monroe",
+      "slug": "marilyn-monroe",
+      "count": 64
+    },
+    {
+      "name": "Marilyn Monroe,",
+      "slug": "marilyn-monroe",
+      "count": 1
+    },
+    {
+      "name": "Marion Zimmer Bradley,",
+      "slug": "marion-zimmer-bradley",
+      "count": 1
+    },
+    {
+      "name": "Marissa Meyer,",
+      "slug": "marissa-meyer",
+      "count": 1
+    },
+    {
+      "name": "Marjorie Pay Hinckley",
+      "slug": "marjorie-pay-hinckley",
+      "count": 1
+    },
+    {
+      "name": "Mark A. Cooper,",
+      "slug": "mark-a-cooper",
+      "count": 1
+    },
+    {
+      "name": "Mark Twain",
+      "slug": "mark-twain",
+      "count": 66
+    },
+    {
+      "name": "Mark Twain,",
+      "slug": "mark-twain",
+      "count": 4
+    },
+    {
+      "name": "Markus Herz",
+      "slug": "markus-herz",
+      "count": 1
+    },
+    {
+      "name": "Markus Zusak",
+      "slug": "markus-zusak",
+      "count": 1
+    },
+    {
+      "name": "Markus Zusak,",
+      "slug": "markus-zusak",
+      "count": 16
+    },
+    {
+      "name": "Marlene Dietrich",
+      "slug": "marlene-dietrich",
+      "count": 1
+    },
+    {
+      "name": "Marthe Troly-Curtin,",
+      "slug": "marthe-troly-curtin",
+      "count": 1
+    },
+    {
+      "name": "Martin Luther King Jr.",
+      "slug": "martin-luther-king-jr",
+      "count": 10
+    },
+    {
+      "name": "Martin Luther King Jr.,",
+      "slug": "martin-luther-king-jr",
+      "count": 5
+    },
+    {
+      "name": "Martin Luther King, Jr.",
+      "slug": "martin-luther-king-jr",
+      "count": 1
+    },
+    {
+      "name": "Marvin Bell",
+      "slug": "marvin-bell",
+      "count": 1
+    },
+    {
+      "name": "Mary Ann Shaffer,",
+      "slug": "mary-ann-shaffer",
+      "count": 1
+    },
+    {
+      "name": "Mary Oliver",
+      "slug": "mary-oliver",
+      "count": 5
+    },
+    {
+      "name": "Mary Shelley,",
+      "slug": "mary-shelley",
+      "count": 1
+    },
+    {
+      "name": "Mary Wollstonecraft Shelley,",
+      "slug": "mary-wollstonecraft-shelley",
+      "count": 1
+    },
+    {
+      "name": "Mat Auryn",
+      "slug": "mat-auryn",
+      "count": 1
+    },
+    {
+      "name": "Maurice Sendak",
+      "slug": "maurice-sendak",
+      "count": 1
+    },
+    {
+      "name": "Maurice Switzer,",
+      "slug": "maurice-switzer",
+      "count": 1
+    },
+    {
+      "name": "Mawlana Jalal-al-Din Rumi",
+      "slug": "mawlana-jalal-al-din-rumi",
+      "count": 4
+    },
+    {
+      "name": "Mawlana Jalal-al-Din Rumi,",
+      "slug": "mawlana-jalal-al-din-rumi",
+      "count": 1
+    },
+    {
+      "name": "Max Lucado",
+      "slug": "max-lucado",
+      "count": 1
+    },
+    {
+      "name": "Max Lucado,",
+      "slug": "max-lucado",
+      "count": 1
+    },
+    {
+      "name": "Maxine Hong Kingston",
+      "slug": "maxine-hong-kingston",
+      "count": 1
+    },
+    {
+      "name": "maya angelou",
+      "slug": "maya-angelou",
+      "count": 1
+    },
+    {
+      "name": "Maya Angelou",
+      "slug": "maya-angelou",
+      "count": 18
+    },
+    {
+      "name": "Maya Angelou,",
+      "slug": "maya-angelou",
+      "count": 6
+    },
+    {
       "name": "Melissa Coleman",
       "slug": "melissa-coleman",
+      "count": 1
+    },
+    {
+      "name": "Melissa Marr,",
+      "slug": "melissa-marr",
       "count": 1
     },
     {
@@ -3972,13 +7702,98 @@
       "count": 7
     },
     {
+      "name": "Michael Crichton",
+      "slug": "michael-crichton",
+      "count": 1
+    },
+    {
+      "name": "Michael Cunningham,",
+      "slug": "michael-cunningham",
+      "count": 1
+    },
+    {
+      "name": "Michael Ondaatje,",
+      "slug": "michael-ondaatje",
+      "count": 1
+    },
+    {
       "name": "Michael Pollan",
       "slug": "michael-pollan",
       "count": 1
     },
     {
+      "name": "Michel de Montaigne",
+      "slug": "michel-de-montaigne",
+      "count": 1
+    },
+    {
+      "name": "Michelle Hodkin,",
+      "slug": "michelle-hodkin",
+      "count": 1
+    },
+    {
+      "name": "Miguel de Cervantes Saavedra,",
+      "slug": "miguel-de-cervantes-saavedra",
+      "count": 1
+    },
+    {
+      "name": "Milan Kundera",
+      "slug": "milan-kundera",
+      "count": 3
+    },
+    {
+      "name": "Milan Kundera,",
+      "slug": "milan-kundera",
+      "count": 2
+    },
+    {
       "name": "Mimi Novic",
       "slug": "mimi-novic",
+      "count": 1
+    },
+    {
+      "name": "Mitch Albom",
+      "slug": "mitch-albom",
+      "count": 1
+    },
+    {
+      "name": "Mitch Albom,",
+      "slug": "mitch-albom",
+      "count": 7
+    },
+    {
+      "name": "Mo Willems,",
+      "slug": "mo-willems",
+      "count": 1
+    },
+    {
+      "name": "Moliere",
+      "slug": "moliere",
+      "count": 1
+    },
+    {
+      "name": "Mortimer J. Adler",
+      "slug": "mortimer-j-adler",
+      "count": 1
+    },
+    {
+      "name": "Mother Teresa",
+      "slug": "mother-teresa",
+      "count": 18
+    },
+    {
+      "name": "Mother Theresa",
+      "slug": "mother-theresa",
+      "count": 1
+    },
+    {
+      "name": "Muhammad Ali",
+      "slug": "muhammad-ali",
+      "count": 1
+    },
+    {
+      "name": "Murakami, Haruki",
+      "slug": "murakami-haruki",
       "count": 1
     },
     {
@@ -3987,8 +7802,33 @@
       "count": 1
     },
     {
+      "name": "Nadezhda Mandelstam,",
+      "slug": "nadezhda-mandelstam",
+      "count": 1
+    },
+    {
       "name": "Nandhi Tapasyogi",
       "slug": "nandhi-tapasyogi",
+      "count": 1
+    },
+    {
+      "name": "Napoleon Bonaparte",
+      "slug": "napoleon-bonaparte",
+      "count": 2
+    },
+    {
+      "name": "Napoleon Hill,",
+      "slug": "napoleon-hill",
+      "count": 1
+    },
+    {
+      "name": "Narcotics Anonymous",
+      "slug": "narcotics-anonymous",
+      "count": 1
+    },
+    {
+      "name": "Natalie Babbitt,",
+      "slug": "natalie-babbitt",
       "count": 1
     },
     {
@@ -3997,9 +7837,39 @@
       "count": 1
     },
     {
+      "name": "Nathaniel Hawthorne,",
+      "slug": "nathaniel-hawthorne",
+      "count": 2
+    },
+    {
+      "name": "Ned Vizzini,",
+      "slug": "ned-vizzini",
+      "count": 2
+    },
+    {
+      "name": "Neil deGrasse Tyson",
+      "slug": "neil-degrasse-tyson",
+      "count": 2
+    },
+    {
+      "name": "Neil Gaiman",
+      "slug": "neil-gaiman",
+      "count": 12
+    },
+    {
+      "name": "Neil Gaiman,",
+      "slug": "neil-gaiman",
+      "count": 19
+    },
+    {
+      "name": "Neil LaBute,",
+      "slug": "neil-labute",
+      "count": 1
+    },
+    {
       "name": "Nelson Mandela",
       "slug": "nelson-mandela",
-      "count": 1
+      "count": 4
     },
     {
       "name": "Ness Kingsley",
@@ -4007,8 +7877,63 @@
       "count": 1
     },
     {
+      "name": "Niccolò Machiavelli,",
+      "slug": "niccol-machiavelli",
+      "count": 1
+    },
+    {
+      "name": "Nicholas Klein",
+      "slug": "nicholas-klein",
+      "count": 1
+    },
+    {
+      "name": "Nicholas Sparks",
+      "slug": "nicholas-sparks",
+      "count": 6
+    },
+    {
+      "name": "Nicholas Sparks,",
+      "slug": "nicholas-sparks",
+      "count": 40
+    },
+    {
+      "name": "Nicholson Baker,",
+      "slug": "nicholson-baker",
+      "count": 1
+    },
+    {
+      "name": "Nick Hornby",
+      "slug": "nick-hornby",
+      "count": 1
+    },
+    {
+      "name": "Nick Hornby,",
+      "slug": "nick-hornby",
+      "count": 1
+    },
+    {
+      "name": "Nicolas Chamfort",
+      "slug": "nicolas-chamfort",
+      "count": 2
+    },
+    {
       "name": "Nicole Adelle Flamer",
       "slug": "nicole-adelle-flamer",
+      "count": 1
+    },
+    {
+      "name": "Nicole Krauss,",
+      "slug": "nicole-krauss",
+      "count": 3
+    },
+    {
+      "name": "Niels Bohr",
+      "slug": "niels-bohr",
+      "count": 1
+    },
+    {
+      "name": "Nietzsche",
+      "slug": "nietzsche",
       "count": 1
     },
     {
@@ -4017,9 +7942,64 @@
       "count": 4
     },
     {
+      "name": "Nikolai V. Gogol",
+      "slug": "nikolai-v-gogol",
+      "count": 1
+    },
+    {
       "name": "Noam Chomsky",
       "slug": "noam-chomsky",
+      "count": 2
+    },
+    {
+      "name": "Noël Coward,",
+      "slug": "no-l-coward",
       "count": 1
+    },
+    {
+      "name": "Nora Ephron",
+      "slug": "nora-ephron",
+      "count": 2
+    },
+    {
+      "name": "Nora Roberts,",
+      "slug": "nora-roberts",
+      "count": 1
+    },
+    {
+      "name": "Norman Vincent Peale",
+      "slug": "norman-vincent-peale",
+      "count": 1
+    },
+    {
+      "name": "Norton Juster,",
+      "slug": "norton-juster",
+      "count": 1
+    },
+    {
+      "name": "Obi-Wan Kenobi",
+      "slug": "obi-wan-kenobi",
+      "count": 15
+    },
+    {
+      "name": "Octavia Butler,",
+      "slug": "octavia-butler",
+      "count": 1
+    },
+    {
+      "name": "Olin Miller",
+      "slug": "olin-miller",
+      "count": 1
+    },
+    {
+      "name": "Opening Crawl",
+      "slug": "opening-crawl",
+      "count": 1
+    },
+    {
+      "name": "Oprah Winfrey",
+      "slug": "oprah-winfrey",
+      "count": 3
     },
     {
       "name": "Ora Nadrich",
@@ -4027,8 +8007,103 @@
       "count": 1
     },
     {
+      "name": "Orhan Pamuk,",
+      "slug": "orhan-pamuk",
+      "count": 2
+    },
+    {
+      "name": "Oriah Mountain Dreamer",
+      "slug": "oriah-mountain-dreamer",
+      "count": 1
+    },
+    {
+      "name": "Orson Scott Card,",
+      "slug": "orson-scott-card",
+      "count": 1
+    },
+    {
+      "name": "Orson Welles",
+      "slug": "orson-welles",
+      "count": 1
+    },
+    {
+      "name": "Oscar Levant",
+      "slug": "oscar-levant",
+      "count": 1
+    },
+    {
+      "name": "oscar wilde",
+      "slug": "oscar-wilde",
+      "count": 1
+    },
+    {
       "name": "Oscar Wilde",
       "slug": "oscar-wilde",
+      "count": 29
+    },
+    {
+      "name": "Oscar Wilde ,",
+      "slug": "oscar-wilde",
+      "count": 1
+    },
+    {
+      "name": "Oscar Wilde (attributed to)",
+      "slug": "oscar-wilde-attributed-to",
+      "count": 1
+    },
+    {
+      "name": "Oscar Wilde,",
+      "slug": "oscar-wilde",
+      "count": 30
+    },
+    {
+      "name": "P.C. Cast Kristin Cast",
+      "slug": "p-c-cast-kristin-cast",
+      "count": 1
+    },
+    {
+      "name": "P.C. Cast,",
+      "slug": "p-c-cast",
+      "count": 1
+    },
+    {
+      "name": "P.G. Wodehouse",
+      "slug": "p-g-wodehouse",
+      "count": 1
+    },
+    {
+      "name": "Pablo Neruda",
+      "slug": "pablo-neruda",
+      "count": 10
+    },
+    {
+      "name": "Pablo Neruda,",
+      "slug": "pablo-neruda",
+      "count": 8
+    },
+    {
+      "name": "Pablo Picasso",
+      "slug": "pablo-picasso",
+      "count": 4
+    },
+    {
+      "name": "Pablo Picasso,",
+      "slug": "pablo-picasso",
+      "count": 1
+    },
+    {
+      "name": "Padmé Amidala",
+      "slug": "padm-amidala",
+      "count": 2
+    },
+    {
+      "name": "Pamela Redmond Satran",
+      "slug": "pamela-redmond-satran",
+      "count": 1
+    },
+    {
+      "name": "Pat Conroy,",
+      "slug": "pat-conroy",
       "count": 1
     },
     {
@@ -4037,13 +8112,138 @@
       "count": 1
     },
     {
+      "name": "Pat Monahan",
+      "slug": "pat-monahan",
+      "count": 1
+    },
+    {
+      "name": "Patricia Highsmith",
+      "slug": "patricia-highsmith",
+      "count": 1
+    },
+    {
+      "name": "Patrick Ness,",
+      "slug": "patrick-ness",
+      "count": 2
+    },
+    {
+      "name": "Patrick Rothfuss,",
+      "slug": "patrick-rothfuss",
+      "count": 6
+    },
+    {
+      "name": "Paul Auster,",
+      "slug": "paul-auster",
+      "count": 1
+    },
+    {
+      "name": "Paul McCartney,",
+      "slug": "paul-mccartney",
+      "count": 1
+    },
+    {
+      "name": "Paul Terry",
+      "slug": "paul-terry",
+      "count": 1
+    },
+    {
+      "name": "Paula Poundstone",
+      "slug": "paula-poundstone",
+      "count": 1
+    },
+    {
+      "name": "Paulo Coelho",
+      "slug": "paulo-coelho",
+      "count": 7
+    },
+    {
+      "name": "Paulo Coelho,",
+      "slug": "paulo-coelho",
+      "count": 27
+    },
+    {
+      "name": "Pearl S. Buck",
+      "slug": "pearl-s-buck",
+      "count": 1
+    },
+    {
+      "name": "Pedro Calderon de la Barca",
+      "slug": "pedro-calderon-de-la-barca",
+      "count": 1
+    },
+    {
+      "name": "Percy Bysshe Shelley",
+      "slug": "percy-bysshe-shelley",
+      "count": 1
+    },
+    {
+      "name": "Peter S. Beagle,",
+      "slug": "peter-s-beagle",
+      "count": 1
+    },
+    {
+      "name": "Peter Shaffer,",
+      "slug": "peter-shaffer",
+      "count": 1
+    },
+    {
+      "name": "Philip José Farmer",
+      "slug": "philip-jos-farmer",
+      "count": 1
+    },
+    {
+      "name": "Philip K. Dick,",
+      "slug": "philip-k-dick",
+      "count": 2
+    },
+    {
+      "name": "Philip Pullman",
+      "slug": "philip-pullman",
+      "count": 2
+    },
+    {
       "name": "Phoenix Moon",
       "slug": "phoenix-moon",
       "count": 1
     },
     {
+      "name": "Phyllis Diller",
+      "slug": "phyllis-diller",
+      "count": 2
+    },
+    {
+      "name": "Phyllis McGinley",
+      "slug": "phyllis-mcginley",
+      "count": 1
+    },
+    {
+      "name": "Pittacus Lore,",
+      "slug": "pittacus-lore",
+      "count": 1
+    },
+    {
+      "name": "Plato",
+      "slug": "plato",
+      "count": 5
+    },
+    {
       "name": "Pratik Mishra",
       "slug": "pratik-mishra",
+      "count": 1
+    },
+    {
+      "name": "Qui-Gon Jinn",
+      "slug": "qui-gon-jinn",
+      "count": 2
+    },
+    {
+      "name": "R.A. Salvatore,",
+      "slug": "r-a-salvatore",
+      "count": 1
+    },
+    {
+      "name": "R.J. Palacio,",
+      "slug": "r-j-palacio",
       "count": 1
     },
     {
@@ -4052,9 +8252,39 @@
       "count": 1
     },
     {
+      "name": "Rabindranath Tagore,",
+      "slug": "rabindranath-tagore",
+      "count": 1
+    },
+    {
+      "name": "Rachel Caine,",
+      "slug": "rachel-caine",
+      "count": 1
+    },
+    {
+      "name": "Rachel Carson",
+      "slug": "rachel-carson",
+      "count": 1
+    },
+    {
       "name": "Rahma Krambo",
       "slug": "rahma-krambo",
       "count": 1
+    },
+    {
+      "name": "Rainbow Rowell,",
+      "slug": "rainbow-rowell",
+      "count": 3
+    },
+    {
+      "name": "Rainer Maria Rilke",
+      "slug": "rainer-maria-rilke",
+      "count": 3
+    },
+    {
+      "name": "Rainer Maria Rilke,",
+      "slug": "rainer-maria-rilke",
+      "count": 3
     },
     {
       "name": "Rajesh`",
@@ -4062,8 +8292,48 @@
       "count": 2
     },
     {
+      "name": "Ralph Ellison,",
+      "slug": "ralph-ellison",
+      "count": 2
+    },
+    {
       "name": "Ralph Waldo Emerson",
       "slug": "ralph-waldo-emerson",
+      "count": 26
+    },
+    {
+      "name": "Ralph Waldo Emerson,",
+      "slug": "ralph-waldo-emerson",
+      "count": 3
+    },
+    {
+      "name": "Randy Pausch,",
+      "slug": "randy-pausch",
+      "count": 1
+    },
+    {
+      "name": "Ransom Riggs,",
+      "slug": "ransom-riggs",
+      "count": 1
+    },
+    {
+      "name": "Ray Bradbury",
+      "slug": "ray-bradbury",
+      "count": 5
+    },
+    {
+      "name": "Ray Bradbury,",
+      "slug": "ray-bradbury",
+      "count": 7
+    },
+    {
+      "name": "Raymond Carver",
+      "slug": "raymond-carver",
+      "count": 1
+    },
+    {
+      "name": "Raymond Chandler,",
+      "slug": "raymond-chandler",
       "count": 1
     },
     {
@@ -4077,6 +8347,21 @@
       "count": 1
     },
     {
+      "name": "Rebecca West",
+      "slug": "rebecca-west",
+      "count": 1
+    },
+    {
+      "name": "Reginald Vincent Holmes,",
+      "slug": "reginald-vincent-holmes",
+      "count": 1
+    },
+    {
+      "name": "Rene Descartes",
+      "slug": "rene-descartes",
+      "count": 1
+    },
+    {
       "name": "René Descartes",
       "slug": "ren-descartes",
       "count": 1
@@ -4087,13 +8372,163 @@
       "count": 1
     },
     {
+      "name": "Richard Dawkins,",
+      "slug": "richard-dawkins",
+      "count": 1
+    },
+    {
+      "name": "Richard Matheson,",
+      "slug": "richard-matheson",
+      "count": 1
+    },
+    {
+      "name": "Richard P. Feynman",
+      "slug": "richard-p-feynman",
+      "count": 1
+    },
+    {
+      "name": "richard siken",
+      "slug": "richard-siken",
+      "count": 1
+    },
+    {
+      "name": "Richelle Mead,",
+      "slug": "richelle-mead",
+      "count": 12
+    },
+    {
+      "name": "Rick Riordan",
+      "slug": "rick-riordan",
+      "count": 3
+    },
+    {
+      "name": "Rick Riordan,",
+      "slug": "rick-riordan",
+      "count": 27
+    },
+    {
       "name": "Rilke",
       "slug": "rilke",
       "count": 1
     },
     {
+      "name": "Rita Mae Brown",
+      "slug": "rita-mae-brown",
+      "count": 1
+    },
+    {
+      "name": "Rita Mae Brown,",
+      "slug": "rita-mae-brown",
+      "count": 1
+    },
+    {
       "name": "Ritu Negi",
       "slug": "ritu-negi",
+      "count": 1
+    },
+    {
+      "name": "Roald Dahl",
+      "slug": "roald-dahl",
+      "count": 3
+    },
+    {
+      "name": "Roald Dahl,",
+      "slug": "roald-dahl",
+      "count": 2
+    },
+    {
+      "name": "Rob Reiner",
+      "slug": "rob-reiner",
+      "count": 1
+    },
+    {
+      "name": "Robert A. Heinlein",
+      "slug": "robert-a-heinlein",
+      "count": 1
+    },
+    {
+      "name": "Robert A. Heinlein,",
+      "slug": "robert-a-heinlein",
+      "count": 2
+    },
+    {
+      "name": "Robert Bloch",
+      "slug": "robert-bloch",
+      "count": 1
+    },
+    {
+      "name": "Robert Frost",
+      "slug": "robert-frost",
+      "count": 15
+    },
+    {
+      "name": "Robert Frost,",
+      "slug": "robert-frost",
+      "count": 1
+    },
+    {
+      "name": "Robert Fulghum,",
+      "slug": "robert-fulghum",
+      "count": 2
+    },
+    {
+      "name": "Robert Heinlein,",
+      "slug": "robert-heinlein",
+      "count": 1
+    },
+    {
+      "name": "Robert Ingersoll",
+      "slug": "robert-ingersoll",
+      "count": 1
+    },
+    {
+      "name": "Robert Jordan",
+      "slug": "robert-jordan",
+      "count": 1
+    },
+    {
+      "name": "Robert Louis Stevenson",
+      "slug": "robert-louis-stevenson",
+      "count": 2
+    },
+    {
+      "name": "Robert Louis Stevenson,",
+      "slug": "robert-louis-stevenson",
+      "count": 2
+    },
+    {
+      "name": "Robert Marley",
+      "slug": "robert-marley",
+      "count": 1
+    },
+    {
+      "name": "Robert Orben",
+      "slug": "robert-orben",
+      "count": 1
+    },
+    {
+      "name": "Roberto Bolaño,",
+      "slug": "roberto-bola-o",
+      "count": 1
+    },
+    {
+      "name": "Rodney Dangerfield",
+      "slug": "rodney-dangerfield",
+      "count": 1
+    },
+    {
+      "name": "Rose Fitzgerald Kennedy",
+      "slug": "rose-fitzgerald-kennedy",
+      "count": 1
+    },
+    {
+      "name": "Rose Wilder Lane",
+      "slug": "rose-wilder-lane",
+      "count": 1
+    },
+    {
+      "name": "Rosemarie Urquico",
+      "slug": "rosemarie-urquico",
       "count": 1
     },
     {
@@ -4112,9 +8547,114 @@
       "count": 1
     },
     {
+      "name": "Roy T. Bennett",
+      "slug": "roy-t-bennett",
+      "count": 9
+    },
+    {
+      "name": "Roy T. Bennett,",
+      "slug": "roy-t-bennett",
+      "count": 45
+    },
+    {
+      "name": "Rudyard Kipling",
+      "slug": "rudyard-kipling",
+      "count": 1
+    },
+    {
+      "name": "Rumi",
+      "slug": "rumi",
+      "count": 12
+    },
+    {
+      "name": "Rumi Jalalud-Din",
+      "slug": "rumi-jalalud-din",
+      "count": 1
+    },
+    {
+      "name": "Rumi,",
+      "slug": "rumi",
+      "count": 2
+    },
+    {
+      "name": "S.E. Hinton",
+      "slug": "s-e-hinton",
+      "count": 1
+    },
+    {
+      "name": "S.E. Hinton,",
+      "slug": "s-e-hinton",
+      "count": 2
+    },
+    {
+      "name": "Sally Rooney,",
+      "slug": "sally-rooney",
+      "count": 1
+    },
+    {
+      "name": "Salvador Dali",
+      "slug": "salvador-dali",
+      "count": 1
+    },
+    {
+      "name": "Sam Levenson,",
+      "slug": "sam-levenson",
+      "count": 1
+    },
+    {
       "name": "Sanober Khan",
       "slug": "sanober-khan",
       "count": 4
+    },
+    {
+      "name": "Santosh Kalwar,",
+      "slug": "santosh-kalwar",
+      "count": 2
+    },
+    {
+      "name": "Sara Henderson",
+      "slug": "sara-henderson",
+      "count": 1
+    },
+    {
+      "name": "Sarah Dessen",
+      "slug": "sarah-dessen",
+      "count": 2
+    },
+    {
+      "name": "Sarah Dessen,",
+      "slug": "sarah-dessen",
+      "count": 20
+    },
+    {
+      "name": "Sarah J. Maas,",
+      "slug": "sarah-j-maas",
+      "count": 21
+    },
+    {
+      "name": "Sarah Kay",
+      "slug": "sarah-kay",
+      "count": 1
+    },
+    {
+      "name": "Sarah Williams",
+      "slug": "sarah-williams",
+      "count": 1
+    },
+    {
+      "name": "Sarah Williams,",
+      "slug": "sarah-williams",
+      "count": 1
+    },
+    {
+      "name": "Saul Bellow",
+      "slug": "saul-bellow",
+      "count": 2
+    },
+    {
+      "name": "Scott Adams",
+      "slug": "scott-adams",
+      "count": 1
     },
     {
       "name": "Scott C. Holstad",
@@ -4122,8 +8662,23 @@
       "count": 1
     },
     {
+      "name": "Seamus Heaney,",
+      "slug": "seamus-heaney",
+      "count": 1
+    },
+    {
       "name": "Sean Coons",
       "slug": "sean-coons",
+      "count": 1
+    },
+    {
+      "name": "Sean O'Casey",
+      "slug": "sean-o-casey",
+      "count": 1
+    },
+    {
+      "name": "Selma Lagerlöf",
+      "slug": "selma-lagerl-f",
       "count": 1
     },
     {
@@ -4137,6 +8692,11 @@
       "count": 1
     },
     {
+      "name": "Shana Abe",
+      "slug": "shana-abe",
+      "count": 1
+    },
+    {
       "name": "Shannon A. Thompson",
       "slug": "shannon-a-thompson",
       "count": 1
@@ -4144,11 +8704,76 @@
     {
       "name": "Shannon L. Alder",
       "slug": "shannon-l-alder",
-      "count": 1
+      "count": 2
     },
     {
       "name": "Sharon Brubaker",
       "slug": "sharon-brubaker",
+      "count": 1
+    },
+    {
+      "name": "Sharon Salzberg",
+      "slug": "sharon-salzberg",
+      "count": 1
+    },
+    {
+      "name": "Shawn Slovo,",
+      "slug": "shawn-slovo",
+      "count": 1
+    },
+    {
+      "name": "Shel Silverstein",
+      "slug": "shel-silverstein",
+      "count": 4
+    },
+    {
+      "name": "Shel Silverstein,",
+      "slug": "shel-silverstein",
+      "count": 1
+    },
+    {
+      "name": "Sheng Wang",
+      "slug": "sheng-wang",
+      "count": 1
+    },
+    {
+      "name": "Sherman Alexie,",
+      "slug": "sherman-alexie",
+      "count": 1
+    },
+    {
+      "name": "Sherrilyn Kenyon,",
+      "slug": "sherrilyn-kenyon",
+      "count": 2
+    },
+    {
+      "name": "Shmi Skywalker",
+      "slug": "shmi-skywalker",
+      "count": 1
+    },
+    {
+      "name": "Shmuley Boteach",
+      "slug": "shmuley-boteach",
+      "count": 1
+    },
+    {
+      "name": "Sigmund Freud",
+      "slug": "sigmund-freud",
+      "count": 2
+    },
+    {
+      "name": "Simon and Garfunkel",
+      "slug": "simon-and-garfunkel",
+      "count": 1
+    },
+    {
+      "name": "Simone de Beauvoir",
+      "slug": "simone-de-beauvoir",
+      "count": 2
+    },
+    {
+      "name": "Simone Elkeles,",
+      "slug": "simone-elkeles",
       "count": 1
     },
     {
@@ -4157,8 +8782,43 @@
       "count": 1
     },
     {
+      "name": "Sir Francis Bacon",
+      "slug": "sir-francis-bacon",
+      "count": 1
+    },
+    {
       "name": "Socrates",
       "slug": "socrates",
+      "count": 5
+    },
+    {
+      "name": "Sophocles",
+      "slug": "sophocles",
+      "count": 1
+    },
+    {
+      "name": "Soren Kierkegaard",
+      "slug": "soren-kierkegaard",
+      "count": 1
+    },
+    {
+      "name": "Søren Kierkegaard",
+      "slug": "s-ren-kierkegaard",
+      "count": 1
+    },
+    {
+      "name": "Søren Kierkegaard ,",
+      "slug": "s-ren-kierkegaard",
+      "count": 1
+    },
+    {
+      "name": "St. Augustine",
+      "slug": "st-augustine",
+      "count": 1
+    },
+    {
+      "name": "St. Francis Of Assisi,",
+      "slug": "st-francis-of-assisi",
       "count": 1
     },
     {
@@ -4167,18 +8827,118 @@
       "count": 7
     },
     {
+      "name": "Stendhal,",
+      "slug": "stendhal",
+      "count": 1
+    },
+    {
       "name": "Stephanie Acello",
       "slug": "stephanie-acello",
       "count": 1
     },
     {
+      "name": "Stephanie Klein,",
+      "slug": "stephanie-klein",
+      "count": 1
+    },
+    {
+      "name": "Stephanie Lennox,",
+      "slug": "stephanie-lennox",
+      "count": 1
+    },
+    {
+      "name": "Stephanie Perkins,",
+      "slug": "stephanie-perkins",
+      "count": 3
+    },
+    {
+      "name": "Stephen Chbosky,",
+      "slug": "stephen-chbosky",
+      "count": 25
+    },
+    {
+      "name": "Stephen Fry",
+      "slug": "stephen-fry",
+      "count": 2
+    },
+    {
+      "name": "Stephen Hawking",
+      "slug": "stephen-hawking",
+      "count": 2
+    },
+    {
       "name": "Stephen King",
       "slug": "stephen-king",
+      "count": 11
+    },
+    {
+      "name": "Stephen King,",
+      "slug": "stephen-king",
+      "count": 8
+    },
+    {
+      "name": "Stephen R. Covey,",
+      "slug": "stephen-r-covey",
       "count": 1
+    },
+    {
+      "name": "Stephenie Meyer",
+      "slug": "stephenie-meyer",
+      "count": 4
+    },
+    {
+      "name": "Stephenie Meyer,",
+      "slug": "stephenie-meyer",
+      "count": 9
     },
     {
       "name": "Steve Jobs",
       "slug": "steve-jobs",
+      "count": 5
+    },
+    {
+      "name": "Steve Maraboli",
+      "slug": "steve-maraboli",
+      "count": 2
+    },
+    {
+      "name": "Steve Maraboli,",
+      "slug": "steve-maraboli",
+      "count": 6
+    },
+    {
+      "name": "Steve Martin",
+      "slug": "steve-martin",
+      "count": 6
+    },
+    {
+      "name": "Steve Wozniak",
+      "slug": "steve-wozniak",
+      "count": 1
+    },
+    {
+      "name": "Steven Moffat",
+      "slug": "steven-moffat",
+      "count": 1
+    },
+    {
+      "name": "Steven Spielberg",
+      "slug": "steven-spielberg",
+      "count": 1
+    },
+    {
+      "name": "Steven Wright",
+      "slug": "steven-wright",
+      "count": 1
+    },
+    {
+      "name": "Stewart O'Nan,",
+      "slug": "stewart-o-nan",
+      "count": 1
+    },
+    {
+      "name": "Stieg Larsson,",
+      "slug": "stieg-larsson",
       "count": 2
     },
     {
@@ -4187,9 +8947,69 @@
       "count": 1
     },
     {
+      "name": "Sun Tzu,",
+      "slug": "sun-tzu",
+      "count": 2
+    },
+    {
+      "name": "Susan Sontag",
+      "slug": "susan-sontag",
+      "count": 1
+    },
+    {
+      "name": "Susan Sontag,",
+      "slug": "susan-sontag",
+      "count": 1
+    },
+    {
+      "name": "Suzanne Collins",
+      "slug": "suzanne-collins",
+      "count": 8
+    },
+    {
+      "name": "Suzanne Collins,",
+      "slug": "suzanne-collins",
+      "count": 38
+    },
+    {
       "name": "Suzy Davies",
       "slug": "suzy-davies",
       "count": 3
+    },
+    {
+      "name": "sylvia plath",
+      "slug": "sylvia-plath",
+      "count": 1
+    },
+    {
+      "name": "Sylvia Plath",
+      "slug": "sylvia-plath",
+      "count": 4
+    },
+    {
+      "name": "Sylvia Plath,",
+      "slug": "sylvia-plath",
+      "count": 21
+    },
+    {
+      "name": "T.H. White,",
+      "slug": "t-h-white",
+      "count": 2
+    },
+    {
+      "name": "T.S. Eliot",
+      "slug": "t-s-eliot",
+      "count": 2
+    },
+    {
+      "name": "T.S. Eliot,",
+      "slug": "t-s-eliot",
+      "count": 2
+    },
+    {
+      "name": "Tahereh Mafi,",
+      "slug": "tahereh-mafi",
+      "count": 8
     },
     {
       "name": "Talismanist Giebra",
@@ -4202,9 +9022,54 @@
       "count": 9
     },
     {
+      "name": "Tamora Pierce,",
+      "slug": "tamora-pierce",
+      "count": 2
+    },
+    {
       "name": "Tavisha Sh",
       "slug": "tavisha-sh",
       "count": 2
+    },
+    {
+      "name": "Taylor Jenkins Reid,",
+      "slug": "taylor-jenkins-reid",
+      "count": 2
+    },
+    {
+      "name": "Taylor Swift",
+      "slug": "taylor-swift",
+      "count": 5
+    },
+    {
+      "name": "Temple Grandin",
+      "slug": "temple-grandin",
+      "count": 1
+    },
+    {
+      "name": "Tennessee Williams,",
+      "slug": "tennessee-williams",
+      "count": 4
+    },
+    {
+      "name": "Terry Johnson,",
+      "slug": "terry-johnson",
+      "count": 1
+    },
+    {
+      "name": "Terry McMillan ,",
+      "slug": "terry-mcmillan",
+      "count": 1
+    },
+    {
+      "name": "Terry Pratchett",
+      "slug": "terry-pratchett",
+      "count": 9
+    },
+    {
+      "name": "Terry Pratchett,",
+      "slug": "terry-pratchett",
+      "count": 14
     },
     {
       "name": "The Silver Elves",
@@ -4212,8 +9077,23 @@
       "count": 2
     },
     {
+      "name": "Theodore Roosevelt",
+      "slug": "theodore-roosevelt",
+      "count": 2
+    },
+    {
+      "name": "Thich Nhat Hanh,",
+      "slug": "thich-nhat-hanh",
+      "count": 1
+    },
+    {
       "name": "Thomas A. Edison",
       "slug": "thomas-a-edison",
+      "count": 6
+    },
+    {
+      "name": "Thomas Babington Macaulay,",
+      "slug": "thomas-babington-macaulay",
       "count": 1
     },
     {
@@ -4222,14 +9102,99 @@
       "count": 1
     },
     {
+      "name": "Thomas Jefferson",
+      "slug": "thomas-jefferson",
+      "count": 2
+    },
+    {
+      "name": "Thomas Mann,",
+      "slug": "thomas-mann",
+      "count": 1
+    },
+    {
+      "name": "Thomas Merton ,",
+      "slug": "thomas-merton",
+      "count": 1
+    },
+    {
+      "name": "Thomas Merton,",
+      "slug": "thomas-merton",
+      "count": 2
+    },
+    {
+      "name": "Thomas Paine,",
+      "slug": "thomas-paine",
+      "count": 1
+    },
+    {
+      "name": "Thomas Pynchon",
+      "slug": "thomas-pynchon",
+      "count": 1
+    },
+    {
+      "name": "Thomas Szasz",
+      "slug": "thomas-szasz",
+      "count": 1
+    },
+    {
+      "name": "Thomas Wolfe,",
+      "slug": "thomas-wolfe",
+      "count": 1
+    },
+    {
+      "name": "Tiffanie DeBartolo,",
+      "slug": "tiffanie-debartolo",
+      "count": 1
+    },
+    {
+      "name": "Tim Burton",
+      "slug": "tim-burton",
+      "count": 1
+    },
+    {
+      "name": "Tim O'Brien",
+      "slug": "tim-o-brien",
+      "count": 1
+    },
+    {
       "name": "Tim Scott",
       "slug": "tim-scott",
       "count": 2
     },
     {
+      "name": "Timothy Leary",
+      "slug": "timothy-leary",
+      "count": 1
+    },
+    {
+      "name": "Tina Fey,",
+      "slug": "tina-fey",
+      "count": 2
+    },
+    {
+      "name": "Tolstoy Leo",
+      "slug": "tolstoy-leo",
+      "count": 1
+    },
+    {
+      "name": "Tom Bodett",
+      "slug": "tom-bodett",
+      "count": 1
+    },
+    {
       "name": "Tom Robbins",
       "slug": "tom-robbins",
-      "count": 1
+      "count": 3
+    },
+    {
+      "name": "Toni Morrison",
+      "slug": "toni-morrison",
+      "count": 2
+    },
+    {
+      "name": "Toni Morrison,",
+      "slug": "toni-morrison",
+      "count": 2
     },
     {
       "name": "Tony Robbins",
@@ -4237,9 +9202,39 @@
       "count": 1
     },
     {
+      "name": "Trisha Yearwood",
+      "slug": "trisha-yearwood",
+      "count": 1
+    },
+    {
+      "name": "Truman Capote",
+      "slug": "truman-capote",
+      "count": 1
+    },
+    {
+      "name": "Tupac Shakur",
+      "slug": "tupac-shakur",
+      "count": 1
+    },
+    {
+      "name": "Umberto Eco",
+      "slug": "umberto-eco",
+      "count": 1
+    },
+    {
+      "name": "Umberto Eco,",
+      "slug": "umberto-eco",
+      "count": 2
+    },
+    {
       "name": "Unknown",
       "slug": "unknown",
       "count": 4
+    },
+    {
+      "name": "Ursula K. Le Guin,",
+      "slug": "ursula-k-le-guin",
+      "count": 3
     },
     {
       "name": "Usha Cosmico",
@@ -4252,13 +9247,138 @@
       "count": 1
     },
     {
+      "name": "V. S. Naipaul,",
+      "slug": "v-s-naipaul",
+      "count": 1
+    },
+    {
+      "name": "V.E. Schwab,",
+      "slug": "v-e-schwab",
+      "count": 2
+    },
+    {
       "name": "V.M.K. Fewings",
       "slug": "v-m-k-fewings",
       "count": 1
     },
     {
+      "name": "Veronica Roth,",
+      "slug": "veronica-roth",
+      "count": 23
+    },
+    {
+      "name": "Victor Hugo",
+      "slug": "victor-hugo",
+      "count": 2
+    },
+    {
+      "name": "Victor Hugo ,",
+      "slug": "victor-hugo",
+      "count": 1
+    },
+    {
+      "name": "Victor Hugo,",
+      "slug": "victor-hugo",
+      "count": 7
+    },
+    {
+      "name": "Victoria Aveyard,",
+      "slug": "victoria-aveyard",
+      "count": 1
+    },
+    {
+      "name": "Viktor E. Frankl,",
+      "slug": "viktor-e-frankl",
+      "count": 4
+    },
+    {
       "name": "Vincent H. O'Neil",
       "slug": "vincent-h-o-neil",
+      "count": 1
+    },
+    {
+      "name": "Vincent Van Gogh",
+      "slug": "vincent-van-gogh",
+      "count": 2
+    },
+    {
+      "name": "Vincent Willem van Gogh",
+      "slug": "vincent-willem-van-gogh",
+      "count": 2
+    },
+    {
+      "name": "Virginia Woolf",
+      "slug": "virginia-woolf",
+      "count": 6
+    },
+    {
+      "name": "Virginia Woolf,",
+      "slug": "virginia-woolf",
+      "count": 5
+    },
+    {
+      "name": "Vladimir Nabokov,",
+      "slug": "vladimir-nabokov",
+      "count": 3
+    },
+    {
+      "name": "Voltaire",
+      "slug": "voltaire",
+      "count": 5
+    },
+    {
+      "name": "W. Somerset Maugham",
+      "slug": "w-somerset-maugham",
+      "count": 1
+    },
+    {
+      "name": "W.B. Yeats",
+      "slug": "w-b-yeats",
+      "count": 1
+    },
+    {
+      "name": "W.C. Fields",
+      "slug": "w-c-fields",
+      "count": 7
+    },
+    {
+      "name": "W.E.B. DuBois",
+      "slug": "w-e-b-dubois",
+      "count": 1
+    },
+    {
+      "name": "W.G. Sebald,",
+      "slug": "w-g-sebald",
+      "count": 1
+    },
+    {
+      "name": "W.P. Kinsella",
+      "slug": "w-p-kinsella",
+      "count": 1
+    },
+    {
+      "name": "Walt Disney",
+      "slug": "walt-disney",
+      "count": 4
+    },
+    {
+      "name": "Walt Disney Company,",
+      "slug": "walt-disney-company",
+      "count": 1
+    },
+    {
+      "name": "Walt Whitman",
+      "slug": "walt-whitman",
+      "count": 3
+    },
+    {
+      "name": "Walt Whitman,",
+      "slug": "walt-whitman",
+      "count": 2
+    },
+    {
+      "name": "Walter Cronkite",
+      "slug": "walter-cronkite",
       "count": 1
     },
     {
@@ -4267,13 +9387,73 @@
       "count": 1
     },
     {
+      "name": "Walter M. Miller Jr.,",
+      "slug": "walter-m-miller-jr",
+      "count": 1
+    },
+    {
+      "name": "Warsan Shire",
+      "slug": "warsan-shire",
+      "count": 1
+    },
+    {
+      "name": "Washington Irving",
+      "slug": "washington-irving",
+      "count": 2
+    },
+    {
+      "name": "Will Rogers",
+      "slug": "will-rogers",
+      "count": 2
+    },
+    {
       "name": "Will Smith",
       "slug": "will-smith",
       "count": 1
     },
     {
+      "name": "William Arthur Ward",
+      "slug": "william-arthur-ward",
+      "count": 1
+    },
+    {
       "name": "William Blake",
       "slug": "william-blake",
+      "count": 2
+    },
+    {
+      "name": "William Blake,",
+      "slug": "william-blake",
+      "count": 2
+    },
+    {
+      "name": "William Faulkner",
+      "slug": "william-faulkner",
+      "count": 3
+    },
+    {
+      "name": "William Golding,",
+      "slug": "william-golding",
+      "count": 1
+    },
+    {
+      "name": "William Goldman,",
+      "slug": "william-goldman",
+      "count": 2
+    },
+    {
+      "name": "William Makepeace Thackeray",
+      "slug": "william-makepeace-thackeray",
+      "count": 1
+    },
+    {
+      "name": "William Nicholson",
+      "slug": "william-nicholson",
+      "count": 4
+    },
+    {
+      "name": "William Nicholson,",
+      "slug": "william-nicholson",
       "count": 1
     },
     {
@@ -4282,14 +9462,159 @@
       "count": 4
     },
     {
+      "name": "William S. Burroughs",
+      "slug": "william-s-burroughs",
+      "count": 1
+    },
+    {
+      "name": "William Saroyan",
+      "slug": "william-saroyan",
+      "count": 1
+    },
+    {
+      "name": "William Shakespear,",
+      "slug": "william-shakespear",
+      "count": 1
+    },
+    {
       "name": "William Shakespeare",
       "slug": "william-shakespeare",
+      "count": 60
+    },
+    {
+      "name": "William Shakespeare,",
+      "slug": "william-shakespeare",
+      "count": 24
+    },
+    {
+      "name": "William Styron,",
+      "slug": "william-styron",
+      "count": 1
+    },
+    {
+      "name": "William W. Purkey",
+      "slug": "william-w-purkey",
+      "count": 1
+    },
+    {
+      "name": "William Wordsworth",
+      "slug": "william-wordsworth",
+      "count": 1
+    },
+    {
+      "name": "William Wordsworth,",
+      "slug": "william-wordsworth",
+      "count": 1
+    },
+    {
+      "name": "Winston Churchill",
+      "slug": "winston-churchill",
+      "count": 2
+    },
+    {
+      "name": "Winston S. Churchill",
+      "slug": "winston-s-churchill",
+      "count": 6
+    },
+    {
+      "name": "Woody Allen",
+      "slug": "woody-allen",
+      "count": 4
+    },
+    {
+      "name": "Yann Martel,",
+      "slug": "yann-martel",
+      "count": 2
+    },
+    {
+      "name": "Yoda",
+      "slug": "yoda",
+      "count": 11
+    },
+    {
+      "name": "Yogi Berra,",
+      "slug": "yogi-berra",
       "count": 1
     },
     {
       "name": "Yukio Mishima",
       "slug": "yukio-mishima",
       "count": 1
+    },
+    {
+      "name": "Zadie Smith",
+      "slug": "zadie-smith",
+      "count": 1
+    },
+    {
+      "name": "Zelda Fitzgerald",
+      "slug": "zelda-fitzgerald",
+      "count": 1
+    },
+    {
+      "name": "Zelda Fitzgerald,",
+      "slug": "zelda-fitzgerald",
+      "count": 1
+    },
+    {
+      "name": "Zig Ziglar",
+      "slug": "zig-ziglar",
+      "count": 1
+    },
+    {
+      "name": "Zig Ziglar,",
+      "slug": "zig-ziglar",
+      "count": 1
+    },
+    {
+      "name": "Zora Neale Hurston",
+      "slug": "zora-neale-hurston",
+      "count": 1
+    },
+    {
+      "name": "Zora Neale Hurston,",
+      "slug": "zora-neale-hurston",
+      "count": 1
+    },
+    {
+      "name": "أحلام مستغانمي",
+      "slug": "",
+      "count": 1
+    },
+    {
+      "name": "أحلام مستغانمي,",
+      "slug": "",
+      "count": 2
+    },
+    {
+      "name": "أحمد خالد توفيق",
+      "slug": "",
+      "count": 3
+    },
+    {
+      "name": "جبران خليل جبران",
+      "slug": "",
+      "count": 1
+    },
+    {
+      "name": "عباس محمود العقاد",
+      "slug": "",
+      "count": 1
+    },
+    {
+      "name": "غسان كنفاني",
+      "slug": "",
+      "count": 1
+    },
+    {
+      "name": "محمود درويش",
+      "slug": "",
+      "count": 1
+    },
+    {
+      "name": "مصطفى محمود,",
+      "slug": "",
+      "count": 3
     }
   ]
 }
