@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-15T17:20:38.405Z",
-  "totalQuotes": 3748,
+  "generatedAt": "2026-08-18T19:47:45.462Z",
+  "totalQuotes": 4615,
   "tags": [
     {
       "name": "abnormal",
@@ -173,6 +173,11 @@
       "count": 1
     },
     {
+      "name": "anger",
+      "slug": "anger",
+      "count": 5
+    },
+    {
       "name": "animal",
       "slug": "animal",
       "count": 1
@@ -205,7 +210,7 @@
     {
       "name": "art",
       "slug": "art",
-      "count": 1
+      "count": 54
     },
     {
       "name": "artist",
@@ -325,7 +330,7 @@
     {
       "name": "beauty",
       "slug": "beauty",
-      "count": 1
+      "count": 27
     },
     {
       "name": "bedtime",
@@ -386,6 +391,11 @@
       "name": "blood",
       "slug": "blood",
       "count": 1
+    },
+    {
+      "name": "body",
+      "slug": "body",
+      "count": 24
     },
     {
       "name": "bone",
@@ -500,7 +510,7 @@
     {
       "name": "change",
       "slug": "change",
-      "count": 2
+      "count": 31
     },
     {
       "name": "channeling",
@@ -690,7 +700,7 @@
     {
       "name": "cosmos",
       "slug": "cosmos",
-      "count": 1
+      "count": 60
     },
     {
       "name": "couple",
@@ -700,7 +710,7 @@
     {
       "name": "courage",
       "slug": "courage",
-      "count": 6
+      "count": 24
     },
     {
       "name": "cover-design-sheila-graber",
@@ -775,7 +785,7 @@
     {
       "name": "death",
       "slug": "death",
-      "count": 5
+      "count": 45
     },
     {
       "name": "decipher",
@@ -835,7 +845,7 @@
     {
       "name": "desire",
       "slug": "desire",
-      "count": 1
+      "count": 57
     },
     {
       "name": "destiny",
@@ -920,7 +930,7 @@
     {
       "name": "dreams",
       "slug": "dreams",
-      "count": 6
+      "count": 25
     },
     {
       "name": "dreams-inspirational",
@@ -1205,7 +1215,7 @@
     {
       "name": "faith",
       "slug": "faith",
-      "count": 1
+      "count": 27
     },
     {
       "name": "falling-in-love",
@@ -1220,7 +1230,7 @@
     {
       "name": "family",
       "slug": "family",
-      "count": 2
+      "count": 14
     },
     {
       "name": "fantasies",
@@ -1270,7 +1280,7 @@
     {
       "name": "fear",
       "slug": "fear",
-      "count": 4
+      "count": 26
     },
     {
       "name": "fearless",
@@ -1370,7 +1380,12 @@
     {
       "name": "freedom",
       "slug": "freedom",
-      "count": 1
+      "count": 13
+    },
+    {
+      "name": "friendship",
+      "slug": "friendship",
+      "count": 9
     },
     {
       "name": "future",
@@ -1488,6 +1503,11 @@
       "count": 1
     },
     {
+      "name": "grief",
+      "slug": "grief",
+      "count": 17
+    },
+    {
       "name": "guts",
       "slug": "guts",
       "count": 1
@@ -1525,7 +1545,7 @@
     {
       "name": "heart",
       "slug": "heart",
-      "count": 2
+      "count": 31
     },
     {
       "name": "heartbreak",
@@ -1550,7 +1570,7 @@
     {
       "name": "home",
       "slug": "home",
-      "count": 1
+      "count": 14
     },
     {
       "name": "honesty",
@@ -1560,7 +1580,7 @@
     {
       "name": "hope",
       "slug": "hope",
-      "count": 2
+      "count": 12
     },
     {
       "name": "hopi",
@@ -1615,7 +1635,7 @@
     {
       "name": "identity",
       "slug": "identity",
-      "count": 4
+      "count": 34
     },
     {
       "name": "ignorance",
@@ -1768,6 +1788,11 @@
       "count": 1
     },
     {
+      "name": "joy",
+      "slug": "joy",
+      "count": 27
+    },
+    {
       "name": "joy-harjo",
       "slug": "joy-harjo",
       "count": 1
@@ -1835,7 +1860,7 @@
     {
       "name": "life",
       "slug": "life",
-      "count": 22
+      "count": 323
     },
     {
       "name": "life-lessons",
@@ -1893,6 +1918,11 @@
       "count": 3
     },
     {
+      "name": "loneliness",
+      "slug": "loneliness",
+      "count": 30
+    },
+    {
       "name": "loner",
       "slug": "loner",
       "count": 1
@@ -1910,7 +1940,7 @@
     {
       "name": "love",
       "slug": "love",
-      "count": 16
+      "count": 113
     },
     {
       "name": "love-quotes",
@@ -1961,6 +1991,11 @@
       "name": "lyrical",
       "slug": "lyrical",
       "count": 1
+    },
+    {
+      "name": "madness",
+      "slug": "madness",
+      "count": 3
     },
     {
       "name": "magic",
@@ -2065,7 +2100,7 @@
     {
       "name": "memory",
       "slug": "memory",
-      "count": 1
+      "count": 35
     },
     {
       "name": "metaphysical",
@@ -2140,7 +2175,7 @@
     {
       "name": "music",
       "slug": "music",
-      "count": 2
+      "count": 13
     },
     {
       "name": "mysterious",
@@ -2200,7 +2235,7 @@
     {
       "name": "nature",
       "slug": "nature",
-      "count": 8
+      "count": 78
     },
     {
       "name": "nature-quotes",
@@ -2300,7 +2335,7 @@
     {
       "name": "pain",
       "slug": "pain",
-      "count": 1
+      "count": 45
     },
     {
       "name": "paranormal",
@@ -2395,7 +2430,7 @@
     {
       "name": "power",
       "slug": "power",
-      "count": 6
+      "count": 19
     },
     {
       "name": "prayer",
@@ -2493,6 +2528,16 @@
       "count": 2
     },
     {
+      "name": "reflection",
+      "slug": "reflection",
+      "count": 537
+    },
+    {
+      "name": "regret",
+      "slug": "regret",
+      "count": 3
+    },
+    {
       "name": "relationships",
       "slug": "relationships",
       "count": 2
@@ -2546,6 +2591,11 @@
       "name": "sacred-teachings",
       "slug": "sacred-teachings",
       "count": 1
+    },
+    {
+      "name": "sadness",
+      "slug": "sadness",
+      "count": 12
     },
     {
       "name": "saey",
@@ -2655,7 +2705,7 @@
     {
       "name": "silence",
       "slug": "silence",
-      "count": 2
+      "count": 35
     },
     {
       "name": "silvery",
@@ -2705,7 +2755,7 @@
     {
       "name": "soul",
       "slug": "soul",
-      "count": 5
+      "count": 27
     },
     {
       "name": "soul-quotes",
@@ -2875,7 +2925,7 @@
     {
       "name": "time",
       "slug": "time",
-      "count": 2
+      "count": 80
     },
     {
       "name": "tower",
@@ -2898,9 +2948,14 @@
       "count": 1
     },
     {
+      "name": "trust",
+      "slug": "trust",
+      "count": 3
+    },
+    {
       "name": "truth",
       "slug": "truth",
-      "count": 3
+      "count": 30
     },
     {
       "name": "twin-flame",
@@ -2933,6 +2988,11 @@
       "count": 1
     },
     {
+      "name": "violence",
+      "slug": "violence",
+      "count": 8
+    },
+    {
       "name": "visionary",
       "slug": "visionary",
       "count": 6
@@ -2948,6 +3008,11 @@
       "count": 1
     },
     {
+      "name": "war",
+      "slug": "war",
+      "count": 8
+    },
+    {
       "name": "weather",
       "slug": "weather",
       "count": 1
@@ -2955,7 +3020,7 @@
     {
       "name": "wisdom",
       "slug": "wisdom",
-      "count": 7
+      "count": 30
     },
     {
       "name": "wisdom-quotes",
@@ -2975,7 +3040,7 @@
     {
       "name": "women",
       "slug": "women",
-      "count": 2
+      "count": 19
     },
     {
       "name": "words",
@@ -2985,7 +3050,7 @@
     {
       "name": "work",
       "slug": "work",
-      "count": 2
+      "count": 7
     },
     {
       "name": "world",
@@ -3014,6 +3079,2951 @@
     }
   ],
   "sources": [
+    {
+      "name": "‘A Brief History of Mine’ (70th birthday lecture) January 8, 2012",
+      "slug": "a-brief-history-of-mine-70th-birthday-lecture-january-8-2012",
+      "count": 1
+    },
+    {
+      "name": "‘After a While, You Learn’",
+      "slug": "after-a-while-you-learn",
+      "count": 1
+    },
+    {
+      "name": "‘Annabel Lee’",
+      "slug": "annabel-lee",
+      "count": 1
+    },
+    {
+      "name": "‘Anthem’",
+      "slug": "anthem",
+      "count": 1
+    },
+    {
+      "name": "‘Anything Rather Than an Angel,’ translated by Czeslaw Milosz",
+      "slug": "anything-rather-than-an-angel-translated-by-czeslaw-milosz",
+      "count": 1
+    },
+    {
+      "name": "‘China Faces the Future,’ 1943",
+      "slug": "china-faces-the-future-1943",
+      "count": 1
+    },
+    {
+      "name": "‘Empty Stage’",
+      "slug": "empty-stage",
+      "count": 1
+    },
+    {
+      "name": "‘Erasure’",
+      "slug": "erasure",
+      "count": 1
+    },
+    {
+      "name": "‘Evening Prayer’",
+      "slug": "evening-prayer",
+      "count": 1
+    },
+    {
+      "name": "‘For Those Who Can Still Ride in an Airplane For the First Time’",
+      "slug": "for-those-who-can-still-ride-in-an-airplane-for-the-first-time",
+      "count": 1
+    },
+    {
+      "name": "‘Get Drunk’",
+      "slug": "get-drunk",
+      "count": 1
+    },
+    {
+      "name": "‘Hour of Stars’",
+      "slug": "hour-of-stars",
+      "count": 1
+    },
+    {
+      "name": "‘I Sing the Body Electric, Especially When My Power's Out’",
+      "slug": "i-sing-the-body-electric-especially-when-my-power-s-out",
+      "count": 1
+    },
+    {
+      "name": "‘I've Actually Created My Own Little World’",
+      "slug": "i-ve-actually-created-my-own-little-world",
+      "count": 1
+    },
+    {
+      "name": "‘Languages We Don’t Know We Know,’ 2008, translated by David Brookshaw",
+      "slug": "languages-we-don-t-know-we-know-2008-translated-by-david-brookshaw",
+      "count": 1
+    },
+    {
+      "name": "‘New Year's Day’",
+      "slug": "new-year-s-day",
+      "count": 1
+    },
+    {
+      "name": "‘Night Wind’",
+      "slug": "night-wind",
+      "count": 1
+    },
+    {
+      "name": "‘November’",
+      "slug": "november",
+      "count": 1
+    },
+    {
+      "name": "‘O' Bridge of Interjections’",
+      "slug": "o-bridge-of-interjections",
+      "count": 1
+    },
+    {
+      "name": "‘Our Lady of Sorrow’",
+      "slug": "our-lady-of-sorrow",
+      "count": 1
+    },
+    {
+      "name": "‘Perspectives’",
+      "slug": "perspectives",
+      "count": 1
+    },
+    {
+      "name": "‘Qasida of the Dream of Open Air’",
+      "slug": "qasida-of-the-dream-of-open-air",
+      "count": 1
+    },
+    {
+      "name": "‘Rome Falls’",
+      "slug": "rome-falls",
+      "count": 1
+    },
+    {
+      "name": "‘Royal Heart’",
+      "slug": "royal-heart",
+      "count": 1
+    },
+    {
+      "name": "‘The Bride of Abydos’",
+      "slug": "the-bride-of-abydos",
+      "count": 1
+    },
+    {
+      "name": "‘The Civil War’",
+      "slug": "the-civil-war",
+      "count": 1
+    },
+    {
+      "name": "‘The Gardener’",
+      "slug": "the-gardener",
+      "count": 1
+    },
+    {
+      "name": "‘The Glass Essay’",
+      "slug": "the-glass-essay",
+      "count": 1
+    },
+    {
+      "name": "‘The Horseshoe Finder’",
+      "slug": "the-horseshoe-finder",
+      "count": 1
+    },
+    {
+      "name": "‘The Night Has a Thousand Eyes’",
+      "slug": "the-night-has-a-thousand-eyes",
+      "count": 1
+    },
+    {
+      "name": "‘The Rival,’ 1961",
+      "slug": "the-rival-1961",
+      "count": 1
+    },
+    {
+      "name": "‘The Saints,’ <i>The Iowa Review</i> (1985)",
+      "slug": "the-saints-i-the-iowa-review-i-1985",
+      "count": 1
+    },
+    {
+      "name": "‘The Tent,’ 2006",
+      "slug": "the-tent-2006",
+      "count": 1
+    },
+    {
+      "name": "‘The Therapist Speaks on Mania’",
+      "slug": "the-therapist-speaks-on-mania",
+      "count": 1
+    },
+    {
+      "name": "‘The Tragedy of Language: How an English Primer Became My First Play,’ translated by Jack Undank",
+      "slug": "the-tragedy-of-language-how-an-english-primer-became-my-first-play-translated-by-jack-undank",
+      "count": 1
+    },
+    {
+      "name": "‘Thirty Four Excuses for Why We Failed at Love’",
+      "slug": "thirty-four-excuses-for-why-we-failed-at-love",
+      "count": 1
+    },
+    {
+      "name": "‘When It Matters’",
+      "slug": "when-it-matters",
+      "count": 1
+    },
+    {
+      "name": "‘Wild Geese’",
+      "slug": "wild-geese",
+      "count": 1
+    },
+    {
+      "name": "‘You are Not Just Anything’",
+      "slug": "you-are-not-just-anything",
+      "count": 1
+    },
+    {
+      "name": "(<a href=\"http://articles.richeyedwards.net/jan96vox.html\">x</a>)",
+      "slug": "a-href-http-articles-richeyedwards-net-jan96vox-html-x-a",
+      "count": 1
+    },
+    {
+      "name": "(<a href=\"http://dazeuniverse.tumblr.com/\">x</a>)",
+      "slug": "a-href-http-dazeuniverse-tumblr-com-x-a",
+      "count": 2
+    },
+    {
+      "name": "(<a href=\"http://genderfuckher.tumblr.com\">x</a>)",
+      "slug": "a-href-http-genderfuckher-tumblr-com-x-a",
+      "count": 1
+    },
+    {
+      "name": "(<a href=\"http://mariannapaige.tumblr.com/\">x</a>)",
+      "slug": "a-href-http-mariannapaige-tumblr-com-x-a",
+      "count": 1
+    },
+    {
+      "name": "(<a href=\"http://meanwhilepoetry.tumblr.com/post/131766253043/if-you-have-been-brutally-broken-but-still-have\">x</a>)",
+      "slug": "a-href-http-meanwhilepoetry-tumblr-com-post-131766253043-if-you-have-been-brutally-broken-but-still-have-x-a",
+      "count": 1
+    },
+    {
+      "name": "(<a href=\"http://noorshirazie.tumblr.com/post/145604382596/i-cannot-wait-for-the-stars-to-align-any-longer\">x</a>)",
+      "slug": "a-href-http-noorshirazie-tumblr-com-post-145604382596-i-cannot-wait-for-the-stars-to-align-any-longer-x-a",
+      "count": 1
+    },
+    {
+      "name": "(<a href=\"http://ryanphughes.tumblr.com/post/107072967587/i-know-you-can-and-will-destroy-me-yet-i-dont\">x</a>)",
+      "slug": "a-href-http-ryanphughes-tumblr-com-post-107072967587-i-know-you-can-and-will-destroy-me-yet-i-dont-x-a",
+      "count": 1
+    },
+    {
+      "name": "(<a href=\"http://save-yourself-stay-alive.tumblr.com/post/158148637823/i-hate-trying-to-sleep-because-its-so-silent-i\">x</a>)",
+      "slug": "a-href-http-save-yourself-stay-alive-tumblr-com-post-158148637823-i-hate-trying-to-sleep-because-its-so-silent-i-x-a",
+      "count": 1
+    },
+    {
+      "name": "(<a href=\"http://thegirlwiththeloontattoo.tumblr.com/post/81577467876/people-say-phase-like-impermanence-means\">x</a>)",
+      "slug": "a-href-http-thegirlwiththeloontattoo-tumblr-com-post-81577467876-people-say-phase-like-impermanence-means-x-a",
+      "count": 1
+    },
+    {
+      "name": "(<a href=\"http://thesnicketfile.tumblr.com/post/139671582341/lemony-snickets-advice-on-writing-a-nice\">x</a>)",
+      "slug": "a-href-http-thesnicketfile-tumblr-com-post-139671582341-lemony-snickets-advice-on-writing-a-nice-x-a",
+      "count": 1
+    },
+    {
+      "name": "(<a href=\"https://seths.blog/2010/03/anxiety-is-nothing-but-repeatedly-experiencing-failure-in-advance/\">x</a>)",
+      "slug": "a-href-https-seths-blog-2010-03-anxiety-is-nothing-but-repeatedly-experiencing-failure-in-advance-x-a",
+      "count": 1
+    },
+    {
+      "name": "(<a href=\"https://teamcoco.com/video/neil-degrasse-tyson-the-universe-is-under-no-obligation-to-make-sense-to-you\">x</a>)",
+      "slug": "a-href-https-teamcoco-com-video-neil-degrasse-tyson-the-universe-is-under-no-obligation-to-make-sense-to-you-x-a",
+      "count": 1
+    },
+    {
+      "name": "(<a href=\"https://twitter.com/alaindebotton?lang=en\">x</a>)",
+      "slug": "a-href-https-twitter-com-alaindebotton-lang-en-x-a",
+      "count": 2
+    },
+    {
+      "name": "(<a href=\"https://twitter.com/dearyoufromwe?lang=en\">x</a>)",
+      "slug": "a-href-https-twitter-com-dearyoufromwe-lang-en-x-a",
+      "count": 2
+    },
+    {
+      "name": "(<a href=\"https://twitter.com/jennyslate/status/713122239072247809?lang=en\">x</a>)",
+      "slug": "a-href-https-twitter-com-jennyslate-status-713122239072247809-lang-en-x-a",
+      "count": 1
+    },
+    {
+      "name": "(<a href=\"https://twitter.com/karamo/status/1008047778788855808\">x</a>)",
+      "slug": "a-href-https-twitter-com-karamo-status-1008047778788855808-x-a",
+      "count": 1
+    },
+    {
+      "name": "(<a href=\"https://twitter.com/robinsharma/status/531053571865731072\">x</a>)",
+      "slug": "a-href-https-twitter-com-robinsharma-status-531053571865731072-x-a",
+      "count": 1
+    },
+    {
+      "name": "(<a href=\"https://twitter.com/warsan_shire/status/269298244394295296?lang=en\">x</a>)",
+      "slug": "a-href-https-twitter-com-warsan-shire-status-269298244394295296-lang-en-x-a",
+      "count": 1
+    },
+    {
+      "name": "(<a href=\"https://twitter.com/warsan_shire/status/290581824424521728?lang=en\">x</a>)",
+      "slug": "a-href-https-twitter-com-warsan-shire-status-290581824424521728-lang-en-x-a",
+      "count": 1
+    },
+    {
+      "name": "(<a href=\"https://wnq-writers.com/post/106354394675/quotes-creative-writing-we-all-have-a-hidden-secrets-som\">x</a>)",
+      "slug": "a-href-https-wnq-writers-com-post-106354394675-quotes-creative-writing-we-all-have-a-hidden-secrets-som-x-a",
+      "count": 1
+    },
+    {
+      "name": "(<a href=\"https://wnq-writers.com/post/107066564685/quotes-soul-creative-writing-have-you-ever-sat-in-comple\">x</a>)",
+      "slug": "a-href-https-wnq-writers-com-post-107066564685-quotes-soul-creative-writing-have-you-ever-sat-in-comple-x-a",
+      "count": 1
+    },
+    {
+      "name": "(<a href=\"https://www.billboard.com/articles/columns/rock/6641076/chelsea-wolfe-grey-days-song-premiere\">x</a>)",
+      "slug": "a-href-https-www-billboard-com-articles-columns-rock-6641076-chelsea-wolfe-grey-days-song-premiere-x-a",
+      "count": 1
+    },
+    {
+      "name": "(<a href=\"https://www.facebook.com/dantoinettefoy/\">x</a>)",
+      "slug": "a-href-https-www-facebook-com-dantoinettefoy-x-a",
+      "count": 1
+    },
+    {
+      "name": "(<a href=\"https://www.facebook.com/thelesbrown/posts/too-many-of-us-are-not-living-our-dreams-because-we-are-living-our-fears-decide-/10152298267704654/\">x</a>)",
+      "slug": "a-href-https-www-facebook-com-thelesbrown-posts-too-many-of-us-are-not-living-our-dreams-because-we-are-living-our-fears-decide-10152298267704654-x-a",
+      "count": 1
+    },
+    {
+      "name": "(UNSOURCED)",
+      "slug": "unsourced",
+      "count": 1
+    },
+    {
+      "name": "<a href=\"http://adamonroe.tumblr.com/post/21698452626/23042012\">23/04/2012</a>",
+      "slug": "a-href-http-adamonroe-tumblr-com-post-21698452626-23042012-23-04-2012-a",
+      "count": 1
+    },
+    {
+      "name": "<a href=\"http://alonesomes.tumblr.com/post/68258083329/the-first-poem-i-wrote-that-wasnt-about-you-was\">A Letter to Love</a>",
+      "slug": "a-href-http-alonesomes-tumblr-com-post-68258083329-the-first-poem-i-wrote-that-wasnt-about-you-was-a-letter-to-love-a",
+      "count": 1
+    },
+    {
+      "name": "<a href=\"http://alonesomes.tumblr.com/post/80047901303/let-us-pray-for-the-foxes-sleeping-in-your-knees\">A Prayer</a>",
+      "slug": "a-href-http-alonesomes-tumblr-com-post-80047901303-let-us-pray-for-the-foxes-sleeping-in-your-knees-a-prayer-a",
+      "count": 1
+    },
+    {
+      "name": "<a href=\"http://apps.npr.org/commencement/speech/dennis-lehane-eckerd-college-2004/\">2004 Commencement Address to Eckerd College</a>",
+      "slug": "a-href-http-apps-npr-org-commencement-speech-dennis-lehane-eckerd-college-2004-2004-commencement-address-to-eckerd-college-a",
+      "count": 1
+    },
+    {
+      "name": "<a href=\"http://bctrogues.tumblr.com/post/107820989932/ill-hold-you-by-the-throat-love-ill-sink-my\">52 Writings, #2</a>",
+      "slug": "a-href-http-bctrogues-tumblr-com-post-107820989932-ill-hold-you-by-the-throat-love-ill-sink-my-52-writings-2-a",
+      "count": 1
+    },
+    {
+      "name": "<a href=\"http://buddywakefield.com/hurling-crowbirds-at-mockingbars-hope-is-not-a-course-of-action/\">Hurling Crowbirds at Mockingbars</a>",
+      "slug": "a-href-http-buddywakefield-com-hurling-crowbirds-at-mockingbars-hope-is-not-a-course-of-action-hurling-crowbirds-at-mockingbars-a",
+      "count": 1
+    },
+    {
+      "name": "<a href=\"http://calteches.library.caltech.edu/51/2/CargoCult.htm\">Cargo Cult Science</a>",
+      "slug": "a-href-http-calteches-library-caltech-edu-51-2-cargocult-htm-cargo-cult-science-a",
+      "count": 1
+    },
+    {
+      "name": "<a href=\"http://columbiajournal.org/5-poems-by-jeremy-radin/\">So I Locked Myself Inside a Star for Twenty Years</a>",
+      "slug": "a-href-http-columbiajournal-org-5-poems-by-jeremy-radin-so-i-locked-myself-inside-a-star-for-twenty-years-a",
+      "count": 1
+    },
+    {
+      "name": "<a href=\"http://elisabethhewer.co.uk/post/68385278716/obituary-for-the-princess-who-forgot-to-be\">Obituary for the Princess Who Forgot to Be Fairytale</a>",
+      "slug": "a-href-http-elisabethhewer-co-uk-post-68385278716-obituary-for-the-princess-who-forgot-to-be-obituary-for-the-princess-who-forgot-to-be-fairytale-a",
+      "count": 1
+    },
+    {
+      "name": "<a href=\"http://fairytalesques.tumblr.com/post/109727792485/its-an-old-sort-of-story-a-girl-falls-in-love\">Piety</a>",
+      "slug": "a-href-http-fairytalesques-tumblr-com-post-109727792485-its-an-old-sort-of-story-a-girl-falls-in-love-piety-a",
+      "count": 1
+    },
+    {
+      "name": "<a href=\"http://holyjoe.org/poetry/frye.htm\">Do Not Stand At My Grave And Weep</a>",
+      "slug": "a-href-http-holyjoe-org-poetry-frye-htm-do-not-stand-at-my-grave-and-weep-a",
+      "count": 1
+    },
+    {
+      "name": "<a href=\"http://lafemmenuit.tumblr.com/post/114133114342/i-am-in-the-city-you-hated-brooklyn-new-york\">Letters I Mailed to the Bottom of the River</a>",
+      "slug": "a-href-http-lafemmenuit-tumblr-com-post-114133114342-i-am-in-the-city-you-hated-brooklyn-new-york-letters-i-mailed-to-the-bottom-of-the-river-a",
+      "count": 1
+    },
+    {
+      "name": "<a href=\"http://latenightcornerstore.com/post/105345899045/my-generation-is-muddied-royalty-like-diamonds\">Winged Sandals</a>",
+      "slug": "a-href-http-latenightcornerstore-com-post-105345899045-my-generation-is-muddied-royalty-like-diamonds-winged-sandals-a",
+      "count": 1
+    },
+    {
+      "name": "<a href=\"http://latenightcornerstore.com/post/80436815777/dont-you-dare-for-one-minute-believe-that-my\">Softness</a>",
+      "slug": "a-href-http-latenightcornerstore-com-post-80436815777-dont-you-dare-for-one-minute-believe-that-my-softness-a",
+      "count": 1
+    },
+    {
+      "name": "<a href=\"http://medeae.tumblr.com/post/111147353791/i-you-want-to-paint-the-scene-all-reds-and\">Unholy</a>",
+      "slug": "a-href-http-medeae-tumblr-com-post-111147353791-i-you-want-to-paint-the-scene-all-reds-and-unholy-a",
+      "count": 1
+    },
+    {
+      "name": "<a href=\"http://michellekpoems.tumblr.com/post/58465615704/i-aim-to-be-lionhearted-but-my-hands-still\">Earning Your Roar</a>",
+      "slug": "a-href-http-michellekpoems-tumblr-com-post-58465615704-i-aim-to-be-lionhearted-but-my-hands-still-earning-your-roar-a",
+      "count": 1
+    },
+    {
+      "name": "<a href=\"http://michellekpoems.tumblr.com/post/79179898409/my-poor-mother-begged-for-a-sheep-but-raised-a\">Four Rhythms</a>",
+      "slug": "a-href-http-michellekpoems-tumblr-com-post-79179898409-my-poor-mother-begged-for-a-sheep-but-raised-a-four-rhythms-a",
+      "count": 1
+    },
+    {
+      "name": "<a href=\"http://ofspaces.tumblr.com/post/167123496301/mama-said-you-are-a-girl-and-no-i-told-her-i\">Bloodless revolution</a>",
+      "slug": "a-href-http-ofspaces-tumblr-com-post-167123496301-mama-said-you-are-a-girl-and-no-i-told-her-i-bloodless-revolution-a",
+      "count": 1
+    },
+    {
+      "name": "<a href=\"http://pinwheeljournal.com/poets/terrell-jamal-terry/\">Untitled (1)</a>",
+      "slug": "a-href-http-pinwheeljournal-com-poets-terrell-jamal-terry-untitled-1-a",
+      "count": 1
+    },
+    {
+      "name": "<a href=\"http://poems.com/special_features/prose/essay_hacker3.php\">Snapshots of a Daughter-in-Law</a>",
+      "slug": "a-href-http-poems-com-special-features-prose-essay-hacker3-php-snapshots-of-a-daughter-in-law-a",
+      "count": 1
+    },
+    {
+      "name": "<a href=\"http://poetry.sangamhouse.org/2017/12/our-tears-are-sweet-by-simin-behbahani/\">Our Tears Are Sweet</a>",
+      "slug": "a-href-http-poetry-sangamhouse-org-2017-12-our-tears-are-sweet-by-simin-behbahani-our-tears-are-sweet-a",
+      "count": 1
+    },
+    {
+      "name": "<a href=\"http://praytomeinstead.tumblr.com/post/116144172994/the-snake-coils-tongue-flickering-like-flame-i\">Persuasion</a>",
+      "slug": "a-href-http-praytomeinstead-tumblr-com-post-116144172994-the-snake-coils-tongue-flickering-like-flame-i-persuasion-a",
+      "count": 1
+    },
+    {
+      "name": "<a href=\"http://sporkpress.com/1_3/pieces/Editor.htm\">Black Telephone</a>",
+      "slug": "a-href-http-sporkpress-com-1-3-pieces-editor-htm-black-telephone-a",
+      "count": 2
+    },
+    {
+      "name": "<a href=\"http://www.angelfire.com/tn/plath/3women.html\">Three Women</a>",
+      "slug": "a-href-http-www-angelfire-com-tn-plath-3women-html-three-women-a",
+      "count": 1
+    },
+    {
+      "name": "<a href=\"http://www.artofeurope.com/eliot/eli2.htm\">The Hollow Men</a>",
+      "slug": "a-href-http-www-artofeurope-com-eliot-eli2-htm-the-hollow-men-a",
+      "count": 1
+    },
+    {
+      "name": "<a href=\"http://www.artofeurope.com/eliot/eli4.htm\">The Dry Salvages</a>",
+      "slug": "a-href-http-www-artofeurope-com-eliot-eli4-htm-the-dry-salvages-a",
+      "count": 1
+    },
+    {
+      "name": "<a href=\"http://www.boaatpress.com/origin-story\">Origin Story</a>",
+      "slug": "a-href-http-www-boaatpress-com-origin-story-origin-story-a",
+      "count": 1
+    },
+    {
+      "name": "<a href=\"http://www.davidgorman.com/4Quartets/2-coker.htm\">East Coker</a>",
+      "slug": "a-href-http-www-davidgorman-com-4quartets-2-coker-htm-east-coker-a",
+      "count": 1
+    },
+    {
+      "name": "<a href=\"http://www.hthrprss.com/issues/witch-in-red\">Witch in Red</a>",
+      "slug": "a-href-http-www-hthrprss-com-issues-witch-in-red-witch-in-red-a",
+      "count": 1
+    },
+    {
+      "name": "<a href=\"http://www.jimdavies.org/laurie-anderson/performances/mobydick/programnotes.html\"><i>Moby Dick</i> program notes</a>, 1999",
+      "slug": "a-href-http-www-jimdavies-org-laurie-anderson-performances-mobydick-programnotes-html-i-moby-dick-i-program-notes-a-1999",
+      "count": 1
+    },
+    {
+      "name": "<a href=\"http://www.kuorinki.com/wallpiece.html\">Wall Piece with 200 Letters</a>",
+      "slug": "a-href-http-www-kuorinki-com-wallpiece-html-wall-piece-with-200-letters-a",
+      "count": 1
+    },
+    {
+      "name": "<a href=\"http://www.metatron.press/alpha/work/aurora-engle-pratt/\">White Out</a>",
+      "slug": "a-href-http-www-metatron-press-alpha-work-aurora-engle-pratt-white-out-a",
+      "count": 1
+    },
+    {
+      "name": "<a href=\"http://www.yasminmogahed.com/2012/03/01/fall-in-love-with-the-real-thing/\">Fall in Love with the Real Thing</a>",
+      "slug": "a-href-http-www-yasminmogahed-com-2012-03-01-fall-in-love-with-the-real-thing-fall-in-love-with-the-real-thing-a",
+      "count": 1
+    },
+    {
+      "name": "<a href=\"https://allpoetry.com/The-Jailer\">The Jailer</a>",
+      "slug": "a-href-https-allpoetry-com-the-jailer-the-jailer-a",
+      "count": 1
+    },
+    {
+      "name": "<a href=\"https://archive.nytimes.com/www.nytimes.com/books/98/07/05/specials/oates-violent.html\">Why Is Your Writing So Violent?</a>",
+      "slug": "a-href-https-archive-nytimes-com-www-nytimes-com-books-98-07-05-specials-oates-violent-html-why-is-your-writing-so-violent-a",
+      "count": 1
+    },
+    {
+      "name": "<a href=\"https://dailypoetry.me/rilke/the-dark-hours-of-my-being/\">The Dark Hours of My Being</a>",
+      "slug": "a-href-https-dailypoetry-me-rilke-the-dark-hours-of-my-being-the-dark-hours-of-my-being-a",
+      "count": 1
+    },
+    {
+      "name": "<a href=\"https://etc.usf.edu/lit2go/115/the-poems-of-emily-dickinson-series-two/3694/life-poem-25-shipwreck/\">Shipwreck</a>",
+      "slug": "a-href-https-etc-usf-edu-lit2go-115-the-poems-of-emily-dickinson-series-two-3694-life-poem-25-shipwreck-shipwreck-a",
+      "count": 1
+    },
+    {
+      "name": "<a href=\"https://genius.com/Jim-morrison-an-american-prayer-lyrics\">An American Prayer</a>",
+      "slug": "a-href-https-genius-com-jim-morrison-an-american-prayer-lyrics-an-american-prayer-a",
+      "count": 1
+    },
+    {
+      "name": "<a href=\"https://granta.com/two-poems-yanyi/\">Dependence</a>, 2019",
+      "slug": "a-href-https-granta-com-two-poems-yanyi-dependence-a-2019",
+      "count": 1
+    },
+    {
+      "name": "<a href=\"https://home.isi.org/solzhenitsyn-explains-beauty-will-save-world\">Beauty Will Save the World</a>",
+      "slug": "a-href-https-home-isi-org-solzhenitsyn-explains-beauty-will-save-world-beauty-will-save-the-world-a",
+      "count": 2
+    },
+    {
+      "name": "<a href=\"https://nostroviawriting.wordpress.com/2016/05/19/compulsive-liar-by-jackson-nieuwland/\">Compulsive Liar</a>",
+      "slug": "a-href-https-nostroviawriting-wordpress-com-2016-05-19-compulsive-liar-by-jackson-nieuwland-compulsive-liar-a",
+      "count": 1
+    },
+    {
+      "name": "<a href=\"https://pankmagazine.com/piece/relaxation-tapes/\">Relaxation Tapes</a>",
+      "slug": "a-href-https-pankmagazine-com-piece-relaxation-tapes-relaxation-tapes-a",
+      "count": 1
+    },
+    {
+      "name": "<a href=\"https://poisonmewithwords.wordpress.com/2016/06/19/i-am-a-runner/\">I Am A Runner</a>",
+      "slug": "a-href-https-poisonmewithwords-wordpress-com-2016-06-19-i-am-a-runner-i-am-a-runner-a",
+      "count": 3
+    },
+    {
+      "name": "<a href=\"https://theamericanscholar.org/writing-the-unimaginable/\">Writing the Unimaginable</a>",
+      "slug": "a-href-https-theamericanscholar-org-writing-the-unimaginable-writing-the-unimaginable-a",
+      "count": 1
+    },
+    {
+      "name": "<a href=\"https://thenewinquiry.com/blog/social-media-is-not-self-expression/\">Social Media is Not Self-Expression,</a> 2014",
+      "slug": "a-href-https-thenewinquiry-com-blog-social-media-is-not-self-expression-social-media-is-not-self-expression-a-2014",
+      "count": 1
+    },
+    {
+      "name": "<a href=\"https://www.bartleby.com/118/9.html\">A Servant to Servants</a>",
+      "slug": "a-href-https-www-bartleby-com-118-9-html-a-servant-to-servants-a",
+      "count": 1
+    },
+    {
+      "name": "<a href=\"https://www.cottonxenomorph.com/journal/2017/12/2/hypochondria-least-powerful-of-the-greek-gods-pts-ii-iv\">Hypochondria, Least Powerful of the Greek Gods, pts ii &amp; iv</a>",
+      "slug": "a-href-https-www-cottonxenomorph-com-journal-2017-12-2-hypochondria-least-powerful-of-the-greek-gods-pts-ii-iv-hypochondria-least-powerful-of-the-greek-gods-pts-ii-amp-iv-a",
+      "count": 1
+    },
+    {
+      "name": "<a href=\"https://www.culturalweekly.com/melissa-studdard-three-poems/\">The Sudden Violence of Light</a>",
+      "slug": "a-href-https-www-culturalweekly-com-melissa-studdard-three-poems-the-sudden-violence-of-light-a",
+      "count": 1
+    },
+    {
+      "name": "<a href=\"https://www.instagram.com/p/09BInqITo2/\">Museum</a>",
+      "slug": "a-href-https-www-instagram-com-p-09binqito2-museum-a",
+      "count": 1
+    },
+    {
+      "name": "<a href=\"https://www.muzzlemagazine.com/angie-sijun-lou.html\">Jessica gives me a chill pill</a>",
+      "slug": "a-href-https-www-muzzlemagazine-com-angie-sijun-lou-html-jessica-gives-me-a-chill-pill-a",
+      "count": 1
+    },
+    {
+      "name": "<a href=\"https://www.newyorker.com/magazine/2015/05/04/someday-ill-love-ocean-vuong\">Someday I'll Love Ocean Vuong</a>, 2015",
+      "slug": "a-href-https-www-newyorker-com-magazine-2015-05-04-someday-ill-love-ocean-vuong-someday-i-ll-love-ocean-vuong-a-2015",
+      "count": 1
+    },
+    {
+      "name": "<a href=\"https://www.newyorker.com/magazine/poems/envelopes-of-air-ada-limon-and-natalie-diaz-forge-a-bond-amid-the-shifting-landscape-of-contemporary-america\">Isn't the Air Also a Body, Moving?</a>, 2017",
+      "slug": "a-href-https-www-newyorker-com-magazine-poems-envelopes-of-air-ada-limon-and-natalie-diaz-forge-a-bond-amid-the-shifting-landscape-of-contemporary-america-isn-t-the-air-also-a-body-moving-a-2017",
+      "count": 1
+    },
+    {
+      "name": "<a href=\"https://www.nytimes.com/interactive/2016/06/26/magazine/ocean-vuong-torso-of-air.html\">Torso of Air</a>",
+      "slug": "a-href-https-www-nytimes-com-interactive-2016-06-26-magazine-ocean-vuong-torso-of-air-html-torso-of-air-a",
+      "count": 1
+    },
+    {
+      "name": "<a href=\"https://www.poetryfoundation.org/poems/45288/the-garden-of-proserpine\">The Garden of Proserpine</a>",
+      "slug": "a-href-https-www-poetryfoundation-org-poems-45288-the-garden-of-proserpine-the-garden-of-proserpine-a",
+      "count": 1
+    },
+    {
+      "name": "<a href=\"https://www.poetryfoundation.org/poems/47311/the-waste-land\">The Waste Land</a>",
+      "slug": "a-href-https-www-poetryfoundation-org-poems-47311-the-waste-land-the-waste-land-a",
+      "count": 1
+    },
+    {
+      "name": "<a href=\"https://www.poetryfoundation.org/poems/48419/this-be-the-verse\">This Be the Verse</a>",
+      "slug": "a-href-https-www-poetryfoundation-org-poems-48419-this-be-the-verse-this-be-the-verse-a",
+      "count": 3
+    },
+    {
+      "name": "<a href=\"https://www.poetryfoundation.org/poems/49000/lady-lazarus\">Lady Lazarus</a>, 1965",
+      "slug": "a-href-https-www-poetryfoundation-org-poems-49000-lady-lazarus-lady-lazarus-a-1965",
+      "count": 1
+    },
+    {
+      "name": "<a href=\"https://www.poetryfoundation.org/poems/51869/eurydice-56d22fe6d049d\">Eurydice</a>",
+      "slug": "a-href-https-www-poetryfoundation-org-poems-51869-eurydice-56d22fe6d049d-eurydice-a",
+      "count": 1
+    },
+    {
+      "name": "<a href=\"https://www.poetryfoundation.org/poems/52169/acts-of-vexation\">Acts of Vexation</a>",
+      "slug": "a-href-https-www-poetryfoundation-org-poems-52169-acts-of-vexation-acts-of-vexation-a",
+      "count": 1
+    },
+    {
+      "name": "<a href=\"https://www.poetryfoundation.org/poems/55036/the-drunken-boat\">The Drunken Boat</a>",
+      "slug": "a-href-https-www-poetryfoundation-org-poems-55036-the-drunken-boat-the-drunken-boat-a",
+      "count": 1
+    },
+    {
+      "name": "<a href=\"https://www.poetryfoundation.org/poems/90733/the-house-57daba5625f32\">The House</a>, 2014",
+      "slug": "a-href-https-www-poetryfoundation-org-poems-90733-the-house-57daba5625f32-the-house-a-2014",
+      "count": 1
+    },
+    {
+      "name": "<a href=\"https://www.poetryfoundation.org/poetrymagazine/browse?contentId=29121\">The Black Art</a>",
+      "slug": "a-href-https-www-poetryfoundation-org-poetrymagazine-browse-contentid-29121-the-black-art-a",
+      "count": 1
+    },
+    {
+      "name": "<a href=\"https://www.poetryfoundation.org/poetrymagazine/browse?contentId=30674\">A Nude by Edward Hopper</a>, July 1967",
+      "slug": "a-href-https-www-poetryfoundation-org-poetrymagazine-browse-contentid-30674-a-nude-by-edward-hopper-a-july-1967",
+      "count": 1
+    },
+    {
+      "name": "<a href=\"https://www.poetryfoundation.org/poetrymagazine/browse?contentId=31582\">Creative Writing 307</a>, <i>Poetry</i> (June 1970)",
+      "slug": "a-href-https-www-poetryfoundation-org-poetrymagazine-browse-contentid-31582-creative-writing-307-a-i-poetry-i-june-1970",
+      "count": 2
+    },
+    {
+      "name": "<a href=\"https://www.poetryfoundation.org/poetrymagazine/poems/142850/go-forget-your-father\">Go Forget Your Father</a>",
+      "slug": "a-href-https-www-poetryfoundation-org-poetrymagazine-poems-142850-go-forget-your-father-go-forget-your-father-a",
+      "count": 1
+    },
+    {
+      "name": "<a href=\"https://www.poetryfoundation.org/poetrymagazine/poems/57586/on-earth-were-briefly-gorgeous\">On Earth We're Briefly Gorgeous</a>",
+      "slug": "a-href-https-www-poetryfoundation-org-poetrymagazine-poems-57586-on-earth-were-briefly-gorgeous-on-earth-we-re-briefly-gorgeous-a",
+      "count": 2
+    },
+    {
+      "name": "<a href=\"https://www.poets.org/poetsorg/poem/everyone-asleep\">Everyone Is Asleep</a>",
+      "slug": "a-href-https-www-poets-org-poetsorg-poem-everyone-asleep-everyone-is-asleep-a",
+      "count": 1
+    },
+    {
+      "name": "<a href=\"https://www.poets.org/poetsorg/poem/october\">October</a>",
+      "slug": "a-href-https-www-poets-org-poetsorg-poem-october-october-a",
+      "count": 1
+    },
+    {
+      "name": "<a href=\"https://www.poets.org/poetsorg/poem/water-woman-has-no-body\">A water woman has no body</a>",
+      "slug": "a-href-https-www-poets-org-poetsorg-poem-water-woman-has-no-body-a-water-woman-has-no-body-a",
+      "count": 1
+    },
+    {
+      "name": "<a href=\"https://www.sonnetstoorpheus.com/book1_4.html\">Sonnets to Orpheus, IV</a>",
+      "slug": "a-href-https-www-sonnetstoorpheus-com-book1-4-html-sonnets-to-orpheus-iv-a",
+      "count": 1
+    },
+    {
+      "name": "<a href=\"https://www.theparisreview.org/interviews/5992/mary-karr-the-art-of-memoir-no-1-mary-karr\">The Art of Memoir No. 1</a>",
+      "slug": "a-href-https-www-theparisreview-org-interviews-5992-mary-karr-the-art-of-memoir-no-1-mary-karr-the-art-of-memoir-no-1-a",
+      "count": 1
+    },
+    {
+      "name": "<a href=\"https://www.upthestaircase.org/kristin-chang.html\">Churching</a>",
+      "slug": "a-href-https-www-upthestaircase-org-kristin-chang-html-churching-a",
+      "count": 1
+    },
+    {
+      "name": "<a href=\"https://www.youtube.com/watch?v=i-aD9WrfWTM\">For Young Women Who Don't Consider Themselves Feminists</a>",
+      "slug": "a-href-https-www-youtube-com-watch-v-i-ad9wrfwtm-for-young-women-who-don-t-consider-themselves-feminists-a",
+      "count": 1
+    },
+    {
+      "name": "<a href=\"https://www.youtube.com/watch?v=z8juBuXKtDc\">To Burn the Witch</a>, 2016",
+      "slug": "a-href-https-www-youtube-com-watch-v-z8jubuxktdc-to-burn-the-witch-a-2016",
+      "count": 1
+    },
+    {
+      "name": "<i><a href=\"https://ebooks.adelaide.edu.au/d/dostoyevsky/d72b/contents.html\">The Brothers Karamazov</a></i>",
+      "slug": "i-a-href-https-ebooks-adelaide-edu-au-d-dostoyevsky-d72b-contents-html-the-brothers-karamazov-a-i",
+      "count": 1
+    },
+    {
+      "name": "<i><a href=\"https://www.scribd.com/document/101968618/Rainer-Maria-Rilke-Selected-Poems\">Selected Poems</a></i>, ‘Requiem for a Friend’",
+      "slug": "i-a-href-https-www-scribd-com-document-101968618-rainer-maria-rilke-selected-poems-selected-poems-a-i-requiem-for-a-friend",
+      "count": 1
+    },
+    {
+      "name": "<i>10 Things I Hate About You</i>, 1999",
+      "slug": "i-10-things-i-hate-about-you-i-1999",
+      "count": 1
+    },
+    {
+      "name": "<i>1984</i>",
+      "slug": "i-1984-i",
+      "count": 3
+    },
+    {
+      "name": "<i>1Q84</i>",
+      "slug": "i-1q84-i",
+      "count": 4
+    },
+    {
+      "name": "<i>A Breath of Life</i>, 1978",
+      "slug": "i-a-breath-of-life-i-1978",
+      "count": 2
+    },
+    {
+      "name": "<i>A Clash of Kings</i>",
+      "slug": "i-a-clash-of-kings-i",
+      "count": 9
+    },
+    {
+      "name": "<i>A Farewell to Arms</i>, 1929",
+      "slug": "i-a-farewell-to-arms-i-1929",
+      "count": 1
+    },
+    {
+      "name": "<i>A Feast for Crows</i>",
+      "slug": "i-a-feast-for-crows-i",
+      "count": 1
+    },
+    {
+      "name": "<i>A Fighter's Heart: One Man's Journey Through the World of Fighting</i>, 2008",
+      "slug": "i-a-fighter-s-heart-one-man-s-journey-through-the-world-of-fighting-i-2008",
+      "count": 1
+    },
+    {
+      "name": "<i>A Game of Thrones</i>",
+      "slug": "i-a-game-of-thrones-i",
+      "count": 8
+    },
+    {
+      "name": "<i>A Hat Full of Sky</i>",
+      "slug": "i-a-hat-full-of-sky-i",
+      "count": 1
+    },
+    {
+      "name": "<i>A House of Pomegranates</i>",
+      "slug": "i-a-house-of-pomegranates-i",
+      "count": 1
+    },
+    {
+      "name": "<i>A Journey in Ladakh</i>",
+      "slug": "i-a-journey-in-ladakh-i",
+      "count": 1
+    },
+    {
+      "name": "<i>A Moveable Feast</i>, 1964",
+      "slug": "i-a-moveable-feast-i-1964",
+      "count": 1
+    },
+    {
+      "name": "<i>A New Earth: Awakening Your Life's Purpose</i>",
+      "slug": "i-a-new-earth-awakening-your-life-s-purpose-i",
+      "count": 1
+    },
+    {
+      "name": "<i>A Nightmare on Elm Street 3: Dream Warriors</i>, 1987 (misattributed to Edgar Allan Poe)",
+      "slug": "i-a-nightmare-on-elm-street-3-dream-warriors-i-1987-misattributed-to-edgar-allan-poe",
+      "count": 1
+    },
+    {
+      "name": "<i>A Northern Light</i>",
+      "slug": "i-a-northern-light-i",
+      "count": 1
+    },
+    {
+      "name": "<i>A Room of One's Own</i>",
+      "slug": "i-a-room-of-one-s-own-i",
+      "count": 1
+    },
+    {
+      "name": "<i>A Season in Hell</i>",
+      "slug": "i-a-season-in-hell-i",
+      "count": 1
+    },
+    {
+      "name": "<i>A Self-Portrait in Letters</i>",
+      "slug": "i-a-self-portrait-in-letters-i",
+      "count": 1
+    },
+    {
+      "name": "<i>A Storm of Swords</i>",
+      "slug": "i-a-storm-of-swords-i",
+      "count": 5
+    },
+    {
+      "name": "<i>A Tale for the Time Being</i>",
+      "slug": "i-a-tale-for-the-time-being-i",
+      "count": 1
+    },
+    {
+      "name": "<i>A Walk to Remember</i>",
+      "slug": "i-a-walk-to-remember-i",
+      "count": 1
+    },
+    {
+      "name": "<i>A Year of Living Your Yoga: Daily Practices to Shape Your Life</i>",
+      "slug": "i-a-year-of-living-your-yoga-daily-practices-to-shape-your-life-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Adventures in the Dream Trade</i>",
+      "slug": "i-adventures-in-the-dream-trade-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Alan Wake</i>, 2010",
+      "slug": "i-alan-wake-i-2010",
+      "count": 1
+    },
+    {
+      "name": "<i>Alas, Babylon</i>",
+      "slug": "i-alas-babylon-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Alias Grace</i>, 1996",
+      "slug": "i-alias-grace-i-1996",
+      "count": 2
+    },
+    {
+      "name": "<i>Alice's Adventures in Wonderland</i>",
+      "slug": "i-alice-s-adventures-in-wonderland-i",
+      "count": 2
+    },
+    {
+      "name": "<i>Allegiant</i>, 2013",
+      "slug": "i-allegiant-i-2013",
+      "count": 1
+    },
+    {
+      "name": "<i>Almost Home</i>",
+      "slug": "i-almost-home-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Always Coming Home</i>, 1985",
+      "slug": "i-always-coming-home-i-1985",
+      "count": 1
+    },
+    {
+      "name": "<i>Amédée, or How to Get Rid of It</i>, translated by Donald Watson",
+      "slug": "i-am-d-e-or-how-to-get-rid-of-it-i-translated-by-donald-watson",
+      "count": 5
+    },
+    {
+      "name": "<i>American McGee's Alice</i>",
+      "slug": "i-american-mcgee-s-alice-i",
+      "count": 1
+    },
+    {
+      "name": "<i>American Psycho</i>",
+      "slug": "i-american-psycho-i",
+      "count": 1
+    },
+    {
+      "name": "<i>An Apprenticeship, or, The Book of Delights</i>, 1973",
+      "slug": "i-an-apprenticeship-or-the-book-of-delights-i-1973",
+      "count": 1
+    },
+    {
+      "name": "<i>An Episode in the Life of a Landscape Painter</i>, 2000",
+      "slug": "i-an-episode-in-the-life-of-a-landscape-painter-i-2000",
+      "count": 1
+    },
+    {
+      "name": "<i>An Origin Like Water: Collected Poems 1957-1987</i>, ‘Listen. This Is the Noise of Myth’",
+      "slug": "i-an-origin-like-water-collected-poems-1957-1987-i-listen-this-is-the-noise-of-myth",
+      "count": 1
+    },
+    {
+      "name": "<i>Anger in the Sky</i>, 1943",
+      "slug": "i-anger-in-the-sky-i-1943",
+      "count": 1
+    },
+    {
+      "name": "<i>Angle of Repose</i>, 1971",
+      "slug": "i-angle-of-repose-i-1971",
+      "count": 1
+    },
+    {
+      "name": "<i>Animal Farm</i>",
+      "slug": "i-animal-farm-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Anne of Green Gables</i>",
+      "slug": "i-anne-of-green-gables-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Another Birth &amp; Other Poems</i>, ‘The Sin’",
+      "slug": "i-another-birth-amp-other-poems-i-the-sin",
+      "count": 1
+    },
+    {
+      "name": "<i>Another</i>, 2009",
+      "slug": "i-another-i-2009",
+      "count": 1
+    },
+    {
+      "name": "<i>Aristotle and Dante Discover the Secrets of the Universe</i>",
+      "slug": "i-aristotle-and-dante-discover-the-secrets-of-the-universe-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Autopsy</i>",
+      "slug": "i-autopsy-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Autumn Leaves</i>, 1950",
+      "slug": "i-autumn-leaves-i-1950",
+      "count": 1
+    },
+    {
+      "name": "<i>Become</i>, 2010",
+      "slug": "i-become-i-2010",
+      "count": 2
+    },
+    {
+      "name": "<i>Before Sunrise</i>, 1995",
+      "slug": "i-before-sunrise-i-1995",
+      "count": 1
+    },
+    {
+      "name": "<i>Benny and Babe</i>",
+      "slug": "i-benny-and-babe-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Between the Cartwheels</i>",
+      "slug": "i-between-the-cartwheels-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Bird by Bird: Some Instructions on Writing and Life</i>",
+      "slug": "i-bird-by-bird-some-instructions-on-writing-and-life-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Bitter Sweet Love</i>",
+      "slug": "i-bitter-sweet-love-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Bluebeard: A Novel</i>",
+      "slug": "i-bluebeard-a-novel-i",
+      "count": 2
+    },
+    {
+      "name": "<i>Bodily Harm</i>, 1981",
+      "slug": "i-bodily-harm-i-1981",
+      "count": 1
+    },
+    {
+      "name": "<i>Bone Light</i>, ‘Surah Al-Fatiha’",
+      "slug": "i-bone-light-i-surah-al-fatiha",
+      "count": 1
+    },
+    {
+      "name": "<i>Bone</i>, ‘Revelation’",
+      "slug": "i-bone-i-revelation",
+      "count": 1
+    },
+    {
+      "name": "<i>Brave New World</i>",
+      "slug": "i-brave-new-world-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Brideshead Revisited</i>",
+      "slug": "i-brideshead-revisited-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Broken: My Story of Addiction and Redemption</i>, 2007",
+      "slug": "i-broken-my-story-of-addiction-and-redemption-i-2007",
+      "count": 1
+    },
+    {
+      "name": "<i>But Before You Leave</i>",
+      "slug": "i-but-before-you-leave-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Caligula</i>",
+      "slug": "i-caligula-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Call Me By Your Name</i>, 2007",
+      "slug": "i-call-me-by-your-name-i-2007",
+      "count": 2
+    },
+    {
+      "name": "<i>Candide, ou l'Optimisme</i>",
+      "slug": "i-candide-ou-l-optimisme-i",
+      "count": 3
+    },
+    {
+      "name": "<i>Cat on a Hot Tin Roof</i>",
+      "slug": "i-cat-on-a-hot-tin-roof-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Chasing the Scream: The First and Last Days of the War on Drugs</i>, 2007",
+      "slug": "i-chasing-the-scream-the-first-and-last-days-of-the-war-on-drugs-i-2007",
+      "count": 1
+    },
+    {
+      "name": "<i>Clockwork Angel</i>",
+      "slug": "i-clockwork-angel-i",
+      "count": 2
+    },
+    {
+      "name": "<i>Coffee and Cigarettes</i>",
+      "slug": "i-coffee-and-cigarettes-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Collected Essays</i>, 1959: <i><a href=\"https://christiebooks.co.uk/2013/11/a-case-of-voluntary-ignorance-by-aldous-huxley/\">A Case of Voluntary Ignorance</a></i>",
+      "slug": "i-collected-essays-i-1959-i-a-href-https-christiebooks-co-uk-2013-11-a-case-of-voluntary-ignorance-by-aldous-huxley-a-case-of-voluntary-ignorance-a-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Collected Poems and Other Verse</i>, ‘The Nurse and Herodias’",
+      "slug": "i-collected-poems-and-other-verse-i-the-nurse-and-herodias",
+      "count": 1
+    },
+    {
+      "name": "<i>Collected Poems, 1912-1944</i>, <a href=\"https://www.poetryfoundation.org/poetrymagazine/browse?contentId=22021\">Sigel XV</a>",
+      "slug": "i-collected-poems-1912-1944-i-a-href-https-www-poetryfoundation-org-poetrymagazine-browse-contentid-22021-sigel-xv-a",
+      "count": 1
+    },
+    {
+      "name": "<i>Collected Poetry</i>",
+      "slug": "i-collected-poetry-i",
+      "count": 3
+    },
+    {
+      "name": "<i>Come, Thief: Poems</i>, <a href=\"https://www.poets.org/poetsorg/poem/vinegar-and-oil\">Vinegar and Oil</a>",
+      "slug": "i-come-thief-poems-i-a-href-https-www-poets-org-poetsorg-poem-vinegar-and-oil-vinegar-and-oil-a",
+      "count": 1
+    },
+    {
+      "name": "<i>Concerning the Spiritual in Art</i>",
+      "slug": "i-concerning-the-spiritual-in-art-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Congenial Spirits: Selected Letters</i>",
+      "slug": "i-congenial-spirits-selected-letters-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Contact</i>",
+      "slug": "i-contact-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Conversations with James Baldwin</i>, 1989",
+      "slug": "i-conversations-with-james-baldwin-i-1989",
+      "count": 1
+    },
+    {
+      "name": "<i>Coraline</i>",
+      "slug": "i-coraline-i",
+      "count": 2
+    },
+    {
+      "name": "<i>Cosmos: A Personal Voyage</i>",
+      "slug": "i-cosmos-a-personal-voyage-i",
+      "count": 3
+    },
+    {
+      "name": "<i>Crave</i>, 1998",
+      "slug": "i-crave-i-1998",
+      "count": 1
+    },
+    {
+      "name": "<i>Crush</i>, ‘Little Beast’",
+      "slug": "i-crush-i-little-beast",
+      "count": 1
+    },
+    {
+      "name": "<i>Crush</i>, ‘Planet of Love’",
+      "slug": "i-crush-i-planet-of-love",
+      "count": 1
+    },
+    {
+      "name": "<i>Crush</i>, ‘You Are Jeff’",
+      "slug": "i-crush-i-you-are-jeff",
+      "count": 1
+    },
+    {
+      "name": "<i>Dance Dance Dance</i>",
+      "slug": "i-dance-dance-dance-i",
+      "count": 1
+    },
+    {
+      "name": "<i>De Profundis</i>",
+      "slug": "i-de-profundis-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Dept. of Speculation</i>",
+      "slug": "i-dept-of-speculation-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Description of a Struggle</i>",
+      "slug": "i-description-of-a-struggle-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Destruction of the Father / Reconstruction of the Father: Writings and Interviews, 1923-1997</i>",
+      "slug": "i-destruction-of-the-father-reconstruction-of-the-father-writings-and-interviews-1923-1997-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Diary</i>",
+      "slug": "i-diary-i",
+      "count": 2
+    },
+    {
+      "name": "<i>Diggers</i>",
+      "slug": "i-diggers-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Dirty Pretty Things</i>",
+      "slug": "i-dirty-pretty-things-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Division by Zero</i>",
+      "slug": "i-division-by-zero-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Dokkōdō</i>",
+      "slug": "i-dokk-d-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Dreamtigers</i>",
+      "slug": "i-dreamtigers-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Duet</i>",
+      "slug": "i-duet-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Durarara!!</i>, 2004-2014",
+      "slug": "i-durarara-i-2004-2014",
+      "count": 1
+    },
+    {
+      "name": "<i>East of Eden</i>",
+      "slug": "i-east-of-eden-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Either/Or: A Fragment of Life</i>",
+      "slug": "i-either-or-a-fragment-of-life-i",
+      "count": 2
+    },
+    {
+      "name": "<i>Eleanor &amp; Park</i>, 2012",
+      "slug": "i-eleanor-amp-park-i-2012",
+      "count": 1
+    },
+    {
+      "name": "<i>Emma</i>, 1815",
+      "slug": "i-emma-i-1815",
+      "count": 1
+    },
+    {
+      "name": "<i>Épître à l'Auteur du Livre des Trois Imposteurs</i>",
+      "slug": "i-p-tre-l-auteur-du-livre-des-trois-imposteurs-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Ergo Proxy</i>, 2006",
+      "slug": "i-ergo-proxy-i-2006",
+      "count": 1
+    },
+    {
+      "name": "<i>Even Curses End</i>, 2019: ‘The Princess & the Thorns’",
+      "slug": "i-even-curses-end-i-2019-the-princess-the-thorns",
+      "count": 1
+    },
+    {
+      "name": "<i>Every Day</i>",
+      "slug": "i-every-day-i",
+      "count": 3
+    },
+    {
+      "name": "<i>Every You, Every Me</i>",
+      "slug": "i-every-you-every-me-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Everyone I Love Is a Stranger to Someone</i>, 2014: ‘Love Poem’",
+      "slug": "i-everyone-i-love-is-a-stranger-to-someone-i-2014-love-poem",
+      "count": 1
+    },
+    {
+      "name": "<i>Everyone I Love Is a Stranger to Someone</i>, 2014: ‘The Pillowcase’",
+      "slug": "i-everyone-i-love-is-a-stranger-to-someone-i-2014-the-pillowcase",
+      "count": 1
+    },
+    {
+      "name": "<i>Extremely Loud and Incredibly Close</i>",
+      "slug": "i-extremely-loud-and-incredibly-close-i",
+      "count": 5
+    },
+    {
+      "name": "<i>Eye Level: Poems</i>, ‘Corfu’",
+      "slug": "i-eye-level-poems-i-corfu",
+      "count": 1
+    },
+    {
+      "name": "<i>Fahrenheit 451</i>",
+      "slug": "i-fahrenheit-451-i",
+      "count": 2
+    },
+    {
+      "name": "<i>Fear and Trembling</i>",
+      "slug": "i-fear-and-trembling-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Feet of Clay</i>",
+      "slug": "i-feet-of-clay-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Fight Club</i>",
+      "slug": "i-fight-club-i",
+      "count": 2
+    },
+    {
+      "name": "<i>Fire: From A Journal of Love: the Unexpurgated Diary of Anaïs Nin (1934–1937)</i>",
+      "slug": "i-fire-from-a-journal-of-love-the-unexpurgated-diary-of-ana-s-nin-1934-1937-i",
+      "count": 1
+    },
+    {
+      "name": "<i>First Comes Love</i>",
+      "slug": "i-first-comes-love-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Fragments</i>",
+      "slug": "i-fragments-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Frankenstein</i>",
+      "slug": "i-frankenstein-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Freedom</i>",
+      "slug": "i-freedom-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Fugitive Pieces</i>",
+      "slug": "i-fugitive-pieces-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Full Dark, No Stars</i>",
+      "slug": "i-full-dark-no-stars-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Gaia: Medicine for an Ailing Planet</i>",
+      "slug": "i-gaia-medicine-for-an-ailing-planet-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Giovanni’s Room</i>, 1956",
+      "slug": "i-giovanni-s-room-i-1956",
+      "count": 1
+    },
+    {
+      "name": "<i>Girl, Interrupted</i>",
+      "slug": "i-girl-interrupted-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Going Postal</i>",
+      "slug": "i-going-postal-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Good Omens</i>",
+      "slug": "i-good-omens-i",
+      "count": 3
+    },
+    {
+      "name": "<i>Grey's Anatomy</i>, 2013: ‘Seal Our Fate’",
+      "slug": "i-grey-s-anatomy-i-2013-seal-our-fate",
+      "count": 1
+    },
+    {
+      "name": "<i>Gunnerkrigg Court</i>",
+      "slug": "i-gunnerkrigg-court-i",
+      "count": 3
+    },
+    {
+      "name": "<i>Gut Symmetries</i>, 1997",
+      "slug": "i-gut-symmetries-i-1997",
+      "count": 1
+    },
+    {
+      "name": "<i>Hallowed</i>, 2012",
+      "slug": "i-hallowed-i-2012",
+      "count": 1
+    },
+    {
+      "name": "<i>Happiness</i>",
+      "slug": "i-happiness-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Healing Wise</i>",
+      "slug": "i-healing-wise-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Helium</i>",
+      "slug": "i-helium-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Hell is the Absense of God</i>",
+      "slug": "i-hell-is-the-absense-of-god-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Henry and June: From A Journal of Love: the Unexpurgated Diary of Anaïs Nin (1931–1932)</i>",
+      "slug": "i-henry-and-june-from-a-journal-of-love-the-unexpurgated-diary-of-ana-s-nin-1931-1932-i",
+      "count": 2
+    },
+    {
+      "name": "<i>Her Blue Body</i>",
+      "slug": "i-her-blue-body-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Heroes: Mass Murder and Suicide</i>, 2015",
+      "slug": "i-heroes-mass-murder-and-suicide-i-2015",
+      "count": 1
+    },
+    {
+      "name": "<i>Het Complete Werk</i>, 1992",
+      "slug": "i-het-complete-werk-i-1992",
+      "count": 1
+    },
+    {
+      "name": "<i>Hogfather</i>",
+      "slug": "i-hogfather-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Home</i>, ‘All This Time’",
+      "slug": "i-home-i-all-this-time",
+      "count": 1
+    },
+    {
+      "name": "<i>Home</i>, ‘This Is How We Lose Ourselves’",
+      "slug": "i-home-i-this-is-how-we-lose-ourselves",
+      "count": 1
+    },
+    {
+      "name": "<i>Honey and Clover</i>",
+      "slug": "i-honey-and-clover-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Honey, Baby, Sweetheart</i>",
+      "slug": "i-honey-baby-sweetheart-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Horseradish</i>",
+      "slug": "i-horseradish-i",
+      "count": 3
+    },
+    {
+      "name": "<i>House of Sugar, House of Stone</i>, 2016: ‘Raveling Round the Lake’",
+      "slug": "i-house-of-sugar-house-of-stone-i-2016-raveling-round-the-lake",
+      "count": 2
+    },
+    {
+      "name": "<i>How to Talk to Girls at Parties</i>",
+      "slug": "i-how-to-talk-to-girls-at-parties-i",
+      "count": 1
+    },
+    {
+      "name": "<i>How to Win Friends and Influence People</i>",
+      "slug": "i-how-to-win-friends-and-influence-people-i",
+      "count": 1
+    },
+    {
+      "name": "<i>I Am Your Sister: Collected and Unpublished Writings of Audre Lorde</i>, ‘The Transformation of Silence into Language and Action’",
+      "slug": "i-i-am-your-sister-collected-and-unpublished-writings-of-audre-lorde-i-the-transformation-of-silence-into-language-and-action",
+      "count": 1
+    },
+    {
+      "name": "<i>I Put a Spell on You: The Autobiography of Nina Simone</i>, 1992",
+      "slug": "i-i-put-a-spell-on-you-the-autobiography-of-nina-simone-i-1992",
+      "count": 1
+    },
+    {
+      "name": "<i>I Shall Wear Midnight</i>",
+      "slug": "i-i-shall-wear-midnight-i",
+      "count": 2
+    },
+    {
+      "name": "<i>I Wrote This for You: Just the Words</i>",
+      "slug": "i-i-wrote-this-for-you-just-the-words-i",
+      "count": 1
+    },
+    {
+      "name": "<i>I Wrote This for You</i>, ‘The Forgotten Feeling’",
+      "slug": "i-i-wrote-this-for-you-i-the-forgotten-feeling",
+      "count": 1
+    },
+    {
+      "name": "<i>I’ll Never Be Long Gone</i>",
+      "slug": "i-i-ll-never-be-long-gone-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Illusions: The Adventures of a Reluctant Messiah</i>, 1977",
+      "slug": "i-illusions-the-adventures-of-a-reluctant-messiah-i-1977",
+      "count": 1
+    },
+    {
+      "name": "<i>In Exile</i>",
+      "slug": "i-in-exile-i",
+      "count": 1
+    },
+    {
+      "name": "<i>In Search of Lost Time / Remembrance of Things Past Vol II: Within a Budding Grove</i>, 1919",
+      "slug": "i-in-search-of-lost-time-remembrance-of-things-past-vol-ii-within-a-budding-grove-i-1919",
+      "count": 1
+    },
+    {
+      "name": "<i>In Search of Lost Time / Remembrance of Things Past Vol. VII: The Past Recaptured</i>, 1927",
+      "slug": "i-in-search-of-lost-time-remembrance-of-things-past-vol-vii-the-past-recaptured-i-1927",
+      "count": 1
+    },
+    {
+      "name": "<i>In the Pines</i>, ‘The Black Trailor (A Noir Fiction)’",
+      "slug": "i-in-the-pines-i-the-black-trailor-a-noir-fiction",
+      "count": 2
+    },
+    {
+      "name": "<i>In the Presence of Absence</i>",
+      "slug": "i-in-the-presence-of-absence-i",
+      "count": 1
+    },
+    {
+      "name": "<i>In the Woods</i>",
+      "slug": "i-in-the-woods-i",
+      "count": 2
+    },
+    {
+      "name": "<i>In Watermelon Sugar</i>",
+      "slug": "i-in-watermelon-sugar-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Inkheart</i>",
+      "slug": "i-inkheart-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Interview with the Vampire</i>",
+      "slug": "i-interview-with-the-vampire-i",
+      "count": 2
+    },
+    {
+      "name": "<i>Invisibility</i>",
+      "slug": "i-invisibility-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Invitation to a Beheading</i>",
+      "slug": "i-invitation-to-a-beheading-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Isla and the Happily Ever After</i>, 2015",
+      "slug": "i-isla-and-the-happily-ever-after-i-2015",
+      "count": 1
+    },
+    {
+      "name": "<i>Jane Eyre</i>",
+      "slug": "i-jane-eyre-i",
+      "count": 2
+    },
+    {
+      "name": "<i>Jewish Literacy</i>, 1991",
+      "slug": "i-jewish-literacy-i-1991",
+      "count": 1
+    },
+    {
+      "name": "<i>Jitterbug Perfume</i>",
+      "slug": "i-jitterbug-perfume-i",
+      "count": 16
+    },
+    {
+      "name": "<i>Joyland</i>",
+      "slug": "i-joyland-i",
+      "count": 2
+    },
+    {
+      "name": "<i>Kafka on the Shore</i>",
+      "slug": "i-kafka-on-the-shore-i",
+      "count": 3
+    },
+    {
+      "name": "<i>Kavanagh: A Tale</i>, 1849",
+      "slug": "i-kavanagh-a-tale-i-1849",
+      "count": 1
+    },
+    {
+      "name": "<i>Killing Yourself to Live: 85% of a True Story</i>",
+      "slug": "i-killing-yourself-to-live-85-of-a-true-story-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Kingdom Hearts III</i>",
+      "slug": "i-kingdom-hearts-iii-i",
+      "count": 1
+    },
+    {
+      "name": "<i>La Bâtarde</i>, translated by Derek Coltman",
+      "slug": "i-la-b-tarde-i-translated-by-derek-coltman",
+      "count": 1
+    },
+    {
+      "name": "<i>Lady Windermere's Fan</i>",
+      "slug": "i-lady-windermere-s-fan-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Le Horla et autres contes fantastiques</i>",
+      "slug": "i-le-horla-et-autres-contes-fantastiques-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Lemon Effigies</i>, 2017: ‘Train of Mercury Stations Direct’",
+      "slug": "i-lemon-effigies-i-2017-train-of-mercury-stations-direct",
+      "count": 1
+    },
+    {
+      "name": "<i>Les Fleurs du Mal</i>, 1857: <a href=\"https://fleursdumal.org/poem/150\">Causerie</a>",
+      "slug": "i-les-fleurs-du-mal-i-1857-a-href-https-fleursdumal-org-poem-150-causerie-a",
+      "count": 1
+    },
+    {
+      "name": "<i>Les Fleurs du Mal</i>, 1857: <a href=\"https://fleursdumal.org/poem/151\">Heautontimoroumenos</a>, translated by Roy Campbell",
+      "slug": "i-les-fleurs-du-mal-i-1857-a-href-https-fleursdumal-org-poem-151-heautontimoroumenos-a-translated-by-roy-campbell",
+      "count": 1
+    },
+    {
+      "name": "<i>Les Temps modernes</i>",
+      "slug": "i-les-temps-modernes-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Letters on the English</i>",
+      "slug": "i-letters-on-the-english-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Leviathan</i>, 1651",
+      "slug": "i-leviathan-i-1651",
+      "count": 1
+    },
+    {
+      "name": "<i>Light, Wind and Dreams</i>, 1962",
+      "slug": "i-light-wind-and-dreams-i-1962",
+      "count": 2
+    },
+    {
+      "name": "<i>Little Motel: Satori In Paris</i>, 1966",
+      "slug": "i-little-motel-satori-in-paris-i-1966",
+      "count": 1
+    },
+    {
+      "name": "<i>Lock and Key</i>",
+      "slug": "i-lock-and-key-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Lolita</i>",
+      "slug": "i-lolita-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Lorca: Selected Poems</i>, ‘La Soleá’",
+      "slug": "i-lorca-selected-poems-i-la-sole",
+      "count": 1
+    },
+    {
+      "name": "<i>Lord Arthur Savile's Crime and Other Stories</i>",
+      "slug": "i-lord-arthur-savile-s-crime-and-other-stories-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Lost in Translation</i>",
+      "slug": "i-lost-in-translation-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Love &amp; Solitude: Poems (1916 - 1923)</i>, ‘Fragment’",
+      "slug": "i-love-amp-solitude-poems-1916-1923-i-fragment",
+      "count": 1
+    },
+    {
+      "name": "<i>Love Sense: The Revolutionary New Science of Romantic Relationships</i>",
+      "slug": "i-love-sense-the-revolutionary-new-science-of-romantic-relationships-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Mad Men</i>, 2007: ‘The Wheel’",
+      "slug": "i-mad-men-i-2007-the-wheel",
+      "count": 1
+    },
+    {
+      "name": "<i>Madame Bovary</i>",
+      "slug": "i-madame-bovary-i",
+      "count": 3
+    },
+    {
+      "name": "<i>Magical Thinking</i>",
+      "slug": "i-magical-thinking-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Man's Search for Meaning</i>, 1946",
+      "slug": "i-man-s-search-for-meaning-i-1946",
+      "count": 1
+    },
+    {
+      "name": "<i>Mansfield Park</i>, 1814",
+      "slug": "i-mansfield-park-i-1814",
+      "count": 1
+    },
+    {
+      "name": "<i>Manuscript Found in Accra</i>",
+      "slug": "i-manuscript-found-in-accra-i",
+      "count": 2
+    },
+    {
+      "name": "<i>Marginalia, A Critical Selection</i>",
+      "slug": "i-marginalia-a-critical-selection-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Meditations VII</i>, c. 121-180 AD",
+      "slug": "i-meditations-vii-i-c-121-180-ad",
+      "count": 1
+    },
+    {
+      "name": "<i>Mein Weltbild</i>, 1931",
+      "slug": "i-mein-weltbild-i-1931",
+      "count": 1
+    },
+    {
+      "name": "<i>Memento</i>, 2000",
+      "slug": "i-memento-i-2000",
+      "count": 1
+    },
+    {
+      "name": "<i>Memoirs of a Geisha</i>, 2005",
+      "slug": "i-memoirs-of-a-geisha-i-2005",
+      "count": 1
+    },
+    {
+      "name": "<i>Memoirs of a Teenage Amnesiac</i>",
+      "slug": "i-memoirs-of-a-teenage-amnesiac-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Milk and Honey</i>",
+      "slug": "i-milk-and-honey-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Mirages: The Unexpurgated Diary of Anaïs Nin, 1939-1947</i>",
+      "slug": "i-mirages-the-unexpurgated-diary-of-ana-s-nin-1939-1947-i",
+      "count": 2
+    },
+    {
+      "name": "<i>Moral Disorder</i>, 2006",
+      "slug": "i-moral-disorder-i-2006",
+      "count": 1
+    },
+    {
+      "name": "<i>More Than This</i>",
+      "slug": "i-more-than-this-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Mozart in the Jungle</i>, 2014-2018: ‘It All Depends on You’",
+      "slug": "i-mozart-in-the-jungle-i-2014-2018-it-all-depends-on-you",
+      "count": 1
+    },
+    {
+      "name": "<i>My Argument With the Gestapo</i>, 1968",
+      "slug": "i-my-argument-with-the-gestapo-i-1968",
+      "count": 1
+    },
+    {
+      "name": "<i>My Double Life</i>, 1907",
+      "slug": "i-my-double-life-i-1907",
+      "count": 1
+    },
+    {
+      "name": "<i>My Friend Leonard</i>",
+      "slug": "i-my-friend-leonard-i",
+      "count": 1
+    },
+    {
+      "name": "<i>My Sister's Keeper</i>",
+      "slug": "i-my-sister-s-keeper-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Nearer the Moon: From a Journal of Love: the Unexpurgated Diary of Anaïs Nin (1937–1939)</i>",
+      "slug": "i-nearer-the-moon-from-a-journal-of-love-the-unexpurgated-diary-of-ana-s-nin-1937-1939-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Negotiating with the Dead: A Writer on Writing</i>, 2002",
+      "slug": "i-negotiating-with-the-dead-a-writer-on-writing-i-2002",
+      "count": 1
+    },
+    {
+      "name": "<i>New Collected Poems</i>, ‘In Her Own Image’",
+      "slug": "i-new-collected-poems-i-in-her-own-image",
+      "count": 1
+    },
+    {
+      "name": "<i>New Seeds of Contemplation</i>, 1963",
+      "slug": "i-new-seeds-of-contemplation-i-1963",
+      "count": 1
+    },
+    {
+      "name": "<i>Nights At The Circus</i>",
+      "slug": "i-nights-at-the-circus-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Nineteen Minutes</i>",
+      "slug": "i-nineteen-minutes-i",
+      "count": 1
+    },
+    {
+      "name": "<i>No Exit</i>",
+      "slug": "i-no-exit-i",
+      "count": 6
+    },
+    {
+      "name": "<i>No One Belongs Here More Than You</i>",
+      "slug": "i-no-one-belongs-here-more-than-you-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Northanger Abbey</i>, 1817",
+      "slug": "i-northanger-abbey-i-1817",
+      "count": 2
+    },
+    {
+      "name": "<i>Norwegian Wood</i>",
+      "slug": "i-norwegian-wood-i",
+      "count": 5
+    },
+    {
+      "name": "<i>Not a Girl</i>, ‘Buried’ (<a href=\"http://latenightcornerstore.com/\">x</a>)",
+      "slug": "i-not-a-girl-i-buried-a-href-http-latenightcornerstore-com-x-a",
+      "count": 1
+    },
+    {
+      "name": "<i>Notes from the Underground</i>",
+      "slug": "i-notes-from-the-underground-i",
+      "count": 1
+    },
+    {
+      "name": "<i>On Christianity</i>",
+      "slug": "i-on-christianity-i",
+      "count": 1
+    },
+    {
+      "name": "<i>On Ugliness</i>",
+      "slug": "i-on-ugliness-i",
+      "count": 1
+    },
+    {
+      "name": "<i>One Day</i>",
+      "slug": "i-one-day-i",
+      "count": 1
+    },
+    {
+      "name": "<i>One for Sorrow</i>",
+      "slug": "i-one-for-sorrow-i",
+      "count": 1
+    },
+    {
+      "name": "<i>One Piece</i>",
+      "slug": "i-one-piece-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Oranges Are Not the Only Fruit</i>, 1985",
+      "slug": "i-oranges-are-not-the-only-fruit-i-1985",
+      "count": 1
+    },
+    {
+      "name": "<i>Orthodoxy</i>",
+      "slug": "i-orthodoxy-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Our Bodies &amp; Other Fine Machines</i>, 2016: ‘Least of All’",
+      "slug": "i-our-bodies-amp-other-fine-machines-i-2016-least-of-all",
+      "count": 1
+    },
+    {
+      "name": "<i>Our Lady of the Ruins</i>, ‘Become the Lion’",
+      "slug": "i-our-lady-of-the-ruins-i-become-the-lion",
+      "count": 1
+    },
+    {
+      "name": "<i>Pale Blue Dot</i>",
+      "slug": "i-pale-blue-dot-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Père Goriot</i>",
+      "slug": "i-p-re-goriot-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Persepolis</i>",
+      "slug": "i-persepolis-i",
+      "count": 2
+    },
+    {
+      "name": "<i>Peter Ibbetson</i>",
+      "slug": "i-peter-ibbetson-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Physics and Beyond: Encounters and Conversation</i>, 1971",
+      "slug": "i-physics-and-beyond-encounters-and-conversation-i-1971",
+      "count": 1
+    },
+    {
+      "name": "<i>Pietà</i>, 2000",
+      "slug": "i-piet-i-2000",
+      "count": 1
+    },
+    {
+      "name": "<i>Pinball, 1973</i>",
+      "slug": "i-pinball-1973-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Playing My Mother's Blues</i>",
+      "slug": "i-playing-my-mother-s-blues-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Podorozhnik</i> (<i>Wayside grass/Plantain</i>), 1921",
+      "slug": "i-podorozhnik-i-i-wayside-grass-plantain-i-1921",
+      "count": 1
+    },
+    {
+      "name": "<i>Poems 1962-2012</i>, <a href=\"https://reylemuel.wordpress.com/2008/12/14/71/\">Departure</a>",
+      "slug": "i-poems-1962-2012-i-a-href-https-reylemuel-wordpress-com-2008-12-14-71-departure-a",
+      "count": 1
+    },
+    {
+      "name": "<i>Poems 1962-2012</i>, <a href=\"https://www.poetryfoundation.org/poems/49603/hyacinth\">Hyacinth</a>",
+      "slug": "i-poems-1962-2012-i-a-href-https-www-poetryfoundation-org-poems-49603-hyacinth-hyacinth-a",
+      "count": 1
+    },
+    {
+      "name": "<i>Practicing Peace in Times of War</i>",
+      "slug": "i-practicing-peace-in-times-of-war-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Pride and Prejudice</i>, 1813",
+      "slug": "i-pride-and-prejudice-i-1813",
+      "count": 3
+    },
+    {
+      "name": "<i>Prince of Thorns</i>",
+      "slug": "i-prince-of-thorns-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Princess Tutu</i>, 2002-2003",
+      "slug": "i-princess-tutu-i-2002-2003",
+      "count": 2
+    },
+    {
+      "name": "<i>Prozac Nation</i>",
+      "slug": "i-prozac-nation-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Puella Magi Madoka Magica</i>",
+      "slug": "i-puella-magi-madoka-magica-i",
+      "count": 2
+    },
+    {
+      "name": "<i>Questions for Ada</i>",
+      "slug": "i-questions-for-ada-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Reaper Man</i>",
+      "slug": "i-reaper-man-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Red Roses for Me</i>",
+      "slug": "i-red-roses-for-me-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Retreivals</i>, ‘Abandoned’",
+      "slug": "i-retreivals-i-abandoned",
+      "count": 1
+    },
+    {
+      "name": "<i>Revenge of the Illegal Alien: A Mexican Takes on the Empire</i>",
+      "slug": "i-revenge-of-the-illegal-alien-a-mexican-takes-on-the-empire-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Rhythms and Roads</i>",
+      "slug": "i-rhythms-and-roads-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Sabriel</i>, 1995",
+      "slug": "i-sabriel-i-1995",
+      "count": 1
+    },
+    {
+      "name": "<i>salt.</i>",
+      "slug": "i-salt-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Sammlung</i>",
+      "slug": "i-sammlung-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Saving June</i>",
+      "slug": "i-saving-june-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Scrambled Eggs &amp; Whiskey: Poems</i>, 1991-1995; ‘They Accuse Me of not Talking’",
+      "slug": "i-scrambled-eggs-amp-whiskey-poems-i-1991-1995-they-accuse-me-of-not-talking",
+      "count": 1
+    },
+    {
+      "name": "<i>Sculpting in Time: Reflections on the Cinema</i>",
+      "slug": "i-sculpting-in-time-reflections-on-the-cinema-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Season of Mists</i>",
+      "slug": "i-season-of-mists-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Selected Essays</i>",
+      "slug": "i-selected-essays-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Selected Letters of E. M. Forster I: 1879-1920</i>, 1983",
+      "slug": "i-selected-letters-of-e-m-forster-i-1879-1920-i-1983",
+      "count": 1
+    },
+    {
+      "name": "<i>Selected Poems I: 1965-1975</i>, 1987: ‘Is / Not’",
+      "slug": "i-selected-poems-i-1965-1975-i-1987-is-not",
+      "count": 1
+    },
+    {
+      "name": "<i>Selected Poems II: 1976-1986</i>, 1987: ‘A Sunday Drive’",
+      "slug": "i-selected-poems-ii-1976-1986-i-1987-a-sunday-drive",
+      "count": 1
+    },
+    {
+      "name": "<i>Selected Poems II: 1976-1986</i>, 1987: ‘Eurydice’",
+      "slug": "i-selected-poems-ii-1976-1986-i-1987-eurydice",
+      "count": 1
+    },
+    {
+      "name": "<i>Selected Poems II: 1976-1986</i>, 1987: ‘Solstice Poem’",
+      "slug": "i-selected-poems-ii-1976-1986-i-1987-solstice-poem",
+      "count": 1
+    },
+    {
+      "name": "<i>Sharp Objects</i>, 2006",
+      "slug": "i-sharp-objects-i-2006",
+      "count": 1
+    },
+    {
+      "name": "<i>Shingeki no Kyojin</i>",
+      "slug": "i-shingeki-no-kyojin-i",
+      "count": 2
+    },
+    {
+      "name": "<i>Short Talks</i>, <a href=\"http://thevulgar.tumblr.com/post/7004694097/short-talk-on-hedonism-anne-carson\">On Hedonism</a>",
+      "slug": "i-short-talks-i-a-href-http-thevulgar-tumblr-com-post-7004694097-short-talk-on-hedonism-anne-carson-on-hedonism-a",
+      "count": 1
+    },
+    {
+      "name": "<i>Silence (Siope) — A Fable</i>",
+      "slug": "i-silence-siope-a-fable-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Simple Reminders: Inspiration for Living Your Best Life</i>",
+      "slug": "i-simple-reminders-inspiration-for-living-your-best-life-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Single-Bit Error</i>",
+      "slug": "i-single-bit-error-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Sketchbook 1946-1949</i>",
+      "slug": "i-sketchbook-1946-1949-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Small Gods</i>",
+      "slug": "i-small-gods-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Small Things in Silence</i>",
+      "slug": "i-small-things-in-silence-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Snow Flower and the Secret Fan</i>",
+      "slug": "i-snow-flower-and-the-secret-fan-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Solipsist</i>",
+      "slug": "i-solipsist-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Song of the Simple Truth</i>, ‘Dream of Words’",
+      "slug": "i-song-of-the-simple-truth-i-dream-of-words",
+      "count": 1
+    },
+    {
+      "name": "<i>Sourcery</i>",
+      "slug": "i-sourcery-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Speeches for Dr. Frankenstein</i>, 1966",
+      "slug": "i-speeches-for-dr-frankenstein-i-1966",
+      "count": 1
+    },
+    {
+      "name": "<i>Stardust</i>",
+      "slug": "i-stardust-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Story of Your Life</i>",
+      "slug": "i-story-of-your-life-i",
+      "count": 2
+    },
+    {
+      "name": "<i>Street Haunting</i>",
+      "slug": "i-street-haunting-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Sunflower</i>",
+      "slug": "i-sunflower-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Talking to Myself</i>",
+      "slug": "i-talking-to-myself-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Tao Te Ching</i>",
+      "slug": "i-tao-te-ching-i",
+      "count": 5
+    },
+    {
+      "name": "<i>Tell the Wolves I'm Home</i>",
+      "slug": "i-tell-the-wolves-i-m-home-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Telling Lies: Clues to Deceit in the Marketplace, Politics, and Marriage</i>",
+      "slug": "i-telling-lies-clues-to-deceit-in-the-marketplace-politics-and-marriage-i",
+      "count": 1
+    },
+    {
+      "name": "<i>The Admirable Crichton</i>",
+      "slug": "i-the-admirable-crichton-i",
+      "count": 1
+    },
+    {
+      "name": "<i>The Anatomy of Being</i>",
+      "slug": "i-the-anatomy-of-being-i",
+      "count": 1
+    },
+    {
+      "name": "<i>The Animals in That Country</i>, 1968: ‘The Shadow Voice’",
+      "slug": "i-the-animals-in-that-country-i-1968-the-shadow-voice",
+      "count": 1
+    },
+    {
+      "name": "<i>The Argonauts</i>, 2015",
+      "slug": "i-the-argonauts-i-2015",
+      "count": 1
+    },
+    {
+      "name": "<i>The Asylum for Wayward Victorian Girls</i>, 2009",
+      "slug": "i-the-asylum-for-wayward-victorian-girls-i-2009",
+      "count": 1
+    },
+    {
+      "name": "<i>The August Sleepwalker</i>, 1990",
+      "slug": "i-the-august-sleepwalker-i-1990",
+      "count": 1
+    },
+    {
+      "name": "<i>The Autobiography of Mark Twain</i>",
+      "slug": "i-the-autobiography-of-mark-twain-i",
+      "count": 1
+    },
+    {
+      "name": "<i>The Autumn of the Patriarch</i>, 1996",
+      "slug": "i-the-autumn-of-the-patriarch-i-1996",
+      "count": 1
+    },
+    {
+      "name": "<i>The Ballad of Johnnie Armstrong</i>, as cited by J. Roberts in <i>A Collection of Old Ballads: Corrected from the Best and Most Ancient Copies Extant</i> (<a href=\"https://digital.nls.uk/english-ballads/archive/74893315?mode=transcription\">x</a>)",
+      "slug": "i-the-ballad-of-johnnie-armstrong-i-as-cited-by-j-roberts-in-i-a-collection-of-old-ballads-corrected-from-the-best-and-most-ancient-copies-extant-i-a-href-https-digital-nls-uk-english-ballads-archive-74893315-mode-transcription-x-a",
+      "count": 1
+    },
+    {
+      "name": "<i>The Bell Jar</i>",
+      "slug": "i-the-bell-jar-i",
+      "count": 1
+    },
+    {
+      "name": "<i>The Bicycle Rider In Beverly Hills</i>, 1952",
+      "slug": "i-the-bicycle-rider-in-beverly-hills-i-1952",
+      "count": 1
+    },
+    {
+      "name": "<i>The Blind Assassin</i>, 2000",
+      "slug": "i-the-blind-assassin-i-2000",
+      "count": 1
+    },
+    {
+      "name": "<i>The Bloody Chamber</i>",
+      "slug": "i-the-bloody-chamber-i",
+      "count": 1
+    },
+    {
+      "name": "<i>The Body Electric</i>",
+      "slug": "i-the-body-electric-i",
+      "count": 1
+    },
+    {
+      "name": "<i>The Body</i>",
+      "slug": "i-the-body-i",
+      "count": 1
+    },
+    {
+      "name": "<i>The Bones Below</i>, ‘Cycle of Abuse’",
+      "slug": "i-the-bones-below-i-cycle-of-abuse",
+      "count": 1
+    },
+    {
+      "name": "<i>The Book of Five Rings</i>",
+      "slug": "i-the-book-of-five-rings-i",
+      "count": 1
+    },
+    {
+      "name": "<i>The Book Thief</i>",
+      "slug": "i-the-book-thief-i",
+      "count": 2
+    },
+    {
+      "name": "<i>The Broken Wings</i>",
+      "slug": "i-the-broken-wings-i",
+      "count": 1
+    },
+    {
+      "name": "<i>The Caged Owl: New and Selected Poems</i>, ‘Tin Cup’",
+      "slug": "i-the-caged-owl-new-and-selected-poems-i-tin-cup",
+      "count": 2
+    },
+    {
+      "name": "<i>The Captain is Out to Lunch and the Sailors have taken over the Ship</i>",
+      "slug": "i-the-captain-is-out-to-lunch-and-the-sailors-have-taken-over-the-ship-i",
+      "count": 1
+    },
+    {
+      "name": "<i>The Castle</i>",
+      "slug": "i-the-castle-i",
+      "count": 1
+    },
+    {
+      "name": "<i>The Catcher in the Rye</i>",
+      "slug": "i-the-catcher-in-the-rye-i",
+      "count": 1
+    },
+    {
+      "name": "<i>The Chronology of Water</i>, 2011",
+      "slug": "i-the-chronology-of-water-i-2011",
+      "count": 1
+    },
+    {
+      "name": "<i>The Complete Sayings of Hazrat Inayat Khan</i>, 1978",
+      "slug": "i-the-complete-sayings-of-hazrat-inayat-khan-i-1978",
+      "count": 1
+    },
+    {
+      "name": "<i>The Complete Works of Friedrich Nietzsche (1911)</i>",
+      "slug": "i-the-complete-works-of-friedrich-nietzsche-1911-i",
+      "count": 1
+    },
+    {
+      "name": "<i>The Critic as Artist</i>",
+      "slug": "i-the-critic-as-artist-i",
+      "count": 1
+    },
+    {
+      "name": "<i>The Demon-Haunted World: Science as a Candle in the Dark</i>",
+      "slug": "i-the-demon-haunted-world-science-as-a-candle-in-the-dark-i",
+      "count": 1
+    },
+    {
+      "name": "<i>The Devil's Dictionary</i>, 1906",
+      "slug": "i-the-devil-s-dictionary-i-1906",
+      "count": 1
+    },
+    {
+      "name": "<i>The Devil's Disciple</i>",
+      "slug": "i-the-devil-s-disciple-i",
+      "count": 1
+    },
+    {
+      "name": "<i>The Diary of Anaïs Nin: Vol. 1, 1931-1934</i>",
+      "slug": "i-the-diary-of-ana-s-nin-vol-1-1931-1934-i",
+      "count": 1
+    },
+    {
+      "name": "<i>The Diary Of Anaïs Nin: Vol. 2, 1934-1939</i>",
+      "slug": "i-the-diary-of-ana-s-nin-vol-2-1934-1939-i",
+      "count": 1
+    },
+    {
+      "name": "<i>The Dream of a Common Language</i>, 1978: <a href=\"http://blackasacrowswing.blogspot.com/2007/06/origins-and-history-of-consciousness.html\">Origins and History of Consciousness</a>",
+      "slug": "i-the-dream-of-a-common-language-i-1978-a-href-http-blackasacrowswing-blogspot-com-2007-06-origins-and-history-of-consciousness-html-origins-and-history-of-consciousness-a",
+      "count": 1
+    },
+    {
+      "name": "<i>The Empty Book</i>",
+      "slug": "i-the-empty-book-i",
+      "count": 1
+    },
+    {
+      "name": "<i>The End</i>",
+      "slug": "i-the-end-i",
+      "count": 1
+    },
+    {
+      "name": "<i>The Ersatz Elevator</i>",
+      "slug": "i-the-ersatz-elevator-i",
+      "count": 1
+    },
+    {
+      "name": "<i>The First Bad Man</i>",
+      "slug": "i-the-first-bad-man-i",
+      "count": 1
+    },
+    {
+      "name": "<i>The Five People You Meet in Heaven</i>, 2003",
+      "slug": "i-the-five-people-you-meet-in-heaven-i-2003",
+      "count": 1
+    },
+    {
+      "name": "<i>The Flies</i>",
+      "slug": "i-the-flies-i",
+      "count": 1
+    },
+    {
+      "name": "<i>The Flow of the River</i>",
+      "slug": "i-the-flow-of-the-river-i",
+      "count": 1
+    },
+    {
+      "name": "<i>The Fortune Teller</i>, 1987",
+      "slug": "i-the-fortune-teller-i-1987",
+      "count": 1
+    },
+    {
+      "name": "<i>The Garden of Forking Paths</i>",
+      "slug": "i-the-garden-of-forking-paths-i",
+      "count": 1
+    },
+    {
+      "name": "<i>The God of Small Things</i>",
+      "slug": "i-the-god-of-small-things-i",
+      "count": 1
+    },
+    {
+      "name": "<i>The Golden Compass</i>",
+      "slug": "i-the-golden-compass-i",
+      "count": 1
+    },
+    {
+      "name": "<i>The Goldfinch</i>",
+      "slug": "i-the-goldfinch-i",
+      "count": 4
+    },
+    {
+      "name": "<i>The Graveyard Book</i>",
+      "slug": "i-the-graveyard-book-i",
+      "count": 1
+    },
+    {
+      "name": "<i>The Green Door</i>",
+      "slug": "i-the-green-door-i",
+      "count": 1
+    },
+    {
+      "name": "<i>The Green Knight</i>",
+      "slug": "i-the-green-knight-i",
+      "count": 1
+    },
+    {
+      "name": "<i>The Handmaid's Tale</i>, 1985",
+      "slug": "i-the-handmaid-s-tale-i-1985",
+      "count": 1
+    },
+    {
+      "name": "<i>The Hardest Part</i>",
+      "slug": "i-the-hardest-part-i",
+      "count": 1
+    },
+    {
+      "name": "<i>The Hero's Journey</i>, 1991",
+      "slug": "i-the-hero-s-journey-i-1991",
+      "count": 1
+    },
+    {
+      "name": "<i>The Hostile Hospital</i>",
+      "slug": "i-the-hostile-hospital-i",
+      "count": 1
+    },
+    {
+      "name": "<i>The House with the Mezzanine</i>",
+      "slug": "i-the-house-with-the-mezzanine-i",
+      "count": 1
+    },
+    {
+      "name": "<i>The Humans</i>",
+      "slug": "i-the-humans-i",
+      "count": 1
+    },
+    {
+      "name": "<i>The Hundred Thousand Kingdoms</i>, 2010",
+      "slug": "i-the-hundred-thousand-kingdoms-i-2010",
+      "count": 1
+    },
+    {
+      "name": "<i>The Importance of Being Earnest</i>",
+      "slug": "i-the-importance-of-being-earnest-i",
+      "count": 1
+    },
+    {
+      "name": "<i>The Importance of Living</i>, 1937",
+      "slug": "i-the-importance-of-living-i-1937",
+      "count": 1
+    },
+    {
+      "name": "<i>The Iraqi Nights</i>, ‘Song from Another Time’",
+      "slug": "i-the-iraqi-nights-i-song-from-another-time",
+      "count": 1
+    },
+    {
+      "name": "<i>The Kindly Ones</i>",
+      "slug": "i-the-kindly-ones-i",
+      "count": 2
+    },
+    {
+      "name": "<i>The Language of the Night: Essays on Fantasy and Science Fiction</i>, ‘Escape Routes,’ 1974",
+      "slug": "i-the-language-of-the-night-essays-on-fantasy-and-science-fiction-i-escape-routes-1974",
+      "count": 1
+    },
+    {
+      "name": "<i>The Last Continent</i>",
+      "slug": "i-the-last-continent-i",
+      "count": 1
+    },
+    {
+      "name": "<i>The Last Lecture</i>",
+      "slug": "i-the-last-lecture-i",
+      "count": 2
+    },
+    {
+      "name": "<i>The Lathe of Heaven</i>, 1971",
+      "slug": "i-the-lathe-of-heaven-i-1971",
+      "count": 1
+    },
+    {
+      "name": "<i>The Laugh of the Medusa</i>",
+      "slug": "i-the-laugh-of-the-medusa-i",
+      "count": 1
+    },
+    {
+      "name": "<i>The Letters of Sylvia Plath Volume 1: 1940-1956</i>",
+      "slug": "i-the-letters-of-sylvia-plath-volume-1-1940-1956-i",
+      "count": 1
+    },
+    {
+      "name": "<i>The Little Prince</i>",
+      "slug": "i-the-little-prince-i",
+      "count": 1
+    },
+    {
+      "name": "<i>The Living Series</i>, 1980",
+      "slug": "i-the-living-series-i-1980",
+      "count": 1
+    },
+    {
+      "name": "<i>The Lonely City</i>, 2016",
+      "slug": "i-the-lonely-city-i-2016",
+      "count": 1
+    },
+    {
+      "name": "<i>The Love of The Last Tycoon</i>",
+      "slug": "i-the-love-of-the-last-tycoon-i",
+      "count": 1
+    },
+    {
+      "name": "<i>The Lover's Dictionary</i>",
+      "slug": "i-the-lover-s-dictionary-i",
+      "count": 2
+    },
+    {
+      "name": "<i>The Magic My Body Becomes: Poems</i>, ‘Ghada says’",
+      "slug": "i-the-magic-my-body-becomes-poems-i-ghada-says",
+      "count": 1
+    },
+    {
+      "name": "<i>The Magnus Archives</i>, 2019: ‘Big Picture’",
+      "slug": "i-the-magnus-archives-i-2019-big-picture",
+      "count": 1
+    },
+    {
+      "name": "<i>The Marquis of Lossie</i>, 1877",
+      "slug": "i-the-marquis-of-lossie-i-1877",
+      "count": 1
+    },
+    {
+      "name": "<i>The Metamorphosis, In the Penal Colony and Other Stories</i> [Forward]",
+      "slug": "i-the-metamorphosis-in-the-penal-colony-and-other-stories-i-forward",
+      "count": 1
+    },
+    {
+      "name": "<i>The Missing Light on Shorter Days</i>",
+      "slug": "i-the-missing-light-on-shorter-days-i",
+      "count": 1
+    },
+    {
+      "name": "<i>The Myth of Sisyphus</i>",
+      "slug": "i-the-myth-of-sisyphus-i",
+      "count": 1
+    },
+    {
+      "name": "<i>The Old Man and the Sea</i>, 1952",
+      "slug": "i-the-old-man-and-the-sea-i-1952",
+      "count": 1
+    },
+    {
+      "name": "<i>The Ones Who Walk Away from Omelas</i>, 1973",
+      "slug": "i-the-ones-who-walk-away-from-omelas-i-1973",
+      "count": 3
+    },
+    {
+      "name": "<i>The Pale King</i>",
+      "slug": "i-the-pale-king-i",
+      "count": 1
+    },
+    {
+      "name": "<i>The Passion According to G.H.</i>, 1964",
+      "slug": "i-the-passion-according-to-g-h-i-1964",
+      "count": 1
+    },
+    {
+      "name": "<i>The Penelopiad</i>, 2005",
+      "slug": "i-the-penelopiad-i-2005",
+      "count": 1
+    },
+    {
+      "name": "<i>The People Look Like Flowers At Last: New Poems</i>",
+      "slug": "i-the-people-look-like-flowers-at-last-new-poems-i",
+      "count": 1
+    },
+    {
+      "name": "<i>The Perjured City</i>",
+      "slug": "i-the-perjured-city-i",
+      "count": 1
+    },
+    {
+      "name": "<i>The Picture of Dorian Gray</i>",
+      "slug": "i-the-picture-of-dorian-gray-i",
+      "count": 2
+    },
+    {
+      "name": "<i>The Portrait of a Lady</i>",
+      "slug": "i-the-portrait-of-a-lady-i",
+      "count": 1
+    },
+    {
+      "name": "<i>The Power and the Glory</i>",
+      "slug": "i-the-power-and-the-glory-i",
+      "count": 1
+    },
+    {
+      "name": "<i>The Power of Intention</i>",
+      "slug": "i-the-power-of-intention-i",
+      "count": 1
+    },
+    {
+      "name": "<i>The Problem of Pain</i>",
+      "slug": "i-the-problem-of-pain-i",
+      "count": 1
+    },
+    {
+      "name": "<i>The Prophecy</i>, 1995",
+      "slug": "i-the-prophecy-i-1995",
+      "count": 1
+    },
+    {
+      "name": "<i>The Prophet</i>",
+      "slug": "i-the-prophet-i",
+      "count": 1
+    },
+    {
+      "name": "<i>The Restaurant at the End of the Universe</i>, 1980",
+      "slug": "i-the-restaurant-at-the-end-of-the-universe-i-1980",
+      "count": 1
+    },
+    {
+      "name": "<i>The Resurrection of Aubrey Miller</i>",
+      "slug": "i-the-resurrection-of-aubrey-miller-i",
+      "count": 1
+    },
+    {
+      "name": "<i>The Search for Signs of Intelligent Life in the Universe</i>",
+      "slug": "i-the-search-for-signs-of-intelligent-life-in-the-universe-i",
+      "count": 1
+    },
+    {
+      "name": "<i>The Second Sex</i>, 1949",
+      "slug": "i-the-second-sex-i-1949",
+      "count": 1
+    },
+    {
+      "name": "<i>The Secret History</i>",
+      "slug": "i-the-secret-history-i",
+      "count": 8
+    },
+    {
+      "name": "<i>The Sensible Thing</i>",
+      "slug": "i-the-sensible-thing-i",
+      "count": 2
+    },
+    {
+      "name": "<i>The Serenity Prayer</i>, c. 1942",
+      "slug": "i-the-serenity-prayer-i-c-1942",
+      "count": 1
+    },
+    {
+      "name": "<i>The Silent Sister</i>",
+      "slug": "i-the-silent-sister-i",
+      "count": 1
+    },
+    {
+      "name": "<i>The Small Backs of Children</i>, 2015",
+      "slug": "i-the-small-backs-of-children-i-2015",
+      "count": 1
+    },
+    {
+      "name": "<i>The Soul of Man, and Prison Writings</i>",
+      "slug": "i-the-soul-of-man-and-prison-writings-i",
+      "count": 1
+    },
+    {
+      "name": "<i>The Stand</i>",
+      "slug": "i-the-stand-i",
+      "count": 1
+    },
+    {
+      "name": "<i>The Start of Me and You</i>",
+      "slug": "i-the-start-of-me-and-you-i",
+      "count": 1
+    },
+    {
+      "name": "<i>The Stories of Vladimir Nabokov</i>",
+      "slug": "i-the-stories-of-vladimir-nabokov-i",
+      "count": 1
+    },
+    {
+      "name": "<i>The Stream of Life</i>, 1973",
+      "slug": "i-the-stream-of-life-i-1973",
+      "count": 2
+    },
+    {
+      "name": "<i>The Sun Is Also a Star</i>, 2016",
+      "slug": "i-the-sun-is-also-a-star-i-2016",
+      "count": 1
+    },
+    {
+      "name": "<i>The Tempest</i>",
+      "slug": "i-the-tempest-i",
+      "count": 1
+    },
+    {
+      "name": "<i>The Truth About Forever</i>",
+      "slug": "i-the-truth-about-forever-i",
+      "count": 1
+    },
+    {
+      "name": "<i>The Two Towers</i>",
+      "slug": "i-the-two-towers-i",
+      "count": 1
+    },
+    {
+      "name": "<i>The Warded Man</i>",
+      "slug": "i-the-warded-man-i",
+      "count": 1
+    },
+    {
+      "name": "<i>The Waves</i>",
+      "slug": "i-the-waves-i",
+      "count": 4
+    },
+    {
+      "name": "<i>The Wild Iris</i>, ‘Vespers’",
+      "slug": "i-the-wild-iris-i-vespers",
+      "count": 1
+    },
+    {
+      "name": "<i>The Wind-Up Bird Chronicle</i>",
+      "slug": "i-the-wind-up-bird-chronicle-i",
+      "count": 1
+    },
+    {
+      "name": "<i>The Wind's Twelve Quarters</i>, 1975",
+      "slug": "i-the-wind-s-twelve-quarters-i-1975",
+      "count": 1
+    },
+    {
+      "name": "<i>The Women of Brewster Place</i>, 2005",
+      "slug": "i-the-women-of-brewster-place-i-2005",
+      "count": 1
+    },
+    {
+      "name": "<i>Their Eyes Were Watching God</i>",
+      "slug": "i-their-eyes-were-watching-god-i",
+      "count": 1
+    },
+    {
+      "name": "<i>This Lullaby</i>",
+      "slug": "i-this-lullaby-i",
+      "count": 1
+    },
+    {
+      "name": "<i>This Song Will Save Your Life</i>",
+      "slug": "i-this-song-will-save-your-life-i",
+      "count": 3
+    },
+    {
+      "name": "<i>Throne of Glass</i>",
+      "slug": "i-throne-of-glass-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Thus Spoke Zarathustra</i>",
+      "slug": "i-thus-spoke-zarathustra-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Till We Have Faces: A Myth Retold</i>",
+      "slug": "i-till-we-have-faces-a-myth-retold-i",
+      "count": 2
+    },
+    {
+      "name": "<i>Tiny Beautiful Things: Advice on Love and Life from Dear Sugar</i>, 2012",
+      "slug": "i-tiny-beautiful-things-advice-on-love-and-life-from-dear-sugar-i-2012",
+      "count": 1
+    },
+    {
+      "name": "<i>Tower of Babylon</i>",
+      "slug": "i-tower-of-babylon-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Tractatus Theologico-Politicus</i>",
+      "slug": "i-tractatus-theologico-politicus-i",
+      "count": 1
+    },
+    {
+      "name": "<i>True Love</i>, 1977",
+      "slug": "i-true-love-i-1977",
+      "count": 1
+    },
+    {
+      "name": "<i>Tuesdays with Morrie</i>, 1997",
+      "slug": "i-tuesdays-with-morrie-i-1997",
+      "count": 1
+    },
+    {
+      "name": "<i>Turn Coat</i>",
+      "slug": "i-turn-coat-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Twenty Love Poems and a Song of Despair</i>, 1924",
+      "slug": "i-twenty-love-poems-and-a-song-of-despair-i-1924",
+      "count": 1
+    },
+    {
+      "name": "<i>Understand</i>",
+      "slug": "i-understand-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Unguided Tour</i>",
+      "slug": "i-unguided-tour-i",
+      "count": 2
+    },
+    {
+      "name": "<i>Unholy Sonnets</i>",
+      "slug": "i-unholy-sonnets-i",
+      "count": 1
+    },
+    {
+      "name": "<i>V for Vendetta</i>",
+      "slug": "i-v-for-vendetta-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Vanishing Girls</i>",
+      "slug": "i-vanishing-girls-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Villemain</i>",
+      "slug": "i-villemain-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Voces</i>, 1943",
+      "slug": "i-voces-i-1943",
+      "count": 1
+    },
+    {
+      "name": "<i>Waitress</i>",
+      "slug": "i-waitress-i",
+      "count": 1
+    },
+    {
+      "name": "<i>War of the Foxes</i>, ‘Portrait of Fryderyk in Shifting Light’",
+      "slug": "i-war-of-the-foxes-i-portrait-of-fryderyk-in-shifting-light",
+      "count": 1
+    },
+    {
+      "name": "<i>Wasted: A Memoir of Anorexia and Bulimia</i>",
+      "slug": "i-wasted-a-memoir-of-anorexia-and-bulimia-i",
+      "count": 2
+    },
+    {
+      "name": "<i>Welcome to Night Vale</i>, 2012: ‘The Candidate’",
+      "slug": "i-welcome-to-night-vale-i-2012-the-candidate",
+      "count": 1
+    },
+    {
+      "name": "<i>What is Found There: Notebooks on Poetry and Politics</i>, 1993: ‘As if Your Life Depended on It’",
+      "slug": "i-what-is-found-there-notebooks-on-poetry-and-politics-i-1993-as-if-your-life-depended-on-it",
+      "count": 1
+    },
+    {
+      "name": "<i>When Did You See Her Last?</i>",
+      "slug": "i-when-did-you-see-her-last-i",
+      "count": 1
+    },
+    {
+      "name": "<i>White Hot Truth</i>",
+      "slug": "i-white-hot-truth-i",
+      "count": 1
+    },
+    {
+      "name": "<i>White Nights</i>, 1848",
+      "slug": "i-white-nights-i-1848",
+      "count": 1
+    },
+    {
+      "name": "<i>Who Could That Be at This Hour?</i>",
+      "slug": "i-who-could-that-be-at-this-hour-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Why We Came to the City</i>",
+      "slug": "i-why-we-came-to-the-city-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Winnie-the-Pooh</i>",
+      "slug": "i-winnie-the-pooh-i",
+      "count": 7
+    },
+    {
+      "name": "<i>Wish I Was Here</i>, Blinds",
+      "slug": "i-wish-i-was-here-i-blinds",
+      "count": 1
+    },
+    {
+      "name": "<i>Wish I Was Here</i>, The Silence",
+      "slug": "i-wish-i-was-here-i-the-silence",
+      "count": 1
+    },
+    {
+      "name": "<i>Witches Abroad</i>",
+      "slug": "i-witches-abroad-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Woman Hollering Creek and Other Stories</i>",
+      "slug": "i-woman-hollering-creek-and-other-stories-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Women</i>",
+      "slug": "i-women-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Worlds of You: Poetry &amp; Prose</i>, ‘And You’",
+      "slug": "i-worlds-of-you-poetry-amp-prose-i-and-you",
+      "count": 1
+    },
+    {
+      "name": "<i>Worlds of You: Poetry &amp; Prose</i>, ‘The Awful Truth’",
+      "slug": "i-worlds-of-you-poetry-amp-prose-i-the-awful-truth",
+      "count": 1
+    },
+    {
+      "name": "<i>Written on the Body</i>, 1992",
+      "slug": "i-written-on-the-body-i-1992",
+      "count": 1
+    },
+    {
+      "name": "<i>Wuthering Heights</i>",
+      "slug": "i-wuthering-heights-i",
+      "count": 2
+    },
+    {
+      "name": "<i>You Are Happy</i>, 1974: ‘Circe/Mud Poems’",
+      "slug": "i-you-are-happy-i-1974-circe-mud-poems",
+      "count": 1
+    },
+    {
+      "name": "<i>You'll Get Through This: Hope and Help for Your Turbulent Times</i>",
+      "slug": "i-you-ll-get-through-this-hope-and-help-for-your-turbulent-times-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Zami: A New Spelling of My Name</i>",
+      "slug": "i-zami-a-new-spelling-of-my-name-i",
+      "count": 1
+    },
+    {
+      "name": "<i>Zetsuen no Tempest</i>",
+      "slug": "i-zetsuen-no-tempest-i",
+      "count": 1
+    },
+    {
+      "name": "1978 Peace Prize Acceptance Speech",
+      "slug": "1978-peace-prize-acceptance-speech",
+      "count": 4
+    },
     {
       "name": "1984",
       "slug": "1984",
@@ -3075,6 +6085,106 @@
       "count": 1
     },
     {
+      "name": "as cited by <i>Time</i> magazine (<a href=\"http://content.time.com/time/magazine/article/0,9171,916554,00.html\">x</a>)",
+      "slug": "as-cited-by-i-time-i-magazine-a-href-http-content-time-com-time-magazine-article-0-9171-916554-00-html-x-a",
+      "count": 1
+    },
+    {
+      "name": "as cited by A. E. Hotchner in <i>Papa Hemingway</i>, 1966",
+      "slug": "as-cited-by-a-e-hotchner-in-i-papa-hemingway-i-1966",
+      "count": 1
+    },
+    {
+      "name": "as cited by Arthur MacArthur in <i>Proceedings of the National Conference of Charities and Correction, at the Twelfth Annual Session Held in Washington, D.C., June 4-10, 1885</i>, 1885",
+      "slug": "as-cited-by-arthur-macarthur-in-i-proceedings-of-the-national-conference-of-charities-and-correction-at-the-twelfth-annual-session-held-in-washington-d-c-june-4-10-1885-i-1885",
+      "count": 1
+    },
+    {
+      "name": "as cited by Cindy Nemser in <i>Art Talk: Conversations With 15 Women Artists</i>",
+      "slug": "as-cited-by-cindy-nemser-in-i-art-talk-conversations-with-15-women-artists-i",
+      "count": 1
+    },
+    {
+      "name": "as cited by Daniel Mark Epstein in <i>What Lips My Lips Have Kissed: The Loves and Love Poems of Edna St. Vincent Millay</i>",
+      "slug": "as-cited-by-daniel-mark-epstein-in-i-what-lips-my-lips-have-kissed-the-loves-and-love-poems-of-edna-st-vincent-millay-i",
+      "count": 1
+    },
+    {
+      "name": "as cited by Daniello Bartoli in <i>History of the Life and Institute of St. Ignatius De Loyola, Vol. 4</i>",
+      "slug": "as-cited-by-daniello-bartoli-in-i-history-of-the-life-and-institute-of-st-ignatius-de-loyola-vol-4-i",
+      "count": 1
+    },
+    {
+      "name": "as cited by David B. Yaden in <i>The Overview Effect: Awe and Self-Transcendent Experience in Space Flight</i>",
+      "slug": "as-cited-by-david-b-yaden-in-i-the-overview-effect-awe-and-self-transcendent-experience-in-space-flight-i",
+      "count": 1
+    },
+    {
+      "name": "as cited by James Grissom in <i>Follies of God: Tennessee Williams and the Women of the Fog</i>",
+      "slug": "as-cited-by-james-grissom-in-i-follies-of-god-tennessee-williams-and-the-women-of-the-fog-i",
+      "count": 1
+    },
+    {
+      "name": "as cited by James Nelson in <i>Wisdom: Conversations with the Elder Wise Men of Our Day</i>",
+      "slug": "as-cited-by-james-nelson-in-i-wisdom-conversations-with-the-elder-wise-men-of-our-day-i",
+      "count": 1
+    },
+    {
+      "name": "as cited by Ray Josephs in <i>The Cincinnati Enquirer</i>, 1954 September 5 (<a href=\"https://quoteinvestigator.com/2018/04/01/life-goes/\">x</a>)",
+      "slug": "as-cited-by-ray-josephs-in-i-the-cincinnati-enquirer-i-1954-september-5-a-href-https-quoteinvestigator-com-2018-04-01-life-goes-x-a",
+      "count": 1
+    },
+    {
+      "name": "as cited by Richard Evans in <i>Richard Evans' Quote Book</i>, 1971",
+      "slug": "as-cited-by-richard-evans-in-i-richard-evans-quote-book-i-1971",
+      "count": 1
+    },
+    {
+      "name": "as cited by the National Aquarium (<a href=\"https://www.facebook.com/nationalaquarium/photos/with-every-drop-you-drink-every-breath-you-take-youre-connected-to-the-sea-sylvi/10155524336876174/\">x</a>)",
+      "slug": "as-cited-by-the-national-aquarium-a-href-https-www-facebook-com-nationalaquarium-photos-with-every-drop-you-drink-every-breath-you-take-youre-connected-to-the-sea-sylvi-10155524336876174-x-a",
+      "count": 1
+    },
+    {
+      "name": "as cited by William Thompson and Kim Sorvig in <i>Sustainable Landscape Construction: A Guide to Green Building Outdoors</i>",
+      "slug": "as-cited-by-william-thompson-and-kim-sorvig-in-i-sustainable-landscape-construction-a-guide-to-green-building-outdoors-i",
+      "count": 1
+    },
+    {
+      "name": "as cited in <i>All by Myself: The Eartha Kitt Story</i>, 1982",
+      "slug": "as-cited-in-i-all-by-myself-the-eartha-kitt-story-i-1982",
+      "count": 1
+    },
+    {
+      "name": "as cited in <i>Conversations with Kazuo Ishiguro</i>, 2008",
+      "slug": "as-cited-in-i-conversations-with-kazuo-ishiguro-i-2008",
+      "count": 1
+    },
+    {
+      "name": "as cited in <i>The Essential Rumi</i>, 1995, translated by Coleman Barks",
+      "slug": "as-cited-in-i-the-essential-rumi-i-1995-translated-by-coleman-barks",
+      "count": 3
+    },
+    {
+      "name": "as cited in <i>The Ink Dark Moon: Love Poems</i>, 1990, translated by Jane Hirshfield",
+      "slug": "as-cited-in-i-the-ink-dark-moon-love-poems-i-1990-translated-by-jane-hirshfield",
+      "count": 1
+    },
+    {
+      "name": "as cited in <i>The World According to Mister Rogers: Important Things to Remember</i>, 2004",
+      "slug": "as-cited-in-i-the-world-according-to-mister-rogers-important-things-to-remember-i-2004",
+      "count": 1
+    },
+    {
+      "name": "as quoted by Arthur Hedley in <i>Chopin</i>",
+      "slug": "as-quoted-by-arthur-hedley-in-i-chopin-i",
+      "count": 1
+    },
+    {
+      "name": "as quoted by Toby Cole and Helen Krich in <i>Actors on Acting</i>, 1970",
+      "slug": "as-quoted-by-toby-cole-and-helen-krich-in-i-actors-on-acting-i-1970",
+      "count": 1
+    },
+    {
       "name": "As You Like It (Act 2, Scene 1)",
       "slug": "as-you-like-it-act-2-scene-1",
       "count": 1
@@ -3087,6 +6197,11 @@
     {
       "name": "As You Like It (Act 3, Scene 5)",
       "slug": "as-you-like-it-act-3-scene-5",
+      "count": 1
+    },
+    {
+      "name": "at the Saenger Theatre in New Orleans: May 9, 2015",
+      "slug": "at-the-saenger-theatre-in-new-orleans-may-9-2015",
       "count": 1
     },
     {
@@ -3175,6 +6290,36 @@
       "count": 1
     },
     {
+      "name": "dir. <i>Blade Runner</i>, 1982",
+      "slug": "dir-i-blade-runner-i-1982",
+      "count": 1
+    },
+    {
+      "name": "dir. <i>Green Street Hooligans</i>, 2005",
+      "slug": "dir-i-green-street-hooligans-i-2005",
+      "count": 1
+    },
+    {
+      "name": "dir. <i>Lemony Snicket's A Series of Unfortunate Events</i>, 2004",
+      "slug": "dir-i-lemony-snicket-s-a-series-of-unfortunate-events-i-2004",
+      "count": 1
+    },
+    {
+      "name": "dir. <i>Pokémon: The First Movie: Mewtwo Strikes Back</i>, 1998",
+      "slug": "dir-i-pok-mon-the-first-movie-mewtwo-strikes-back-i-1998",
+      "count": 1
+    },
+    {
+      "name": "dir. <i>The Grand Budapest Hotel</i>, 2014",
+      "slug": "dir-i-the-grand-budapest-hotel-i-2014",
+      "count": 1
+    },
+    {
+      "name": "dir. <i>Troy</i>, 2004",
+      "slug": "dir-i-troy-i-2004",
+      "count": 1
+    },
+    {
       "name": "Discourse on the Method",
       "slug": "discourse-on-the-method",
       "count": 1
@@ -3205,6 +6350,41 @@
       "count": 1
     },
     {
+      "name": "fragment 120, translated by Anne Carson",
+      "slug": "fragment-120-translated-by-anne-carson",
+      "count": 1
+    },
+    {
+      "name": "fragment 147, translated by Anne Carson",
+      "slug": "fragment-147-translated-by-anne-carson",
+      "count": 1
+    },
+    {
+      "name": "fragment 148, translated by Anne Carson",
+      "slug": "fragment-148-translated-by-anne-carson",
+      "count": 1
+    },
+    {
+      "name": "fragment 42, translated by Anne Carson",
+      "slug": "fragment-42-translated-by-anne-carson",
+      "count": 1
+    },
+    {
+      "name": "fragment 50, translated by Anne Carson",
+      "slug": "fragment-50-translated-by-anne-carson",
+      "count": 1
+    },
+    {
+      "name": "fragment 56, translated by Anne Carson",
+      "slug": "fragment-56-translated-by-anne-carson",
+      "count": 1
+    },
+    {
+      "name": "fragment 94, translated by <a href=\"http://figrootpress.com/\">Figroot Press</a>",
+      "slug": "fragment-94-translated-by-a-href-http-figrootpress-com-figroot-press-a",
+      "count": 1
+    },
+    {
       "name": "From Letters to a Young Poet",
       "slug": "from-letters-to-a-young-poet",
       "count": 1
@@ -3228,6 +6408,16 @@
       "name": "Gawain and the Green Knight",
       "slug": "gawain-and-the-green-knight",
       "count": 6
+    },
+    {
+      "name": "greeting card",
+      "slug": "greeting-card",
+      "count": 1
+    },
+    {
+      "name": "greeting cards",
+      "slug": "greeting-cards",
+      "count": 8
     },
     {
       "name": "Guardian Cats and the Lost Books of Alexandria",
@@ -3327,6 +6517,181 @@
     {
       "name": "I tell myself, it's the enticing lull of the moon and her shadow",
       "slug": "i-tell-myself-it-s-the-enticing-lull-of-the-moon-and-her-shadow",
+      "count": 1
+    },
+    {
+      "name": "in a diary entry",
+      "slug": "in-a-diary-entry",
+      "count": 14
+    },
+    {
+      "name": "in a letter to Alexander Chekhov",
+      "slug": "in-a-letter-to-alexander-chekhov",
+      "count": 1
+    },
+    {
+      "name": "in a letter to Alfred Stieglitz",
+      "slug": "in-a-letter-to-alfred-stieglitz",
+      "count": 1
+    },
+    {
+      "name": "in a letter to Aurelia Plath, c. November 1950",
+      "slug": "in-a-letter-to-aurelia-plath-c-november-1950",
+      "count": 1
+    },
+    {
+      "name": "in a letter to Catherine May Scott c. August 1848",
+      "slug": "in-a-letter-to-catherine-may-scott-c-august-1848",
+      "count": 1
+    },
+    {
+      "name": "in a letter to Elizabeth Holland c. 20 January 1856 (<a href=\"http://www.emilydickinson.it/l0181-0200.html\">x</a>)",
+      "slug": "in-a-letter-to-elizabeth-holland-c-20-january-1856-a-href-http-www-emilydickinson-it-l0181-0200-html-x-a",
+      "count": 1
+    },
+    {
+      "name": "in a letter to F. Scott Fitzgerald, February 1935",
+      "slug": "in-a-letter-to-f-scott-fitzgerald-february-1935",
+      "count": 1
+    },
+    {
+      "name": "in a letter to Felice Bauer",
+      "slug": "in-a-letter-to-felice-bauer",
+      "count": 2
+    },
+    {
+      "name": "in a letter to Franz Overbeck",
+      "slug": "in-a-letter-to-franz-overbeck",
+      "count": 1
+    },
+    {
+      "name": "in a letter to George Sand, c. November 1870",
+      "slug": "in-a-letter-to-george-sand-c-november-1870",
+      "count": 1
+    },
+    {
+      "name": "in a letter to Hans-Joachim Neupert, c. January 1950",
+      "slug": "in-a-letter-to-hans-joachim-neupert-c-january-1950",
+      "count": 1
+    },
+    {
+      "name": "in a letter to John Middleton Murry",
+      "slug": "in-a-letter-to-john-middleton-murry",
+      "count": 1
+    },
+    {
+      "name": "in a letter to Max Brod",
+      "slug": "in-a-letter-to-max-brod",
+      "count": 1
+    },
+    {
+      "name": "in a letter to Maxwell Perkins, c. April 1932",
+      "slug": "in-a-letter-to-maxwell-perkins-c-april-1932",
+      "count": 1
+    },
+    {
+      "name": "in a letter to Milena Jesenská",
+      "slug": "in-a-letter-to-milena-jesensk",
+      "count": 1
+    },
+    {
+      "name": "in a letter to Richard Sassoon",
+      "slug": "in-a-letter-to-richard-sassoon",
+      "count": 1
+    },
+    {
+      "name": "in a letter to Robert Browning",
+      "slug": "in-a-letter-to-robert-browning",
+      "count": 1
+    },
+    {
+      "name": "in a letter to Robert Hooke",
+      "slug": "in-a-letter-to-robert-hooke",
+      "count": 1
+    },
+    {
+      "name": "in a letter to Russel Vernon Hunter",
+      "slug": "in-a-letter-to-russel-vernon-hunter",
+      "count": 1
+    },
+    {
+      "name": "in a letter to Theo van Gogh",
+      "slug": "in-a-letter-to-theo-van-gogh",
+      "count": 5
+    },
+    {
+      "name": "in a letter to Thomas Moore",
+      "slug": "in-a-letter-to-thomas-moore",
+      "count": 1
+    },
+    {
+      "name": "in a letter to Véra Nabokov, 12 January 1924",
+      "slug": "in-a-letter-to-v-ra-nabokov-12-january-1924",
+      "count": 1
+    },
+    {
+      "name": "in a letter to William Packard",
+      "slug": "in-a-letter-to-william-packard",
+      "count": 1
+    },
+    {
+      "name": "in a letter to Witold Hulewicz",
+      "slug": "in-a-letter-to-witold-hulewicz",
+      "count": 1
+    },
+    {
+      "name": "in a letter to Witter Bynner",
+      "slug": "in-a-letter-to-witter-bynner",
+      "count": 1
+    },
+    {
+      "name": "in an interview (<a href=\"http://www.divedapper.com/interview/roger-reeves/\">x</a>)",
+      "slug": "in-an-interview-a-href-http-www-divedapper-com-interview-roger-reeves-x-a",
+      "count": 1
+    },
+    {
+      "name": "in an interview (<a href=\"https://bombmagazine.org/articles/tsai-ming-liang/\">x</a>)",
+      "slug": "in-an-interview-a-href-https-bombmagazine-org-articles-tsai-ming-liang-x-a",
+      "count": 1
+    },
+    {
+      "name": "in an interview (<a href=\"https://www.hollywoodreporter.com/news/guillermo-del-toro-talks-tequila-previews-shape-water-1024304\">x</a>)",
+      "slug": "in-an-interview-a-href-https-www-hollywoodreporter-com-news-guillermo-del-toro-talks-tequila-previews-shape-water-1024304-x-a",
+      "count": 1
+    },
+    {
+      "name": "in an interview (<a href=\"https://www.nowaterriver.com/poetry-friday-kids-classic-the-lake-isle-of-innisfree-by-william-butler-yeats/\">x</a>)",
+      "slug": "in-an-interview-a-href-https-www-nowaterriver-com-poetry-friday-kids-classic-the-lake-isle-of-innisfree-by-william-butler-yeats-x-a",
+      "count": 1
+    },
+    {
+      "name": "in an interview (<a href=\"https://www.nytimes.com/1985/10/09/us/graham-greene-how-do-you-do-it.html\">x</a>)",
+      "slug": "in-an-interview-a-href-https-www-nytimes-com-1985-10-09-us-graham-greene-how-do-you-do-it-html-x-a",
+      "count": 1
+    },
+    {
+      "name": "in an interview (<a href=\"https://www.rollingstone.com/movies/movie-features/interview-winona-ryder-64096/\">x</a>)",
+      "slug": "in-an-interview-a-href-https-www-rollingstone-com-movies-movie-features-interview-winona-ryder-64096-x-a",
+      "count": 1
+    },
+    {
+      "name": "in an interview (<a href=\"https://www.telegraph.co.uk/culture/film/starsandstories/8681355/Audrey-Tautou-I-didnt-want-this-power.html\">x</a>)",
+      "slug": "in-an-interview-a-href-https-www-telegraph-co-uk-culture-film-starsandstories-8681355-audrey-tautou-i-didnt-want-this-power-html-x-a",
+      "count": 1
+    },
+    {
+      "name": "in an interview conducted c. October 2015",
+      "slug": "in-an-interview-conducted-c-october-2015",
+      "count": 1
+    },
+    {
+      "name": "in an interview for <i>MTV News</i>, October 4, 1996 (<a href=\"http://www.mtv.com/news/1424984/fiona-apples-cinderella-story/\">x</a>)",
+      "slug": "in-an-interview-for-i-mtv-news-i-october-4-1996-a-href-http-www-mtv-com-news-1424984-fiona-apples-cinderella-story-x-a",
+      "count": 1
+    },
+    {
+      "name": "in an interview for <i>W</i> Magazine",
+      "slug": "in-an-interview-for-i-w-i-magazine",
       "count": 1
     },
     {
@@ -3805,6 +7170,11 @@
       "count": 1
     },
     {
+      "name": "Tim O'Brien <i>The Things They Carried</i>",
+      "slug": "tim-o-brien-i-the-things-they-carried-i",
+      "count": 1
+    },
+    {
       "name": "Timon of Athens (Act 4, Scene 3)",
       "slug": "timon-of-athens-act-4-scene-3",
       "count": 3
@@ -3864,12 +7234,17 @@
     {
       "name": "A.A. Milne",
       "slug": "a-a-milne",
-      "count": 7
+      "count": 14
     },
     {
       "name": "A.A. Milne,",
       "slug": "a-a-milne",
       "count": 5
+    },
+    {
+      "name": "A.C. Swinburne",
+      "slug": "a-c-swinburne",
+      "count": 1
     },
     {
       "name": "A.D. Aliwat",
@@ -3897,6 +7272,21 @@
       "count": 10
     },
     {
+      "name": "Abraham Maslow",
+      "slug": "abraham-maslow",
+      "count": 1
+    },
+    {
+      "name": "Adam Brooks",
+      "slug": "adam-brooks",
+      "count": 1
+    },
+    {
+      "name": "Adam Falkner",
+      "slug": "adam-falkner",
+      "count": 1
+    },
+    {
       "name": "Admiral Ackbar",
       "slug": "admiral-ackbar",
       "count": 1
@@ -3914,7 +7304,7 @@
     {
       "name": "Adrienne Rich",
       "slug": "adrienne-rich",
-      "count": 1
+      "count": 4
     },
     {
       "name": "Agatha Christie",
@@ -3925,6 +7315,11 @@
       "name": "Agatha Christie,",
       "slug": "agatha-christie",
       "count": 3
+    },
+    {
+      "name": "Alain de Botton",
+      "slug": "alain-de-botton",
+      "count": 2
     },
     {
       "name": "Alan Alda",
@@ -3954,7 +7349,7 @@
     {
       "name": "Albert Camus",
       "slug": "albert-camus",
-      "count": 13
+      "count": 16
     },
     {
       "name": "Albert Camus,",
@@ -3969,7 +7364,7 @@
     {
       "name": "Albert Einstein",
       "slug": "albert-einstein",
-      "count": 83
+      "count": 84
     },
     {
       "name": "Albert Einstein,",
@@ -3984,12 +7379,17 @@
     {
       "name": "Aldous Huxley",
       "slug": "aldous-huxley",
-      "count": 3
+      "count": 5
     },
     {
       "name": "Aldous Huxley,",
       "slug": "aldous-huxley",
       "count": 4
+    },
+    {
+      "name": "Aleksandr Solzhenitsyn",
+      "slug": "aleksandr-solzhenitsyn",
+      "count": 2
     },
     {
       "name": "Alex Haley",
@@ -4047,9 +7447,19 @@
       "count": 1
     },
     {
+      "name": "Alice Notley",
+      "slug": "alice-notley",
+      "count": 3
+    },
+    {
       "name": "Alice Walker",
       "slug": "alice-walker",
       "count": 3
+    },
+    {
+      "name": "Alixandra Bamford",
+      "slug": "alixandra-bamford",
+      "count": 1
     },
     {
       "name": "Allen Ginsberg",
@@ -4072,8 +7482,23 @@
       "count": 1
     },
     {
+      "name": "Ambrose Bierce",
+      "slug": "ambrose-bierce",
+      "count": 1
+    },
+    {
+      "name": "American McGee",
+      "slug": "american-mcgee",
+      "count": 1
+    },
+    {
       "name": "Amit Kalantri",
       "slug": "amit-kalantri",
+      "count": 1
+    },
+    {
+      "name": "Amitav Ghosh",
+      "slug": "amitav-ghosh",
       "count": 1
     },
     {
@@ -4104,7 +7529,7 @@
     {
       "name": "Anaïs Nin",
       "slug": "ana-s-nin",
-      "count": 3
+      "count": 11
     },
     {
       "name": "Anais Nin,",
@@ -4122,8 +7547,18 @@
       "count": 2
     },
     {
+      "name": "André Aciman",
+      "slug": "andr-aciman",
+      "count": 2
+    },
+    {
       "name": "Andre Aciman,",
       "slug": "andre-aciman",
+      "count": 1
+    },
+    {
+      "name": "Andre Gide",
+      "slug": "andre-gide",
       "count": 1
     },
     {
@@ -4137,8 +7572,28 @@
       "count": 1
     },
     {
+      "name": "Andrea Gibson",
+      "slug": "andrea-gibson",
+      "count": 2
+    },
+    {
+      "name": "Andrei Tarkovsky",
+      "slug": "andrei-tarkovsky",
+      "count": 1
+    },
+    {
       "name": "Andrew Boyd,",
       "slug": "andrew-boyd",
+      "count": 1
+    },
+    {
+      "name": "Andrew Harvey",
+      "slug": "andrew-harvey",
+      "count": 1
+    },
+    {
+      "name": "Andrew Wyeth",
+      "slug": "andrew-wyeth",
       "count": 1
     },
     {
@@ -4147,8 +7602,28 @@
       "count": 1
     },
     {
+      "name": "Angela Carter",
+      "slug": "angela-carter",
+      "count": 2
+    },
+    {
+      "name": "Angie Sijun Lou",
+      "slug": "angie-sijun-lou",
+      "count": 1
+    },
+    {
+      "name": "Anis Mojgai",
+      "slug": "anis-mojgai",
+      "count": 1
+    },
+    {
       "name": "Anita Desai",
       "slug": "anita-desai",
+      "count": 1
+    },
+    {
+      "name": "Anna Akhmatova",
+      "slug": "anna-akhmatova",
       "count": 1
     },
     {
@@ -4167,9 +7642,14 @@
       "count": 1
     },
     {
+      "name": "Anne Carson",
+      "slug": "anne-carson",
+      "count": 2
+    },
+    {
       "name": "Anne Frank",
       "slug": "anne-frank",
-      "count": 3
+      "count": 6
     },
     {
       "name": "Anne Frank,",
@@ -4179,12 +7659,17 @@
     {
       "name": "Anne Lamott",
       "slug": "anne-lamott",
-      "count": 2
+      "count": 3
+    },
+    {
+      "name": "Anne Michaels",
+      "slug": "anne-michaels",
+      "count": 1
     },
     {
       "name": "Anne Rice",
       "slug": "anne-rice",
-      "count": 1
+      "count": 4
     },
     {
       "name": "Anne Rice,",
@@ -4194,7 +7679,7 @@
     {
       "name": "Anne Sexton",
       "slug": "anne-sexton",
-      "count": 1
+      "count": 4
     },
     {
       "name": "Anne Sexton,",
@@ -4212,6 +7697,11 @@
       "count": 1
     },
     {
+      "name": "Annelyse Gelman",
+      "slug": "annelyse-gelman",
+      "count": 2
+    },
+    {
       "name": "Annie Dillard,",
       "slug": "annie-dillard",
       "count": 1
@@ -4220,6 +7710,11 @@
       "name": "Annie Proulx",
       "slug": "annie-proulx",
       "count": 2
+    },
+    {
+      "name": "Anonymous",
+      "slug": "anonymous",
+      "count": 1
     },
     {
       "name": "Anonymous,",
@@ -4252,6 +7747,11 @@
       "count": 1
     },
     {
+      "name": "Antoine de Saint-Exupery",
+      "slug": "antoine-de-saint-exupery",
+      "count": 1
+    },
+    {
       "name": "Antoine de Saint-Exupéry",
       "slug": "antoine-de-saint-exup-ry",
       "count": 1
@@ -4264,6 +7764,11 @@
     {
       "name": "Anton Chekhov",
       "slug": "anton-chekhov",
+      "count": 4
+    },
+    {
+      "name": "Antonio Porchia",
+      "slug": "antonio-porchia",
       "count": 1
     },
     {
@@ -4302,6 +7807,16 @@
       "count": 1
     },
     {
+      "name": "Arthur Golden",
+      "slug": "arthur-golden",
+      "count": 1
+    },
+    {
+      "name": "Arthur Rimbaud",
+      "slug": "arthur-rimbaud",
+      "count": 3
+    },
+    {
       "name": "Arthur Schopenhauer",
       "slug": "arthur-schopenhauer",
       "count": 2
@@ -4312,9 +7827,19 @@
       "count": 1
     },
     {
+      "name": "Arundhati Roy",
+      "slug": "arundhati-roy",
+      "count": 1
+    },
+    {
       "name": "Arundhati Roy,",
       "slug": "arundhati-roy",
       "count": 1
+    },
+    {
+      "name": "Ashe Vernon",
+      "slug": "ashe-vernon",
+      "count": 3
     },
     {
       "name": "Ashleigh Brilliant",
@@ -4329,12 +7854,12 @@
     {
       "name": "Astrid Lindgren",
       "slug": "astrid-lindgren",
-      "count": 1
+      "count": 5
     },
     {
       "name": "Audre Lorde",
       "slug": "audre-lorde",
-      "count": 4
+      "count": 8
     },
     {
       "name": "Audre Lorde,",
@@ -4352,8 +7877,23 @@
       "count": 1
     },
     {
+      "name": "Audrey Tautou",
+      "slug": "audrey-tautou",
+      "count": 1
+    },
+    {
+      "name": "Augusten Burroughs",
+      "slug": "augusten-burroughs",
+      "count": 1
+    },
+    {
       "name": "Aung San Suu Kyi",
       "slug": "aung-san-suu-kyi",
+      "count": 1
+    },
+    {
+      "name": "Aurora Engle-Pratt",
+      "slug": "aurora-engle-pratt",
       "count": 1
     },
     {
@@ -4392,14 +7932,29 @@
       "count": 3
     },
     {
+      "name": "Barbara Valentina",
+      "slug": "barbara-valentina",
+      "count": 1
+    },
+    {
       "name": "Barbara W. Tuchman",
       "slug": "barbara-w-tuchman",
+      "count": 1
+    },
+    {
+      "name": "Baruch Spinoza",
+      "slug": "baruch-spinoza",
       "count": 1
     },
     {
       "name": "Beatrix Potter",
       "slug": "beatrix-potter",
       "count": 1
+    },
+    {
+      "name": "Beau Taplin",
+      "slug": "beau-taplin",
+      "count": 2
     },
     {
       "name": "Becca Fitzpatrick,",
@@ -4409,12 +7964,17 @@
     {
       "name": "Bei Dao",
       "slug": "bei-dao",
-      "count": 1
+      "count": 2
     },
     {
       "name": "Ben Okri",
       "slug": "ben-okri",
       "count": 2
+    },
+    {
+      "name": "Benjamin Alire Saenz",
+      "slug": "benjamin-alire-saenz",
+      "count": 1
     },
     {
       "name": "Benjamin Alire Sáenz,",
@@ -4447,6 +8007,11 @@
       "count": 1
     },
     {
+      "name": "Benjamin Wade",
+      "slug": "benjamin-wade",
+      "count": 1
+    },
+    {
       "name": "Bernard M. Baruch",
       "slug": "bernard-m-baruch",
       "count": 1
@@ -4464,6 +8029,11 @@
     {
       "name": "Bessie Anderson Stanley,",
       "slug": "bessie-anderson-stanley",
+      "count": 1
+    },
+    {
+      "name": "Beth Revis",
+      "slug": "beth-revis",
       "count": 1
     },
     {
@@ -4547,6 +8117,11 @@
       "count": 1
     },
     {
+      "name": "Brad Silberling",
+      "slug": "brad-silberling",
+      "count": 1
+    },
+    {
       "name": "Bram Stoker,",
       "slug": "bram-stoker",
       "count": 1
@@ -4555,6 +8130,11 @@
       "name": "Brandon Sanderson,",
       "slug": "brandon-sanderson",
       "count": 2
+    },
+    {
+      "name": "Bret Easton Ellis",
+      "slug": "bret-easton-ellis",
+      "count": 1
     },
     {
       "name": "Brian Andreas,",
@@ -4592,8 +8172,18 @@
       "count": 1
     },
     {
+      "name": "Bryant McGill",
+      "slug": "bryant-mcgill",
+      "count": 1
+    },
+    {
       "name": "Buddha Siddhartha Guatama Shakyamuni",
       "slug": "buddha-siddhartha-guatama-shakyamuni",
+      "count": 1
+    },
+    {
+      "name": "Buddy Wakefield",
+      "slug": "buddy-wakefield",
       "count": 1
     },
     {
@@ -4619,17 +8209,22 @@
     {
       "name": "C.G. Jung",
       "slug": "c-g-jung",
-      "count": 2
+      "count": 3
     },
     {
       "name": "C.S. Lewis",
       "slug": "c-s-lewis",
-      "count": 39
+      "count": 42
     },
     {
       "name": "C.S. Lewis,",
       "slug": "c-s-lewis",
       "count": 11
+    },
+    {
+      "name": "Caitlyn Siehl",
+      "slug": "caitlyn-siehl",
+      "count": 2
     },
     {
       "name": "Caitlyn Siehl,",
@@ -4649,7 +8244,7 @@
     {
       "name": "Carl Sagan",
       "slug": "carl-sagan",
-      "count": 1
+      "count": 7
     },
     {
       "name": "Carl Sagan,",
@@ -4659,6 +8254,11 @@
     {
       "name": "Carl Sandburg",
       "slug": "carl-sandburg",
+      "count": 1
+    },
+    {
+      "name": "Carl W. Buehner",
+      "slug": "carl-w-buehner",
       "count": 1
     },
     {
@@ -4675,6 +8275,11 @@
       "name": "Carlos Ruiz Zafón,",
       "slug": "carlos-ruiz-zaf-n",
       "count": 3
+    },
+    {
+      "name": "Carol Rifka Brunt",
+      "slug": "carol-rifka-brunt",
+      "count": 1
     },
     {
       "name": "Carol Shields,",
@@ -4704,12 +8309,17 @@
     {
       "name": "Cassandra Clare",
       "slug": "cassandra-clare",
-      "count": 5
+      "count": 7
     },
     {
       "name": "Cassandra Clare,",
       "slug": "cassandra-clare",
       "count": 92
+    },
+    {
+      "name": "Catherine Garbinsky",
+      "slug": "catherine-garbinsky",
+      "count": 1
     },
     {
       "name": "Catherine Toon",
@@ -4722,8 +8332,23 @@
       "count": 1
     },
     {
+      "name": "Cathy Linh Che",
+      "slug": "cathy-linh-che",
+      "count": 1
+    },
+    {
       "name": "Cecilia Llompart",
       "slug": "cecilia-llompart",
+      "count": 1
+    },
+    {
+      "name": "César A. Cruz",
+      "slug": "c-sar-a-cruz",
+      "count": 1
+    },
+    {
+      "name": "César Aira",
+      "slug": "c-sar-aira",
       "count": 1
     },
     {
@@ -4744,7 +8369,7 @@
     {
       "name": "Charles Baudelaire",
       "slug": "charles-baudelaire",
-      "count": 1
+      "count": 4
     },
     {
       "name": "Charles Baudelaire,",
@@ -4764,7 +8389,7 @@
     {
       "name": "Charles Bukowski",
       "slug": "charles-bukowski",
-      "count": 24
+      "count": 28
     },
     {
       "name": "Charles Bukowski,",
@@ -4819,7 +8444,7 @@
     {
       "name": "Charlotte Brontë",
       "slug": "charlotte-bront",
-      "count": 1
+      "count": 3
     },
     {
       "name": "Charlotte Brontë ,",
@@ -4842,8 +8467,28 @@
       "count": 2
     },
     {
+      "name": "Chelsea Wolfe",
+      "slug": "chelsea-wolfe",
+      "count": 1
+    },
+    {
       "name": "Cheris Kramarae",
       "slug": "cheris-kramarae",
+      "count": 1
+    },
+    {
+      "name": "Cherlyn Strayed",
+      "slug": "cherlyn-strayed",
+      "count": 1
+    },
+    {
+      "name": "Chester Bennington",
+      "slug": "chester-bennington",
+      "count": 1
+    },
+    {
+      "name": "Chica Umino",
+      "slug": "chica-umino",
       "count": 1
     },
     {
@@ -4872,6 +8517,11 @@
       "count": 1
     },
     {
+      "name": "Christopher Barzak",
+      "slug": "christopher-barzak",
+      "count": 1
+    },
+    {
       "name": "Christopher Hitchens",
       "slug": "christopher-hitchens",
       "count": 1
@@ -4892,6 +8542,11 @@
       "count": 1
     },
     {
+      "name": "Christopher Nolan",
+      "slug": "christopher-nolan",
+      "count": 1
+    },
+    {
       "name": "Christopher Paolini",
       "slug": "christopher-paolini",
       "count": 2
@@ -4902,6 +8557,11 @@
       "count": 2
     },
     {
+      "name": "Chuck Klosterman",
+      "slug": "chuck-klosterman",
+      "count": 1
+    },
+    {
       "name": "Chuck Klosterman,",
       "slug": "chuck-klosterman",
       "count": 1
@@ -4909,7 +8569,7 @@
     {
       "name": "Chuck Palahniuk",
       "slug": "chuck-palahniuk",
-      "count": 1
+      "count": 5
     },
     {
       "name": "Chuck Palahniuk,",
@@ -4917,8 +8577,18 @@
       "count": 20
     },
     {
+      "name": "Chuck Russel",
+      "slug": "chuck-russel",
+      "count": 1
+    },
+    {
       "name": "Cicero",
       "slug": "cicero",
+      "count": 1
+    },
+    {
+      "name": "Claire Wahmanholm",
+      "slug": "claire-wahmanholm",
       "count": 1
     },
     {
@@ -4927,9 +8597,19 @@
       "count": 1
     },
     {
+      "name": "Clarice Lispector",
+      "slug": "clarice-lispector",
+      "count": 6
+    },
+    {
       "name": "Clay Mitchell",
       "slug": "clay-mitchell",
       "count": 1
+    },
+    {
+      "name": "Clementine Von Radics",
+      "slug": "clementine-von-radics",
+      "count": 2
     },
     {
       "name": "Clive Barker,",
@@ -4982,6 +8662,11 @@
       "count": 3
     },
     {
+      "name": "Cornelia Funke",
+      "slug": "cornelia-funke",
+      "count": 1
+    },
+    {
       "name": "Cornelia Funke,",
       "slug": "cornelia-funke",
       "count": 3
@@ -5007,8 +8692,18 @@
       "count": 1
     },
     {
+      "name": "Cynthia Hand",
+      "slug": "cynthia-hand",
+      "count": 1
+    },
+    {
       "name": "Cynthia Ozick",
       "slug": "cynthia-ozick",
+      "count": 1
+    },
+    {
+      "name": "D. Antoinette Foy",
+      "slug": "d-antoinette-foy",
       "count": 1
     },
     {
@@ -5030,6 +8725,11 @@
       "name": "Dalai Lama XIV",
       "slug": "dalai-lama-xiv",
       "count": 5
+    },
+    {
+      "name": "Dale Carnegie",
+      "slug": "dale-carnegie",
+      "count": 1
     },
     {
       "name": "Dale Carnegie,",
@@ -5059,6 +8759,11 @@
     {
       "name": "Daniel Pennac",
       "slug": "daniel-pennac",
+      "count": 1
+    },
+    {
+      "name": "Danielle LaPorte",
+      "slug": "danielle-laporte",
       "count": 1
     },
     {
@@ -5107,6 +8812,11 @@
       "count": 1
     },
     {
+      "name": "David Benioff",
+      "slug": "david-benioff",
+      "count": 1
+    },
+    {
       "name": "David Byrne",
       "slug": "david-byrne",
       "count": 1
@@ -5114,7 +8824,7 @@
     {
       "name": "David Foster Wallace",
       "slug": "david-foster-wallace",
-      "count": 1
+      "count": 2
     },
     {
       "name": "David Foster Wallace,",
@@ -5127,6 +8837,11 @@
       "count": 1
     },
     {
+      "name": "David Levithan",
+      "slug": "david-levithan",
+      "count": 7
+    },
+    {
       "name": "David Levithan,",
       "slug": "david-levithan",
       "count": 3
@@ -5135,6 +8850,11 @@
       "name": "David Mitchell,",
       "slug": "david-mitchell",
       "count": 3
+    },
+    {
+      "name": "David Nicholls",
+      "slug": "david-nicholls",
+      "count": 1
     },
     {
       "name": "David Nicholls,",
@@ -5152,6 +8872,11 @@
       "count": 1
     },
     {
+      "name": "Deb Caletti",
+      "slug": "deb-caletti",
+      "count": 1
+    },
+    {
       "name": "Deborah Reber,",
       "slug": "deborah-reber",
       "count": 1
@@ -5159,6 +8884,11 @@
     {
       "name": "Deepak Chopra",
       "slug": "deepak-chopra",
+      "count": 1
+    },
+    {
+      "name": "Dennis Lehane",
+      "slug": "dennis-lehane",
       "count": 1
     },
     {
@@ -5179,6 +8909,11 @@
     {
       "name": "Diana Gabaldon,",
       "slug": "diana-gabaldon",
+      "count": 1
+    },
+    {
+      "name": "Diane Chamberlain",
+      "slug": "diane-chamberlain",
       "count": 1
     },
     {
@@ -5227,9 +8962,19 @@
       "count": 2
     },
     {
+      "name": "Donna Tartt",
+      "slug": "donna-tartt",
+      "count": 12
+    },
+    {
       "name": "Donna Tartt,",
       "slug": "donna-tartt",
       "count": 3
+    },
+    {
+      "name": "Donte Collins",
+      "slug": "donte-collins",
+      "count": 1
     },
     {
       "name": "Doris Lessing",
@@ -5249,7 +8994,7 @@
     {
       "name": "Douglas Adams",
       "slug": "douglas-adams",
-      "count": 6
+      "count": 7
     },
     {
       "name": "douglas adams,",
@@ -5287,6 +9032,11 @@
       "count": 1
     },
     {
+      "name": "Dunta Mikhail",
+      "slug": "dunta-mikhail",
+      "count": 1
+    },
+    {
       "name": "Dylan Thomas,",
       "slug": "dylan-thomas",
       "count": 1
@@ -5294,6 +9044,11 @@
     {
       "name": "E. E. Cummings",
       "slug": "e-e-cummings",
+      "count": 1
+    },
+    {
+      "name": "E. M. Forster",
+      "slug": "e-m-forster",
       "count": 1
     },
     {
@@ -5347,19 +9102,34 @@
       "count": 1
     },
     {
+      "name": "Eartha Kitt",
+      "slug": "eartha-kitt",
+      "count": 1
+    },
+    {
       "name": "Earthschool Harmony",
       "slug": "earthschool-harmony",
       "count": 1
     },
     {
+      "name": "Eavan Boland",
+      "slug": "eavan-boland",
+      "count": 1
+    },
+    {
+      "name": "Eaven Boland",
+      "slug": "eaven-boland",
+      "count": 1
+    },
+    {
       "name": "Eckhart Tolle",
       "slug": "eckhart-tolle",
-      "count": 1
+      "count": 2
     },
     {
       "name": "Edgar Allan Poe",
       "slug": "edgar-allan-poe",
-      "count": 8
+      "count": 13
     },
     {
       "name": "Edgar Allan Poe,",
@@ -5369,6 +9139,11 @@
     {
       "name": "Edgar Allen Poe",
       "slug": "edgar-allen-poe",
+      "count": 1
+    },
+    {
+      "name": "Edith Södergran",
+      "slug": "edith-s-dergran",
       "count": 1
     },
     {
@@ -5384,7 +9159,12 @@
     {
       "name": "Edna St. Vincent Millay",
       "slug": "edna-st-vincent-millay",
-      "count": 3
+      "count": 5
+    },
+    {
+      "name": "Edvard Munch",
+      "slug": "edvard-munch",
+      "count": 1
     },
     {
       "name": "Edward Abbey",
@@ -5404,6 +9184,11 @@
     {
       "name": "Edward J. Stieglitz",
       "slug": "edward-j-stieglitz",
+      "count": 1
+    },
+    {
+      "name": "Eiichiro Oda",
+      "slug": "eiichiro-oda",
       "count": 1
     },
     {
@@ -5427,6 +9212,11 @@
       "count": 1
     },
     {
+      "name": "Eleonora Duse",
+      "slug": "eleonora-duse",
+      "count": 1
+    },
+    {
       "name": "Elie Wiesel",
       "slug": "elie-wiesel",
       "count": 7
@@ -5439,7 +9229,12 @@
     {
       "name": "Elizabeth Barrett Browning",
       "slug": "elizabeth-barrett-browning",
-      "count": 2
+      "count": 3
+    },
+    {
+      "name": "Elizabeth Corn",
+      "slug": "elizabeth-corn",
+      "count": 1
     },
     {
       "name": "Elizabeth Gilbert,",
@@ -5447,8 +9242,18 @@
       "count": 9
     },
     {
+      "name": "Elizabeth Hewer",
+      "slug": "elizabeth-hewer",
+      "count": 1
+    },
+    {
       "name": "Elizabeth Peters",
       "slug": "elizabeth-peters",
+      "count": 1
+    },
+    {
+      "name": "Elizabeth Wurtzel",
+      "slug": "elizabeth-wurtzel",
       "count": 1
     },
     {
@@ -5472,14 +9277,34 @@
       "count": 1
     },
     {
+      "name": "Emery Allen",
+      "slug": "emery-allen",
+      "count": 2
+    },
+    {
+      "name": "Emery Lord",
+      "slug": "emery-lord",
+      "count": 1
+    },
+    {
       "name": "Émile Zola",
       "slug": "mile-zola",
+      "count": 1
+    },
+    {
+      "name": "Emilie Autumn",
+      "slug": "emilie-autumn",
       "count": 1
     },
     {
       "name": "Emilie Autumn,",
       "slug": "emilie-autumn",
       "count": 1
+    },
+    {
+      "name": "Emily Brontë",
+      "slug": "emily-bront",
+      "count": 2
     },
     {
       "name": "Emily Brontë,",
@@ -5489,12 +9314,22 @@
     {
       "name": "Emily Dickinson",
       "slug": "emily-dickinson",
-      "count": 5
+      "count": 8
     },
     {
       "name": "Emily Jane Brontë ,",
       "slug": "emily-jane-bront",
       "count": 1
+    },
+    {
+      "name": "Emily Paige Wilson",
+      "slug": "emily-paige-wilson",
+      "count": 1
+    },
+    {
+      "name": "Emily Pérez",
+      "slug": "emily-p-rez",
+      "count": 2
     },
     {
       "name": "Emma Donoghue,",
@@ -5505,6 +9340,16 @@
       "name": "Emperor Palpatine",
       "slug": "emperor-palpatine",
       "count": 4
+    },
+    {
+      "name": "Enomoto Seifu-jo",
+      "slug": "enomoto-seifu-jo",
+      "count": 1
+    },
+    {
+      "name": "Eoin Colfer",
+      "slug": "eoin-colfer",
+      "count": 1
     },
     {
       "name": "Eoin Colfer,",
@@ -5537,6 +9382,11 @@
       "count": 1
     },
     {
+      "name": "Erin Anastasia",
+      "slug": "erin-anastasia",
+      "count": 1
+    },
+    {
       "name": "Erin Morgenstern,",
       "slug": "erin-morgenstern",
       "count": 2
@@ -5549,7 +9399,7 @@
     {
       "name": "Ernest Hemingway",
       "slug": "ernest-hemingway",
-      "count": 19
+      "count": 25
     },
     {
       "name": "Ernest Hemingway,",
@@ -5567,6 +9417,11 @@
       "count": 1
     },
     {
+      "name": "Eugène Ionesco",
+      "slug": "eug-ne-ionesco",
+      "count": 6
+    },
+    {
       "name": "Euripides,",
       "slug": "euripides",
       "count": 1
@@ -5574,6 +9429,11 @@
     {
       "name": "Evans G. Valens,",
       "slug": "evans-g-valens",
+      "count": 1
+    },
+    {
+      "name": "Evelyn Waugh",
+      "slug": "evelyn-waugh",
       "count": 1
     },
     {
@@ -5589,7 +9449,7 @@
     {
       "name": "F. Scott Fitzgerald",
       "slug": "f-scott-fitzgerald",
-      "count": 6
+      "count": 9
     },
     {
       "name": "F. Scott Fitzgerald,",
@@ -5600,6 +9460,11 @@
       "name": "Fannie Flagg,",
       "slug": "fannie-flagg",
       "count": 2
+    },
+    {
+      "name": "Federico García Lorca",
+      "slug": "federico-garc-a-lorca",
+      "count": 3
     },
     {
       "name": "Federico García Lorca,",
@@ -5617,6 +9482,11 @@
       "count": 1
     },
     {
+      "name": "Fiona Apple",
+      "slug": "fiona-apple",
+      "count": 1
+    },
+    {
       "name": "Fitzgerald F. Scott,",
       "slug": "fitzgerald-f-scott",
       "count": 1
@@ -5625,6 +9495,11 @@
       "name": "Flannery O'Connor",
       "slug": "flannery-o-connor",
       "count": 2
+    },
+    {
+      "name": "Forough Farrokhzad",
+      "slug": "forough-farrokhzad",
+      "count": 1
     },
     {
       "name": "Fran Lebowitz,",
@@ -5639,6 +9514,16 @@
     {
       "name": "Frances Woodard",
       "slug": "frances-woodard",
+      "count": 1
+    },
+    {
+      "name": "Francis William Bourdillon",
+      "slug": "francis-william-bourdillon",
+      "count": 1
+    },
+    {
+      "name": "Franco Berardi",
+      "slug": "franco-berardi",
       "count": 1
     },
     {
@@ -5687,9 +9572,14 @@
       "count": 4
     },
     {
+      "name": "Frans Kellendonk",
+      "slug": "frans-kellendonk",
+      "count": 1
+    },
+    {
       "name": "Franz Kafka",
       "slug": "franz-kafka",
-      "count": 8
+      "count": 18
     },
     {
       "name": "Franz Kafka,",
@@ -5697,8 +9587,18 @@
       "count": 1
     },
     {
+      "name": "Franz Wright",
+      "slug": "franz-wright",
+      "count": 1
+    },
+    {
       "name": "Fred Rogers",
       "slug": "fred-rogers",
+      "count": 2
+    },
+    {
+      "name": "Frédéric Chopin",
+      "slug": "fr-d-ric-chopin",
       "count": 1
     },
     {
@@ -5719,7 +9619,7 @@
     {
       "name": "Friedrich Nietzsche",
       "slug": "friedrich-nietzsche",
-      "count": 28
+      "count": 34
     },
     {
       "name": "Friedrich Nietzsche,",
@@ -5734,7 +9634,7 @@
     {
       "name": "Fyodor Dostoevsky",
       "slug": "fyodor-dostoevsky",
-      "count": 4
+      "count": 7
     },
     {
       "name": "Fyodor Dostoevsky,",
@@ -5754,7 +9654,7 @@
     {
       "name": "G.K. Chesterton",
       "slug": "g-k-chesterton",
-      "count": 3
+      "count": 4
     },
     {
       "name": "G.K. Chesterton,",
@@ -5769,12 +9669,17 @@
     {
       "name": "Gabriel García Márquez",
       "slug": "gabriel-garc-a-m-rquez",
-      "count": 2
+      "count": 3
     },
     {
       "name": "Gabriel García Márquez,",
       "slug": "gabriel-garc-a-m-rquez",
       "count": 2
+    },
+    {
+      "name": "Gabrielle Zevin",
+      "slug": "gabrielle-zevin",
+      "count": 1
     },
     {
       "name": "Gail Carson Levine",
@@ -5797,6 +9702,11 @@
       "count": 5
     },
     {
+      "name": "Garth Nix",
+      "slug": "garth-nix",
+      "count": 1
+    },
+    {
       "name": "Gary Paulsen,",
       "slug": "gary-paulsen",
       "count": 1
@@ -5807,6 +9717,11 @@
       "count": 3
     },
     {
+      "name": "Gen Urobuchi",
+      "slug": "gen-urobuchi",
+      "count": 2
+    },
+    {
       "name": "Georg Wilhelm Friedrich Hegel",
       "slug": "georg-wilhelm-friedrich-hegel",
       "count": 1
@@ -5814,7 +9729,7 @@
     {
       "name": "George Bernard Shaw",
       "slug": "george-bernard-shaw",
-      "count": 10
+      "count": 11
     },
     {
       "name": "George Bernard Shaw,",
@@ -5837,6 +9752,11 @@
       "count": 1
     },
     {
+      "name": "George Du Maurier",
+      "slug": "george-du-maurier",
+      "count": 1
+    },
+    {
       "name": "George Eliot",
       "slug": "george-eliot",
       "count": 6
@@ -5844,7 +9764,7 @@
     {
       "name": "George Gordon Byron",
       "slug": "george-gordon-byron",
-      "count": 1
+      "count": 3
     },
     {
       "name": "George Harrison",
@@ -5852,9 +9772,14 @@
       "count": 1
     },
     {
+      "name": "George Macdonald",
+      "slug": "george-macdonald",
+      "count": 1
+    },
+    {
       "name": "George Orwell",
       "slug": "george-orwell",
-      "count": 4
+      "count": 8
     },
     {
       "name": "George Orwell,",
@@ -5869,7 +9794,7 @@
     {
       "name": "George R.R. Martin",
       "slug": "george-r-r-martin",
-      "count": 9
+      "count": 32
     },
     {
       "name": "George R.R. Martin,",
@@ -5879,6 +9804,11 @@
     {
       "name": "George S. Patton",
       "slug": "george-s-patton",
+      "count": 1
+    },
+    {
+      "name": "George Santayana",
+      "slug": "george-santayana",
       "count": 1
     },
     {
@@ -5892,14 +9822,34 @@
       "count": 2
     },
     {
+      "name": "Georgia O’Keeffe",
+      "slug": "georgia-o-keeffe",
+      "count": 2
+    },
+    {
       "name": "Geraldine Brooks,",
       "slug": "geraldine-brooks",
+      "count": 1
+    },
+    {
+      "name": "Geraldine Page",
+      "slug": "geraldine-page",
+      "count": 1
+    },
+    {
+      "name": "Gerard Way",
+      "slug": "gerard-way",
       "count": 1
     },
     {
       "name": "Gertrude Stein",
       "slug": "gertrude-stein",
       "count": 2
+    },
+    {
+      "name": "Gil Junger",
+      "slug": "gil-junger",
+      "count": 1
     },
     {
       "name": "Gilda Radner",
@@ -5917,6 +9867,11 @@
       "count": 1
     },
     {
+      "name": "Gillian Flynn",
+      "slug": "gillian-flynn",
+      "count": 1
+    },
+    {
       "name": "Gillian Flynn,",
       "slug": "gillian-flynn",
       "count": 1
@@ -5929,6 +9884,11 @@
     {
       "name": "Glen Cook,",
       "slug": "glen-cook",
+      "count": 1
+    },
+    {
+      "name": "Gloria Naylor",
+      "slug": "gloria-naylor",
       "count": 1
     },
     {
@@ -5962,6 +9922,11 @@
       "count": 1
     },
     {
+      "name": "Graham Greene",
+      "slug": "graham-greene",
+      "count": 2
+    },
+    {
       "name": "Grandma Moses",
       "slug": "grandma-moses",
       "count": 1
@@ -5977,6 +9942,16 @@
       "count": 1
     },
     {
+      "name": "Gregory Orr",
+      "slug": "gregory-orr",
+      "count": 2
+    },
+    {
+      "name": "Gregory Widen",
+      "slug": "gregory-widen",
+      "count": 1
+    },
+    {
       "name": "Groucho Marx",
       "slug": "groucho-marx",
       "count": 6
@@ -5987,18 +9962,28 @@
       "count": 1
     },
     {
+      "name": "Guillermo del Toro",
+      "slug": "guillermo-del-toro",
+      "count": 1
+    },
+    {
       "name": "Gustave Flaubert",
       "slug": "gustave-flaubert",
-      "count": 2
+      "count": 6
     },
     {
       "name": "Guy de Maupassant",
       "slug": "guy-de-maupassant",
-      "count": 2
+      "count": 3
     },
     {
       "name": "Gwenevere Rivest",
       "slug": "gwenevere-rivest",
+      "count": 1
+    },
+    {
+      "name": "Gyula Krúdy",
+      "slug": "gyula-kr-dy",
       "count": 1
     },
     {
@@ -6017,9 +10002,14 @@
       "count": 1
     },
     {
+      "name": "H.C.R.",
+      "slug": "h-c-r",
+      "count": 1
+    },
+    {
       "name": "H.G. Wells",
       "slug": "h-g-wells",
-      "count": 1
+      "count": 2
     },
     {
       "name": "H.L. Mencken",
@@ -6037,6 +10027,11 @@
       "count": 1
     },
     {
+      "name": "Hajime Isayama",
+      "slug": "hajime-isayama",
+      "count": 2
+    },
+    {
       "name": "Hal Borland",
       "slug": "hal-borland",
       "count": 1
@@ -6045,6 +10040,11 @@
       "name": "Han Solo",
       "slug": "han-solo",
       "count": 17
+    },
+    {
+      "name": "Hannah Harrington",
+      "slug": "hannah-harrington",
+      "count": 1
     },
     {
       "name": "Hanya Yanagihara,",
@@ -6079,7 +10079,7 @@
     {
       "name": "Haruki Murakami",
       "slug": "haruki-murakami",
-      "count": 5
+      "count": 20
     },
     {
       "name": "haruki murakami,",
@@ -6097,8 +10097,18 @@
       "count": 1
     },
     {
+      "name": "Hayden Carruth",
+      "slug": "hayden-carruth",
+      "count": 1
+    },
+    {
       "name": "Hayley Williams",
       "slug": "hayley-williams",
+      "count": 1
+    },
+    {
+      "name": "Hazrat Inayat Khan",
+      "slug": "hazrat-inayat-khan",
       "count": 1
     },
     {
@@ -6120,6 +10130,11 @@
       "name": "Helene Cardona",
       "slug": "helene-cardona",
       "count": 6
+    },
+    {
+      "name": "Hélène Cixous",
+      "slug": "h-l-ne-cixous",
+      "count": 2
     },
     {
       "name": "Hellevi E. Woodman",
@@ -6144,7 +10159,7 @@
     {
       "name": "Henry David Thoreau",
       "slug": "henry-david-thoreau",
-      "count": 3
+      "count": 4
     },
     {
       "name": "Henry David Thoreau,",
@@ -6159,7 +10174,7 @@
     {
       "name": "Henry James",
       "slug": "henry-james",
-      "count": 2
+      "count": 3
     },
     {
       "name": "Henry Miller",
@@ -6169,6 +10184,11 @@
     {
       "name": "Henry Miller,",
       "slug": "henry-miller",
+      "count": 1
+    },
+    {
+      "name": "Henry Rollins",
+      "slug": "henry-rollins",
       "count": 1
     },
     {
@@ -6189,7 +10209,7 @@
     {
       "name": "Henry Wadsworth Longfellow",
       "slug": "henry-wadsworth-longfellow",
-      "count": 2
+      "count": 3
     },
     {
       "name": "Henry Ward Beecherr",
@@ -6204,6 +10224,11 @@
     {
       "name": "Herbert Hoover",
       "slug": "herbert-hoover",
+      "count": 1
+    },
+    {
+      "name": "Herbert Zand",
+      "slug": "herbert-zand",
       "count": 1
     },
     {
@@ -6232,6 +10257,11 @@
       "count": 1
     },
     {
+      "name": "Hilda Doolittle",
+      "slug": "hilda-doolittle",
+      "count": 2
+    },
+    {
       "name": "Holly Black,",
       "slug": "holly-black",
       "count": 3
@@ -6239,7 +10269,7 @@
     {
       "name": "Honore de Balzac",
       "slug": "honore-de-balzac",
-      "count": 1
+      "count": 2
     },
     {
       "name": "Honoré de Balzac",
@@ -6272,6 +10302,11 @@
       "count": 3
     },
     {
+      "name": "Iain Thomas",
+      "slug": "iain-thomas",
+      "count": 2
+    },
+    {
       "name": "Ian Fleming",
       "slug": "ian-fleming",
       "count": 1
@@ -6280,6 +10315,21 @@
       "name": "Ian Fleming,",
       "slug": "ian-fleming",
       "count": 1
+    },
+    {
+      "name": "Ibn Taymiyyah",
+      "slug": "ibn-taymiyyah",
+      "count": 1
+    },
+    {
+      "name": "Ijeoma Umebinyuo",
+      "slug": "ijeoma-umebinyuo",
+      "count": 1
+    },
+    {
+      "name": "Ikuko Itoh",
+      "slug": "ikuko-itoh",
+      "count": 2
     },
     {
       "name": "Ipsita Upasana",
@@ -6294,6 +10344,11 @@
     {
       "name": "Irina Dunn",
       "slug": "irina-dunn",
+      "count": 1
+    },
+    {
+      "name": "Iris Murdoch",
+      "slug": "iris-murdoch",
       "count": 1
     },
     {
@@ -6314,11 +10369,16 @@
     {
       "name": "Isaac Newton",
       "slug": "isaac-newton",
-      "count": 1
+      "count": 2
     },
     {
       "name": "Isabel Allende",
       "slug": "isabel-allende",
+      "count": 1
+    },
+    {
+      "name": "Isabelle Gough",
+      "slug": "isabelle-gough",
       "count": 1
     },
     {
@@ -6332,6 +10392,11 @@
       "count": 1
     },
     {
+      "name": "Izumi Shikibu",
+      "slug": "izumi-shikibu",
+      "count": 1
+    },
+    {
       "name": "J. D. Salinger",
       "slug": "j-d-salinger",
       "count": 1
@@ -6342,9 +10407,14 @@
       "count": 4
     },
     {
+      "name": "J. McCann",
+      "slug": "j-mccann",
+      "count": 1
+    },
+    {
       "name": "J.D. Salinger",
       "slug": "j-d-salinger",
-      "count": 5
+      "count": 6
     },
     {
       "name": "J.D. Salinger,",
@@ -6374,7 +10444,7 @@
     {
       "name": "J.M. Barrie",
       "slug": "j-m-barrie",
-      "count": 4
+      "count": 5
     },
     {
       "name": "J.M. Barrie,",
@@ -6389,7 +10459,7 @@
     {
       "name": "J.R.R. Tolkien",
       "slug": "j-r-r-tolkien",
-      "count": 12
+      "count": 13
     },
     {
       "name": "J.R.R. Tolkien,",
@@ -6404,7 +10474,7 @@
     {
       "name": "Jack Kerouac",
       "slug": "jack-kerouac",
-      "count": 3
+      "count": 4
     },
     {
       "name": "Jack Kerouac,",
@@ -6419,6 +10489,16 @@
     {
       "name": "Jack London",
       "slug": "jack-london",
+      "count": 1
+    },
+    {
+      "name": "Jackie Kay",
+      "slug": "jackie-kay",
+      "count": 2
+    },
+    {
+      "name": "Jackson Nieuwland",
+      "slug": "jackson-nieuwland",
       "count": 1
     },
     {
@@ -6439,7 +10519,7 @@
     {
       "name": "James Baldwin",
       "slug": "james-baldwin",
-      "count": 8
+      "count": 10
     },
     {
       "name": "James Baldwin,",
@@ -6452,8 +10532,23 @@
       "count": 1
     },
     {
+      "name": "James Frey",
+      "slug": "james-frey",
+      "count": 1
+    },
+    {
       "name": "James Joyce",
       "slug": "james-joyce",
+      "count": 1
+    },
+    {
+      "name": "James Keller",
+      "slug": "james-keller",
+      "count": 1
+    },
+    {
+      "name": "James Lovelock",
+      "slug": "james-lovelock",
       "count": 1
     },
     {
@@ -6484,7 +10579,7 @@
     {
       "name": "Jane Austen",
       "slug": "jane-austen",
-      "count": 22
+      "count": 29
     },
     {
       "name": "Jane Austen,",
@@ -6497,8 +10592,18 @@
       "count": 1
     },
     {
+      "name": "Jane Hirshfield",
+      "slug": "jane-hirshfield",
+      "count": 1
+    },
+    {
       "name": "Jane Smiley,",
       "slug": "jane-smiley",
+      "count": 1
+    },
+    {
+      "name": "Jane Wagner",
+      "slug": "jane-wagner",
       "count": 1
     },
     {
@@ -6544,12 +10649,12 @@
     {
       "name": "Jean-Paul Sartre",
       "slug": "jean-paul-sartre",
-      "count": 2
+      "count": 10
     },
     {
       "name": "Jeanette Winterson",
       "slug": "jeanette-winterson",
-      "count": 1
+      "count": 4
     },
     {
       "name": "Jeanette Winterson,",
@@ -6564,6 +10669,16 @@
     {
       "name": "Jeffrey Eugenides,",
       "slug": "jeffrey-eugenides",
+      "count": 1
+    },
+    {
+      "name": "Jenn Satsune",
+      "slug": "jenn-satsune",
+      "count": 1
+    },
+    {
+      "name": "Jennifer Donnelly",
+      "slug": "jennifer-donnelly",
       "count": 1
     },
     {
@@ -6582,6 +10697,31 @@
       "count": 3
     },
     {
+      "name": "Jenny Holzer",
+      "slug": "jenny-holzer",
+      "count": 1
+    },
+    {
+      "name": "Jenny Offill",
+      "slug": "jenny-offill",
+      "count": 1
+    },
+    {
+      "name": "Jenny Slate",
+      "slug": "jenny-slate",
+      "count": 1
+    },
+    {
+      "name": "Jenny Xie",
+      "slug": "jenny-xie",
+      "count": 1
+    },
+    {
+      "name": "Jeremy Radin",
+      "slug": "jeremy-radin",
+      "count": 1
+    },
+    {
       "name": "Jerome K. Jerome",
       "slug": "jerome-k-jerome",
       "count": 1
@@ -6597,6 +10737,11 @@
       "count": 1
     },
     {
+      "name": "Jess Rizkallah",
+      "slug": "jess-rizkallah",
+      "count": 1
+    },
+    {
       "name": "Jhumpa Lahiri,",
       "slug": "jhumpa-lahiri",
       "count": 1
@@ -6604,7 +10749,7 @@
     {
       "name": "Jim Butcher",
       "slug": "jim-butcher",
-      "count": 1
+      "count": 2
     },
     {
       "name": "Jim Henson",
@@ -6614,7 +10759,7 @@
     {
       "name": "Jim Morrison",
       "slug": "jim-morrison",
-      "count": 2
+      "count": 3
     },
     {
       "name": "Jim MORRISON",
@@ -6659,7 +10804,7 @@
     {
       "name": "Jodi Picoult",
       "slug": "jodi-picoult",
-      "count": 1
+      "count": 3
     },
     {
       "name": "Jodi Picoult,",
@@ -6674,6 +10819,11 @@
     {
       "name": "Joel Osteen,",
       "slug": "joel-osteen",
+      "count": 1
+    },
+    {
+      "name": "Johann Hari",
+      "slug": "johann-hari",
       "count": 1
     },
     {
@@ -6697,6 +10847,11 @@
       "count": 1
     },
     {
+      "name": "John Bauer",
+      "slug": "john-bauer",
+      "count": 1
+    },
+    {
       "name": "John Boyne",
       "slug": "john-boyne",
       "count": 1
@@ -6704,6 +10859,11 @@
     {
       "name": "John Cheever",
       "slug": "john-cheever",
+      "count": 1
+    },
+    {
+      "name": "John Clare",
+      "slug": "john-clare",
       "count": 1
     },
     {
@@ -6747,6 +10907,11 @@
       "count": 2
     },
     {
+      "name": "John Knowles",
+      "slug": "john-knowles",
+      "count": 1
+    },
+    {
       "name": "John Lennon",
       "slug": "john-lennon",
       "count": 16
@@ -6765,6 +10930,11 @@
       "name": "John Muir",
       "slug": "john-muir",
       "count": 3
+    },
+    {
+      "name": "John Steinbeck",
+      "slug": "john-steinbeck",
+      "count": 1
     },
     {
       "name": "John Steinbeck,",
@@ -6802,6 +10972,16 @@
       "count": 2
     },
     {
+      "name": "Jon Anderson",
+      "slug": "jon-anderson",
+      "count": 2
+    },
+    {
+      "name": "Jon Kabat-Zinn",
+      "slug": "jon-kabat-zinn",
+      "count": 1
+    },
+    {
       "name": "Jon Katz",
       "slug": "jon-katz",
       "count": 1
@@ -6810,6 +10990,16 @@
       "name": "Jon Krakauer,",
       "slug": "jon-krakauer",
       "count": 3
+    },
+    {
+      "name": "Jonas Salk",
+      "slug": "jonas-salk",
+      "count": 1
+    },
+    {
+      "name": "Jonathan Franzen",
+      "slug": "jonathan-franzen",
+      "count": 1
     },
     {
       "name": "Jonathan Kellerman",
@@ -6824,12 +11014,17 @@
     {
       "name": "Jonathan Safran Foer",
       "slug": "jonathan-safran-foer",
-      "count": 2
+      "count": 7
     },
     {
       "name": "Jonathan Safran Foer,",
       "slug": "jonathan-safran-foer",
       "count": 9
+    },
+    {
+      "name": "Jonathan Sims",
+      "slug": "jonathan-sims",
+      "count": 1
     },
     {
       "name": "Jonathan Swift",
@@ -6839,11 +11034,16 @@
     {
       "name": "Jorge Luis Borges",
       "slug": "jorge-luis-borges",
-      "count": 7
+      "count": 10
     },
     {
       "name": "José N. Harris,",
       "slug": "jos-n-harris",
+      "count": 1
+    },
+    {
+      "name": "Josefina Vicens",
+      "slug": "josefina-vicens",
       "count": 1
     },
     {
@@ -6854,7 +11054,7 @@
     {
       "name": "Joseph Campbell",
       "slug": "joseph-campbell",
-      "count": 2
+      "count": 3
     },
     {
       "name": "Joseph Conrad,",
@@ -6864,6 +11064,11 @@
     {
       "name": "Joseph de Maistre",
       "slug": "joseph-de-maistre",
+      "count": 1
+    },
+    {
+      "name": "Joseph Fink and Jeffrey Cranor",
+      "slug": "joseph-fink-and-jeffrey-cranor",
       "count": 1
     },
     {
@@ -6889,7 +11094,7 @@
     {
       "name": "Joyce Carol Oates",
       "slug": "joyce-carol-oates",
-      "count": 1
+      "count": 2
     },
     {
       "name": "Joyce Carol Oates,",
@@ -6902,6 +11107,11 @@
       "count": 1
     },
     {
+      "name": "Judith Hanson Lasater",
+      "slug": "judith-hanson-lasater",
+      "count": 1
+    },
+    {
       "name": "Judith McNaught,",
       "slug": "judith-mcnaught",
       "count": 1
@@ -6909,6 +11119,11 @@
     {
       "name": "Judy Garland",
       "slug": "judy-garland",
+      "count": 1
+    },
+    {
+      "name": "Julia de Burgos",
+      "slug": "julia-de-burgos",
       "count": 1
     },
     {
@@ -6944,6 +11159,11 @@
     {
       "name": "Kapil Kumar Bhaskar",
       "slug": "kapil-kumar-bhaskar",
+      "count": 1
+    },
+    {
+      "name": "Karamo Brown",
+      "slug": "karamo-brown",
       "count": 1
     },
     {
@@ -6989,7 +11209,7 @@
     {
       "name": "Katherine Mansfield",
       "slug": "katherine-mansfield",
-      "count": 2
+      "count": 3
     },
     {
       "name": "Katherine Parker",
@@ -7002,6 +11222,11 @@
       "count": 1
     },
     {
+      "name": "Katie Kacvinsky",
+      "slug": "katie-kacvinsky",
+      "count": 1
+    },
+    {
       "name": "Katie McGarry,",
       "slug": "katie-mcgarry",
       "count": 2
@@ -7009,11 +11234,16 @@
     {
       "name": "Kazuo Ishiguro",
       "slug": "kazuo-ishiguro",
-      "count": 1
+      "count": 2
     },
     {
       "name": "Kazuo Ishiguro,",
       "slug": "kazuo-ishiguro",
+      "count": 1
+    },
+    {
+      "name": "Keith Haring",
+      "slug": "keith-haring",
       "count": 1
     },
     {
@@ -7022,8 +11252,18 @@
       "count": 1
     },
     {
+      "name": "Ken Liu",
+      "slug": "ken-liu",
+      "count": 1
+    },
+    {
       "name": "Keri Hulme,",
       "slug": "keri-hulme",
+      "count": 1
+    },
+    {
+      "name": "Kevin Kantor",
+      "slug": "kevin-kantor",
       "count": 1
     },
     {
@@ -7039,7 +11279,7 @@
     {
       "name": "Khalil Gibran",
       "slug": "khalil-gibran",
-      "count": 1
+      "count": 3
     },
     {
       "name": "Khalil Gibran,",
@@ -7062,8 +11302,33 @@
       "count": 1
     },
     {
+      "name": "Kira Tang",
+      "slug": "kira-tang",
+      "count": 1
+    },
+    {
+      "name": "Kirsten Corley",
+      "slug": "kirsten-corley",
+      "count": 1
+    },
+    {
       "name": "Kristin Cashore,",
       "slug": "kristin-cashore",
+      "count": 1
+    },
+    {
+      "name": "Kristin Chang",
+      "slug": "kristin-chang",
+      "count": 1
+    },
+    {
+      "name": "Kristopher Jansma",
+      "slug": "kristopher-jansma",
+      "count": 1
+    },
+    {
+      "name": "Kumobius",
+      "slug": "kumobius",
       "count": 1
     },
     {
@@ -7079,7 +11344,7 @@
     {
       "name": "Kurt Vonnegut",
       "slug": "kurt-vonnegut",
-      "count": 3
+      "count": 5
     },
     {
       "name": "Kurt Vonnegut Jr.,",
@@ -7090,6 +11355,11 @@
       "name": "Kurt Vonnegut,",
       "slug": "kurt-vonnegut",
       "count": 13
+    },
+    {
+      "name": "Kyou Shirodaira",
+      "slug": "kyou-shirodaira",
+      "count": 1
     },
     {
       "name": "L. Frank Baum",
@@ -7107,6 +11377,11 @@
       "count": 1
     },
     {
+      "name": "L.B. Simmons",
+      "slug": "l-b-simmons",
+      "count": 1
+    },
+    {
       "name": "L.K. Hill",
       "slug": "l-k-hill",
       "count": 1
@@ -7114,7 +11389,7 @@
     {
       "name": "L.M. Montgomery",
       "slug": "l-m-montgomery",
-      "count": 1
+      "count": 2
     },
     {
       "name": "L.M. Montgomery,",
@@ -7159,7 +11434,7 @@
     {
       "name": "Lao Tzu",
       "slug": "lao-tzu",
-      "count": 4
+      "count": 9
     },
     {
       "name": "Lao Tzu,",
@@ -7192,9 +11467,19 @@
       "count": 1
     },
     {
+      "name": "Lauren Oliver",
+      "slug": "lauren-oliver",
+      "count": 1
+    },
+    {
       "name": "Lauren Oliver,",
       "slug": "lauren-oliver",
       "count": 7
+    },
+    {
+      "name": "Lauren Yates",
+      "slug": "lauren-yates",
+      "count": 1
     },
     {
       "name": "Laurence Galian",
@@ -7204,6 +11489,11 @@
     {
       "name": "Laurence J. Peter",
       "slug": "laurence-j-peter",
+      "count": 1
+    },
+    {
+      "name": "Laurie Anderson",
+      "slug": "laurie-anderson",
       "count": 1
     },
     {
@@ -7227,6 +11517,21 @@
       "count": 1
     },
     {
+      "name": "Lawrence Winkler",
+      "slug": "lawrence-winkler",
+      "count": 1
+    },
+    {
+      "name": "Lea Reyes",
+      "slug": "lea-reyes",
+      "count": 1
+    },
+    {
+      "name": "Lee Krasner",
+      "slug": "lee-krasner",
+      "count": 1
+    },
+    {
       "name": "Leia Organa",
       "slug": "leia-organa",
       "count": 6
@@ -7237,9 +11542,14 @@
       "count": 20
     },
     {
+      "name": "Leila Sales",
+      "slug": "leila-sales",
+      "count": 3
+    },
+    {
       "name": "Lemony Snicket",
       "slug": "lemony-snicket",
-      "count": 6
+      "count": 15
     },
     {
       "name": "Lemony Snicket,",
@@ -7262,6 +11572,11 @@
       "count": 8
     },
     {
+      "name": "Leonard Cohen",
+      "slug": "leonard-cohen",
+      "count": 1
+    },
+    {
       "name": "Leonard Cohen,",
       "slug": "leonard-cohen",
       "count": 1
@@ -7270,6 +11585,11 @@
       "name": "Leonardo da Vinci",
       "slug": "leonardo-da-vinci",
       "count": 4
+    },
+    {
+      "name": "Les Brown",
+      "slug": "les-brown",
+      "count": 1
     },
     {
       "name": "Lev Grossman,",
@@ -7284,7 +11604,7 @@
     {
       "name": "Lewis Carroll",
       "slug": "lewis-carroll",
-      "count": 2
+      "count": 4
     },
     {
       "name": "Lewis Carroll ,",
@@ -7297,6 +11617,21 @@
       "count": 8
     },
     {
+      "name": "Lexi Alexander",
+      "slug": "lexi-alexander",
+      "count": 1
+    },
+    {
+      "name": "Lidia Yukanavitch",
+      "slug": "lidia-yukanavitch",
+      "count": 1
+    },
+    {
+      "name": "Lidia Yuknavitch",
+      "slug": "lidia-yuknavitch",
+      "count": 1
+    },
+    {
       "name": "Lilith Saintcrow,",
       "slug": "lilith-saintcrow",
       "count": 1
@@ -7307,8 +11642,18 @@
       "count": 1
     },
     {
+      "name": "Lin Yutang",
+      "slug": "lin-yutang",
+      "count": 1
+    },
+    {
       "name": "Linda Grayson",
       "slug": "linda-grayson",
+      "count": 1
+    },
+    {
+      "name": "Lisa Ciccarello",
+      "slug": "lisa-ciccarello",
       "count": 1
     },
     {
@@ -7319,6 +11664,16 @@
     {
       "name": "Lisa Schroeder",
       "slug": "lisa-schroeder",
+      "count": 1
+    },
+    {
+      "name": "Lisa See",
+      "slug": "lisa-see",
+      "count": 1
+    },
+    {
+      "name": "Lisel Mueller",
+      "slug": "lisel-mueller",
       "count": 1
     },
     {
@@ -7347,6 +11702,11 @@
       "count": 1
     },
     {
+      "name": "Loren Eiseley",
+      "slug": "loren-eiseley",
+      "count": 1
+    },
+    {
       "name": "Lorraine Hansberry",
       "slug": "lorraine-hansberry",
       "count": 1
@@ -7372,9 +11732,19 @@
       "count": 3
     },
     {
+      "name": "Louise Bourgeois",
+      "slug": "louise-bourgeois",
+      "count": 1
+    },
+    {
       "name": "Louise Erdrich,",
       "slug": "louise-erdrich",
       "count": 1
+    },
+    {
+      "name": "Louise Glück",
+      "slug": "louise-gl-ck",
+      "count": 3
     },
     {
       "name": "Lucius Annaeus Seneca",
@@ -7402,6 +11772,16 @@
       "count": 9
     },
     {
+      "name": "Lynette Simeone",
+      "slug": "lynette-simeone",
+      "count": 2
+    },
+    {
+      "name": "M.J. Pearl",
+      "slug": "m-j-pearl",
+      "count": 1
+    },
+    {
       "name": "Madeleine L'Engle",
       "slug": "madeleine-l-engle",
       "count": 6
@@ -7419,7 +11799,12 @@
     {
       "name": "Mae West",
       "slug": "mae-west",
-      "count": 9
+      "count": 10
+    },
+    {
+      "name": "Maggie Nelson",
+      "slug": "maggie-nelson",
+      "count": 1
     },
     {
       "name": "Mahatma Gandhi",
@@ -7432,6 +11817,11 @@
       "count": 1
     },
     {
+      "name": "Mahmoud Darwish",
+      "slug": "mahmoud-darwish",
+      "count": 1
+    },
+    {
       "name": "Mara Amberly",
       "slug": "mara-amberly",
       "count": 1
@@ -7439,7 +11829,12 @@
     {
       "name": "Marcel Proust",
       "slug": "marcel-proust",
-      "count": 2
+      "count": 4
+    },
+    {
+      "name": "Marcus Aurelius",
+      "slug": "marcus-aurelius",
+      "count": 1
     },
     {
       "name": "Marcus Aurelius ,",
@@ -7459,7 +11854,7 @@
     {
       "name": "Margaret Atwood",
       "slug": "margaret-atwood",
-      "count": 4
+      "count": 21
     },
     {
       "name": "Margaret Atwood,",
@@ -7512,6 +11907,16 @@
       "count": 3
     },
     {
+      "name": "Marianna Paige",
+      "slug": "marianna-paige",
+      "count": 1
+    },
+    {
+      "name": "Marianne Chan",
+      "slug": "marianne-chan",
+      "count": 1
+    },
+    {
       "name": "Marianne Williamson,",
       "slug": "marianne-williamson",
       "count": 1
@@ -7547,6 +11952,11 @@
       "count": 1
     },
     {
+      "name": "Marjane Satrapi",
+      "slug": "marjane-satrapi",
+      "count": 2
+    },
+    {
       "name": "Marjorie Pay Hinckley",
       "slug": "marjorie-pay-hinckley",
       "count": 1
@@ -7557,9 +11967,19 @@
       "count": 1
     },
     {
+      "name": "Mark Jarman",
+      "slug": "mark-jarman",
+      "count": 1
+    },
+    {
+      "name": "Mark Lawrence",
+      "slug": "mark-lawrence",
+      "count": 1
+    },
+    {
       "name": "Mark Twain",
       "slug": "mark-twain",
-      "count": 66
+      "count": 67
     },
     {
       "name": "Mark Twain,",
@@ -7574,7 +11994,7 @@
     {
       "name": "Markus Zusak",
       "slug": "markus-zusak",
-      "count": 1
+      "count": 3
     },
     {
       "name": "Markus Zusak,",
@@ -7584,6 +12004,11 @@
     {
       "name": "Marlene Dietrich",
       "slug": "marlene-dietrich",
+      "count": 1
+    },
+    {
+      "name": "Marsha Norman",
+      "slug": "marsha-norman",
       "count": 1
     },
     {
@@ -7617,9 +12042,24 @@
       "count": 1
     },
     {
+      "name": "Mary Elizabeth Frye",
+      "slug": "mary-elizabeth-frye",
+      "count": 1
+    },
+    {
+      "name": "Mary Karr",
+      "slug": "mary-karr",
+      "count": 1
+    },
+    {
       "name": "Mary Oliver",
       "slug": "mary-oliver",
-      "count": 5
+      "count": 6
+    },
+    {
+      "name": "Mary Shelley",
+      "slug": "mary-shelley",
+      "count": 2
     },
     {
       "name": "Mary Shelley,",
@@ -7632,8 +12072,23 @@
       "count": 1
     },
     {
+      "name": "Marya Hornbacher",
+      "slug": "marya-hornbacher",
+      "count": 2
+    },
+    {
       "name": "Mat Auryn",
       "slug": "mat-auryn",
+      "count": 1
+    },
+    {
+      "name": "Matt Haig",
+      "slug": "matt-haig",
+      "count": 1
+    },
+    {
+      "name": "Matthew Weiner",
+      "slug": "matthew-weiner",
       "count": 1
     },
     {
@@ -7657,9 +12112,14 @@
       "count": 1
     },
     {
+      "name": "Max Frisch",
+      "slug": "max-frisch",
+      "count": 1
+    },
+    {
       "name": "Max Lucado",
       "slug": "max-lucado",
-      "count": 1
+      "count": 2
     },
     {
       "name": "Max Lucado,",
@@ -7697,6 +12157,16 @@
       "count": 1
     },
     {
+      "name": "Melissa Studdard",
+      "slug": "melissa-studdard",
+      "count": 1
+    },
+    {
+      "name": "Mia Couto",
+      "slug": "mia-couto",
+      "count": 1
+    },
+    {
       "name": "Michael Bassey Johnson",
       "slug": "michael-bassey-johnson",
       "count": 7
@@ -7710,6 +12180,11 @@
       "name": "Michael Cunningham,",
       "slug": "michael-cunningham",
       "count": 1
+    },
+    {
+      "name": "Michael Faudet",
+      "slug": "michael-faudet",
+      "count": 2
     },
     {
       "name": "Michael Ondaatje,",
@@ -7732,8 +12207,18 @@
       "count": 1
     },
     {
+      "name": "Michelle K.",
+      "slug": "michelle-k",
+      "count": 2
+    },
+    {
       "name": "Miguel de Cervantes Saavedra,",
       "slug": "miguel-de-cervantes-saavedra",
+      "count": 1
+    },
+    {
+      "name": "Mikko Kuorinki",
+      "slug": "mikko-kuorinki",
       "count": 1
     },
     {
@@ -7752,14 +12237,29 @@
       "count": 1
     },
     {
+      "name": "Mindy Nettifee",
+      "slug": "mindy-nettifee",
+      "count": 1
+    },
+    {
+      "name": "Miranda July",
+      "slug": "miranda-july",
+      "count": 2
+    },
+    {
       "name": "Mitch Albom",
       "slug": "mitch-albom",
-      "count": 1
+      "count": 3
     },
     {
       "name": "Mitch Albom,",
       "slug": "mitch-albom",
       "count": 7
+    },
+    {
+      "name": "Miyamoto Musashi",
+      "slug": "miyamoto-musashi",
+      "count": 2
     },
     {
       "name": "Mo Willems,",
@@ -7802,8 +12302,23 @@
       "count": 1
     },
     {
+      "name": "N.K. Jemisin",
+      "slug": "n-k-jemisin",
+      "count": 1
+    },
+    {
       "name": "Nadezhda Mandelstam,",
       "slug": "nadezhda-mandelstam",
+      "count": 1
+    },
+    {
+      "name": "Nakajima Atsushi",
+      "slug": "nakajima-atsushi",
+      "count": 2
+    },
+    {
+      "name": "Nanae Haruno",
+      "slug": "nanae-haruno",
       "count": 1
     },
     {
@@ -7832,6 +12347,21 @@
       "count": 1
     },
     {
+      "name": "Natalie Diaz",
+      "slug": "natalie-diaz",
+      "count": 1
+    },
+    {
+      "name": "Natalie Wee",
+      "slug": "natalie-wee",
+      "count": 1
+    },
+    {
+      "name": "Nathan W. Morris",
+      "slug": "nathan-w-morris",
+      "count": 1
+    },
+    {
       "name": "Nathaniel Hawthorne",
       "slug": "nathaniel-hawthorne",
       "count": 1
@@ -7840,6 +12370,11 @@
       "name": "Nathaniel Hawthorne,",
       "slug": "nathaniel-hawthorne",
       "count": 2
+    },
+    {
+      "name": "Nayyirah Waheed",
+      "slug": "nayyirah-waheed",
+      "count": 1
     },
     {
       "name": "Ned Vizzini,",
@@ -7852,9 +12387,14 @@
       "count": 2
     },
     {
+      "name": "Neil DeGrasse Tyson",
+      "slug": "neil-degrasse-tyson",
+      "count": 1
+    },
+    {
       "name": "Neil Gaiman",
       "slug": "neil-gaiman",
-      "count": 12
+      "count": 21
     },
     {
       "name": "Neil Gaiman,",
@@ -7889,7 +12429,7 @@
     {
       "name": "Nicholas Sparks",
       "slug": "nicholas-sparks",
-      "count": 6
+      "count": 7
     },
     {
       "name": "Nicholas Sparks,",
@@ -7909,6 +12449,11 @@
     {
       "name": "Nick Hornby,",
       "slug": "nick-hornby",
+      "count": 1
+    },
+    {
+      "name": "Nicola Yoon",
+      "slug": "nicola-yoon",
       "count": 1
     },
     {
@@ -7937,6 +12482,11 @@
       "count": 1
     },
     {
+      "name": "Nikita Gill",
+      "slug": "nikita-gill",
+      "count": 2
+    },
+    {
       "name": "Nikki Rowe",
       "slug": "nikki-rowe",
       "count": 4
@@ -7947,6 +12497,11 @@
       "count": 1
     },
     {
+      "name": "Nina Simone",
+      "slug": "nina-simone",
+      "count": 1
+    },
+    {
       "name": "Noam Chomsky",
       "slug": "noam-chomsky",
       "count": 2
@@ -7954,6 +12509,11 @@
     {
       "name": "Noël Coward,",
       "slug": "no-l-coward",
+      "count": 1
+    },
+    {
+      "name": "Noor Shirazie",
+      "slug": "noor-shirazie",
       "count": 1
     },
     {
@@ -7977,9 +12537,19 @@
       "count": 1
     },
     {
+      "name": "O. Henry",
+      "slug": "o-henry",
+      "count": 1
+    },
+    {
       "name": "Obi-Wan Kenobi",
       "slug": "obi-wan-kenobi",
       "count": 15
+    },
+    {
+      "name": "Ocean Vuong",
+      "slug": "ocean-vuong",
+      "count": 4
     },
     {
       "name": "Octavia Butler,",
@@ -7989,6 +12559,11 @@
     {
       "name": "Olin Miller",
       "slug": "olin-miller",
+      "count": 1
+    },
+    {
+      "name": "Olivia Laing",
+      "slug": "olivia-laing",
       "count": 1
     },
     {
@@ -8039,7 +12614,7 @@
     {
       "name": "Oscar Wilde",
       "slug": "oscar-wilde",
-      "count": 29
+      "count": 38
     },
     {
       "name": "Oscar Wilde ,",
@@ -8055,6 +12630,11 @@
       "name": "Oscar Wilde,",
       "slug": "oscar-wilde",
       "count": 30
+    },
+    {
+      "name": "Osip Mandelstam",
+      "slug": "osip-mandelstam",
+      "count": 1
     },
     {
       "name": "P.C. Cast Kristin Cast",
@@ -8074,7 +12654,7 @@
     {
       "name": "Pablo Neruda",
       "slug": "pablo-neruda",
-      "count": 10
+      "count": 14
     },
     {
       "name": "Pablo Neruda,",
@@ -8097,6 +12677,11 @@
       "count": 2
     },
     {
+      "name": "Pam Rehm",
+      "slug": "pam-rehm",
+      "count": 1
+    },
+    {
       "name": "Pamela Redmond Satran",
       "slug": "pamela-redmond-satran",
       "count": 1
@@ -8104,6 +12689,11 @@
     {
       "name": "Pat Conroy,",
       "slug": "pat-conroy",
+      "count": 1
+    },
+    {
+      "name": "Pat Frank",
+      "slug": "pat-frank",
       "count": 1
     },
     {
@@ -8122,6 +12712,11 @@
       "count": 1
     },
     {
+      "name": "Patrick Ness",
+      "slug": "patrick-ness",
+      "count": 1
+    },
+    {
       "name": "Patrick Ness,",
       "slug": "patrick-ness",
       "count": 2
@@ -8134,6 +12729,11 @@
     {
       "name": "Paul Auster,",
       "slug": "paul-auster",
+      "count": 1
+    },
+    {
+      "name": "Paul Ekman",
+      "slug": "paul-ekman",
       "count": 1
     },
     {
@@ -8154,7 +12754,7 @@
     {
       "name": "Paulo Coelho",
       "slug": "paulo-coelho",
-      "count": 7
+      "count": 9
     },
     {
       "name": "Paulo Coelho,",
@@ -8164,11 +12764,16 @@
     {
       "name": "Pearl S. Buck",
       "slug": "pearl-s-buck",
-      "count": 1
+      "count": 2
     },
     {
       "name": "Pedro Calderon de la Barca",
       "slug": "pedro-calderon-de-la-barca",
+      "count": 1
+    },
+    {
+      "name": "Pema Chödrön",
+      "slug": "pema-ch-dr-n",
       "count": 1
     },
     {
@@ -8187,6 +12792,11 @@
       "count": 1
     },
     {
+      "name": "Peter V. Brett",
+      "slug": "peter-v-brett",
+      "count": 1
+    },
+    {
       "name": "Philip José Farmer",
       "slug": "philip-jos-farmer",
       "count": 1
@@ -8197,9 +12807,14 @@
       "count": 2
     },
     {
+      "name": "Philip Larkin",
+      "slug": "philip-larkin",
+      "count": 3
+    },
+    {
       "name": "Philip Pullman",
       "slug": "philip-pullman",
-      "count": 2
+      "count": 3
     },
     {
       "name": "Phoenix Moon",
@@ -8252,6 +12867,16 @@
       "count": 1
     },
     {
+      "name": "Rabbe Enckell",
+      "slug": "rabbe-enckell",
+      "count": 1
+    },
+    {
+      "name": "Rabbi Joseph Telushkin",
+      "slug": "rabbi-joseph-telushkin",
+      "count": 1
+    },
+    {
       "name": "Rabindranath Tagore,",
       "slug": "rabindranath-tagore",
       "count": 1
@@ -8272,6 +12897,11 @@
       "count": 1
     },
     {
+      "name": "Rainbow Rowell",
+      "slug": "rainbow-rowell",
+      "count": 1
+    },
+    {
       "name": "Rainbow Rowell,",
       "slug": "rainbow-rowell",
       "count": 3
@@ -8279,7 +12909,7 @@
     {
       "name": "Rainer Maria Rilke",
       "slug": "rainer-maria-rilke",
-      "count": 3
+      "count": 7
     },
     {
       "name": "Rainer Maria Rilke,",
@@ -8307,6 +12937,11 @@
       "count": 3
     },
     {
+      "name": "Randy Pausch",
+      "slug": "randy-pausch",
+      "count": 2
+    },
+    {
       "name": "Randy Pausch,",
       "slug": "randy-pausch",
       "count": 1
@@ -8319,7 +12954,7 @@
     {
       "name": "Ray Bradbury",
       "slug": "ray-bradbury",
-      "count": 5
+      "count": 7
     },
     {
       "name": "Ray Bradbury,",
@@ -8357,6 +12992,11 @@
       "count": 1
     },
     {
+      "name": "Reinhold Niebuhr",
+      "slug": "reinhold-niebuhr",
+      "count": 1
+    },
+    {
       "name": "Rene Descartes",
       "slug": "rene-descartes",
       "count": 1
@@ -8372,8 +13012,38 @@
       "count": 1
     },
     {
+      "name": "Reyna Biddy",
+      "slug": "reyna-biddy",
+      "count": 2
+    },
+    {
+      "name": "Richard Bach",
+      "slug": "richard-bach",
+      "count": 1
+    },
+    {
+      "name": "Richard Brautigan",
+      "slug": "richard-brautigan",
+      "count": 1
+    },
+    {
       "name": "Richard Dawkins,",
       "slug": "richard-dawkins",
+      "count": 1
+    },
+    {
+      "name": "Richard Feynman",
+      "slug": "richard-feynman",
+      "count": 1
+    },
+    {
+      "name": "Richard Jackson",
+      "slug": "richard-jackson",
+      "count": 1
+    },
+    {
+      "name": "Richard Linklater",
+      "slug": "richard-linklater",
       "count": 1
     },
     {
@@ -8392,9 +13062,19 @@
       "count": 1
     },
     {
+      "name": "Richard Siken",
+      "slug": "richard-siken",
+      "count": 7
+    },
+    {
       "name": "Richelle Mead,",
       "slug": "richelle-mead",
       "count": 12
+    },
+    {
+      "name": "Richey Edwards",
+      "slug": "richey-edwards",
+      "count": 1
     },
     {
       "name": "Rick Riordan",
@@ -8405,6 +13085,11 @@
       "name": "Rick Riordan,",
       "slug": "rick-riordan",
       "count": 27
+    },
+    {
+      "name": "Ridley Scott",
+      "slug": "ridley-scott",
+      "count": 1
     },
     {
       "name": "Rilke",
@@ -8422,6 +13107,11 @@
       "count": 1
     },
     {
+      "name": "Ritu Ghatourey",
+      "slug": "ritu-ghatourey",
+      "count": 8
+    },
+    {
       "name": "Ritu Negi",
       "slug": "ritu-negi",
       "count": 1
@@ -8435,6 +13125,11 @@
       "name": "Roald Dahl,",
       "slug": "roald-dahl",
       "count": 2
+    },
+    {
+      "name": "Rob Horning",
+      "slug": "rob-horning",
+      "count": 1
     },
     {
       "name": "Rob Reiner",
@@ -8459,11 +13154,16 @@
     {
       "name": "Robert Frost",
       "slug": "robert-frost",
-      "count": 15
+      "count": 19
     },
     {
       "name": "Robert Frost,",
       "slug": "robert-frost",
+      "count": 1
+    },
+    {
+      "name": "Robert Fulghum",
+      "slug": "robert-fulghum",
       "count": 1
     },
     {
@@ -8512,13 +13212,28 @@
       "count": 1
     },
     {
+      "name": "Robin Sharma",
+      "slug": "robin-sharma",
+      "count": 1
+    },
+    {
       "name": "Rodney Dangerfield",
       "slug": "rodney-dangerfield",
       "count": 1
     },
     {
+      "name": "Roger Reeves",
+      "slug": "roger-reeves",
+      "count": 1
+    },
+    {
       "name": "Rose Fitzgerald Kennedy",
       "slug": "rose-fitzgerald-kennedy",
+      "count": 1
+    },
+    {
+      "name": "Rose Macaulay",
+      "slug": "rose-macaulay",
       "count": 1
     },
     {
@@ -8557,6 +13272,11 @@
       "count": 45
     },
     {
+      "name": "Rudy Francisco",
+      "slug": "rudy-francisco",
+      "count": 2
+    },
+    {
       "name": "Rudyard Kipling",
       "slug": "rudyard-kipling",
       "count": 1
@@ -8564,7 +13284,7 @@
     {
       "name": "Rumi",
       "slug": "rumi",
-      "count": 12
+      "count": 15
     },
     {
       "name": "Rumi Jalalud-Din",
@@ -8577,6 +13297,31 @@
       "count": 2
     },
     {
+      "name": "Rupi Kaur",
+      "slug": "rupi-kaur",
+      "count": 1
+    },
+    {
+      "name": "Ruth Ozeki",
+      "slug": "ruth-ozeki",
+      "count": 1
+    },
+    {
+      "name": "Ryan P. Hughes",
+      "slug": "ryan-p-hughes",
+      "count": 1
+    },
+    {
+      "name": "Ryōgo Narita",
+      "slug": "ry-go-narita",
+      "count": 1
+    },
+    {
+      "name": "S.A. Khanum",
+      "slug": "s-a-khanum",
+      "count": 1
+    },
+    {
       "name": "S.E. Hinton",
       "slug": "s-e-hinton",
       "count": 1
@@ -8585,6 +13330,11 @@
       "name": "S.E. Hinton,",
       "slug": "s-e-hinton",
       "count": 2
+    },
+    {
+      "name": "Sade Andria Zabala",
+      "slug": "sade-andria-zabala",
+      "count": 1
     },
     {
       "name": "Sally Rooney,",
@@ -8597,8 +13347,23 @@
       "count": 1
     },
     {
+      "name": "Sam Lake",
+      "slug": "sam-lake",
+      "count": 1
+    },
+    {
       "name": "Sam Levenson,",
       "slug": "sam-levenson",
+      "count": 1
+    },
+    {
+      "name": "Sam Sheridan",
+      "slug": "sam-sheridan",
+      "count": 1
+    },
+    {
+      "name": "Sandra Cisneros",
+      "slug": "sandra-cisneros",
       "count": 1
     },
     {
@@ -8612,14 +13377,29 @@
       "count": 2
     },
     {
+      "name": "Sappho",
+      "slug": "sappho",
+      "count": 7
+    },
+    {
+      "name": "Sara Bareilles",
+      "slug": "sara-bareilles",
+      "count": 1
+    },
+    {
       "name": "Sara Henderson",
       "slug": "sara-henderson",
       "count": 1
     },
     {
+      "name": "Sarah Bernhardt",
+      "slug": "sarah-bernhardt",
+      "count": 1
+    },
+    {
       "name": "Sarah Dessen",
       "slug": "sarah-dessen",
-      "count": 2
+      "count": 5
     },
     {
       "name": "Sarah Dessen,",
@@ -8627,9 +13407,19 @@
       "count": 20
     },
     {
+      "name": "Sarah J. Maas",
+      "slug": "sarah-j-maas",
+      "count": 1
+    },
+    {
       "name": "Sarah J. Maas,",
       "slug": "sarah-j-maas",
       "count": 21
+    },
+    {
+      "name": "Sarah Kane",
+      "slug": "sarah-kane",
+      "count": 1
     },
     {
       "name": "Sarah Kay",
@@ -8677,6 +13467,11 @@
       "count": 1
     },
     {
+      "name": "Seán O’Casey",
+      "slug": "se-n-o-casey",
+      "count": 1
+    },
+    {
       "name": "Selma Lagerlöf",
       "slug": "selma-lagerl-f",
       "count": 1
@@ -8684,6 +13479,11 @@
     {
       "name": "Seneca",
       "slug": "seneca",
+      "count": 1
+    },
+    {
+      "name": "Seth Godin",
+      "slug": "seth-godin",
       "count": 1
     },
     {
@@ -8747,6 +13547,11 @@
       "count": 2
     },
     {
+      "name": "Shinji Moon",
+      "slug": "shinji-moon",
+      "count": 1
+    },
+    {
       "name": "Shmi Skywalker",
       "slug": "shmi-skywalker",
       "count": 1
@@ -8757,9 +13562,29 @@
       "count": 1
     },
     {
+      "name": "Shonda Rhimes",
+      "slug": "shonda-rhimes",
+      "count": 1
+    },
+    {
+      "name": "Shūkō Murase",
+      "slug": "sh-k-murase",
+      "count": 1
+    },
+    {
+      "name": "Sierra DeMulder",
+      "slug": "sierra-demulder",
+      "count": 1
+    },
+    {
       "name": "Sigmund Freud",
       "slug": "sigmund-freud",
       "count": 2
+    },
+    {
+      "name": "Simin Behbahani",
+      "slug": "simin-behbahani",
+      "count": 1
     },
     {
       "name": "Simon and Garfunkel",
@@ -8769,7 +13594,7 @@
     {
       "name": "Simone de Beauvoir",
       "slug": "simone-de-beauvoir",
-      "count": 2
+      "count": 3
     },
     {
       "name": "Simone Elkeles,",
@@ -8792,6 +13617,11 @@
       "count": 5
     },
     {
+      "name": "Sofia Coppola",
+      "slug": "sofia-coppola",
+      "count": 1
+    },
+    {
       "name": "Sophocles",
       "slug": "sophocles",
       "count": 1
@@ -8804,7 +13634,7 @@
     {
       "name": "Søren Kierkegaard",
       "slug": "s-ren-kierkegaard",
-      "count": 1
+      "count": 4
     },
     {
       "name": "Søren Kierkegaard ,",
@@ -8822,6 +13652,11 @@
       "count": 1
     },
     {
+      "name": "St. Ignatius of Loyola",
+      "slug": "st-ignatius-of-loyola",
+      "count": 1
+    },
+    {
       "name": "Stefan Emunds",
       "slug": "stefan-emunds",
       "count": 7
@@ -8829,6 +13664,11 @@
     {
       "name": "Stendhal,",
       "slug": "stendhal",
+      "count": 1
+    },
+    {
+      "name": "Stéphane Mallarmé",
+      "slug": "st-phane-mallarm",
       "count": 1
     },
     {
@@ -8844,6 +13684,11 @@
     {
       "name": "Stephanie Lennox,",
       "slug": "stephanie-lennox",
+      "count": 1
+    },
+    {
+      "name": "Stephanie Perkins",
+      "slug": "stephanie-perkins",
       "count": 1
     },
     {
@@ -8864,12 +13709,12 @@
     {
       "name": "Stephen Hawking",
       "slug": "stephen-hawking",
-      "count": 2
+      "count": 3
     },
     {
       "name": "Stephen King",
       "slug": "stephen-king",
-      "count": 11
+      "count": 16
     },
     {
       "name": "Stephen King,",
@@ -8912,6 +13757,11 @@
       "count": 6
     },
     {
+      "name": "Steve Moore",
+      "slug": "steve-moore",
+      "count": 1
+    },
+    {
       "name": "Steve Wozniak",
       "slug": "steve-wozniak",
       "count": 1
@@ -8942,8 +13792,18 @@
       "count": 2
     },
     {
+      "name": "Sue Johnson",
+      "slug": "sue-johnson",
+      "count": 1
+    },
+    {
       "name": "Sue Monk Kidd",
       "slug": "sue-monk-kidd",
+      "count": 1
+    },
+    {
+      "name": "Sufjan Stevens",
+      "slug": "sufjan-stevens",
       "count": 1
     },
     {
@@ -8952,13 +13812,28 @@
       "count": 2
     },
     {
+      "name": "Susan Ertz",
+      "slug": "susan-ertz",
+      "count": 1
+    },
+    {
       "name": "Susan Sontag",
       "slug": "susan-sontag",
-      "count": 1
+      "count": 5
     },
     {
       "name": "Susan Sontag,",
       "slug": "susan-sontag",
+      "count": 1
+    },
+    {
+      "name": "Susanna Kaysen",
+      "slug": "susanna-kaysen",
+      "count": 1
+    },
+    {
+      "name": "Susun S. Weed",
+      "slug": "susun-s-weed",
       "count": 1
     },
     {
@@ -8977,6 +13852,11 @@
       "count": 3
     },
     {
+      "name": "Sylvia Earle",
+      "slug": "sylvia-earle",
+      "count": 1
+    },
+    {
       "name": "sylvia plath",
       "slug": "sylvia-plath",
       "count": 1
@@ -8984,12 +13864,17 @@
     {
       "name": "Sylvia Plath",
       "slug": "sylvia-plath",
-      "count": 4
+      "count": 16
     },
     {
       "name": "Sylvia Plath,",
       "slug": "sylvia-plath",
       "count": 21
+    },
+    {
+      "name": "T. James",
+      "slug": "t-james",
+      "count": 1
     },
     {
       "name": "T.H. White,",
@@ -8999,7 +13884,7 @@
     {
       "name": "T.S. Eliot",
       "slug": "t-s-eliot",
-      "count": 2
+      "count": 6
     },
     {
       "name": "T.S. Eliot,",
@@ -9010,6 +13895,11 @@
       "name": "Tahereh Mafi,",
       "slug": "tahereh-mafi",
       "count": 8
+    },
+    {
+      "name": "Takeshi Shudo",
+      "slug": "takeshi-shudo",
+      "count": 1
     },
     {
       "name": "Talismanist Giebra",
@@ -9024,6 +13914,11 @@
     {
       "name": "Tamora Pierce,",
       "slug": "tamora-pierce",
+      "count": 2
+    },
+    {
+      "name": "Tana French",
+      "slug": "tana-french",
       "count": 2
     },
     {
@@ -9042,14 +13937,29 @@
       "count": 5
     },
     {
+      "name": "Ted Chiang",
+      "slug": "ted-chiang",
+      "count": 6
+    },
+    {
       "name": "Temple Grandin",
       "slug": "temple-grandin",
+      "count": 1
+    },
+    {
+      "name": "Tennessee Williams",
+      "slug": "tennessee-williams",
       "count": 1
     },
     {
       "name": "Tennessee Williams,",
       "slug": "tennessee-williams",
       "count": 4
+    },
+    {
+      "name": "Terrell Jamal Terry",
+      "slug": "terrell-jamal-terry",
+      "count": 1
     },
     {
       "name": "Terry Johnson,",
@@ -9064,12 +13974,22 @@
     {
       "name": "Terry Pratchett",
       "slug": "terry-pratchett",
-      "count": 9
+      "count": 21
+    },
+    {
+      "name": "Terry Pratchett and Neil Gaiman",
+      "slug": "terry-pratchett-and-neil-gaiman",
+      "count": 3
     },
     {
       "name": "Terry Pratchett,",
       "slug": "terry-pratchett",
       "count": 14
+    },
+    {
+      "name": "Tetsuya Nomura",
+      "slug": "tetsuya-nomura",
+      "count": 1
     },
     {
       "name": "The Silver Elves",
@@ -9080,6 +14000,11 @@
       "name": "Theodore Roosevelt",
       "slug": "theodore-roosevelt",
       "count": 2
+    },
+    {
+      "name": "Thich Nhat Hanh",
+      "slug": "thich-nhat-hanh",
+      "count": 1
     },
     {
       "name": "Thich Nhat Hanh,",
@@ -9102,6 +14027,16 @@
       "count": 1
     },
     {
+      "name": "Thomas Christopher Greene",
+      "slug": "thomas-christopher-greene",
+      "count": 1
+    },
+    {
+      "name": "Thomas Hobbes",
+      "slug": "thomas-hobbes",
+      "count": 1
+    },
+    {
       "name": "Thomas Jefferson",
       "slug": "thomas-jefferson",
       "count": 2
@@ -9110,6 +14045,11 @@
       "name": "Thomas Mann,",
       "slug": "thomas-mann",
       "count": 1
+    },
+    {
+      "name": "Thomas Merton",
+      "slug": "thomas-merton",
+      "count": 2
     },
     {
       "name": "Thomas Merton ,",
@@ -9147,6 +14087,11 @@
       "count": 1
     },
     {
+      "name": "Tiffany Tomiko",
+      "slug": "tiffany-tomiko",
+      "count": 1
+    },
+    {
       "name": "Tim Burton",
       "slug": "tim-burton",
       "count": 1
@@ -9154,6 +14099,11 @@
     {
       "name": "Tim O'Brien",
       "slug": "tim-o-brien",
+      "count": 1
+    },
+    {
+      "name": "Tim O'Brien The Things They Carried",
+      "slug": "tim-o-brien-the-things-they-carried",
       "count": 1
     },
     {
@@ -9184,6 +14134,11 @@
     {
       "name": "Tom Robbins",
       "slug": "tom-robbins",
+      "count": 19
+    },
+    {
+      "name": "Tom Siddell",
+      "slug": "tom-siddell",
       "count": 3
     },
     {
@@ -9202,13 +14157,33 @@
       "count": 1
     },
     {
+      "name": "Topaz Winters",
+      "slug": "topaz-winters",
+      "count": 1
+    },
+    {
+      "name": "Traci Brimhall",
+      "slug": "traci-brimhall",
+      "count": 1
+    },
+    {
       "name": "Trisha Yearwood",
       "slug": "trisha-yearwood",
       "count": 1
     },
     {
+      "name": "Trista Mateer",
+      "slug": "trista-mateer",
+      "count": 3
+    },
+    {
       "name": "Truman Capote",
       "slug": "truman-capote",
+      "count": 1
+    },
+    {
+      "name": "Tsai Ming-Liang",
+      "slug": "tsai-ming-liang",
       "count": 1
     },
     {
@@ -9217,9 +14192,14 @@
       "count": 1
     },
     {
+      "name": "Uma Thurman",
+      "slug": "uma-thurman",
+      "count": 1
+    },
+    {
       "name": "Umberto Eco",
       "slug": "umberto-eco",
-      "count": 1
+      "count": 2
     },
     {
       "name": "Umberto Eco,",
@@ -9230,6 +14210,11 @@
       "name": "Unknown",
       "slug": "unknown",
       "count": 4
+    },
+    {
+      "name": "Ursula K. Le Guin",
+      "slug": "ursula-k-le-guin",
+      "count": 7
     },
     {
       "name": "Ursula K. Le Guin,",
@@ -9262,6 +14247,21 @@
       "count": 1
     },
     {
+      "name": "Valerie T.",
+      "slug": "valerie-t",
+      "count": 1
+    },
+    {
+      "name": "Valorie Wesley",
+      "slug": "valorie-wesley",
+      "count": 1
+    },
+    {
+      "name": "Veronica Roth",
+      "slug": "veronica-roth",
+      "count": 1
+    },
+    {
       "name": "Veronica Roth,",
       "slug": "veronica-roth",
       "count": 23
@@ -9269,7 +14269,7 @@
     {
       "name": "Victor Hugo",
       "slug": "victor-hugo",
-      "count": 2
+      "count": 3
     },
     {
       "name": "Victor Hugo ,",
@@ -9287,14 +14287,29 @@
       "count": 1
     },
     {
+      "name": "Victoria Erickson",
+      "slug": "victoria-erickson",
+      "count": 1
+    },
+    {
       "name": "Viktor E. Frankl,",
       "slug": "viktor-e-frankl",
       "count": 4
     },
     {
+      "name": "Viktor Frankl",
+      "slug": "viktor-frankl",
+      "count": 1
+    },
+    {
       "name": "Vincent H. O'Neil",
       "slug": "vincent-h-o-neil",
       "count": 1
+    },
+    {
+      "name": "Vincent van Gogh",
+      "slug": "vincent-van-gogh",
+      "count": 5
     },
     {
       "name": "Vincent Van Gogh",
@@ -9307,14 +14322,24 @@
       "count": 2
     },
     {
+      "name": "Violette Leduc",
+      "slug": "violette-leduc",
+      "count": 1
+    },
+    {
       "name": "Virginia Woolf",
       "slug": "virginia-woolf",
-      "count": 6
+      "count": 14
     },
     {
       "name": "Virginia Woolf,",
       "slug": "virginia-woolf",
       "count": 5
+    },
+    {
+      "name": "Vladimir Nabokov",
+      "slug": "vladimir-nabokov",
+      "count": 4
     },
     {
       "name": "Vladimir Nabokov,",
@@ -9324,7 +14349,7 @@
     {
       "name": "Voltaire",
       "slug": "voltaire",
-      "count": 5
+      "count": 13
     },
     {
       "name": "W. Somerset Maugham",
@@ -9334,7 +14359,7 @@
     {
       "name": "W.B. Yeats",
       "slug": "w-b-yeats",
-      "count": 1
+      "count": 2
     },
     {
       "name": "W.C. Fields",
@@ -9354,6 +14379,16 @@
     {
       "name": "W.P. Kinsella",
       "slug": "w-p-kinsella",
+      "count": 1
+    },
+    {
+      "name": "W.S. Merwin",
+      "slug": "w-s-merwin",
+      "count": 1
+    },
+    {
+      "name": "Wallace Stegner",
+      "slug": "wallace-stegner",
       "count": 1
     },
     {
@@ -9394,12 +14429,32 @@
     {
       "name": "Warsan Shire",
       "slug": "warsan-shire",
-      "count": 1
+      "count": 6
     },
     {
       "name": "Washington Irving",
       "slug": "washington-irving",
       "count": 2
+    },
+    {
+      "name": "Wassily Kandinsky",
+      "slug": "wassily-kandinsky",
+      "count": 1
+    },
+    {
+      "name": "Wayne Dyer",
+      "slug": "wayne-dyer",
+      "count": 1
+    },
+    {
+      "name": "Werner Heisenberg",
+      "slug": "werner-heisenberg",
+      "count": 1
+    },
+    {
+      "name": "Wes Anderson",
+      "slug": "wes-anderson",
+      "count": 1
     },
     {
       "name": "Will Rogers",
@@ -9425,6 +14480,11 @@
       "name": "William Blake,",
       "slug": "william-blake",
       "count": 2
+    },
+    {
+      "name": "William C. Moyers",
+      "slug": "william-c-moyers",
+      "count": 1
     },
     {
       "name": "William Faulkner",
@@ -9469,7 +14529,7 @@
     {
       "name": "William Saroyan",
       "slug": "william-saroyan",
-      "count": 1
+      "count": 2
     },
     {
       "name": "William Shakespear,",
@@ -9479,7 +14539,7 @@
     {
       "name": "William Shakespeare",
       "slug": "william-shakespeare",
-      "count": 60
+      "count": 61
     },
     {
       "name": "William Shakespeare,",
@@ -9507,6 +14567,11 @@
       "count": 1
     },
     {
+      "name": "Winona Ryder",
+      "slug": "winona-ryder",
+      "count": 1
+    },
+    {
       "name": "Winston Churchill",
       "slug": "winston-churchill",
       "count": 2
@@ -9522,9 +14587,34 @@
       "count": 4
     },
     {
+      "name": "Yamamoto Masao",
+      "slug": "yamamoto-masao",
+      "count": 1
+    },
+    {
+      "name": "Yang Liu",
+      "slug": "yang-liu",
+      "count": 1
+    },
+    {
       "name": "Yann Martel,",
       "slug": "yann-martel",
       "count": 2
+    },
+    {
+      "name": "Yanyi Luo",
+      "slug": "yanyi-luo",
+      "count": 1
+    },
+    {
+      "name": "Yasmin Belkhyr",
+      "slug": "yasmin-belkhyr",
+      "count": 1
+    },
+    {
+      "name": "Yasmin Mogahed",
+      "slug": "yasmin-mogahed",
+      "count": 1
     },
     {
       "name": "Yoda",
@@ -9537,8 +14627,28 @@
       "count": 1
     },
     {
+      "name": "Yohji Yamamoto",
+      "slug": "yohji-yamamoto",
+      "count": 1
+    },
+    {
+      "name": "Yousuf Karsh",
+      "slug": "yousuf-karsh",
+      "count": 1
+    },
+    {
+      "name": "Yrsa Daley-Ward",
+      "slug": "yrsa-daley-ward",
+      "count": 1
+    },
+    {
       "name": "Yukio Mishima",
       "slug": "yukio-mishima",
+      "count": 1
+    },
+    {
+      "name": "Yukito Ayatsuji",
+      "slug": "yukito-ayatsuji",
       "count": 1
     },
     {
@@ -9547,9 +14657,24 @@
       "count": 1
     },
     {
+      "name": "Zaina Alsous",
+      "slug": "zaina-alsous",
+      "count": 1
+    },
+    {
+      "name": "Zainab Aamir",
+      "slug": "zainab-aamir",
+      "count": 1
+    },
+    {
+      "name": "Zbigniew Herbert",
+      "slug": "zbigniew-herbert",
+      "count": 1
+    },
+    {
       "name": "Zelda Fitzgerald",
       "slug": "zelda-fitzgerald",
-      "count": 1
+      "count": 2
     },
     {
       "name": "Zelda Fitzgerald,",
@@ -9567,9 +14692,14 @@
       "count": 1
     },
     {
+      "name": "Zoë Lianne",
+      "slug": "zo-lianne",
+      "count": 1
+    },
+    {
       "name": "Zora Neale Hurston",
       "slug": "zora-neale-hurston",
-      "count": 1
+      "count": 2
     },
     {
       "name": "Zora Neale Hurston,",
